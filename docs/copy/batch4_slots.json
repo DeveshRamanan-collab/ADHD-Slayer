@@ -1,0 +1,92 @@
+{
+ "accountTitle": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Heading on the create-account screen.",
+  "example": "First, somewhere to keep your stuff."
+ },
+ "coachMeds": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Coach mark pointing at the home medication row: two medication buttons (tap to log, hold for another time) and a more button (every dose today, with Log all).",
+  "example": "Your medication lives here. Tap one to log it. More shows the rest."
+ },
+ "medsNothingDue": {
+  "tone": "serious",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 60,
+  "context": "Nothing is due right now; says when the next one is.",
+  "example": "Nothing due right now. Next at {time}."
+ },
+ "dayLineBest": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 40,
+  "context": "Status line: in best focus until time.",
+  "example": "Best focus until {time}."
+ },
+ "restUnplaced": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 110,
+  "context": "Some tasks didn’t fit without over-packing; Fix my day can help.",
+  "example": "{count} didn’t fit without over-packing. Fix my day can split or move it."
+ },
+ "socialLine": {
+  "tone": "light",
+  "placeholders": [
+   "event",
+   "time"
+  ],
+  "maxCharacters": 80,
+  "context": "Short line on the home page: a plan with other people sits at an awkward time; tap to see a suggestion.",
+  "example": "{event} is at {time}. Want to ask to move it?"
+ },
+ "planWeekHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 40,
+  "context": "Headline: how many of the last 7 days met their baseline.",
+  "example": "{count} of 7 days counted"
+ },
+ "detailPlanDone": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Explains the planned vs done chart: grey planned, gold done; gaps are information not failure.",
+  "example": "Grey is what you planned, gold is what got done. Gaps are information, not failure."
+ },
+ "detailLogs": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Explains the log-times chart: each dot a logged morning; the band is where most fall.",
+  "example": "Each dot is a logged morning. The band is where most of them land."
+ },
+ "socialIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 130,
+  "context": "Explains social suggestions: the phone spots plans with people and suggests better times; nothing is ever sent for them.",
+  "example": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you."
+ },
+ "fixSubtitle": {
+  "tone": "light",
+  "placeholders": [
+   "minutes"
+  ],
+  "maxCharacters": 110,
+  "context": "Fix my day subtitle: running minutes over; this is the smallest change that keeps today on track.",
+  "example": "You’re running {minutes} min over. Here’s the smallest change that keeps today on track."
+ }
+}

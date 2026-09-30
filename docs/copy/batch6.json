@@ -1,0 +1,4022 @@
+{
+ "trialTitle": [
+  {
+   "t": "Try all of it, free.",
+   "f": false
+  },
+  {
+   "t": "Try everything, free.",
+   "f": false
+  },
+  {
+   "t": "All of Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try the whole thing, free.",
+   "f": false
+  },
+  {
+   "t": "Every feature, yours to try free.",
+   "f": false
+  },
+  {
+   "t": "Try Focus in full, on us.",
+   "f": false
+  },
+  {
+   "t": "The full app, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try every part of it, free.",
+   "f": false
+  },
+  {
+   "t": "Try it all for free before you decide.",
+   "f": false
+  },
+  {
+   "t": "See all of it, free.",
+   "f": false
+  },
+  {
+   "t": "Try the lot, free.",
+   "f": false
+  },
+  {
+   "t": "Everything unlocked, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try Plus, free.",
+   "f": false
+  },
+  {
+   "t": "Try Focus Plus for free.",
+   "f": false
+  },
+  {
+   "t": "Plus is yours to try, free.",
+   "f": false
+  },
+  {
+   "t": "Try the full planner, free.",
+   "f": false
+  },
+  {
+   "t": "Have a proper look around, free.",
+   "f": false
+  },
+  {
+   "t": "Try all of Focus, no charge.",
+   "f": false
+  },
+  {
+   "t": "All of it, yours to try for free.",
+   "f": false
+  },
+  {
+   "t": "Take the whole app for a free spin.",
+   "f": false
+  },
+  {
+   "t": "Every tool, free to try.",
+   "f": false
+  },
+  {
+   "t": "Open everything up, free.",
+   "f": false
+  },
+  {
+   "t": "Try all the features, free.",
+   "f": false
+  },
+  {
+   "t": "Try the complete Focus, free.",
+   "f": false
+  },
+  {
+   "t": "Nothing locked. Try it free.",
+   "f": false
+  },
+  {
+   "t": "Try it all, on the house.",
+   "f": false
+  },
+  {
+   "t": "Try every feature, on us.",
+   "f": false
+  },
+  {
+   "t": "Explore all of Focus, free.",
+   "f": false
+  },
+  {
+   "t": "The whole of Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try Focus with everything on, free.",
+   "f": false
+  },
+  {
+   "t": "Try the full version, free.",
+   "f": false
+  },
+  {
+   "t": "Try all of it. It’s free.",
+   "f": false
+  },
+  {
+   "t": "Try everything first, for free.",
+   "f": false
+  },
+  {
+   "t": "Free to try, all of it.",
+   "f": false
+  },
+  {
+   "t": "See what all of it can do, free.",
+   "f": false
+  },
+  {
+   "t": "Get the full Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try Plus free before you choose.",
+   "f": false
+  },
+  {
+   "t": "Every part of Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Test-drive all of it, free.",
+   "f": false
+  },
+  {
+   "t": "Try the full thing at no cost.",
+   "f": false
+  },
+  {
+   "t": "Try it all out, free.",
+   "f": false
+  },
+  {
+   "t": "All the features, on the house.",
+   "f": false
+  },
+  {
+   "t": "Unlock everything and try it free.",
+   "f": false
+  },
+  {
+   "t": "Try every corner of Focus, free.",
+   "f": false
+  },
+  {
+   "t": "Start with all of it, free.",
+   "f": false
+  },
+  {
+   "t": "Use all of Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try the whole planner, on us.",
+   "f": false
+  },
+  {
+   "t": "Try all of it free and see.",
+   "f": false
+  },
+  {
+   "t": "Try it all free, then decide.",
+   "f": false
+  },
+  {
+   "t": "Everything’s open. Try it free.",
+   "f": false
+  },
+  {
+   "t": "Try all of Focus, free of charge.",
+   "f": false
+  },
+  {
+   "t": "A free look at everything.",
+   "f": false
+  },
+  {
+   "t": "See the full app, free.",
+   "f": false
+  },
+  {
+   "t": "Try everything Plus has, free.",
+   "f": false
+  },
+  {
+   "t": "The full Focus, on the house.",
+   "f": false
+  },
+  {
+   "t": "Everything included, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try the whole of it, free.",
+   "f": false
+  },
+  {
+   "t": "Explore every feature, free.",
+   "f": false
+  },
+  {
+   "t": "Try Focus Plus, on us.",
+   "f": false
+  },
+  {
+   "t": "All of Focus. Free to try.",
+   "f": false
+  },
+  {
+   "t": "Have all of it, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try every tool in Focus, free.",
+   "f": false
+  },
+  {
+   "t": "Try all of it for free.",
+   "f": false
+  },
+  {
+   "t": "Full access, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try the works, free.",
+   "f": false
+  },
+  {
+   "t": "Try Focus fully, for free.",
+   "f": false
+  },
+  {
+   "t": "Try it all free and see what fits.",
+   "f": false
+  },
+  {
+   "t": "Everything, free to try.",
+   "f": false
+  },
+  {
+   "t": "Every bit of Focus, free to try.",
+   "f": false
+  },
+  {
+   "t": "Try all of Plus, free.",
+   "f": false
+  },
+  {
+   "t": "Try all of it, free. Even the shiny bits.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Open every tab.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. Rabbit holes welcome.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Side quests included.",
+   "f": true
+  },
+  {
+   "t": "Try everything, free. Poke every button.",
+   "f": true
+  },
+  {
+   "t": "All of Focus, free. Snacks not included.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Yes, even that button.",
+   "f": true
+  },
+  {
+   "t": "Try it free. Tap all the shiny things.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Get delightfully lost.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Tangents welcome.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Open every drawer.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. No tabs need closing.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Tinkering encouraged.",
+   "f": true
+  },
+  {
+   "t": "All of Focus, free. Go on, have a poke.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Take the scenic route.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Curiosity approved.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. The good kind of tangent.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. Poke around, it’s allowed.",
+   "f": true
+  },
+  {
+   "t": "Everything, free. Start four things at once.",
+   "f": true
+  },
+  {
+   "t": "Every feature, free. Wander in, wander out.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Skip the manual.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. Instructions optional.",
+   "f": true
+  },
+  {
+   "t": "Try it all, free. Fiddle with every setting.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Every rabbit hole.",
+   "f": true
+  },
+  {
+   "t": "Try everything, free. Tap first, read later.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. A side quest worth taking.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. In no particular order.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Very dopamine-friendly.",
+   "f": true
+  },
+  {
+   "t": "All of it, free. Browse like it’s tab 47.",
+   "f": true
+  },
+  {
+   "t": "Try all of it, free. Detours encouraged.",
+   "f": true
+  }
+ ],
+ "coachSetup": [
+  {
+   "t": "Set up your medication and day types in You. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Add your medication and day types in You. It only takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "Head to You to set up your medication and day types. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Your medication and day types live in You. Setting them up takes two minutes or so.",
+   "f": false
+  },
+  {
+   "t": "When you’re ready, add your medication and day types in You. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Pop into You to set up your medication and day types. It won’t take long.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in the You tab. It’s a two-minute job.",
+   "f": false
+  },
+  {
+   "t": "In You, you can add your medication and day types. It takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "Tell Focus about your medication and day types in You. It’s quick, about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Visit You to add your medication and your day types. Two minutes, roughly.",
+   "f": false
+  },
+  {
+   "t": "Your plan fits better once your medication and day types are set up in You. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You, and your days can shape around them. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "A quick one: add your medication and day types in You. About two minutes.",
+   "f": false
+  },
+  {
+   "t": "Take two minutes in You to set up your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "Two minutes in You: set up your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "Add medication and day types in You. It’s short and simple.",
+   "f": false
+  },
+  {
+   "t": "You can set up your medication and day types in You. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Go to You and add your medication and day types. It only takes a moment.",
+   "f": false
+  },
+  {
+   "t": "Set your medication and day types up in You. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Your medication and day types go in You. A couple of minutes and you’re set.",
+   "f": false
+  },
+  {
+   "t": "Start in You: add your medication and day types. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Add your medication and day types in You so Focus can plan around them. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Let Focus know your medication and day types. You’ll find both in You, and it’s quick.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You. Quick to do, easy to change later.",
+   "f": false
+  },
+  {
+   "t": "Two quick things in You: your medication and your day types.",
+   "f": false
+  },
+  {
+   "t": "In the You tab, set up your medication and day types. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Find You and add your medication and day types. It takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "Spend two minutes in You adding your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "Medication and day types get set up in You. It’s a quick job.",
+   "f": false
+  },
+  {
+   "t": "A couple of minutes in You sets up your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "Add your medication and day types in You whenever it suits. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Focus plans your days better with medication and day types set up. Both live in You.",
+   "f": false
+  },
+  {
+   "t": "Open You to set up your medication and day types. Two minutes will do it.",
+   "f": false
+  },
+  {
+   "t": "Setting up medication and day types in You takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "It takes about two minutes to set up your medication and day types in You.",
+   "f": false
+  },
+  {
+   "t": "Head over to You for medication and day types. It’s a quick setup.",
+   "f": false
+  },
+  {
+   "t": "Next step: medication and day types, in You. About two minutes.",
+   "f": false
+  },
+  {
+   "t": "Add medication and day types under You. It takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "When you have two minutes, set up your medication and day types in You.",
+   "f": false
+  },
+  {
+   "t": "Got two minutes? Set up your medication and day types in You.",
+   "f": false
+  },
+  {
+   "t": "Set up your medication and day types in You. It’s quicker than it sounds.",
+   "f": false
+  },
+  {
+   "t": "You’ll find medication and day types in You. Setting them up is quick.",
+   "f": false
+  },
+  {
+   "t": "Add your medication and day types in You. It’s quick, and you can change them anytime.",
+   "f": false
+  },
+  {
+   "t": "In You, add your medication and day types. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You to shape your plan. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Tap into You to set up your medication and day types. About two minutes.",
+   "f": false
+  },
+  {
+   "t": "Two minutes in You helps Focus plan around your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "Focus uses your medication and day types to shape each day. Add them in You in about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Add medication and day types in You. A couple of minutes is all it takes.",
+   "f": false
+  },
+  {
+   "t": "Quick setup: your medication and day types, in You. About two minutes.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You. It’s short, promise.",
+   "f": false
+  },
+  {
+   "t": "Give Focus your medication and day types in You. It takes two minutes or so.",
+   "f": false
+  },
+  {
+   "t": "Medication and day types are waiting in You. It’s a quick setup.",
+   "f": false
+  },
+  {
+   "t": "Go to You to add your medication and day types. It’s a small, quick step.",
+   "f": false
+  },
+  {
+   "t": "Add your medication and day types in You. It takes about two minutes, tops.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You, then Focus can plan around them. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "A two-minute setup in You: your medication and day types.",
+   "f": false
+  },
+  {
+   "t": "In You, set your medication and day types. It’s quick and easy to change.",
+   "f": false
+  },
+  {
+   "t": "Pop over to You and set up medication and day types. It takes about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Adding your medication and day types in You takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "Set up your medication and day types in You. It only takes a few minutes.",
+   "f": false
+  },
+  {
+   "t": "Medication and day types: set them up in You. It takes a couple of minutes.",
+   "f": false
+  },
+  {
+   "t": "Want a plan that fits? Add your medication and day types in You. It’s quick.",
+   "f": false
+  },
+  {
+   "t": "Your plan gets better once Focus knows your medication and day types. Add them in You.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You. It’s about two minutes of tapping.",
+   "f": false
+  },
+  {
+   "t": "Head to You and add medication and day types. It’s a quick one.",
+   "f": false
+  },
+  {
+   "t": "Add medication and day types in You. It takes two minutes, give or take.",
+   "f": false
+  },
+  {
+   "t": "Set up your medication and day types in You. It’s a short job.",
+   "f": false
+  },
+  {
+   "t": "You can add your medication and day types in You. It’s about two minutes.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types over in You. Two minutes and it’s done.",
+   "f": false
+  },
+  {
+   "t": "Set up medication and day types in You. About two minutes. Real minutes, not ADHD minutes.",
+   "f": true
+  },
+  {
+   "t": "Two minutes in You: medication and day types. Quicker than finding your keys.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. It’s shorter than the average side quest.",
+   "f": true
+  },
+  {
+   "t": "Set up your medication and day types in You. Two minutes. We timed it, twice.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Faster than choosing a snack.",
+   "f": true
+  },
+  {
+   "t": "Two minutes in You for medication and day types. Set a timer if you like, we won’t tell.",
+   "f": true
+  },
+  {
+   "t": "Add your medication and day types in You. Two minutes. Not the “five minutes” kind.",
+   "f": true
+  },
+  {
+   "t": "Quick one in You: medication and day types. Done before the kettle boils.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. Two minutes, no rabbit holes involved.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, not a new hobby.",
+   "f": true
+  },
+  {
+   "t": "Pop into You for medication and day types. About two minutes, snack optional.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes. It won’t join the doom pile.",
+   "f": true
+  },
+  {
+   "t": "In You, add medication and day types. It’s the rare two-minute task that takes two minutes.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, start to done, no detours.",
+   "f": true
+  },
+  {
+   "t": "Add your medication and day types in You. Two minutes, then back to your tabs.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. Two minutes. Shorter than one “quick” scroll.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, over before a new tab can open.",
+   "f": true
+  },
+  {
+   "t": "Head to You for medication and day types. Two minutes. The phone’s already in your hand.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. It takes two minutes, not three weeks on a list.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. Two minutes, no forms from the last century.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. About two minutes, or one short song.",
+   "f": true
+  },
+  {
+   "t": "Two minutes in You: medication and day types. That’s it. That’s the whole task.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, no alarm for your alarm needed.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. About two minutes, or six reads of this sentence.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, no sticky notes required.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes. Faster than remembering why you walked in.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. Two minutes. Body double optional.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. Two minutes, before this thought wanders off.",
+   "f": true
+  },
+  {
+   "t": "Add medication and day types in You. Two minutes, roughly half a daydream.",
+   "f": true
+  },
+  {
+   "t": "Set up medication and day types in You. It takes two minutes, give or take a tangent.",
+   "f": true
+  }
+ ],
+ "medsNone": [
+  {
+   "t": "No medication set up yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. You can add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "Nothing set up for medication yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up yet. Add it whenever it suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication here yet. Add it any time.",
+   "f": false
+  },
+  {
+   "t": "Your medication isn’t set up yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "There’s no medication set up yet. Add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "Medication not added yet. You can add it at any time.",
+   "f": false
+  },
+  {
+   "t": "No medication set up. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Nothing here yet. Add your medication whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added so far. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication hasn’t been set up yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. You can add it at any time.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. When you’re ready, you can add it here.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. You can add it here whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t added yet. Add it here when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it here whenever it suits you.",
+   "f": false
+  },
+  {
+   "t": "Nothing added for medication yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication in Focus yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication: not set up yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up. Add it here any time you like.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it now or later, whichever suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Add it now, or come back to it later.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. There’s no rush to add it.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it whenever it feels right.",
+   "f": false
+  },
+  {
+   "t": "Your medication hasn’t been added yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it at your own pace.",
+   "f": false
+  },
+  {
+   "t": "Medication not set up yet. Add it here when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication here yet. You can add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "You haven’t set up medication yet. Add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "Nothing set up yet. Add your medication when it suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication set up. You can add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Add it here at any time.",
+   "f": false
+  },
+  {
+   "t": "Medication hasn’t been added. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added. Add it here whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Tap to add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. It’s here for you to add whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up yet. You can add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Nothing here for medication yet. Add it whenever it suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication has been added yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added. You can add it any time you like.",
+   "f": false
+  },
+  {
+   "t": "Medication not added. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it whenever works for you.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it whenever you have a moment.",
+   "f": false
+  },
+  {
+   "t": "There’s no medication here yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it now or any time later.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up. Add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication set up so far. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication is not set up yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Your medication list is empty. Add to it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication listed yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication listed. Add it here when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Your medication isn’t here yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication saved yet. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication saved. You can add it at any time.",
+   "f": false
+  },
+  {
+   "t": "Nothing saved for medication yet. Add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication not set up yet. You can add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. It’s here whenever you want to add it.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. It’s easy to add whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Adding it is quick, whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Adding it takes a minute, whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Add it in your own time.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up yet. Add it in your own time.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it in your own time.",
+   "f": false
+  },
+  {
+   "t": "No medication set up. Add it in your own time.",
+   "f": false
+  },
+  {
+   "t": "Nothing added yet. Add your medication whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication here. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Whenever you’re ready, add it here.",
+   "f": false
+  },
+  {
+   "t": "Nothing here yet. Whenever you’re ready, you can add your medication.",
+   "f": false
+  },
+  {
+   "t": "No medication set up. When you’re ready, add it here.",
+   "f": false
+  },
+  {
+   "t": "Add your medication here whenever you’re ready. Nothing’s set up yet.",
+   "f": false
+  },
+  {
+   "t": "Nothing set up yet. You can add your medication whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t added yet. You can add it any time.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. You can add it any time you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it any time that suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it when it suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. Add it whenever suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it whenever suits you.",
+   "f": false
+  },
+  {
+   "t": "Medication is not added yet. Add it any time you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication set up for now. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "There’s no medication set up yet. You can add it any time.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it now, or whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication yet. There’s no rush. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. No rush, add it when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Nothing set up for medication. Add it whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t set up yet. When you’re ready, add it here.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. When you’re ready, it’s one tap away.",
+   "f": false
+  },
+  {
+   "t": "No medication set up. Add it here any time.",
+   "f": false
+  },
+  {
+   "t": "No medication added so far. You can add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. Add it whenever you feel ready.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it whenever you feel ready.",
+   "f": false
+  },
+  {
+   "t": "You can add your medication whenever you’re ready. None is set up yet.",
+   "f": false
+  },
+  {
+   "t": "None set up yet. Add your medication whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication hasn’t been set up. Add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication here yet. Add it when it suits you.",
+   "f": false
+  },
+  {
+   "t": "No medication added yet. Add it here any time you like.",
+   "f": false
+  },
+  {
+   "t": "Nothing’s set up for medication yet. Add it whenever you like.",
+   "f": false
+  },
+  {
+   "t": "No medication set up yet. You can add it here when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Medication isn’t added yet. Add it whenever you’re ready.",
+   "f": false
+  }
+ ],
+ "dayLineAfter": [
+  {
+   "t": "Focus window’s done for today. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Your focus window has ended for today.",
+   "f": false
+  },
+  {
+   "t": "The focus window’s closed for today. Go easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s over. Be gentle with yourself.",
+   "f": false
+  },
+  {
+   "t": "That’s the focus window done for today.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window has ended. Take it easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed. The rest of today is yours.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Ease into the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Your focus window’s wrapped up for today.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. Slow down a little.",
+   "f": false
+  },
+  {
+   "t": "The focus window has closed for today. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window is done. Go at your own pace.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s finished for today. Easy does it.",
+   "f": false
+  },
+  {
+   "t": "That’s today’s focus window. Take it slowly now.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Be kind to yourself.",
+   "f": false
+  },
+  {
+   "t": "Focus window closed for today. Rest counts too.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window is over. Go softly.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Lighter things from here.",
+   "f": false
+  },
+  {
+   "t": "The focus window’s over for today. Pace yourself.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. Keep it light.",
+   "f": false
+  },
+  {
+   "t": "Your focus window has closed. Go gently now.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Gentle pace from here.",
+   "f": false
+  },
+  {
+   "t": "That’s the focus window for today. Go easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s over. Today can be slow from here.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window has closed. Easy from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. No pressure now.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Take the rest gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Softer tasks from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed. Small things only, if any.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Wind down when you like.",
+   "f": false
+  },
+  {
+   "t": "Your focus window is done for today. Go easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window over for today. Be gentle.",
+   "f": false
+  },
+  {
+   "t": "That’s your focus window done. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s ended for today. Take a breath.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window is behind you. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. The pressure’s off for today.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed for the day. Go easy.",
+   "f": false
+  },
+  {
+   "t": "The day’s focus window is done. Be gentle.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for the day. Rest is allowed.",
+   "f": false
+  },
+  {
+   "t": "That’s it for today’s focus window. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s over. Whatever’s next can be easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Low-key from here on.",
+   "f": false
+  },
+  {
+   "t": "Your focus window has wrapped up. Take it slow.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s finished. Go gently with the rest.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window has wrapped. Easy does it.",
+   "f": false
+  },
+  {
+   "t": "Focus window closed. Gentle mode from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. You can ease off.",
+   "f": false
+  },
+  {
+   "t": "That’s the focus window over. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. No need to push now.",
+   "f": false
+  },
+  {
+   "t": "The focus window’s wrapped for today. Go easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window over. Take the rest of today slowly.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. Slow is fine.",
+   "f": false
+  },
+  {
+   "t": "Your focus window’s over. Be easy on yourself.",
+   "f": false
+  },
+  {
+   "t": "The focus window has finished for today.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s ended. Go gently from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. No heavy lifting now.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed. Rest is part of the plan.",
+   "f": false
+  },
+  {
+   "t": "Today’s focus window has passed. Go gently.",
+   "f": false
+  },
+  {
+   "t": "Focus window done. The rest of today is soft.",
+   "f": false
+  },
+  {
+   "t": "That’s today’s focus window closed. Take it easy.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Nothing big from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s finished for today. Go slow.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. Gentle does it.",
+   "f": false
+  },
+  {
+   "t": "Focus window over for the day. Go at your pace.",
+   "f": false
+  },
+  {
+   "t": "That’s the end of today’s focus window.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done. Let the day go quiet.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s done for today. Quiet time now.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed for today. Breathe out.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s over. Put the hard stuff down.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s wrapped. Gentle from here.",
+   "f": false
+  },
+  {
+   "t": "Focus window’s closed. The couch is open.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. Side quests are fair game.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Snack o’clock, probably.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Rabbit holes now permitted.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. Cosy hours begin.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s shut. Blanket mode is go.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. The kettle’s calling.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Cardigan hours.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s over. The to-do list can nap too.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. The doom pile can wait.",
+   "f": true
+  },
+  {
+   "t": "Focus window closed. Big tasks, see you tomorrow.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Pyjamas are a valid plan.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Hard mode off, easy mode on.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. Pottering mode unlocked.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Dessert tasks only.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. The list will keep, promise.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. Wander, doodle, hum.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s over. Gentle chaos is allowed.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Low-power mode: on.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Recess, basically.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Hello, comfy socks.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. Hobbies are open.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Slippers, not spreadsheets.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Emails can sit and think.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Plants and playlists now.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Cushion fort, anyone?",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Candle-lit admin only.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Tangents back on the menu.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s closed. The fun tabs can open.",
+   "f": true
+  },
+  {
+   "t": "Focus window’s done. Tea, not tasks.",
+   "f": true
+  }
+ ],
+ "changeFootnote": [
+  {
+   "t": "Nothing moves until you say so. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing changes until you confirm. You can undo with one tap.",
+   "f": false
+  },
+  {
+   "t": "You approve every change first. One tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing shifts without your say. Undo is one tap away.",
+   "f": false
+  },
+  {
+   "t": "We only move things when you say yes. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing changes without your OK. And undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You decide what moves. Undo is always a single tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you agree. One tap takes it back.",
+   "f": false
+  },
+  {
+   "t": "Changes wait for your yes. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing’s changed until you say so. Undo anytime with one tap.",
+   "f": false
+  },
+  {
+   "t": "Your plan stays put until you say go. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You get the final say. Undo is always one tap away.",
+   "f": false
+  },
+  {
+   "t": "Nothing happens until you confirm. One tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves without you. One tap puts it back.",
+   "f": false
+  },
+  {
+   "t": "You’re in charge of every change. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "No changes until you say so. One tap to undo.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves on its own. Undo is always there, one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing happens without a yes from you. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you tap yes. Undo is one tap too.",
+   "f": false
+  },
+  {
+   "t": "Every change waits for you. Undo takes one tap.",
+   "f": false
+  },
+  {
+   "t": "Your day only changes when you say so. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing is moved until you approve. Undo anytime with one tap.",
+   "f": false
+  },
+  {
+   "t": "Changes only happen once you confirm. One tap undoes them.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves without your go-ahead. Undo is a tap away.",
+   "f": false
+  },
+  {
+   "t": "Nothing changes behind your back. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Changes only happen when you say. One tap takes them back.",
+   "f": false
+  },
+  {
+   "t": "You approve before anything moves. Undo is just one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing gets moved until you’re happy. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "It’s your call before anything moves. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you’re ready. One tap brings it back.",
+   "f": false
+  },
+  {
+   "t": "We’ll ask first, then you decide. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing is final. You confirm first, and undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You confirm every change. Undo is always a tap away.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves till you say yes. Undo is one tap, always.",
+   "f": false
+  },
+  {
+   "t": "Your plan won’t change until you say so. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You always get the last word. One tap undoes any change.",
+   "f": false
+  },
+  {
+   "t": "Nothing shifts until you’re sure. Undo is one tap away.",
+   "f": false
+  },
+  {
+   "t": "Changes need your yes first. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves by itself. You confirm, and undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You say when. And one tap always undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves unless you say so. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Your say-so comes first. Undo is one tap after.",
+   "f": false
+  },
+  {
+   "t": "Nothing is changed without you. Undo is one tap away.",
+   "f": false
+  },
+  {
+   "t": "We won’t move a thing until you say. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves till you’re happy with it. Undo takes one tap.",
+   "f": false
+  },
+  {
+   "t": "You get to check first. Undo is always one tap away.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you confirm. Changed your mind? One tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Every change is yours to approve. One tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing changes until you tap to confirm. Undo is one tap too.",
+   "f": false
+  },
+  {
+   "t": "You approve it, or it doesn’t happen. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "No surprises. Nothing moves until you say so, and undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing gets rearranged without your OK. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Your plan stays as it is until you say. One tap undoes changes.",
+   "f": false
+  },
+  {
+   "t": "You decide if anything changes. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves unless you tap yes. And one tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing will change until you say so. Undo is a single tap.",
+   "f": false
+  },
+  {
+   "t": "Changes are only suggestions until you say yes. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "It’s only a suggestion until you confirm. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves without your nod. Undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "You stay in control. Nothing moves until you say, and undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you’re on board. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing happens without your yes. Undo is always one tap away.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you give the word. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Your OK comes first, always. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "You approve each change. One tap puts things back.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you say go. One tap undoes it.",
+   "f": false
+  },
+  {
+   "t": "Nothing changes until you’re sure. And undo is always one tap.",
+   "f": false
+  },
+  {
+   "t": "We ask before anything moves. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "We check with you before moving anything. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves unless you want it to. Undo is one tap.",
+   "f": false
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Commitment issues welcome.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap, for second thoughts and thirds.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves without your say. Undo is one tap. Mind-changing fully supported.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Indecision is welcome here.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Waffling is allowed.",
+   "f": true
+  },
+  {
+   "t": "You approve first. Undo is one tap, like a do-over button for your day.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Take-backsies allowed.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves without your yes. Undo is one tap. Low stakes, high fiddling.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Fiddle away.",
+   "f": true
+  },
+  {
+   "t": "You approve first, and undo is one tap. No wrong buttons here.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves till you say so. Undo is one tap, for when your brain has notes.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Try it on like a jacket.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Tap-happy thumbs are safe here.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Oops taps forgiven.",
+   "f": true
+  },
+  {
+   "t": "You approve every move. Undo is one tap. Pocket taps are harmless.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say. Undo is one tap. Rethinks, re-rethinks, all fine.",
+   "f": true
+  },
+  {
+   "t": "You say when. Undo is one tap. Change your mind five times, it’s fine.",
+   "f": true
+  },
+  {
+   "t": "You approve first. Undo is one tap. Experiment like nobody’s watching.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Poke it, it won’t break.",
+   "f": true
+  },
+  {
+   "t": "You approve first. Undo is one tap. A safety net for tap-first thinkers.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves without your OK. Undo is one tap. Plans are allowed to wobble.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Like a pencil, not a pen.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Your plan comes with an eraser.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Even at your most spontaneous.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. If only real life had this.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Your plan has a rewind button.",
+   "f": true
+  },
+  {
+   "t": "You say yes first. Undo is one tap. Furniture moving, minus the lifting.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Think of it as a practice run.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Chaos, but reversible.",
+   "f": true
+  },
+  {
+   "t": "Nothing moves until you say so. Undo is one tap. Rearrange like it’s a hobby.",
+   "f": true
+  }
+ ],
+ "arrivalMorning": [
+  {
+   "t": "Good morning, {name}.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Good morning.",
+   "f": false
+  },
+  {
+   "t": "Good morning to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Welcome back.",
+   "f": false
+  },
+  {
+   "t": "Hi, {name}. Good morning.",
+   "f": false
+  },
+  {
+   "t": "A good morning to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Welcome in.",
+   "f": false
+  },
+  {
+   "t": "Hey, {name}. Morning.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Nice to see you.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Here’s today.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. A new morning.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. A fresh start.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Fresh page.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Here we go.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Let’s ease in.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}, good morning.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Let’s begin gently.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Take your time.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Morning’s here.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Glad you’re here.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Glad you’re here.",
+   "f": false
+  },
+  {
+   "t": "Welcome to the morning, {name}.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Today’s ready.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. One step at a time.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. New day, clean slate.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Let’s start slow.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Good morning to you.",
+   "f": false
+  },
+  {
+   "t": "Hi, {name}. Here’s your morning.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Deep breath.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Easy start today.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Here’s to today.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Ready when you are.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}, good morning.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. It’s a new day.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Welcome to today.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Welcome to today.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Nice to have you.",
+   "f": false
+  },
+  {
+   "t": "Hi, {name}. Welcome to your morning.",
+   "f": false
+  },
+  {
+   "t": "Hello and good morning, {name}.",
+   "f": false
+  },
+  {
+   "t": "Morning to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Let’s get going.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Shall we start?",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Shall we begin?",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Morning’s here.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. The day’s open.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. A whole new day.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Start where you are.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. No rush.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. No rush today.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Gently does it.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Easy does it.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Let’s do today.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Today’s here.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. The day’s just begun.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Here’s your day.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Here’s your day.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. A good morning to you.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Hope today’s kind.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Welcome back.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Welcome to the morning.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Fresh day ahead.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. A fresh day.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Start small.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Small steps today.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Good morning to you.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Let’s take it easy.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Good to see you.",
+   "f": false
+  },
+  {
+   "t": "Good morning, {name}. Good to see you.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Let’s ease into it.",
+   "f": false
+  },
+  {
+   "t": "Morning, {name}. Kettle first.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Phone’s in your hand.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Fresh day, zero tabs.",
+   "f": true
+  },
+  {
+   "t": "Good morning, {name}. Brain booting up?",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Loading today…",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. No side quests yet.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. The doom pile can wait.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Sock hunt first?",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Why’d we come in here?",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. The to-do list says hi.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Adventure level: mild.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. One tab at a time.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Brain radio tuning in.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Rabbit holes await.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Keys? Pocket. Probably.",
+   "f": true
+  },
+  {
+   "t": "Good morning, {name}. Blank page energy.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. The squirrels are up.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Which alarm won?",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Breakfast, then glory.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Good brain, new day.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Today’s tab is open.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Let’s herd thoughts.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Ideas already queuing?",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. We brought the list.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Let’s outwit the clock.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. The day is still shiny.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Today is unscribbled.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Hyperfocus pending.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Tangents after toast.",
+   "f": true
+  },
+  {
+   "t": "Morning, {name}. Ready, steady, tea.",
+   "f": true
+  }
+ ],
+ "rhythmIntro": [
+  {
+   "t": "This week, {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "{count} of this week’s 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "This week so far: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "Days counted this week: {count} of 7.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} out of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} out of 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "So far this week, {count} of 7 days have counted.",
+   "f": false
+  },
+  {
+   "t": "This week’s tally: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "Counted this week: {count} of 7 days.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of your 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of your 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "This week has {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "Of this week’s 7 days, {count} counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week are counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days went into the picture.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week went into your rhythm.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days are part of the picture.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week are in the picture.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days count toward your four weeks.",
+   "f": false
+  },
+  {
+   "t": "This week: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days have counted this week.",
+   "f": false
+  },
+  {
+   "t": "Out of 7 days this week, {count} counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} days of 7 counted.",
+   "f": false
+  },
+  {
+   "t": "Of 7 days this week, {count} counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of the 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of the 7 days this week counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted so far this week.",
+   "f": false
+  },
+  {
+   "t": "In the week so far, {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "So far, {count} of 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "This week’s count: {count} of 7 days.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days were counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days were counted this week.",
+   "f": false
+  },
+  {
+   "t": "{count} of this week’s 7 days were counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days are counted so far.",
+   "f": false
+  },
+  {
+   "t": "For this week, {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted for this week.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days made it in.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days made it in this week.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days fed into your rhythm.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week added to your rhythm.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days added to the picture.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week helped fill in the picture.",
+   "f": false
+  },
+  {
+   "t": "This week: {count} of 7 days counted so far.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days this week are counted in.",
+   "f": false
+  },
+  {
+   "t": "Counted so far this week: {count} of 7 days.",
+   "f": false
+  },
+  {
+   "t": "This week, days counted: {count} of 7.",
+   "f": false
+  },
+  {
+   "t": "Days that counted this week: {count} of 7.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days are in.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days are in for this week.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days have been counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days have been counted this week.",
+   "f": false
+  },
+  {
+   "t": "{count} of this week’s 7 days have counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days have counted so far.",
+   "f": false
+  },
+  {
+   "t": "So far: {count} of 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "This week you have {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "You have {count} of 7 days counted this week.",
+   "f": false
+  },
+  {
+   "t": "Your week so far: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "Your week: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "This week’s picture: {count} of 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days are in this week’s count.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days count toward your rhythm.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days count toward this week’s rhythm.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days are included.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days are included this week.",
+   "f": false
+  },
+  {
+   "t": "{count} of this week’s 7 days are included.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days are in the count.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days are in the count this week.",
+   "f": false
+  },
+  {
+   "t": "Of the 7 days this week, {count} counted.",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of its 7 days counted.",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted this week. Fingers not required.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Yes, time is weird.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. Where did the week go?",
+   "f": true
+  },
+  {
+   "t": "This week: {count} of 7 days counted. Weeks are slippery.",
+   "f": true
+  },
+  {
+   "t": "This week: {count} of 7 days. Days blur, we keep track.",
+   "f": true
+  },
+  {
+   "t": "Counted this week: {count} of 7 days. We wrote it down.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Remembering is our bit.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. No streaks, promise.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. Weeks go fast, huh.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Days are sneaky.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Seven is a lot of days.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. It’s data, not a grade.",
+   "f": true
+  },
+  {
+   "t": "This week: {count} of 7 days counted. No report cards.",
+   "f": true
+  },
+  {
+   "t": "This week: {count} of 7 days counted. One less open tab.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Counting is our job.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. We did the maths.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. No gold stars involved.",
+   "f": true
+  },
+  {
+   "t": "Counted this week: {count} of 7 days. Sticky notes retired.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Memory, outsourced.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. Safe to forget now.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Logged while you lived.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. Consider it noted.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Time flies, we noticed.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Squirrel-proof records.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. The week did its thing.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Maths brain can rest.",
+   "f": true
+  },
+  {
+   "t": "Counted this week: {count} of 7 days. Filed for you.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. Zero homework.",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days counted this week. No scoreboard in sight.",
+   "f": true
+  },
+  {
+   "t": "This week, {count} of 7 days counted. Calendars, eh?",
+   "f": true
+  }
+ ],
+ "detailHours": [
+  {
+   "t": "Each dot is an hour. The brighter it is, the more you finished then.",
+   "f": false
+  },
+  {
+   "t": "Every dot is one hour. Brighter dots mean more got done.",
+   "f": false
+  },
+  {
+   "t": "One dot, one hour. The brighter the dot, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot stands for an hour. Brighter means more finished.",
+   "f": false
+  },
+  {
+   "t": "Dots are hours. A brighter dot means you finished more in that hour.",
+   "f": false
+  },
+  {
+   "t": "Each dot shows an hour. The brighter ones are where you finished most.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour of your day. Brighter means more got done then.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Bright dots show when you finished the most.",
+   "f": false
+  },
+  {
+   "t": "Think of each dot as an hour. The brighter it glows, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "One dot for each hour. Brighter dots are hours where more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one hour. More finished means a brighter dot.",
+   "f": false
+  },
+  {
+   "t": "Each dot marks an hour. It gets brighter the more you finish in it.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. The more you finished, the brighter it shines.",
+   "f": false
+  },
+  {
+   "t": "Dots are hours of the day. Brighter ones mean more finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot represents an hour. The brighter, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brightness shows how much you finished.",
+   "f": false
+  },
+  {
+   "t": "An hour per dot. Brighter dots mean more things finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour, and brighter dots mean more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot equals one hour. The brighter it is, the more got done.",
+   "f": false
+  },
+  {
+   "t": "Dots are hours. The brighter one is, the more you finished in it.",
+   "f": false
+  },
+  {
+   "t": "Here, each dot is an hour. Brighter means you finished more then.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour of the day. The brighter, the more you wrapped up.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. A bright dot means lots got finished then.",
+   "f": false
+  },
+  {
+   "t": "One hour, one dot. The brighter it is, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Dim means less finished, bright means more.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter dots show the hours where more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each little dot is an hour. The brighter it is, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Every dot is one hour. Brighter means more tasks finished in it.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. How bright it is shows how much you finished.",
+   "f": false
+  },
+  {
+   "t": "The dots are hours. Brighter ones mean more finished in that hour.",
+   "f": false
+  },
+  {
+   "t": "Read each dot as an hour. The brighter it is, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot counts as an hour. Brighter means more finished then.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one hour. The brightest are when you finished most.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. Brighter dots mean more was finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. The more you finished, the brighter the dot.",
+   "f": false
+  },
+  {
+   "t": "Dots are hours, and brightness is how much you finished.",
+   "f": false
+  },
+  {
+   "t": "One dot per hour. The brighter the dot, the more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter ones show more things done.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour on the clock. Brighter means more finished.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. The glow shows how much you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. The more it glows, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Every dot stands for an hour. Brighter dots mean you finished more.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter dots are hours where you finished more.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Bright dots are hours when things got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour of your day. Brighter dots mean more finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. The brighter the dot, the more you got done.",
+   "f": false
+  },
+  {
+   "t": "An hour is a dot. The brighter it is, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter means you finished more in that hour.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a single hour. Brighter means more finished.",
+   "f": false
+  },
+  {
+   "t": "The dots are your hours. The brighter ones are when you finished more.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. It brightens as you finish more in it.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Faint means a little finished, bright means a lot.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. The more finished, the brighter it gets.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Look for the bright ones to see when you finish most.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter dots show your most finished hours.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. Brighter ones mark when more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more got ticked off then.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. The brighter ones are where more got done.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one hour. Its brightness shows how much you finished.",
+   "f": false
+  },
+  {
+   "t": "Dots are hours. Brighter dots mean more finished in that hour.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brightness tells you how much you finished.",
+   "f": false
+  },
+  {
+   "t": "One dot, one hour. Brighter means more got finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. The brighter it gets, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Every dot here is an hour. Brighter means more finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. A brighter dot means more finished in it.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter dots mean more finished tasks.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour, and the brighter it is, the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour of your day, and it brightens as you finish things.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour, lit brighter the more you finished.",
+   "f": false
+  },
+  {
+   "t": "Every dot is an hour. The brightest ones are when most got done.",
+   "f": false
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. That bright one? You were in the zone.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more got done. Proof that time really does pass.",
+   "f": true
+  },
+  {
+   "t": "One dot, one hour. Brighter means more finished. Your day as a tiny night sky.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Hours: now visible to the naked eye.",
+   "f": true
+  },
+  {
+   "t": "Every dot is an hour. Brighter means more got done. Like stars, but for your to-do list.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. The brighter it is, the more you finished. Your day’s weather map.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Time, caught in the act.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Time blindness, meet glasses.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Like fairy lights for your day.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Bright means lots finished. Spot the hour you closed some tabs.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. The brighter, the more you finished. Hours, but make them sparkly.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. A clock you can actually see.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means you finished more. The dim ones had other plans.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. The brighter the dot, the more you finished. Hyperfocus glows.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Turns out time does leave traces.",
+   "f": true
+  },
+  {
+   "t": "Every dot is an hour. Brighter means more finished. Your day’s disco lights.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Where the hours went, mystery solved.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Dim ones count too, they’re just shy.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. It’s your day, pixel by pixel.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Like a heat map, but friendlier.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. No hour is judged, just lit.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Hours, showing their work.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Spot your sneaky power hours.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Every hour gets a little lamp.",
+   "f": true
+  },
+  {
+   "t": "One dot per hour. Brighter means more finished. Your hours, glowing about it.",
+   "f": true
+  },
+  {
+   "t": "Every dot is one hour. The brighter it gets, the more you finished. Hours with a glow-up.",
+   "f": true
+  },
+  {
+   "t": "Dots are hours. Brighter means more finished. Some hours really went for it.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. The glow is all yours.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Where “five minutes” went.",
+   "f": true
+  },
+  {
+   "t": "Each dot is an hour. Brighter means more finished. Glow-in-the-dark productivity.",
+   "f": true
+  }
+ ],
+ "dayTypesLimit": [
+  {
+   "t": "The free plan holds three day types. Plus holds as many as your life has.",
+   "f": false
+  },
+  {
+   "t": "The free plan has room for three day types. Plus has room for all of them.",
+   "f": false
+  },
+  {
+   "t": "You’ve reached the free plan’s three day types. Plus lets you add as many as you like.",
+   "f": false
+  },
+  {
+   "t": "Three day types fit in the free plan. With Plus, there’s no limit.",
+   "f": false
+  },
+  {
+   "t": "The free plan keeps three day types. Plus keeps as many as you need.",
+   "f": false
+  },
+  {
+   "t": "That’s three day types, the free plan’s limit. Plus has no limit.",
+   "f": false
+  },
+  {
+   "t": "Free covers three day types. Plus covers every kind of day you have.",
+   "f": false
+  },
+  {
+   "t": "The free plan stops at three day types. Plus doesn’t stop.",
+   "f": false
+  },
+  {
+   "t": "You can have three day types on the free plan, and as many as you like on Plus.",
+   "f": false
+  },
+  {
+   "t": "The free plan fits three day types. Plus fits every one your life needs.",
+   "f": false
+  },
+  {
+   "t": "Three day types is the free plan’s limit. Plus has room for as many as you want.",
+   "f": false
+  },
+  {
+   "t": "On the free plan, it’s three day types. On Plus, it’s unlimited.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds up to three day types. Plus holds unlimited.",
+   "f": false
+  },
+  {
+   "t": "You’re at three day types, the free plan’s most. Plus has no cap.",
+   "f": false
+  },
+  {
+   "t": "Three is the most day types the free plan can hold. Plus can hold them all.",
+   "f": false
+  },
+  {
+   "t": "The free plan includes three day types. Plus includes as many as you like.",
+   "f": false
+  },
+  {
+   "t": "Free gives you three day types. Plus gives you as many as you need.",
+   "f": false
+  },
+  {
+   "t": "Your free plan has its three day types. Plus opens up unlimited ones.",
+   "f": false
+  },
+  {
+   "t": "The free plan has three day types. Plus has as many as your weeks do.",
+   "f": false
+  },
+  {
+   "t": "That’s the three day types the free plan allows. Plus allows as many as you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan can hold three day types. Plus can hold any number.",
+   "f": false
+  },
+  {
+   "t": "You’ve used the free plan’s three day types. Plus has space for as many as you like, whenever you want.",
+   "f": false
+  },
+  {
+   "t": "Three day types come with the free plan. Unlimited ones come with Plus.",
+   "f": false
+  },
+  {
+   "t": "The free plan tops out at three day types. Plus doesn’t have a top.",
+   "f": false
+  },
+  {
+   "t": "Free plan: three day types. Plus: as many as you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan keeps things to three day types. Plus lifts the limit.",
+   "f": false
+  },
+  {
+   "t": "Three day types fit on the free plan. Plus fits all of your days.",
+   "f": false
+  },
+  {
+   "t": "The free plan has space for three day types. Plus has space for any number.",
+   "f": false
+  },
+  {
+   "t": "Here, the free plan holds three day types. Plus holds as many as you have.",
+   "f": false
+  },
+  {
+   "t": "This is the free plan’s limit of three day types. Plus has no limit, if you ever want it.",
+   "f": false
+  },
+  {
+   "t": "The free plan works with three day types. Plus works with as many as you like.",
+   "f": false
+  },
+  {
+   "t": "Three day types is where the free plan ends. Plus keeps going.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds however many your weeks need.",
+   "f": false
+  },
+  {
+   "t": "You’ve got three day types, the most the free plan holds. Plus holds as many as you need.",
+   "f": false
+  },
+  {
+   "t": "On free, three day types. On Plus, no limit on day types.",
+   "f": false
+  },
+  {
+   "t": "The free plan allows three day types. With Plus, add as many as your life needs.",
+   "f": false
+  },
+  {
+   "t": "The free plan is set to three day types. Plus is unlimited.",
+   "f": false
+  },
+  {
+   "t": "Three day types is the free limit. Plus has unlimited day types, if that helps.",
+   "f": false
+  },
+  {
+   "t": "The free plan has three day type slots, all in use. Plus has unlimited slots.",
+   "f": false
+  },
+  {
+   "t": "All three free day types are in use. Plus has room for as many as you want.",
+   "f": false
+  },
+  {
+   "t": "Your three free day types are all set up. Plus makes room for as many as you need.",
+   "f": false
+  },
+  {
+   "t": "The free plan fits three day types. If your life has more, Plus fits them all.",
+   "f": false
+  },
+  {
+   "t": "If you need more than three day types, Plus has no limit. The free plan stays at three.",
+   "f": false
+  },
+  {
+   "t": "The free plan covers three day types. For unlimited, there’s Plus, whenever you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds three day types, which suits lots of people. Plus holds as many as you like.",
+   "f": false
+  },
+  {
+   "t": "Three day types live on the free plan. Plus has room for all the rest.",
+   "f": false
+  },
+  {
+   "t": "Free keeps three day types. Plus keeps however many you need.",
+   "f": false
+  },
+  {
+   "t": "The free plan comes with three day types. Plus comes with no limit.",
+   "f": false
+  },
+  {
+   "t": "Three day types is the free plan’s number. Plus has no number.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds every one you make.",
+   "f": false
+  },
+  {
+   "t": "You’re at the free plan’s three day types. Plus lets you keep adding.",
+   "f": false
+  },
+  {
+   "t": "The free plan lets you have three day types. Plus lets you have as many as you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan is three day types. Plus is as many as you need, no limit.",
+   "f": false
+  },
+  {
+   "t": "The free plan gives you room for three day types. Plus gives you room for all.",
+   "f": false
+  },
+  {
+   "t": "Free plan, three day types. Plus, as many day types as your life has.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds unlimited, if you ever need more.",
+   "f": false
+  },
+  {
+   "t": "That’s three day types, which the free plan holds. Plus holds as many as you want.",
+   "f": false
+  },
+  {
+   "t": "There’s room for three day types on the free plan. Plus has room for any number.",
+   "f": false
+  },
+  {
+   "t": "Three day types is the free plan’s limit. Plus has no ceiling.",
+   "f": false
+  },
+  {
+   "t": "The free plan stays at three day types. Plus goes as far as you need.",
+   "f": false
+  },
+  {
+   "t": "On the free plan you get three day types. On Plus you get unlimited.",
+   "f": false
+  },
+  {
+   "t": "The free plan caps day types at three. Plus has no cap.",
+   "f": false
+  },
+  {
+   "t": "The free plan handles three day types. Plus handles as many as you have.",
+   "f": false
+  },
+  {
+   "t": "The free plan has its three day types. Plus has as many as your life brings.",
+   "f": false
+  },
+  {
+   "t": "Three day types is all the free plan holds. Plus holds as many as you want.",
+   "f": false
+  },
+  {
+   "t": "The free plan fits up to three day types. Plus fits however many you need.",
+   "f": false
+  },
+  {
+   "t": "The free plan has three day types in it. Plus can have as many as you like.",
+   "f": false
+  },
+  {
+   "t": "You’ve filled the free plan’s three day types. Plus has space for as many as you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan counts to three day types. Plus stops counting.",
+   "f": false
+  },
+  {
+   "t": "The free plan can keep three day types. Plus can keep them all.",
+   "f": false
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds as many as your life has, even the weird Tuesdays.",
+   "f": true
+  },
+  {
+   "t": "The free plan fits three day types. Plus fits every kind of day, even the sideways ones.",
+   "f": true
+  },
+  {
+   "t": "Three day types fit the free plan. Plus has unlimited, for lives with more plot twists.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds as many as you have, side quest days included.",
+   "f": true
+  },
+  {
+   "t": "The free plan stops at three day types. Plus has room for the wild-card days too.",
+   "f": true
+  },
+  {
+   "t": "Free fits three day types. Plus fits them all, even the day you start four new hobbies.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds unlimited, because some weeks have range.",
+   "f": true
+  },
+  {
+   "t": "Three day types on free. Unlimited on Plus, for weeks that refuse to repeat.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus has no limit, for lives that don’t come in threes.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds them all, even “no idea what today is”.",
+   "f": true
+  },
+  {
+   "t": "Free covers three day types. Plus covers the rest, including ones you haven’t invented yet.",
+   "f": true
+  },
+  {
+   "t": "The free plan fits three day types. Plus fits every flavour of day you’ve got.",
+   "f": true
+  },
+  {
+   "t": "Three day types is the free limit. Plus is unlimited, a bit like your browser tabs.",
+   "f": true
+  },
+  {
+   "t": "The free plan keeps three day types. Plus keeps them all, even the “bit of everything” kind.",
+   "f": true
+  },
+  {
+   "t": "The free plan has room for three day types. Plus has room for the whole cast.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds unlimited, for the “it’s complicated” weeks.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds as many as your calendar can dream up.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds more than you’ll ever make. Probably.",
+   "f": true
+  },
+  {
+   "t": "The free plan fits three day types. Plus fits every day life throws at you, curveballs included.",
+   "f": true
+  },
+  {
+   "t": "Free holds three day types. Plus holds the lot, even the leap-year-only ones.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus has room for the oddballs too.",
+   "f": true
+  },
+  {
+   "t": "Three day types fit on free. Plus fits them all, even the “home, but also sort of work” days.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds unlimited. Your days contain multitudes.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds as many as your life has, no favourites.",
+   "f": true
+  },
+  {
+   "t": "Three day types on the free plan. Unlimited on Plus. Go wild, or don’t.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds every kind, including the surprise ones.",
+   "f": true
+  },
+  {
+   "t": "Free fits three day types. Plus fits as many as your life has, which is often more than three.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds three day types. Plus holds unlimited, for the full box of crayons.",
+   "f": true
+  },
+  {
+   "t": "Three day types fit the free plan. Plus fits all of them, even “Saturday, but busy”.",
+   "f": true
+  },
+  {
+   "t": "The free plan fits three day types. Plus fits them all, like a bottomless tote bag.",
+   "f": true
+  }
+ ],
+ "customiseIntro": [
+  {
+   "t": "Make it yours. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make Focus your own. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Change what you like. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Tweak anything. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it feel like yours. Your plan can’t break from here.",
+   "f": false
+  },
+  {
+   "t": "Adjust whatever you like. None of it can break your plan.",
+   "f": false
+  },
+  {
+   "t": "This is where you make it yours. Your plan stays safe whatever you change.",
+   "f": false
+  },
+  {
+   "t": "Shape it your way. Nothing here will break your plan.",
+   "f": false
+  },
+  {
+   "t": "Try anything here. Your plan can’t be broken by it.",
+   "f": false
+  },
+  {
+   "t": "Make it fit you. Nothing in here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Set it up your way. Your plan is safe whatever you do.",
+   "f": false
+  },
+  {
+   "t": "Change things freely. Nothing here can harm your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Every change here is safe for your plan.",
+   "f": false
+  },
+  {
+   "t": "Personalise it. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Whatever you change, your plan stays whole.",
+   "f": false
+  },
+  {
+   "t": "Your app, your way. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it look and feel like you. Your plan is safe.",
+   "f": false
+  },
+  {
+   "t": "Tweak it until it fits. Your plan can’t break.",
+   "f": false
+  },
+  {
+   "t": "Change anything here. Your plan will be fine.",
+   "f": false
+  },
+  {
+   "t": "Adjust it to suit you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it your own. Your plan stays intact.",
+   "f": false
+  },
+  {
+   "t": "Play with the settings. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Tailor it to you. Nothing here can hurt your plan.",
+   "f": false
+  },
+  {
+   "t": "It’s yours to shape. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Change what suits you. Your plan can’t come apart from here.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Nothing you change here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Customise freely. Your plan is safe.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. It’s all safe to change, and your plan won’t break.",
+   "f": false
+  },
+  {
+   "t": "Set things up your way. Nothing here puts your plan at risk.",
+   "f": false
+  },
+  {
+   "t": "Make it feel like home. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Explore and change what you like. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Make Focus fit you. Nothing here will break your plan.",
+   "f": false
+  },
+  {
+   "t": "Adjust anything. Your plan won’t break.",
+   "f": false
+  },
+  {
+   "t": "Make it yours, one setting at a time. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Try things, your plan can take it.",
+   "f": false
+  },
+  {
+   "t": "Try things out. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "It’s safe to change anything here. Your plan won’t break.",
+   "f": false
+  },
+  {
+   "t": "Change as much or as little as you like. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Everything here is safe to try. Your plan can’t break.",
+   "f": false
+  },
+  {
+   "t": "Shape Focus around you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it suit you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. You can’t break your plan from here.",
+   "f": false
+  },
+  {
+   "t": "Customise it your way. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make the app your own. Your plan stays safe, whatever you choose.",
+   "f": false
+  },
+  {
+   "t": "Change it up. Your plan is safe from anything here.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Changes here never break your plan.",
+   "f": false
+  },
+  {
+   "t": "Go ahead and change things. Your plan can’t break.",
+   "f": false
+  },
+  {
+   "t": "Make it fit your life. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Nothing here can mess up your plan.",
+   "f": false
+  },
+  {
+   "t": "Here’s where you make it yours. Your plan can’t break.",
+   "f": false
+  },
+  {
+   "t": "Pick what suits you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Adjust things to taste. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Your way, your settings. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Your plan is safe from every setting here.",
+   "f": false
+  },
+  {
+   "t": "Tweak freely. Nothing you do here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Change whatever helps. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Make it work for you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Set it up how you like. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Your plan is safe with any change here.",
+   "f": false
+  },
+  {
+   "t": "Change anything you like. It won’t break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Your plan can’t break, whatever you try.",
+   "f": false
+  },
+  {
+   "t": "This part is all about you. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Change freely, your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Play around. Nothing here can break your plan.",
+   "f": false
+  },
+  {
+   "t": "Make it yours in any way you like. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Tweak, adjust, rearrange. Your plan stays safe.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Nothing here will harm your plan.",
+   "f": false
+  },
+  {
+   "t": "Change what you want, when you want. Your plan can’t break.",
+   "f": false
+  },
+  {
+   "t": "Make this app yours. Your plan won’t break from anything here.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Your plan is always safe here.",
+   "f": false
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Fiddle to your heart’s content.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Tap everything. Your plan can’t break, we promise.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan, even if you tap every button twice.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Press all the buttons. Your plan will survive.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Rearranging is basically a hobby anyway.",
+   "f": true
+  },
+  {
+   "t": "Tweak away. Nothing here can break your plan. Curiosity gets a free pass.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here breaks your plan. Go on, rabbit-hole a little.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Your plan’s safe. It’s the one place fiddling counts as productive.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Poke around, open drawers.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Tinker freely, it’s a feature.",
+   "f": true
+  },
+  {
+   "t": "Customise away. Your plan is safe. It’s a side quest, but a useful one.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Consider it a sandbox.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Your plan is safe. Tap things just to see what happens.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Hyperfocus here if you like.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Tangents very much allowed.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Your plan can’t break from here. We’ve tried. Many times.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. We tested it with very curious thumbs.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. It’s fiddle-proof.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Rearrange it five times, it’s fine.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Your plan is unbreakable from here. Go wild, or mildly wild.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. The buttons are friendly.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Tap first, think later, still fine.",
+   "f": true
+  },
+  {
+   "t": "Explore freely. Your plan can’t break here, however many detours you take.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Redecorate like it’s a Sunday.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Your plan’s safe. Tweak it, untweak it, retweak it.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Go on, press the interesting one.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Rearrange like nobody’s watching.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. It’s a playground with seatbelts.",
+   "f": true
+  },
+  {
+   "t": "Your app, your rules. Nothing here can break your plan. Even the chaotic rules.",
+   "f": true
+  },
+  {
+   "t": "Make it yours. Nothing here can break your plan. Change your mind, then change it back.",
+   "f": true
+  }
+ ]
+}

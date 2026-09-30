@@ -1,0 +1,4424 @@
+{
+ "accountTitle": [
+  {
+   "t": "First, somewhere to keep your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a home for your plans.",
+   "f": false
+  },
+  {
+   "t": "First, a safe place for your things.",
+   "f": false
+  },
+  {
+   "t": "Let’s give your stuff a home.",
+   "f": false
+  },
+  {
+   "t": "First things first: a home for your plans.",
+   "f": false
+  },
+  {
+   "t": "A place to keep your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a place for everything.",
+   "f": false
+  },
+  {
+   "t": "Start with a home for your plans.",
+   "f": false
+  },
+  {
+   "t": "First, a spot to keep your things.",
+   "f": false
+  },
+  {
+   "t": "Your stuff needs a home. Let’s make one.",
+   "f": false
+  },
+  {
+   "t": "A safe home for your plans, first.",
+   "f": false
+  },
+  {
+   "t": "First, let’s give your plans a home.",
+   "f": false
+  },
+  {
+   "t": "First up, a place to keep your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere safe for your plans.",
+   "f": false
+  },
+  {
+   "t": "Let’s set up a home for your stuff.",
+   "f": false
+  },
+  {
+   "t": "One quick thing: a home for your stuff.",
+   "f": false
+  },
+  {
+   "t": "Somewhere to keep your plans safe.",
+   "f": false
+  },
+  {
+   "t": "First, a place your plans can live.",
+   "f": false
+  },
+  {
+   "t": "Let’s find your stuff a home.",
+   "f": false
+  },
+  {
+   "t": "First, a home base for your plans.",
+   "f": false
+  },
+  {
+   "t": "A home for your plans comes first.",
+   "f": false
+  },
+  {
+   "t": "Before anything else, a home for your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a safe spot for your plans.",
+   "f": false
+  },
+  {
+   "t": "Let’s make a home for your things.",
+   "f": false
+  },
+  {
+   "t": "Your plans need somewhere to live.",
+   "f": false
+  },
+  {
+   "t": "First, a place to keep it all.",
+   "f": false
+  },
+  {
+   "t": "Let’s start with somewhere to keep things.",
+   "f": false
+  },
+  {
+   "t": "Step one: somewhere to keep your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a place to keep your plans safe.",
+   "f": false
+  },
+  {
+   "t": "Somewhere safe to keep your things.",
+   "f": false
+  },
+  {
+   "t": "Let’s give everything a home.",
+   "f": false
+  },
+  {
+   "t": "First, a home for all of it.",
+   "f": false
+  },
+  {
+   "t": "A place for your stuff to live.",
+   "f": false
+  },
+  {
+   "t": "Let’s keep your plans somewhere safe.",
+   "f": false
+  },
+  {
+   "t": "Every plan needs a home. Let’s make yours.",
+   "f": false
+  },
+  {
+   "t": "First, a place to put your plans.",
+   "f": false
+  },
+  {
+   "t": "Start here: a home for your stuff.",
+   "f": false
+  },
+  {
+   "t": "A home for your plans, to start.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere your plans can stay.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere to keep things safe.",
+   "f": false
+  },
+  {
+   "t": "To begin, a home for your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, let’s give your things a place.",
+   "f": false
+  },
+  {
+   "t": "A safe place for your plans to live.",
+   "f": false
+  },
+  {
+   "t": "Let’s set up somewhere to keep your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a home for your days.",
+   "f": false
+  },
+  {
+   "t": "Let’s make your plans a home.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere to store your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a place where your plans live.",
+   "f": false
+  },
+  {
+   "t": "Let’s get your things a safe home.",
+   "f": false
+  },
+  {
+   "t": "First, a little home for your plans.",
+   "f": false
+  },
+  {
+   "t": "A safe place for everything, first.",
+   "f": false
+  },
+  {
+   "t": "First, a place to hold your plans.",
+   "f": false
+  },
+  {
+   "t": "First, a place to keep your days.",
+   "f": false
+  },
+  {
+   "t": "Let’s find a home for your plans.",
+   "f": false
+  },
+  {
+   "t": "One thing first: a place for your stuff.",
+   "f": false
+  },
+  {
+   "t": "Quick first step: a home for your plans.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere for your plans to live.",
+   "f": false
+  },
+  {
+   "t": "Let’s give your plans somewhere to live.",
+   "f": false
+  },
+  {
+   "t": "Your plans need a home. Let’s set one up.",
+   "f": false
+  },
+  {
+   "t": "First, a safe home for your things.",
+   "f": false
+  },
+  {
+   "t": "First, somewhere to keep what matters.",
+   "f": false
+  },
+  {
+   "t": "Let’s make somewhere safe for your stuff.",
+   "f": false
+  },
+  {
+   "t": "First, a home for everything you plan.",
+   "f": false
+  },
+  {
+   "t": "Somewhere to keep your days, first.",
+   "f": false
+  },
+  {
+   "t": "First, one safe place for your stuff.",
+   "f": false
+  },
+  {
+   "t": "One home for all your plans.",
+   "f": false
+  },
+  {
+   "t": "A home for your stuff, to begin.",
+   "f": false
+  },
+  {
+   "t": "First, a place to keep your things.",
+   "f": false
+  },
+  {
+   "t": "Let’s give your days a home.",
+   "f": false
+  },
+  {
+   "t": "First, a safe place for it all.",
+   "f": false
+  },
+  {
+   "t": "Somewhere safer than the doom pile.",
+   "f": true
+  },
+  {
+   "t": "First, a place you can’t misplace.",
+   "f": true
+  },
+  {
+   "t": "A home for your stuff. Keys not included.",
+   "f": true
+  },
+  {
+   "t": "First, somewhere better than tab 48.",
+   "f": true
+  },
+  {
+   "t": "A spot for your stuff that stays put.",
+   "f": true
+  },
+  {
+   "t": "First, a place your stuff actually stays.",
+   "f": true
+  },
+  {
+   "t": "Somewhere safer than sticky notes.",
+   "f": true
+  },
+  {
+   "t": "A safer spot than the back of your hand.",
+   "f": true
+  },
+  {
+   "t": "Somewhere to keep it, so your head doesn’t.",
+   "f": true
+  },
+  {
+   "t": "Your plans deserve better than a napkin.",
+   "f": true
+  },
+  {
+   "t": "One home for your stuff, not seven.",
+   "f": true
+  },
+  {
+   "t": "A home where your stuff won’t wander off.",
+   "f": true
+  },
+  {
+   "t": "Let’s keep your stuff somewhere findable.",
+   "f": true
+  },
+  {
+   "t": "A home for your stuff. We’ll remember where.",
+   "f": true
+  },
+  {
+   "t": "A home for your stuff. No scavenger hunts.",
+   "f": true
+  },
+  {
+   "t": "Your plans, safe from the back of the sofa.",
+   "f": true
+  },
+  {
+   "t": "A home for your stuff, even out of mind.",
+   "f": true
+  },
+  {
+   "t": "A home for your stuff. Not the junk drawer.",
+   "f": true
+  },
+  {
+   "t": "Somewhere your plans won’t get buried.",
+   "f": true
+  },
+  {
+   "t": "A home for your plans. Future you approves.",
+   "f": true
+  },
+  {
+   "t": "Your stuff won’t vanish here. Unlike socks.",
+   "f": true
+  },
+  {
+   "t": "Let’s give your stuff a home. A real one.",
+   "f": true
+  },
+  {
+   "t": "A labelled home for your stuff. Fancy.",
+   "f": true
+  },
+  {
+   "t": "One place for it all. Your brain can exhale.",
+   "f": true
+  },
+  {
+   "t": "First, a home that isn’t the kitchen table.",
+   "f": true
+  },
+  {
+   "t": "Somewhere safer than 900 screenshots.",
+   "f": true
+  },
+  {
+   "t": "A home for all of it. Even the random bits.",
+   "f": true
+  },
+  {
+   "t": "Here, things stay where you left them.",
+   "f": true
+  },
+  {
+   "t": "Somewhere tidier than the bottom of a bag.",
+   "f": true
+  },
+  {
+   "t": "Somewhere better than emailing yourself.",
+   "f": true
+  }
+ ],
+ "coachMeds": [
+  {
+   "t": "Your medication lives here. Tap one to log it. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap a medication to log it. The more button shows everything for today.",
+   "f": false
+  },
+  {
+   "t": "These are today’s medications. One tap logs each one; more shows the full list.",
+   "f": false
+  },
+  {
+   "t": "Tap a button to log that dose. More opens the rest of today, with Log all.",
+   "f": false
+  },
+  {
+   "t": "Your medication sits here. Tap to log. More holds the rest.",
+   "f": false
+  },
+  {
+   "t": "One tap on a medication logs it. More shows every dose today.",
+   "f": false
+  },
+  {
+   "t": "Log a dose with one tap. Tap more to see all of today’s medication.",
+   "f": false
+  },
+  {
+   "t": "Tap the medication you’ve taken to log it. More shows the others.",
+   "f": false
+  },
+  {
+   "t": "Here’s your medication. Tap one to log it, or open more for the full list.",
+   "f": false
+  },
+  {
+   "t": "Tap to log. Press and hold to log at another time. More shows everything.",
+   "f": false
+  },
+  {
+   "t": "Each button logs one dose. More opens the full list and Log all.",
+   "f": false
+  },
+  {
+   "t": "Your next two doses sit here. Tap to log. More shows the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Tap a dose to log it. Everything else for today lives under more.",
+   "f": false
+  },
+  {
+   "t": "This row is your medication. Tap to log one. More has the rest.",
+   "f": false
+  },
+  {
+   "t": "Log with a tap. Hold for a different time. More lists every dose today.",
+   "f": false
+  },
+  {
+   "t": "Tap what you’ve taken. More shows today’s whole list.",
+   "f": false
+  },
+  {
+   "t": "Your medication, two at a time. Tap to log. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "One tap logs a dose. More shows all of today’s, with Log all at the top.",
+   "f": false
+  },
+  {
+   "t": "Tap a medication once you’ve taken it. More shows everything else.",
+   "f": false
+  },
+  {
+   "t": "The next doses show here. Tap to log, or open more for the full day.",
+   "f": false
+  },
+  {
+   "t": "Tap to log a dose. Tap more to log all or see the rest.",
+   "f": false
+  },
+  {
+   "t": "Your medication for now sits here. More shows the whole day.",
+   "f": false
+  },
+  {
+   "t": "Tap one to log it. The rest, and Log all, are under more.",
+   "f": false
+  },
+  {
+   "t": "Log a dose with a single tap. More opens today’s full list.",
+   "f": false
+  },
+  {
+   "t": "These buttons log your medication. More shows every dose for today.",
+   "f": false
+  },
+  {
+   "t": "Tap a dose when you’ve taken it. More shows the rest of the day.",
+   "f": false
+  },
+  {
+   "t": "One tap per dose. More holds the full list and Log all.",
+   "f": false
+  },
+  {
+   "t": "Tap here to log. Hold to pick another time. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Your two next doses, one tap each. More has everything else.",
+   "f": false
+  },
+  {
+   "t": "Tap the dose you’ve taken. More shows today’s others.",
+   "f": false
+  },
+  {
+   "t": "This is where you log medication. Tap one, or open more for the list.",
+   "f": false
+  },
+  {
+   "t": "A tap logs that dose. More shows the whole of today.",
+   "f": false
+  },
+  {
+   "t": "Tap to log. The more button lists every dose for today.",
+   "f": false
+  },
+  {
+   "t": "Log what you’ve taken with one tap. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Here are your next doses. Tap to log. More opens the full list.",
+   "f": false
+  },
+  {
+   "t": "Your medication is one tap away. More shows the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Tap a medication to log it now. More has the full list and Log all.",
+   "f": false
+  },
+  {
+   "t": "Each dose gets its own button. More shows any others.",
+   "f": false
+  },
+  {
+   "t": "Tap to log, hold for another time, and open more for the rest.",
+   "f": false
+  },
+  {
+   "t": "Log each dose with a tap. More shows everything planned today.",
+   "f": false
+  },
+  {
+   "t": "Two doses show here. Tap to log. The rest are under more.",
+   "f": false
+  },
+  {
+   "t": "Tap once to log. More gives you the full list and Log all.",
+   "f": false
+  },
+  {
+   "t": "Your medication for today starts here. Tap to log, more for the rest.",
+   "f": false
+  },
+  {
+   "t": "A single tap logs your dose. More shows the whole day’s medication.",
+   "f": false
+  },
+  {
+   "t": "Tap the one you’ve taken. More shows today’s full list.",
+   "f": false
+  },
+  {
+   "t": "Log it with one tap. More opens every dose for today.",
+   "f": false
+  },
+  {
+   "t": "These are your next doses. Tap one to log it. More shows the others.",
+   "f": false
+  },
+  {
+   "t": "Tap to log that dose. More has Log all and the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Medication lives here. One tap logs it. More shows the full day.",
+   "f": false
+  },
+  {
+   "t": "Tap a button once you’ve taken it. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "One tap logs a medication. Tap more to see all of today’s.",
+   "f": false
+  },
+  {
+   "t": "Your next medication is here. Tap to log. More shows the list.",
+   "f": false
+  },
+  {
+   "t": "Tap to log a dose now. More lets you log all or see the rest.",
+   "f": false
+  },
+  {
+   "t": "Log your medication here with one tap. More shows every dose.",
+   "f": false
+  },
+  {
+   "t": "Tap the dose you took. More opens today’s full list.",
+   "f": false
+  },
+  {
+   "t": "These buttons are today’s next doses. Tap to log. More has the rest.",
+   "f": false
+  },
+  {
+   "t": "One tap logs it. Press and hold for a different time.",
+   "f": false
+  },
+  {
+   "t": "Tap to log. Everything for today is one more tap away, under more.",
+   "f": false
+  },
+  {
+   "t": "Your medication row: tap to log, more for the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap a medication to log it. More shows today’s others and Log all.",
+   "f": false
+  },
+  {
+   "t": "Log a dose by tapping it. More lists the whole day.",
+   "f": false
+  },
+  {
+   "t": "The next two doses show here. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap to log what you’ve taken. More opens the full list.",
+   "f": false
+  },
+  {
+   "t": "One tap per medication. More shows everything else today.",
+   "f": false
+  },
+  {
+   "t": "Tap here when you’ve taken it. More shows the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Your doses show here, two at a time. Tap to log.",
+   "f": false
+  },
+  {
+   "t": "Tap a dose to log it. More gives the full list for today.",
+   "f": false
+  },
+  {
+   "t": "Log with one tap. More shows all of today’s medication.",
+   "f": false
+  },
+  {
+   "t": "Here’s where you log. Tap a medication, or more for the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap to log that one. The full list lives under more.",
+   "f": false
+  },
+  {
+   "t": "Each tap logs one dose. More shows today’s full plan.",
+   "f": false
+  },
+  {
+   "t": "Tap your medication to log it. More has the rest and Log all.",
+   "f": false
+  },
+  {
+   "t": "Your next doses are here. One tap logs each.",
+   "f": false
+  },
+  {
+   "t": "Tap to log now, or hold to choose the time. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Log a medication with a tap. More opens every dose for today.",
+   "f": false
+  },
+  {
+   "t": "Tap the dose once it’s taken. More shows what else is planned.",
+   "f": false
+  },
+  {
+   "t": "Two buttons for your next doses, one for everything else.",
+   "f": false
+  },
+  {
+   "t": "Tap to log. More shows the whole day and lets you log all.",
+   "f": false
+  },
+  {
+   "t": "Your medication is logged from here with one tap.",
+   "f": false
+  },
+  {
+   "t": "Tap a dose to record it. More shows today’s full list.",
+   "f": false
+  },
+  {
+   "t": "One tap records a dose. More opens the rest of today.",
+   "f": false
+  },
+  {
+   "t": "Tap what you’ve taken to log it. The rest sit under more.",
+   "f": false
+  },
+  {
+   "t": "Log each medication with a single tap. More shows the others.",
+   "f": false
+  },
+  {
+   "t": "Tap to log. The more button shows every dose, with Log all.",
+   "f": false
+  },
+  {
+   "t": "Your next doses, ready to log with one tap.",
+   "f": false
+  },
+  {
+   "t": "Tap a medication to record it. More shows the whole day.",
+   "f": false
+  },
+  {
+   "t": "Log a dose here. More opens the full list for today.",
+   "f": false
+  },
+  {
+   "t": "Tap to log it. Hold if you took it at a different time.",
+   "f": false
+  },
+  {
+   "t": "These show your next doses. Tap to log, more for the rest.",
+   "f": false
+  },
+  {
+   "t": "One tap logs, and more shows everything else for today.",
+   "f": false
+  },
+  {
+   "t": "Tap the medication you’ve taken. More has the complete list.",
+   "f": false
+  },
+  {
+   "t": "Log your next dose with one tap. More shows the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap to record a dose. More lists today’s medication in full.",
+   "f": false
+  },
+  {
+   "t": "Your medication, one tap each. More holds the rest.",
+   "f": false
+  },
+  {
+   "t": "Tap a dose to log it now. More shows every dose planned today.",
+   "f": false
+  },
+  {
+   "t": "Log here with a tap. The whole day is under more.",
+   "f": false
+  },
+  {
+   "t": "Tap one to log it. More opens the list and Log all.",
+   "f": false
+  },
+  {
+   "t": "Each button is a dose. Tap to log. More shows the others.",
+   "f": false
+  },
+  {
+   "t": "Tap to log a medication. More shows today’s full list.",
+   "f": false
+  },
+  {
+   "t": "Your doses live here. Tap to log. More shows the rest of the day.",
+   "f": false
+  }
+ ],
+ "medsNothingDue": [
+  {
+   "t": "Nothing to log right now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next one is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. Your next one is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log just now. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. The next one you set is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Your next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs logging right now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. The next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. You set the next one for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. The next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log just yet. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "All clear for now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next one set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. Your next one is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs logging yet. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next one you set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log now. The next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Right now, nothing to log. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "For now, nothing to log. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "At the moment, nothing to log. The next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log until {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log before {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs logging until {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log till {time}, when your next one is set.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log until your next one at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next one’s set for {time}. Nothing to log right now.",
+   "f": false
+  },
+  {
+   "t": "Your next one is set for {time}. Nothing to log yet.",
+   "f": false
+  },
+  {
+   "t": "The next one you set is at {time}. Nothing to log now.",
+   "f": false
+  },
+  {
+   "t": "Next one at {time}. Nothing to log until then.",
+   "f": false
+  },
+  {
+   "t": "Next one’s at {time}. Nothing to log before then.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next one at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at present. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right this minute. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing waiting to be logged. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing waiting to log. The next one is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "No medication to log right now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "No medication to log just now. The next is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for the moment. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Coming up next at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log now. Next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Your next is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. You’ve set the next for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next one you’ve set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. Your next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Your next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. Your next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. The next one you set is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log just now. The next one you set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. You set the next one for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs logging now. The next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. Next one set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. The next one you set is at {time}.",
+   "f": false
+  },
+  {
+   "t": "You’re clear for now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "You’re clear until {time}. Nothing to log right now.",
+   "f": false
+  },
+  {
+   "t": "Clear until {time}. Nothing to log right now.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. You’re clear until {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log until {time}. You’re clear for now.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log till {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs logging till {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next one’s scheduled for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. Next one’s scheduled for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Your next one’s scheduled for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. The next one’s scheduled for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next on your list at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next on the list: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next one comes up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next one comes up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. The next one comes up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. Next one comes up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next time you set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next time you’ve set: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. The next time you’ve set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. Next time you set is {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. Next time set: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log now. Next one you set: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next one you’ve set: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log just now. Next one set: {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing here to log right now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing here to log yet. The next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing here to log for now. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "There’s nothing to log right now. Next one’s set for {time}.",
+   "f": false
+  },
+  {
+   "t": "There’s nothing to log yet. The next one is set for {time}.",
+   "f": false
+  },
+  {
+   "t": "There’s nothing to log for now. Next one at {time}.",
+   "f": false
+  },
+  {
+   "t": "There’s nothing to log until {time}.",
+   "f": false
+  },
+  {
+   "t": "There’s nothing to log before {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing is waiting to be logged. Next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. The next one’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log at the moment. Next at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log right now. Next at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log for now. Next at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log yet. Next at {time}.",
+   "f": false
+  },
+  {
+   "t": "Nothing to log. Next at {time}.",
+   "f": false
+  },
+  {
+   "t": "No medication to log right now. The next one is at {time}.",
+   "f": false
+  },
+  {
+   "t": "No medication to log until {time}.",
+   "f": false
+  },
+  {
+   "t": "No medication to log yet. Your next one’s set for {time}.",
+   "f": false
+  }
+ ],
+ "dayLineBest": [
+  {
+   "t": "Best focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "In your best focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Peak focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your best focus runs until {time}.",
+   "f": false
+  },
+  {
+   "t": "Sharpest until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus, right up to {time}.",
+   "f": false
+  },
+  {
+   "t": "You’re in best focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Prime focus time until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your strongest focus lasts until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus now, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Top focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus is at its best until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your best window runs to {time}.",
+   "f": false
+  },
+  {
+   "t": "In your best window until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus lasts until {time}.",
+   "f": false
+  },
+  {
+   "t": "Clearest focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your focus peaks until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus from now until {time}.",
+   "f": false
+  },
+  {
+   "t": "In best focus. Good until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus is on until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus is strongest until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus till {time}.",
+   "f": false
+  },
+  {
+   "t": "Your best focus, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Now in best focus, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best time to focus: now until {time}.",
+   "f": false
+  },
+  {
+   "t": "Prime time for focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus time lasts to {time}.",
+   "f": false
+  },
+  {
+   "t": "Your sharpest stretch runs to {time}.",
+   "f": false
+  },
+  {
+   "t": "In your sharpest stretch until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus, on until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus at its best till {time}.",
+   "f": false
+  },
+  {
+   "t": "Your best focus is here until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus at its peak until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus window, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus window open till {time}.",
+   "f": false
+  },
+  {
+   "t": "Your strongest focus, until {time}.",
+   "f": false
+  },
+  {
+   "t": "You’re at your sharpest until {time}.",
+   "f": false
+  },
+  {
+   "t": "At your sharpest till {time}.",
+   "f": false
+  },
+  {
+   "t": "At your best focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus is yours until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus runs till {time}.",
+   "f": false
+  },
+  {
+   "t": "Peak focus lasts until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus is at its sharpest till {time}.",
+   "f": false
+  },
+  {
+   "t": "Sharpest focus of the day, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus now, until about {time}.",
+   "f": false
+  },
+  {
+   "t": "Your prime focus lasts to {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus stretch until {time}.",
+   "f": false
+  },
+  {
+   "t": "Peak focus now, until {time}.",
+   "f": false
+  },
+  {
+   "t": "In peak focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "You’re in peak focus till {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus from here to {time}.",
+   "f": false
+  },
+  {
+   "t": "Strongest focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus is best until {time}.",
+   "f": false
+  },
+  {
+   "t": "Clear-headed until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your clearest stretch runs to {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus at full strength until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus lasts till {time}.",
+   "f": false
+  },
+  {
+   "t": "Your best focus goes until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus holds until {time}.",
+   "f": false
+  },
+  {
+   "t": "Peak focus holds till {time}.",
+   "f": false
+  },
+  {
+   "t": "Focus peaks now, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your peak runs until {time}.",
+   "f": false
+  },
+  {
+   "t": "At peak focus till {time}.",
+   "f": false
+  },
+  {
+   "t": "In your peak until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus stays until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus is running until {time}.",
+   "f": false
+  },
+  {
+   "t": "Your focus is at its best till {time}.",
+   "f": false
+  },
+  {
+   "t": "Sharp focus until {time}.",
+   "f": false
+  },
+  {
+   "t": "Top focus stretch, until {time}.",
+   "f": false
+  },
+  {
+   "t": "Best focus. Lasts until {time}.",
+   "f": false
+  },
+  {
+   "t": "Brain’s online until {time}.",
+   "f": true
+  },
+  {
+   "t": "Big brain time until {time}.",
+   "f": true
+  },
+  {
+   "t": "Tabs loading fast until {time}.",
+   "f": true
+  },
+  {
+   "t": "Station found. Best focus till {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain on good Wi-Fi until {time}.",
+   "f": true
+  },
+  {
+   "t": "Focus: suspiciously good till {time}.",
+   "f": true
+  },
+  {
+   "t": "Focus mode unlocked until {time}.",
+   "f": true
+  },
+  {
+   "t": "Peak brain. Open until {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s doing its thing until {time}.",
+   "f": true
+  },
+  {
+   "t": "Laser mode on until {time}.",
+   "f": true
+  },
+  {
+   "t": "Best focus. Tabs behaving till {time}.",
+   "f": true
+  },
+  {
+   "t": "Golden hour for your brain, till {time}.",
+   "f": true
+  },
+  {
+   "t": "Firing on all cylinders till {time}.",
+   "f": true
+  },
+  {
+   "t": "Focus on, squirrels off, till {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain says yes until {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s cooperating until {time}.",
+   "f": true
+  },
+  {
+   "t": "Your brain’s best era, till {time}.",
+   "f": true
+  },
+  {
+   "t": "Just one tab open until {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain in high gear until {time}.",
+   "f": true
+  },
+  {
+   "t": "Best focus, fully charged, till {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s at full bars until {time}.",
+   "f": true
+  },
+  {
+   "t": "Your brain’s showing up until {time}.",
+   "f": true
+  },
+  {
+   "t": "Good brain weather until {time}.",
+   "f": true
+  },
+  {
+   "t": "Clear skies upstairs until {time}.",
+   "f": true
+  },
+  {
+   "t": "Thoughts queuing nicely till {time}.",
+   "f": true
+  },
+  {
+   "t": "Main character focus until {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s got its shoes on till {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s in the building till {time}.",
+   "f": true
+  },
+  {
+   "t": "Your brain RSVP’d yes until {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s playing along until {time}.",
+   "f": true
+  }
+ ],
+ "restUnplaced": [
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split or move what’s left.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without cramming the day. Fix my day can help find room.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without overfilling today. Fix my day can split or shift things.",
+   "f": false
+  },
+  {
+   "t": "Not everything fit: {count} would have over-packed the day. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "{count} left over so today isn’t over-packed. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "To keep today from getting over-packed, {count} didn’t fit. Fix my day can find space.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t make it in without overloading today. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} wouldn’t fit without packing today too tight. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing the day. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "Today’s full enough, so {count} didn’t fit. Fix my day can split or move what’s left.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without over-packing. Fix my day can make room.",
+   "f": false
+  },
+  {
+   "t": "There wasn’t room for {count} without over-packing. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without crowding the day. Fix my day can split or reshuffle.",
+   "f": false
+  },
+  {
+   "t": "Didn’t fit without over-packing: {count}. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} left without a spot, so the day isn’t over-packed. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without overdoing the day. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "Fitting {count} in would over-pack today. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "Adding {count} would over-pack today. Fix my day can find room.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without squeezing the day too hard. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} wouldn’t fit without overfilling today. Fix my day can split or reschedule.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit today without over-packing. Fix my day can move or split things.",
+   "f": false
+  },
+  {
+   "t": "So today isn’t over-packed, {count} didn’t fit. Fix my day can help sort it.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without making today too full. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t squeeze in without over-packing. Fix my day can find room.",
+   "f": false
+  },
+  {
+   "t": "{count} left over to keep today realistic. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without piling too much on. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can break things up or shift them later.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without over-packing the day. Fix my day can break things up or move them.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit, or the day would be over-packed. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without tipping into over-packed. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "The day would be over-packed with {count} added. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without putting too much in one day. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split big things or move them.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can find room elsewhere.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without over-packing. Fix my day can spread things out.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing today. Fix my day can spread things out.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit, to keep today from over-packing. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "There wasn’t space for {count} without over-packing. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "No room for {count} without over-packing. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split, shift or reschedule.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t go in without over-packing today. Fix my day can make space.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit, since the day was already full. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without cramming. Fix my day can split things up or move them.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without stuffing the day. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can work out where things can go.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can suggest a split or a move.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day has a few ideas.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can sort out where things go.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing the day. Fix my day can help rearrange.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without the day getting too full. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without overloading. Fix my day can split things or find another time.",
+   "f": false
+  },
+  {
+   "t": "To avoid over-packing, {count} didn’t fit. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "To keep the day doable, {count} didn’t fit. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "To leave some breathing room, {count} didn’t fit. Fix my day can help place things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without losing your breathing room. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without eating into breathing room. Fix my day can help.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit and still leave room to breathe. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split things or push them to later.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split things or move them to another day.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Tap Fix my day to split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without over-packing today. Tap Fix my day for options.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can show you options.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can suggest where things go.",
+   "f": false
+  },
+  {
+   "t": "{count} wouldn’t fit without over-packing. Fix my day can help you choose what moves.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without making the day too tight. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without packing things too close. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} wouldn’t fit without back-to-back everything. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split, move or reshuffle.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit, so today stays manageable. Fix my day can split or move things.",
+   "f": false
+  },
+  {
+   "t": "{count} couldn’t fit without over-packing. Fix my day can split things or find them a new time.",
+   "f": false
+  },
+  {
+   "t": "{count} didn’t fit without sitting on the suitcase. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Today’s a day, not a clown car. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Days, sadly, don’t stretch. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. The day ran out of room before the list ran out of ideas. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Optimism packed the day, and the day said no. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Even the best day has walls. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Even your plans need personal space. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. The day is full, not magic. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Future you would like a lunch break. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit, and we’re not shoehorning. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Your day deserves elbow room. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. A day only holds so much, even an ambitious one. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Five-minute jobs have a way of growing. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. The day is 24 hours, sadly not 30. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. No cramming, no heroics. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. The to-do list dreamed bigger than the day. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Big plans, regular-sized day. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Rather than bend time, Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. We checked every corner, twice. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. The day tapped out. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Today said “that’s plenty”. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Sadly, the day has no bonus level. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. The day’s full and politely declining more. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Optimistic planning happens to the best of us. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Days are like drawers: only so much goes in. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Fix my day can split or move things. No sitting on the lid.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. Hours don’t come in bigger sizes. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Later is a real time, promise. Fix my day can split or move things.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit without over-packing. The day said “any more and I pop”. Fix my day can help.",
+   "f": true
+  },
+  {
+   "t": "{count} didn’t fit. Even a great day has a guest limit. Fix my day can split or move things.",
+   "f": true
+  }
+ ],
+ "socialLine": [
+  {
+   "t": "{event} is at {time}. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, which is a tricky time. Want to suggest another?",
+   "f": false
+  },
+  {
+   "t": "{event} lands at {time}. Want to ask for a better time?",
+   "f": false
+  },
+  {
+   "t": "{event} is set for {time}. Ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} might be tough. Want to suggest a new time?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want a better time to suggest?",
+   "f": false
+  },
+  {
+   "t": "{event} falls at {time}, an awkward spot. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Tap for a better time to suggest.",
+   "f": false
+  },
+  {
+   "t": "{event} sits at {time}. Want to see if it could move?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} could be tricky. Want to ask to shift it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. There might be a better time. Want to see?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. We found a time that may suit you better.",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} isn’t ideal for you. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want help asking to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is booked for {time}. Would another time suit you better?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to suggest a time that suits you?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. A different time could be easier. Want to ask?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} is an awkward fit. Tap to see a better time.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to see a better slot to suggest?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, a hard time for you. Ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to ask if it can move?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Could it move? Tap to see a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} lands at {time}, a tricky time. Tap for a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is scheduled for {time}. Want to ask for a change?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} might not suit you. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Tap to see a time that might work better.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Worth asking to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} is a bit awkward. Want to ask about moving it?",
+   "f": false
+  },
+  {
+   "t": "{event} falls at {time}. Want to see a better option?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. There’s a time that could suit you better.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to float a different time?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} could be hard. Tap for a gentler time.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to ask for a time that’s easier on you?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Maybe ask to move it? Tap for a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, an awkward time. Tap to see a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is set for {time}. Want to suggest moving it?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time}? Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Would moving it help? Tap to see.",
+   "f": false
+  },
+  {
+   "t": "{event} sits at {time}, which could be tricky. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. We have a suggestion if you want to move it.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want a suggestion for a better time?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Tap if you’d like to ask to move it.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. There may be an easier time. Want to ask?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} is a tough slot. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to see a time that fits you better?",
+   "f": false
+  },
+  {
+   "t": "{event} lands at {time}. Want to ask about another time?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to suggest a better time?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, an awkward time for you. Tap for ideas.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Could another time work? Tap to see.",
+   "f": false
+  },
+  {
+   "t": "{event} happens at {time}. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Another time might suit you. Want to ask?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to check a better time with them?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} could clash with your rhythm. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, outside your easier hours. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. A small move could make it easier. Want to ask?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Tap to see what might work better.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Would a different time be kinder? Tap to see.",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} may be a stretch. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. If that’s awkward, tap for a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to ask to shift it a little?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. There’s a friendlier time. Want to see?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Tap for a time that might suit everyone.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to see if a new time works?",
+   "f": false
+  },
+  {
+   "t": "{event} lands at {time}. Tap to see a better fit.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, which may be hard. Tap to see a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is on at {time}. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Want to gently ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}. Great plan, tricky time. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} looks awkward. Want to ask to move it?",
+   "f": false
+  },
+  {
+   "t": "{event} at {time} might be hard going. Tap for a suggestion.",
+   "f": false
+  },
+  {
+   "t": "{event} is at {time}, when your brain’s between stations. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Future you has concerns. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain would like a word. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Not your brain’s favourite hour. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Awkward timing, great company. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain’s calendar disagrees. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} at {time} could catch your brain mid-reboot. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Good people, awkward o’clock. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}, when your brain likes to wander. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} at {time}? Your brain may arrive fashionably late. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Want your best brain there? Ask to move it.",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Timing’s a bit meh. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain’s RSVP says “maybe”. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your focus may be off on a side quest. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain may be in another tab. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain has a scheduling note. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain asked us to check. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain may be buffering. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your focus may be on a tea break. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} at {time}? Your brain may send its apologies. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your best self might be busy then. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain’s out of office then. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Lovely plan, wobbly timing. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} at {time}. Your brain checked its diary and winced. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain’s already negotiating. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. The vibes are great, the timing less so. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}, low-battery time for your brain. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Timing: chaotic neutral. Want to ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} is at {time}. Your brain filed a complaint. Ask to move it?",
+   "f": true
+  },
+  {
+   "t": "{event} at {time} might meet the fuzzy version of you. Want to ask to move it?",
+   "f": true
+  }
+ ],
+ "planWeekHeadline": [
+  {
+   "t": "{count} of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of the last 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} out of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days met your baseline",
+   "f": false
+  },
+  {
+   "t": "Baseline met on {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of the past 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days hit baseline",
+   "f": false
+  },
+  {
+   "t": "This week: {count} of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of your last 7 days counted",
+   "f": false
+  },
+  {
+   "t": "Last 7 days: {count} counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 baseline days",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days reached baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of seven days counted",
+   "f": false
+  },
+  {
+   "t": "Your baseline, {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days, baseline done",
+   "f": false
+  },
+  {
+   "t": "Baseline done on {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of the last seven days counted",
+   "f": false
+  },
+  {
+   "t": "{count} out of the last 7 counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 recent days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days made baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days covered the basics",
+   "f": false
+  },
+  {
+   "t": "Past week: {count} of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days kept the basics going",
+   "f": false
+  },
+  {
+   "t": "The basics got done {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days had baseline done",
+   "f": false
+  },
+  {
+   "t": "{count} out of seven days counted",
+   "f": false
+  },
+  {
+   "t": "Last seven days: {count} counted",
+   "f": false
+  },
+  {
+   "t": "Baseline reached {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted this week",
+   "f": false
+  },
+  {
+   "t": "Counted days: {count} of 7",
+   "f": false
+  },
+  {
+   "t": "Days counted: {count} of 7",
+   "f": false
+  },
+  {
+   "t": "Baseline days: {count} of 7",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days with baseline done",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days, counted",
+   "f": false
+  },
+  {
+   "t": "{count} of the last 7 days, counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days met the baseline",
+   "f": false
+  },
+  {
+   "t": "In the last 7 days, {count} counted",
+   "f": false
+  },
+  {
+   "t": "Of the last 7 days, {count} counted",
+   "f": false
+  },
+  {
+   "t": "Of the past 7 days, {count} counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days saw baseline done",
+   "f": false
+  },
+  {
+   "t": "{count} of the week’s 7 days counted",
+   "f": false
+  },
+  {
+   "t": "Baseline hit on {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days got the basics done",
+   "f": false
+  },
+  {
+   "t": "The past 7 days: {count} counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days had the basics done",
+   "f": false
+  },
+  {
+   "t": "Your week: {count} of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days, baseline met",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days ticked the three boxes",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days did the basics",
+   "f": false
+  },
+  {
+   "t": "{count} out of 7 days met baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days the basics landed",
+   "f": false
+  },
+  {
+   "t": "{count} out of 7 recent days counted",
+   "f": false
+  },
+  {
+   "t": "The past week: {count} of 7 counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 counted this past week",
+   "f": false
+  },
+  {
+   "t": "Counted this week: {count} of 7",
+   "f": false
+  },
+  {
+   "t": "This week, {count} of 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of the 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days made the baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days reached the baseline",
+   "f": false
+  },
+  {
+   "t": "Baseline: {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "Baseline met {count} of 7 days",
+   "f": false
+  },
+  {
+   "t": "{count} of this week’s 7 days counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days covered baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days met the basics",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days got their three things",
+   "f": false
+  },
+  {
+   "t": "{count} of the last 7 hit baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of the last 7 met baseline",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days, basics done",
+   "f": false
+  },
+  {
+   "t": "In 7 days, {count} counted",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days counted, all told",
+   "f": false
+  },
+  {
+   "t": "{count} of 7 days got the baseline stamp",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days wore the baseline hat",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days joined the baseline club",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days went baseline",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, baseline-certified",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 counted, no gold stars",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days got a quiet tick",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, baseline-shaped",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days did the boring, vital bits",
+   "f": true
+  },
+  {
+   "t": "Friendly abacus says {count} of 7 days",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 got the basics over the line",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 did the three-thing shuffle",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days had their basics on",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days showed up for the basics",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days said yes to the basics",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days RSVP’d to baseline",
+   "f": true
+  },
+  {
+   "t": "{count} of 7, basics present and correct",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days kept the basics humming",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, the basics got airtime",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days got the baseline nod",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, the basics clocked in",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 befriended the baseline",
+   "f": true
+  },
+  {
+   "t": "By our count, {count} of 7 days counted",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days were baseline material",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days kept the basics ticking",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days did the unglamorous bits",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, the essentials said hi",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days the basics behaved",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 days, basics made a cameo",
+   "f": true
+  },
+  {
+   "t": "{count} of 7 high-fived the baseline",
+   "f": true
+  }
+ ],
+ "detailPlanDone": [
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey shows the plan, gold shows what got done. The gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey bars are planned, gold bars are done. Any gap is information, not a failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan. Gold is what happened. Gaps are just information.",
+   "f": false
+  },
+  {
+   "t": "Grey means planned and gold means done. A gap is information, never a failure.",
+   "f": false
+  },
+  {
+   "t": "Planned is grey, done is gold. The space between is information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey for planned, gold for done. Gaps tell you something. They aren’t failures.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you meant to do, gold is what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "The grey is your plan, the gold is what got done. Gaps are information, not a verdict.",
+   "f": false
+  },
+  {
+   "t": "Grey shows what you planned. Gold shows what got done. Gaps are useful information.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Where they differ, that’s information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey marks the plan, gold marks what got done. The gaps are information, nothing more.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned and gold is what got done. A gap is a clue, not a failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is the done part. Gaps are information to learn from, not failure.",
+   "f": false
+  },
+  {
+   "t": "What you planned is grey. What got done is gold. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps help the plan learn. They aren’t failure.",
+   "f": false
+  },
+  {
+   "t": "Grey shows your plan and gold shows what got done. The gaps are information, not a grade.",
+   "f": false
+  },
+  {
+   "t": "Grey: what you planned. Gold: what got done. Gaps: information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan and gold is the real day. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "In grey, what you planned. In gold, what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you set out to do, gold is what got done. Gaps are simply information.",
+   "f": false
+  },
+  {
+   "t": "Grey stands for planned, gold for done. Every gap is information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what was planned, gold is what got done. Gaps are information, not a failing.",
+   "f": false
+  },
+  {
+   "t": "Grey is your plan. Gold is what you got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is the done. The gaps are just information, not failure.",
+   "f": false
+  },
+  {
+   "t": "The grey bars are your plan and the gold bars are what got done. Gaps are information.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what happened. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey for the plan, gold for what got done. The gaps show patterns, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are there to learn from, not to judge.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are notes, not failures.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned. Gold is what got done. A gap just tells you something.",
+   "f": false
+  },
+  {
+   "t": "Grey means planned. Gold means done. Gaps are information, and that’s all they are.",
+   "f": false
+  },
+  {
+   "t": "Grey shows what you planned, gold what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan you made, gold is what got done. The gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done, and the gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan. Gold is what got done. The difference is information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got finished. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned and gold is finished. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey shows the plan, gold shows the done bits. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you hoped to do, gold is what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. When they don’t match, that’s information, not failure.",
+   "f": false
+  },
+  {
+   "t": "The plan is grey and what got done is gold. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. The gaps help, they don’t judge.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan and gold is what got done. Gaps are information, never failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned. Gold is done. The gaps are worth noticing, not worrying about.",
+   "f": false
+  },
+  {
+   "t": "Grey is your plan and gold is what got done. Gaps are facts, not failures.",
+   "f": false
+  },
+  {
+   "t": "Grey is what was planned and gold is what was done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey shows plans, gold shows what got done. Gaps are information, not a failing grade.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is the result. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. A gap is just something to notice.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what you did. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey bars show the plan. Gold bars show what got done. Gaps are information.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are information, not a reason to worry.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are information for next time, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey shows what you planned. Gold shows what you did. Gaps are information, that’s all.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. The gaps are data, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned work, gold is done work. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey marks what you planned, gold marks what got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is the outcome. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps help the plan adjust. They’re not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information, no judgement.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned and gold is what got done. Gaps simply show what happened.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan, gold is what actually got done. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned. Gold is what got done. A gap is information, nothing bad.",
+   "f": false
+  },
+  {
+   "t": "Grey is planned, gold is done. Read the gaps as information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan and gold is the done. Gaps are information, not a mark against you.",
+   "f": false
+  },
+  {
+   "t": "Planned shows in grey, done shows in gold. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is the plan and gold is the doing. Gaps are information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are useful, not failures.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Each gap is information, not failure.",
+   "f": false
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are plot points, not failures.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is the reality. Gaps are information, not a report card.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are clues. You’re the detective.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are information. Nobody’s grading this.",
+   "f": true
+  },
+  {
+   "t": "Grey is the map, gold is the road you took. Gaps are information, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are data. Very boring, very useful.",
+   "f": true
+  },
+  {
+   "t": "Grey is optimism, gold is what got done. Gaps are information, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is the dream, gold is the done. Gaps are information, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. The gaps are just your day being a day.",
+   "f": true
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are information, often about those five-minute tasks.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps happen. Days are like that.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are where side quests went, not failures.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are information. No gold stars required.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information. The chart isn’t judging.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan and gold is the done. Gaps are information, not a character review.",
+   "f": true
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are information. The day had its own ideas.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are just notes in the margin.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information. The chart is unbothered.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps? Information. Not failure. Not even close.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is real life. Gaps are information, and real life always wins.",
+   "f": true
+  },
+  {
+   "t": "Grey is the wish list, gold is what got done. Gaps are information, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are information. Also normal. Also fine.",
+   "f": true
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are the day telling you things, not telling you off.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps are information, not a verdict on anyone.",
+   "f": true
+  },
+  {
+   "t": "Grey is planned, gold is done. Gaps are information. Plans are drafts, after all.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information. Days rarely read the plan.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are information. Time is slippery.",
+   "f": true
+  },
+  {
+   "t": "Grey is the plan, gold is what got done. Gaps show where time went wandering, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is the forecast, gold is the weather. Gaps are information, not failure.",
+   "f": true
+  },
+  {
+   "t": "Grey is what you planned, gold is what got done. Gaps are breadcrumbs, not failures.",
+   "f": true
+  }
+ ],
+ "detailLogs": [
+  {
+   "t": "Each dot is a logged morning. The band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a morning you logged. The band shows where most of them fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one logged morning. The band is where most mornings land.",
+   "f": false
+  },
+  {
+   "t": "One dot per logged morning. The band marks where most of them sit.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The shaded band is where most fall.",
+   "f": false
+  },
+  {
+   "t": "Dots are logged mornings. The band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot marks a logged morning. Most of them fall inside the band.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning. Most land inside the band.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning’s log. The band shows where most of them fall.",
+   "f": false
+  },
+  {
+   "t": "A dot for each logged morning. The band is where most of them gather.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one morning you logged. The band covers where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot stands for a logged morning. The band is where most land.",
+   "f": false
+  },
+  {
+   "t": "Every dot is one logged morning. The band shows your usual range.",
+   "f": false
+  },
+  {
+   "t": "Dots show logged mornings. The band is where most of them fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning, and the band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. Most of them sit within the band.",
+   "f": false
+  },
+  {
+   "t": "One dot, one logged morning. The band holds most of them.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band marks the usual range.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is your usual spread.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a morning you logged. The band is where they mostly fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows where they tend to land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where they usually fall.",
+   "f": false
+  },
+  {
+   "t": "A dot is a logged morning. The band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Dots are mornings you logged. The band is where most fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot shows a logged morning. The band is where most of them cluster.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. Most of them land in the band.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning, and most fall within the band.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning with a log. The band is where most land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is the range most fall in.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the range where most land.",
+   "f": false
+  },
+  {
+   "t": "Dots mark logged mornings. The band marks where most of them fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one morning’s log. The band is where most sit.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is your most common range.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning. The band is where they tend to cluster.",
+   "f": false
+  },
+  {
+   "t": "Each dot means a logged morning. The band is where most of them are.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows the typical spread.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. Most of them fall within the shaded band.",
+   "f": false
+  },
+  {
+   "t": "One dot for every logged morning. The band shows where most land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band covers most of them.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. Where the band sits, most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where the bulk of them fall.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a morning you logged. The band holds most of them.",
+   "f": false
+  },
+  {
+   "t": "A dot for every logged morning. The band shows where most fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning log. The band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where they usually land.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning. The band is where most sit.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. Most of them gather in the band.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one logged morning. The band is where they mostly land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows where most of them group.",
+   "f": false
+  },
+  {
+   "t": "Dots show each logged morning. The band shows where most land.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning. The band marks where most fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the zone most of them fall in.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged, and the band is where most fall.",
+   "f": false
+  },
+  {
+   "t": "Dots are logged mornings, and the band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows the usual spread of them.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The shaded band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is where most of them tend to fall.",
+   "f": false
+  },
+  {
+   "t": "Every dot is a logged morning. The shaded band holds most of them.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band shows where they usually land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is one morning’s log. The band is where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is where most of them fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows the range most land in.",
+   "f": false
+  },
+  {
+   "t": "Every dot marks a logged morning. The band marks where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is where most of them end up.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band shows your typical range.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. Most fall somewhere in the band.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a morning you logged. The band is where the most dots fall.",
+   "f": false
+  },
+  {
+   "t": "Dots are logged mornings. The band holds the majority of them.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them usually fall.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band traces where most of them land.",
+   "f": false
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them hang out.",
+   "f": true
+  },
+  {
+   "t": "Every dot is a logged morning. The band is where most of them like to gather.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where the crowd is.",
+   "f": true
+  },
+  {
+   "t": "One dot per logged morning. The band is the popular spot.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most dots feel at home.",
+   "f": true
+  },
+  {
+   "t": "Every dot is a morning you logged. Most of them huddle in the band.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the dots’ favourite hangout.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them flock.",
+   "f": true
+  },
+  {
+   "t": "A dot for each logged morning. The band is where most of them queue up.",
+   "f": true
+  },
+  {
+   "t": "Every dot is a logged morning. The band is where they bunch up, like a group photo.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the busy part of the dance floor.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. Most settle in the band, like cats in a sunny spot.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. Most gather in the band, like birds on a wire.",
+   "f": true
+  },
+  {
+   "t": "One dot, one logged morning. The band is the dots’ comfort zone.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most sit, like regulars at a café.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. Most of them crowd into the band. Very sociable dots.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a morning you logged. Most of them stick to the band. Dots love a band.",
+   "f": true
+  },
+  {
+   "t": "Every dot is a logged morning. The band is the neighbourhood most of them live in.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. Most land in the band. A few go exploring.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the dots’ usual table.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them pile in, politely.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them clock in.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is dot rush hour.",
+   "f": true
+  },
+  {
+   "t": "Every dot is a logged morning. The band is the dots’ meeting point.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. Most land in the band. Dots are creatures of habit.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is the dots’ happy place.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most dots find their seat.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them gossip.",
+   "f": true
+  },
+  {
+   "t": "One dot for each logged morning. Most gather in the band, like a small, tidy crowd.",
+   "f": true
+  },
+  {
+   "t": "Each dot is a logged morning. The band is where most of them nest.",
+   "f": true
+  }
+ ],
+ "socialIntro": [
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can notice plans with other people and suggest times that suit you better. It never sends anything for you.",
+   "f": false
+  },
+  {
+   "t": "Plans with people get spotted, and better times get suggested. Nothing is ever sent on your behalf.",
+   "f": false
+  },
+  {
+   "t": "When you have plans with people, your phone can suggest better times. It never sends a thing for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone looks for plans with people and suggests kinder times. Nothing gets sent without you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can find plans with others and offer better times. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can pick out plans with people and suggest better times. Sending is always up to you.",
+   "f": false
+  },
+  {
+   "t": "Your phone spots plans with people and suggests better times. It never messages anyone for you.",
+   "f": false
+  },
+  {
+   "t": "Plans with people? Your phone can suggest better times. It won’t ever send anything for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can see plans with people and suggest easier times. Nothing is sent unless you send it.",
+   "f": false
+  },
+  {
+   "t": "Your phone can flag plans with people and suggest better times. Nothing ever goes out for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone notices plans with people and suggests better times. It never contacts anyone for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with others and suggest times that work better. Nothing gets sent for you, ever.",
+   "f": false
+  },
+  {
+   "t": "Your phone can find plans with people and suggest better times. You decide what, if anything, gets sent.",
+   "f": false
+  },
+  {
+   "t": "Your phone can catch plans with people and suggest better times. Nothing is ever sent in your name.",
+   "f": false
+  },
+  {
+   "t": "Your phone spots plans with people and suggests better times. Nothing is sent for you. Ever.",
+   "f": false
+  },
+  {
+   "t": "When plans with people land at awkward times, your phone can suggest better ones. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and offer better times. Any message is yours to send, or not.",
+   "f": false
+  },
+  {
+   "t": "Your phone can pick up plans with people and suggest better times. It never sends anything on its own.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans involving other people and suggest better times. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest times that suit you better. Nothing is sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can notice when a plan with people sits at a tricky time and suggest a better one. It never sends anything.",
+   "f": false
+  },
+  {
+   "t": "Your phone spots plans with people and suggests better times. You stay in charge of what gets sent.",
+   "f": false
+  },
+  {
+   "t": "Your phone can find plans with people and suggest better times. It never reaches out for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is sent without you doing it.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot shared plans and suggest better times. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans you’ve made with people and suggest better times. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can look out for plans with people and suggest better times. It will never send anything for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can notice plans with people and suggest times that fit your day. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest a better time. You choose whether to send anything.",
+   "f": false
+  },
+  {
+   "t": "Your phone keeps an eye out for plans with people and suggests better times. It never sends anything for you.",
+   "f": false
+  },
+  {
+   "t": "Got plans with people? Your phone can suggest times that suit you better. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can see when you have plans with people and suggest better times. It never sends anything for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest gentler times. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is ever sent without your say.",
+   "f": false
+  },
+  {
+   "t": "Your phone can recognise plans with people and suggest better times. No message is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people, then suggest better times. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. What you send, if anything, is up to you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never texts anyone for you.",
+   "f": false
+  },
+  {
+   "t": "If a plan with people falls at a hard time, your phone can suggest another. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Plans with people can be spotted, and better times suggested. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can notice plans with people and suggest a better time. It never sends messages for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Any message stays a draft until you send it.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It doesn’t send anything for you, ever.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times, and it never sends anything for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can pick out plans that involve other people and suggest better times. Nothing gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing sends itself.",
+   "f": false
+  },
+  {
+   "t": "Your phone can quietly spot plans with people and suggest better times. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing goes to anyone without you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. You’re always the one who sends.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It will never message anyone on your behalf.",
+   "f": false
+  },
+  {
+   "t": "With plans involving people, your phone can suggest better times. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest times that suit you. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Sending stays with you, always.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better timing. Nothing ever gets sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never sends or messages for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is sent. It’s all your call.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing gets sent for you. That’s a promise.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is ever sent unless you send it.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people, and suggest times that suit you better. It never sends a word for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never sends anything without you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot when plans with people fall at hard times and suggest better ones. Nothing is sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can notice plans with people and suggest better times. You always do the sending.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. All sending is up to you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is sent automatically.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It will never send on your behalf.",
+   "f": false
+  },
+  {
+   "t": "Social plans can be spotted by your phone, which then suggests better times. Nothing is ever sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is ever sent in your place.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing gets sent for you, not ever.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest times that are easier on you. Nothing is sent for you.",
+   "f": false
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It will never text your friends for you. Promise.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing gets sent for you. No surprise texts.",
+   "f": true
+  },
+  {
+   "t": "Your phone can notice plans with people and suggest better times. It never sends anything. No awkward surprise messages.",
+   "f": true
+  },
+  {
+   "t": "Your phone can pick out plans with people and suggest better times. Nothing is sent. Your friends won’t hear from a robot.",
+   "f": true
+  },
+  {
+   "t": "Plans with people? Your phone can suggest better times. It never sends a thing. No robot small talk.",
+   "f": true
+  },
+  {
+   "t": "When a plan with people lands at a tricky time, your phone can suggest a better one. Nothing is sent. You do the talking.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never sends anything, so nobody gets a weird text from it.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you. Your friends are safe.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It drafts, you decide. It’s shy like that.",
+   "f": true
+  },
+  {
+   "t": "Your phone keeps an eye on plans with people and suggests better times. It never sends anything. It’s a helper, not a gossip.",
+   "f": true
+  },
+  {
+   "t": "Your phone can find plans with people and suggest better times. Nothing gets sent. It knows its place.",
+   "f": true
+  },
+  {
+   "t": "Your phone can play scheduling detective with plans involving people and suggest better times. It never sends anything for you.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent. No ghostwriting behind your back.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Think wingman, not spokesperson. Nothing gets sent.",
+   "f": true
+  },
+  {
+   "t": "Your phone can notice plans with people and suggest better times. It whispers ideas. It never texts anyone.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is sent for you. Your friends only hear from you.",
+   "f": true
+  },
+  {
+   "t": "Your phone can flag plans with people and suggest better times. Nothing sends itself. No rogue texts, ever.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you. Your messages stay yours.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It’s an ideas person. Sending is all you.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times, like a thoughtful friend who never texts for you.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It suggests. You send. It’s a good arrangement.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never sends a thing. It’s more of a whisperer.",
+   "f": true
+  },
+  {
+   "t": "Your phone can see plans with people and suggest better times. It never messages anyone. It just raises an eyebrow.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent. Your phone isn’t that bold.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. It never sends anything. That’s your job, if you fancy it.",
+   "f": true
+  },
+  {
+   "t": "Your phone can catch plans with people and suggest better times. It never texts for you. Your friends get the real you.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and nudge you toward better times. It never sends anything. Nudging only.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing gets sent. It’s a sidekick, not a secretary.",
+   "f": true
+  },
+  {
+   "t": "Your phone can recognise plans with people and suggest better times. It never sends anything. It’s polite like that.",
+   "f": true
+  },
+  {
+   "t": "Your phone can spot plans with people and suggest better times. Nothing is sent for you. It’s helpful, not bossy.",
+   "f": true
+  }
+ ],
+ "fixSubtitle": [
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Today’s {minutes} min over. This is the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest fix that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Running {minutes} min over. This small change keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "The day is running {minutes} min over. Here’s the smallest change to keep it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re about {minutes} min over. This is the lightest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "{minutes} min over so far. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. This is the smallest tweak that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Today is {minutes} min over. Here’s the gentlest change that gets it back on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. The change below is the smallest one that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Running over by {minutes} min. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re over by {minutes} min. This is the smallest change that keeps the day on track.",
+   "f": false
+  },
+  {
+   "t": "The plan is {minutes} min over. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "{minutes} min over. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. One small change keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over today. Here’s the least you’d need to change to stay on track.",
+   "f": false
+  },
+  {
+   "t": "The day’s running {minutes} min over. This is the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest shift that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the least disruptive way to keep today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest move that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Today has {minutes} min too much in it. Here’s the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "There’s {minutes} min more than today can hold. Here’s the smallest change that fixes it.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. This is the smallest change that keeps today workable.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that keeps today doable.",
+   "f": false
+  },
+  {
+   "t": "The day is {minutes} min over. Here’s the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over plan. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the lightest touch that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that gets today back on track.",
+   "f": false
+  },
+  {
+   "t": "Today’s running {minutes} min over. Here’s the smallest fix to keep it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. A small change here keeps the rest of today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running about {minutes} min over. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Over by {minutes} min. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. This is the simplest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the easiest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the one small change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. The smallest change to keep today on track is below.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s how to keep today on track with the least change.",
+   "f": false
+  },
+  {
+   "t": "Today’s over by {minutes} min. Here’s the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that keeps the rest of today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the least you need to change to stay on track.",
+   "f": false
+  },
+  {
+   "t": "The day has run {minutes} min over. Here’s the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s a small change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. This is the smallest change that keeps things on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that keeps your day on track.",
+   "f": false
+  },
+  {
+   "t": "The plan’s running {minutes} min over. Here’s the smallest change to keep today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. The smallest change that keeps today on track is this one.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest adjustment that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. This adjustment is the smallest that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change to keep today steady.",
+   "f": false
+  },
+  {
+   "t": "Things are running {minutes} min over. Here’s the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the gentlest way to keep today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that keeps today on course.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. This small change keeps today on course.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. This is the smallest change that still keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that keeps today in shape.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that keeps today running smoothly.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that keeps today within reach.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that makes today fit again.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that makes today fit.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the one change that keeps today on track, and it’s small.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. The smallest change that keeps today on track is right here.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s a small change so today stays on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change so today stays on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. With this small change, today stays on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. With one small change, today stays on track.",
+   "f": false
+  },
+  {
+   "t": "Today’s {minutes} min over. One small change puts it back on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. A single small change keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is {minutes} min over. Here’s the smallest change that keeps it on track.",
+   "f": false
+  },
+  {
+   "t": "You’re running {minutes} min over. Here’s the smallest change that keeps today manageable.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Nothing dramatic needed, just the smallest change that keeps today on track.",
+   "f": false
+  },
+  {
+   "t": "You’re {minutes} min over. Time did its stretchy thing. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Sneaky five-minute jobs. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Hello, time blindness. Here’s the smallest fix that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Happens to the best brains. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Time went for a wander. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "{minutes} min over. The clock got ahead of itself. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Time flew. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. A rabbit hole, perhaps. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. No time machine needed. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Can’t add hours, but this small change keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "{minutes} min over. Your brain took the scenic route. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Tasks grew, as they do. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. The day had other ideas. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "{minutes} min over. The day got a bit ambitious. Here’s the smallest change that keeps it on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. No need to flip the table. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. That “quick” thing wasn’t. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Minutes multiply. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Time didn’t read the plan. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Hyperfocus happens. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. It’s a nudge, not a rescue. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Some tabs were opened. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Small bump, small fix. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. A side quest, maybe. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Blame time. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Here’s the smallest change that keeps today on track. Future you says thanks.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Clocks, honestly. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. Tiny detour, no drama. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. The day wobbled a bit. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. The plan was optimistic. Here’s the smallest change that keeps today on track.",
+   "f": true
+  },
+  {
+   "t": "You’re {minutes} min over. We’ve all been there. Here’s the smallest change that keeps today on track.",
+   "f": true
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+<head>
+  <script>
+    try {
+      window.localStorage.getItem('x')
+    } catch (e) {
+      const store = new Map()
+      const shim = {
+        getItem: (key) => store.has(key) ? store.get(key) : null,
+        setItem: (key, value) => { store.set(key, String(value)) },
+        removeItem: (key) => { store.delete(key) },
+        clear: () => { store.clear() },
+        key: (index) => Array.from(store.keys())[index] ?? null,
+        get length() { return store.size },
+      }
+      Object.defineProperty(window, 'localStorage', { value: shim, configurable: true })
+    }
+  </script>
+  <style>
+    #status[data-tone="error"] { color: var(--figma-color-text-danger); }
+    #status[data-tone="success"] { color: var(--figma-color-text-success); }
+    .hint { color: var(--figma-color-text-secondary); font-size: 11px; line-height: 16px; }
+  </style>
+</head>
+<body>
+  <div id="plugin-root">
+    <fig-content>
+      <fig-group name="Medication (as logged)">
+        <fig-field>
+          <label>Dose logged at</label>
+          <fig-input-text id="dose" value="8:10"></fig-input-text>
+        </fig-field>
+        <fig-field>
+          <label>Focus starts after (min)</label>
+          <fig-input-number id="startAfter" value="60" min="0" max="180"></fig-input-number>
+        </fig-field>
+        <fig-field>
+          <label>Focus lasts (hours)</label>
+          <fig-input-number id="lasts" value="8" min="1" max="16"></fig-input-number>
+        </fig-field>
+        <fig-field>
+          <label>Best focus share</label>
+          <fig-slider id="bestShare" value="75" min="30" max="95" text></fig-slider>
+        </fig-field>
+      </fig-group>
+      <fig-group name="Plan">
+        <fig-field>
+          <label>Fill cap for flexible work</label>
+          <fig-slider id="fillCap" value="60" min="30" max="90" text></fig-slider>
+        </fig-field>
+        <fig-field>
+          <label>Tasks (title, minutes, deep|medium|light|body)</label>
+          <fig-input-text id="tasks" multiline value="Essay drafting, 80, deep
+Case reading, 90, deep
+Tutorial prep, 50, medium
+Email + plan tomorrow, 30, light
+Lunch, 40, body
+Gym, 60, body"></fig-input-text>
+        </fig-field>
+        <fig-field>
+          <label>Fixed events (title, start, minutes)</label>
+          <fig-input-text id="fixed" multiline value="Tutorial · Room 4.12, 14:00, 60"></fig-input-text>
+        </fig-field>
+        <p class="hint">Uses the file’s colour variables (focus/strong, body/strong…) when present. Dose times are inputs only — the plugin arranges tasks, never medication.</p>
+      </fig-group>
+    </fig-content>
+    <fig-footer>
+      <label id="status" data-tone="info">Ready</label>
+      <fig-button id="run" type="submit">Generate day</fig-button>
+    </fig-footer>
+  </div>
+  <script>
+    const post = (message) => parent.postMessage({ pluginMessage: message }, '*')
+    const val = (id) => document.getElementById(id).value
+    const status = document.getElementById('status')
+    const run = document.getElementById('run')
+    const KEY = 'focus-day-generator/v1'
+    try {
+      const saved = JSON.parse(localStorage.getItem(KEY) || 'null')
+      if (saved && saved.v === 1) {
+        for (const id of ['dose', 'startAfter', 'lasts', 'bestShare', 'fillCap']) {
+          if (saved[id] !== undefined) document.getElementById(id).setAttribute('value', saved[id])
+        }
+      }
+    } catch (e) { /* preferences are optional */ }
+
+    run.addEventListener('click', () => {
+      const dose = String(val('dose') || '').trim()
+      if (!/^\d{1,2}[:.]\d{2}$/.test(dose)) {
+        status.textContent = 'Dose time should look like 8:10'
+        status.dataset.tone = 'error'
+        return
+      }
+      const config = {
+        dose,
+        startAfterMin: Number(val('startAfter')),
+        lastsHours: Number(val('lasts')),
+        bestShare: Number(val('bestShare')),
+        fillCap: Number(val('fillCap')),
+        tasks: String(val('tasks') || ''),
+        fixed: String(val('fixed') || ''),
+      }
+      try {
+        localStorage.setItem(KEY, JSON.stringify({ v: 1, dose, startAfter: config.startAfterMin, lasts: config.lastsHours, bestShare: config.bestShare, fillCap: config.fillCap }))
+      } catch (e) { /* ignore */ }
+      status.textContent = 'Generating…'
+      status.dataset.tone = 'info'
+      post({ type: 'generate', config })
+    })
+
+    window.onmessage = (event) => {
+      const msg = event.data && event.data.pluginMessage
+      if (msg && msg.type === 'status') {
+        status.textContent = msg.text
+        status.dataset.tone = msg.tone || 'info'
+      }
+    }
+
+    const root = document.getElementById('plugin-root')
+    new ResizeObserver(() => {
+      post({ type: 'resize', height: Math.ceil(root.getBoundingClientRect().height) })
+    }).observe(root)
+  </script>
+</body>
+</html>

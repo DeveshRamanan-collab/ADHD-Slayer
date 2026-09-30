@@ -1,0 +1,4424 @@
+{
+ "splashTagline": [
+  {
+   "t": "Plans that know how your brain works.",
+   "f": false
+  },
+  {
+   "t": "A planner that works the way your brain does.",
+   "f": false
+  },
+  {
+   "t": "Your day, planned around how you actually work.",
+   "f": false
+  },
+  {
+   "t": "Days shaped around your own rhythm.",
+   "f": false
+  },
+  {
+   "t": "Planning that fits the way you think.",
+   "f": false
+  },
+  {
+   "t": "A calmer day, built around your brain.",
+   "f": false
+  },
+  {
+   "t": "Plans that move with your brain, not against it.",
+   "f": false
+  },
+  {
+   "t": "Your rhythm, your day, your plan.",
+   "f": false
+  },
+  {
+   "t": "A day planner made for ADHD brains.",
+   "f": false
+  },
+  {
+   "t": "Planning that starts with how you work.",
+   "f": false
+  },
+  {
+   "t": "Built around the brain you actually have.",
+   "f": false
+  },
+  {
+   "t": "Plans that follow your rhythm.",
+   "f": false
+  },
+  {
+   "t": "A planner that learns how you work.",
+   "f": false
+  },
+  {
+   "t": "Days that fit the way your mind works.",
+   "f": false
+  },
+  {
+   "t": "Your day, arranged around your focus.",
+   "f": false
+  },
+  {
+   "t": "Planning with your brain, not despite it.",
+   "f": false
+  },
+  {
+   "t": "A gentler way to plan an ADHD day.",
+   "f": false
+  },
+  {
+   "t": "Plans that make room for how you work.",
+   "f": false
+  },
+  {
+   "t": "Made for the way your brain really works.",
+   "f": false
+  },
+  {
+   "t": "Your day, in step with your brain.",
+   "f": false
+  },
+  {
+   "t": "A planner that meets you where you are.",
+   "f": false
+  },
+  {
+   "t": "Planning that understands your rhythm.",
+   "f": false
+  },
+  {
+   "t": "Days planned the way your brain likes.",
+   "f": false
+  },
+  {
+   "t": "Plans that fit your brain, not a template.",
+   "f": false
+  },
+  {
+   "t": "Your focus, your rhythm, your day.",
+   "f": false
+  },
+  {
+   "t": "A planner that gets how you work.",
+   "f": false
+  },
+  {
+   "t": "Planning around the real you.",
+   "f": false
+  },
+  {
+   "t": "Days built around when you focus best.",
+   "f": false
+  },
+  {
+   "t": "A quieter way to plan your day.",
+   "f": false
+  },
+  {
+   "t": "Plans made to match your mind.",
+   "f": false
+  },
+  {
+   "t": "The planner that learns your rhythm.",
+   "f": false
+  },
+  {
+   "t": "Built for brains that work differently.",
+   "f": false
+  },
+  {
+   "t": "Your day, planned with you in mind.",
+   "f": false
+  },
+  {
+   "t": "Plans that bend to your brain.",
+   "f": false
+  },
+  {
+   "t": "Planning, tuned to how you think.",
+   "f": false
+  },
+  {
+   "t": "A day that works with your brain.",
+   "f": false
+  },
+  {
+   "t": "Plans shaped by your own patterns.",
+   "f": false
+  },
+  {
+   "t": "Planning that follows your lead.",
+   "f": false
+  },
+  {
+   "t": "A planner that knows your good hours.",
+   "f": false
+  },
+  {
+   "t": "Your brain, your rhythm, a plan that fits.",
+   "f": false
+  },
+  {
+   "t": "Made to work the way you do.",
+   "f": false
+  },
+  {
+   "t": "Planning that fits real ADHD days.",
+   "f": false
+  },
+  {
+   "t": "Days that work with you, not against you.",
+   "f": false
+  },
+  {
+   "t": "A planner built around your focus.",
+   "f": false
+  },
+  {
+   "t": "Plans that respect how your brain works.",
+   "f": false
+  },
+  {
+   "t": "Your day, set to your own rhythm.",
+   "f": false
+  },
+  {
+   "t": "A kind planner for busy brains.",
+   "f": false
+  },
+  {
+   "t": "Planning that starts with you.",
+   "f": false
+  },
+  {
+   "t": "Plans that know when you do your best work.",
+   "f": false
+  },
+  {
+   "t": "Built to fit how you really focus.",
+   "f": false
+  },
+  {
+   "t": "A planner in tune with your brain.",
+   "f": false
+  },
+  {
+   "t": "Each day, planned around you.",
+   "f": false
+  },
+  {
+   "t": "Planning designed for ADHD minds.",
+   "f": false
+  },
+  {
+   "t": "Days that follow your natural rhythm.",
+   "f": false
+  },
+  {
+   "t": "A planner that listens to your patterns.",
+   "f": false
+  },
+  {
+   "t": "Plans that fit your focus, hour by hour.",
+   "f": false
+  },
+  {
+   "t": "Your day, made to fit your brain.",
+   "f": false
+  },
+  {
+   "t": "Planning that works on your terms.",
+   "f": false
+  },
+  {
+   "t": "A day planner that understands ADHD.",
+   "f": false
+  },
+  {
+   "t": "Plans that keep pace with your brain.",
+   "f": false
+  },
+  {
+   "t": "Built around how your days really go.",
+   "f": false
+  },
+  {
+   "t": "A planner that adapts to you.",
+   "f": false
+  },
+  {
+   "t": "Planning with room for your brain.",
+   "f": false
+  },
+  {
+   "t": "Your plans, in rhythm with you.",
+   "f": false
+  },
+  {
+   "t": "Days that feel like yours.",
+   "f": false
+  },
+  {
+   "t": "A planner that works with your focus.",
+   "f": false
+  },
+  {
+   "t": "Plans made for how you really live.",
+   "f": false
+  },
+  {
+   "t": "Planning that learns what works for you.",
+   "f": false
+  },
+  {
+   "t": "A day, planned to fit your mind.",
+   "f": false
+  },
+  {
+   "t": "The planner that fits your brain.",
+   "f": false
+  },
+  {
+   "t": "Plans for brains with 47 tabs open.",
+   "f": true
+  },
+  {
+   "t": "Built for brains on their own clock.",
+   "f": true
+  },
+  {
+   "t": "Planning for brains that take the scenic route.",
+   "f": true
+  },
+  {
+   "t": "For minds that wander. Plans that wander back.",
+   "f": true
+  },
+  {
+   "t": "Plans for brains between radio stations.",
+   "f": true
+  },
+  {
+   "t": "A planner for the gloriously distractible.",
+   "f": true
+  },
+  {
+   "t": "Time blindness, meet your new planner.",
+   "f": true
+  },
+  {
+   "t": "For brains that start four hobbies a month.",
+   "f": true
+  },
+  {
+   "t": "Plans that know five minutes is never five.",
+   "f": true
+  },
+  {
+   "t": "A planner that expects the side quests.",
+   "f": true
+  },
+  {
+   "t": "For people who walk into rooms and forget why.",
+   "f": true
+  },
+  {
+   "t": "Brain like a browser? Here are your bookmarks.",
+   "f": true
+  },
+  {
+   "t": "Plans that don’t mind a rabbit hole or two.",
+   "f": true
+  },
+  {
+   "t": "A planner that gets ADHD. Like, really gets it.",
+   "f": true
+  },
+  {
+   "t": "Hyperfocus-friendly. Tangent-tolerant.",
+   "f": true
+  },
+  {
+   "t": "For brains that read the same line six times.",
+   "f": true
+  },
+  {
+   "t": "For brains that run on snacks and curiosity.",
+   "f": true
+  },
+  {
+   "t": "Where ‘later’ gets an actual time.",
+   "f": true
+  },
+  {
+   "t": "A planner that won’t judge the doom pile.",
+   "f": true
+  },
+  {
+   "t": "For anyone who’s lost a phone while holding it.",
+   "f": true
+  },
+  {
+   "t": "Like alarms for your alarms, but calmer.",
+   "f": true
+  },
+  {
+   "t": "Made for brains with more ideas than hours.",
+   "f": true
+  },
+  {
+   "t": "For brains that chase the interesting thing.",
+   "f": true
+  },
+  {
+   "t": "A planner that knows the squirrel is coming.",
+   "f": true
+  },
+  {
+   "t": "For the brain that’s three thoughts ahead.",
+   "f": true
+  },
+  {
+   "t": "Made for brains that do everything at once.",
+   "f": true
+  },
+  {
+   "t": "Plans for hyperfocus days and scattered days.",
+   "f": true
+  },
+  {
+   "t": "A planner fluent in ‘just one more thing’.",
+   "f": true
+  },
+  {
+   "t": "Big ideas, loose grip on time? Same. Welcome.",
+   "f": true
+  },
+  {
+   "t": "For brains that are busy being brilliant.",
+   "f": true
+  }
+ ],
+ "trialWhy": [
+  {
+   "t": "Because ADHD takes time to figure out, and so does knowing whether an app actually helps. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand. So does knowing if an app is right for you. If this one isn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Getting to know your ADHD takes time, and so does finding out if an app helps. If it doesn’t, you can cancel easily.",
+   "f": false
+  },
+  {
+   "t": "Your ADHD brain takes time to understand, and so does a new app. Try it properly. If it isn’t helping, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Figuring out ADHD is a slow process, and so is figuring out if an app fits. If this one doesn’t, cancelling is simple.",
+   "f": false
+  },
+  {
+   "t": "Understanding your ADHD doesn’t happen overnight. Neither does knowing if an app works for you. If it doesn’t, you can cancel anytime.",
+   "f": false
+  },
+  {
+   "t": "It takes time to learn how your ADHD works, and time to see if an app really helps. If it doesn’t, just cancel, no fuss.",
+   "f": false
+  },
+  {
+   "t": "ADHD isn’t something you figure out in a day, and neither is a planner. Give it a fair go. If it’s not for you, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Knowing your own ADHD takes time. Knowing whether an app helps takes time too. If this one doesn’t, cancelling is quick.",
+   "f": false
+  },
+  {
+   "t": "Because learning your ADHD takes time, and so does learning whether an app is worth keeping. If it isn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes a while to understand, and it’s fair to take a while to see if this helps. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "You deserve time to see if this actually helps, because ADHD takes time to understand. If it doesn’t help, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD takes patience, and so does finding the right tools. If this isn’t the right one, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "It’s fair to find out if an app works for you before you commit. ADHD takes time to figure out, after all. If it doesn’t work, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to get to know. So does any new app. See how it fits, and if it doesn’t, cancel with no hassle.",
+   "f": false
+  },
+  {
+   "t": "Learning how your brain works with ADHD takes time. So does knowing if an app helps. If this one doesn’t, you can cancel easily.",
+   "f": false
+  },
+  {
+   "t": "Because figuring out ADHD takes time, and you deserve time to see if this helps. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and knowing if an app helps takes more than a first look. Try it for real. If it’s not right, just cancel.",
+   "f": false
+  },
+  {
+   "t": "It takes time to understand ADHD, and time to know if a planner fits your life. If this one doesn’t, cancelling takes a moment.",
+   "f": false
+  },
+  {
+   "t": "Understanding your ADHD is a long game. Knowing whether an app helps takes time too. If this one doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and so does any tool that says it can help. See for yourself. If it doesn’t help, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "It’s only fair you get to see if this works for you. ADHD takes time to figure out, and so do apps. If it isn’t right, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Nobody figures out ADHD in an afternoon, and apps are the same. Take your time with it. If this one doesn’t help, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD takes time. Knowing if an app is worth it takes time too. You get that time here, and if it’s not for you, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Making sense of ADHD takes a while, so it’s fair to take a while deciding about this app too. If it doesn’t help, cancelling is simple.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD takes time, and finding what helps takes some trial and error. If this app isn’t it, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Getting to know ADHD takes time. So does telling whether an app is really helping. If it isn’t, cancelling is quick and easy.",
+   "f": false
+  },
+  {
+   "t": "It takes a while to learn what your ADHD brain needs. It takes a while to know if an app helps, too. If this one doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Every ADHD brain is different, and it takes time to understand yours and what helps it. If this app doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, so this gives you time to see if the app fits. If it doesn’t, cancel whenever you like.",
+   "f": false
+  },
+  {
+   "t": "Knowing if an app helps takes more than a first impression, especially with ADHD, which takes time to understand. If it doesn’t help, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Because understanding ADHD takes time, and so does trusting a new app. If it doesn’t earn that trust, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD makes sense slowly, and so does a new routine. See if this one helps. If it doesn’t, cancelling is simple.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and so does the right planner. You get to find out properly. If this isn’t it, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to figure out, so you get a fair chance to see whether this helps. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "There’s no rush. ADHD takes time to understand, and so does knowing if an app works. If this one doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "It takes time to see the patterns in an ADHD brain, and time to see if an app helps with them. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD is a process, and so is finding what helps. This is part of it. If the app isn’t helping, cancelling is quick.",
+   "f": false
+  },
+  {
+   "t": "Because ADHD takes time to understand, and one good day isn’t proof an app works. See how it goes. If it doesn’t help, just cancel.",
+   "f": false
+  },
+  {
+   "t": "It takes time to understand ADHD, and more than a quick look to know if an app helps. Try it. If it doesn’t fit, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Learning your ADHD is ongoing. Learning if an app suits it takes time too. If this one doesn’t, you can cancel without any fuss.",
+   "f": false
+  },
+  {
+   "t": "ADHD isn’t quick to understand, and neither is whether an app helps. You get the time to decide. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Because it takes time to know your ADHD, and time to know if this helps. If it doesn’t, no hard feelings. Cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "It takes time to learn what your ADHD needs, and to see if an app meets it. If this one doesn’t, you can cancel easily.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand. It’s fair to want time to see if an app works for you. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Because understanding ADHD takes time, and a planner has to prove itself. If this one doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Your ADHD is yours to understand, and that takes time. So does deciding if this helps. If it doesn’t, cancelling is simple.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and a good planner takes time to settle in. If this one doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Nobody understands their ADHD overnight, and no app gets judged overnight either. If this one doesn’t help, just cancel.",
+   "f": false
+  },
+  {
+   "t": "It takes time to understand ADHD. It takes time to see if an app helps. So take the time, and if it doesn’t help, cancel easily.",
+   "f": false
+  },
+  {
+   "t": "Because ADHD takes time to understand, and deciding if an app helps is part of that. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD takes time, and trying something new works best without pressure. If this doesn’t help, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "It’s fair to test whether this helps before deciding. ADHD takes time to understand. If the app doesn’t help, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand. So does a new habit. Give this one a real chance, and if it doesn’t help, cancel anytime.",
+   "f": false
+  },
+  {
+   "t": "Because ADHD takes time to understand, and what helps is personal. If this app isn’t it for you, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and it’s fair to see if an app works before you rely on it. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Making sense of ADHD takes time. So does making sense of whether an app helps. If this one doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand. You get time here too, to see if this app is worth it. If it isn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "It takes a while to figure out ADHD, and a while to figure out an app. If this app doesn’t help, just cancel, and that’s that.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and so does any new way of planning. Give it a real try. If it doesn’t suit you, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "You can’t judge an ADHD tool in a hurry, because ADHD takes time to understand. See if this helps. If not, cancel easily.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and so does knowing if this is the app for you. If it isn’t, cancelling is quick.",
+   "f": false
+  },
+  {
+   "t": "Figuring out ADHD takes time, and it’s fair to see if an app earns a place in your day. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Because understanding ADHD takes time, and so does noticing whether an app makes a difference. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand. So does knowing if a planner helps on the messy days too. If it doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and an app needs real use to show if it helps. If this one doesn’t, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "Understanding ADHD takes time. So does finding out if an app fits into your life. If this one doesn’t, you can simply cancel.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and you deserve to know if this helps before you commit. If it doesn’t, just cancel.",
+   "f": false
+  },
+  {
+   "t": "Because ADHD takes time to understand, and one app won’t suit everyone. If this isn’t yours, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. Use it on ordinary days and busy ones. If it doesn’t help, cancelling is easy.",
+   "f": false
+  },
+  {
+   "t": "ADHD takes time to figure out. So does telling a keeper app from hobby number five. If this one isn’t a keeper, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and a new app deserves more than one hyperfocus session. If this one doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes a while to explain itself. Apps do too. If this one isn’t helping, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. So does telling whether an app helps, or was just a shiny new thing. If it’s just shiny, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. Apps too, which is why many phones have a small planner graveyard. If this one joins it, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "Understanding ADHD takes time. So does deciding if an app is a tool or just another tab. If it’s just a tab, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and first impressions of apps are famously unreliable. See if this one sticks. If not, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to figure out, and so does any app, even a charming one like this. If it doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "It takes time to understand ADHD. It takes time to know if an app helps. It takes no time at all to cancel if it doesn’t.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does trusting an app with your whole chaotic day. If it’s not up to it, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. We’d rather you find out if this helps than guess. If it doesn’t, cancelling is easy, pinky promise.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. Think of this as a proper first date. If there’s no spark, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. Apps too. If this one ends up in the doom pile, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, so don’t judge an app in the first five minutes. Or the first hour. If it doesn’t help, just cancel.",
+   "f": true
+  },
+  {
+   "t": "It takes time to get your ADHD, and time to see if an app gets it too. If this one doesn’t get it, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "Understanding ADHD takes time, so take this app for a proper spin, not just a lap round the car park. If it doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. So does knowing if an app helps on a random Tuesday, not just the day you found it. If it doesn’t, just cancel.",
+   "f": true
+  },
+  {
+   "t": "ADHD brains take time to understand, even for their owners. Same with apps. If this one isn’t helping, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to figure out. So does whether a planner survives contact with real life. If this one doesn’t, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. It’s fair to see if this helps before it becomes another icon you forget about. If it doesn’t, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so do apps. Some are main quests, some are side quests. If this one’s a side quest, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does telling if an app helps or just looks nice. If it only looks nice, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. No need to decide before your tea goes cold. If it doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and some things only click on the third try. If this app never clicks, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. Like a new notebook, it’s exciting at first. If the excitement is all it offers, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand. So do apps. If this one doesn’t help, no sad goodbyes needed. Cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "It takes time to understand ADHD, and the same goes for an app that claims it can help. See if it does. If not, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. Try it on a good day, a bad day, and a lost-your-keys day. If it doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "ADHD takes time to understand, and so does an app. Give it more attention than a Terms and Conditions page. If it doesn’t help, cancelling is easy.",
+   "f": true
+  },
+  {
+   "t": "Understanding ADHD takes time. Deciding about an app takes time too, ideally longer than it took to download. If it doesn’t help, cancelling is easy.",
+   "f": true
+  }
+ ],
+ "coachDone": [
+  {
+   "t": "That’s the tour. Wander wherever you like.",
+   "f": false
+  },
+  {
+   "t": "That’s everything. Explore at your own pace.",
+   "f": false
+  },
+  {
+   "t": "Tour’s done. The app is all yours now.",
+   "f": false
+  },
+  {
+   "t": "You’ve seen the basics. Have a look around.",
+   "f": false
+  },
+  {
+   "t": "That’s the end of the tour. Explore freely.",
+   "f": false
+  },
+  {
+   "t": "All done. Take a look around whenever you like.",
+   "f": false
+  },
+  {
+   "t": "That’s it for the tour. Go wherever feels right.",
+   "f": false
+  },
+  {
+   "t": "You’re all set. Explore as much or as little as you like.",
+   "f": false
+  },
+  {
+   "t": "Tour complete. Everything’s open to you now.",
+   "f": false
+  },
+  {
+   "t": "That’s the lot. Wander around freely.",
+   "f": false
+  },
+  {
+   "t": "And that’s the tour. Explore whenever you’re ready.",
+   "f": false
+  },
+  {
+   "t": "You’ve got the basics. The rest is yours to find.",
+   "f": false
+  },
+  {
+   "t": "That’s all for now. Look around at your own pace.",
+   "f": false
+  },
+  {
+   "t": "The tour’s over. Feel free to explore.",
+   "f": false
+  },
+  {
+   "t": "You’re ready. Wander anywhere you like.",
+   "f": false
+  },
+  {
+   "t": "That’s the whole tour. Take your time looking around.",
+   "f": false
+  },
+  {
+   "t": "Done. Everything is yours to explore.",
+   "f": false
+  },
+  {
+   "t": "That’s the tour finished. Head wherever you like.",
+   "f": false
+  },
+  {
+   "t": "You’ve seen the main bits. Explore the rest freely.",
+   "f": false
+  },
+  {
+   "t": "That’s the walkthrough. The rest is up to you.",
+   "f": false
+  },
+  {
+   "t": "Tour over. Browse around whenever you want.",
+   "f": false
+  },
+  {
+   "t": "That’s everything to start. Explore however suits you.",
+   "f": false
+  },
+  {
+   "t": "All set. Go where your curiosity takes you.",
+   "f": false
+  },
+  {
+   "t": "That’s the end. Feel free to look anywhere.",
+   "f": false
+  },
+  {
+   "t": "You know your way around now. Enjoy exploring.",
+   "f": false
+  },
+  {
+   "t": "That’s the quick tour. Wander freely from here.",
+   "f": false
+  },
+  {
+   "t": "And you’re through. Explore at whatever pace suits you.",
+   "f": false
+  },
+  {
+   "t": "That wraps up the tour. Look around as you like.",
+   "f": false
+  },
+  {
+   "t": "That’s all the tips. The app is yours now.",
+   "f": false
+  },
+  {
+   "t": "Finished. Wander through the app however you like.",
+   "f": false
+  },
+  {
+   "t": "That’s the introduction. Settle in and explore.",
+   "f": false
+  },
+  {
+   "t": "You’re all caught up. Look around freely.",
+   "f": false
+  },
+  {
+   "t": "That’s the tour, start to finish. Explore away.",
+   "f": false
+  },
+  {
+   "t": "The tour ends here. Everything is open.",
+   "f": false
+  },
+  {
+   "t": "That’s the guided bit done. Explore on your own now.",
+   "f": false
+  },
+  {
+   "t": "Tour done. Go wherever you’d like next.",
+   "f": false
+  },
+  {
+   "t": "That’s all you need for now. Have a wander.",
+   "f": false
+  },
+  {
+   "t": "You’re good to go. Explore any part you like.",
+   "f": false
+  },
+  {
+   "t": "That was the tour. Take it from here.",
+   "f": false
+  },
+  {
+   "t": "That’s the last tip. Explore freely.",
+   "f": false
+  },
+  {
+   "t": "That’s the tour. Go poke every button. We know you want to.",
+   "f": true
+  },
+  {
+   "t": "Tour over. Side quests are now unlocked.",
+   "f": true
+  },
+  {
+   "t": "That’s it. Explore like a cat in a new house.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Explore like it’s a new hobby, minus the equipment.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. No map, no rules, no wrong turns.",
+   "f": true
+  },
+  {
+   "t": "All done. Open every screen like it’s 47 new tabs.",
+   "f": true
+  },
+  {
+   "t": "Tour complete. You may now wander, as nature intended.",
+   "f": true
+  },
+  {
+   "t": "That’s the lot. Rabbit holes are fully permitted.",
+   "f": true
+  },
+  {
+   "t": "Tour over. Curiosity has the wheel now.",
+   "f": true
+  },
+  {
+   "t": "That’s everything. Explore now, before something shinier appears.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. The rest is a choose-your-own-adventure.",
+   "f": true
+  },
+  {
+   "t": "Done. Go explore. Snacks are optional but encouraged.",
+   "f": true
+  },
+  {
+   "t": "Tour’s finished. Wander freely, no hall pass needed.",
+   "f": true
+  },
+  {
+   "t": "That’s it. Tap around, nothing here bites.",
+   "f": true
+  },
+  {
+   "t": "That’s the whole tour. Shorter than most of our tangents.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Explore at your own speed, even if that’s zoom mode.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Consider yourself officially let loose.",
+   "f": true
+  },
+  {
+   "t": "Tour complete. Go have a nose around.",
+   "f": true
+  },
+  {
+   "t": "All finished. You have permission to get curious.",
+   "f": true
+  },
+  {
+   "t": "That’s it. Wander like you forgot why you came in.",
+   "f": true
+  },
+  {
+   "t": "Tour over. Unlike most tours, there’s no gift shop.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. No quiz at the end, promise.",
+   "f": true
+  },
+  {
+   "t": "Done. Go explore. We’ll hold your place, like a bookmark.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Go explore, the five-minute kind or the two-hour kind.",
+   "f": true
+  },
+  {
+   "t": "Tour finished. The app is now officially your sandbox.",
+   "f": true
+  },
+  {
+   "t": "That’s it. No more pop-ups telling you where to look.",
+   "f": true
+  },
+  {
+   "t": "The tour is over. The tooltips have left the building.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. The training wheels are off.",
+   "f": true
+  },
+  {
+   "t": "That’s all. Now it’s your app. We’re just the furniture.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Explore freely. Getting sidetracked counts as exploring.",
+   "f": true
+  },
+  {
+   "t": "That’s it from us. Off you go, curious one.",
+   "f": true
+  },
+  {
+   "t": "Tour’s over. Go on, have a wander. We won’t follow you.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. The rest you’ll find the fun way.",
+   "f": true
+  },
+  {
+   "t": "Done. Wander off. It’s the one time wandering off is the plan.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. You’re now the tour guide. No hat required.",
+   "f": true
+  },
+  {
+   "t": "Tour finished. Explore now, reorganise the doom pile later.",
+   "f": true
+  },
+  {
+   "t": "That’s everything. Explore like someone who skipped the manual.",
+   "f": true
+  },
+  {
+   "t": "And we’re done. You can stop nodding politely now.",
+   "f": true
+  },
+  {
+   "t": "Tour over. You’re free. Go where the dopamine leads.",
+   "f": true
+  },
+  {
+   "t": "That’s the grand tour. Well, the medium-sized tour. Explore away.",
+   "f": true
+  },
+  {
+   "t": "That’s it. Wander. Hyperfocus on something. Surprise yourself.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Explore freely. Nobody’s timing you.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Go explore. The squirrels can come too.",
+   "f": true
+  },
+  {
+   "t": "All done. Make yourself at home. Shoes optional.",
+   "f": true
+  },
+  {
+   "t": "Tour over. Explore however your brain wants to, zigzags included.",
+   "f": true
+  },
+  {
+   "t": "That’s everything. Now the fun bit: getting a little lost.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Pick a direction. Any direction. Even sideways.",
+   "f": true
+  },
+  {
+   "t": "Done. Explore in any order. Jumping around is encouraged.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. No need to remember any of it. Really.",
+   "f": true
+  },
+  {
+   "t": "Tour finished. Forgot half of it already? Same. It’s all still here.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Now go explore like no one’s watching. No one is.",
+   "f": true
+  },
+  {
+   "t": "You’ve officially graduated from the tour. No speech needed.",
+   "f": true
+  },
+  {
+   "t": "All done. Explore now, or after one quick thing. We know how it goes.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. The app is now open-world.",
+   "f": true
+  },
+  {
+   "t": "Tour done. Explore at your own pace, whatever pace that is today.",
+   "f": true
+  },
+  {
+   "t": "That’s the end of the tour. The beginning of the wandering.",
+   "f": true
+  },
+  {
+   "t": "That’s all. The app has been fully introduced. It says hi.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Go on then, have a proper rummage.",
+   "f": true
+  },
+  {
+   "t": "That’s the tour. Now go find the button we didn’t mention.",
+   "f": true
+  },
+  {
+   "t": "Tour’s done. Explore with the energy of a fresh notebook.",
+   "f": true
+  }
+ ],
+ "nowGap": [
+  {
+   "t": "This gap is yours.",
+   "f": false
+  },
+  {
+   "t": "Nothing planned right now.",
+   "f": false
+  },
+  {
+   "t": "A free moment, all yours.",
+   "f": false
+  },
+  {
+   "t": "Open time. Yours to use.",
+   "f": false
+  },
+  {
+   "t": "Nothing scheduled. Breathe.",
+   "f": false
+  },
+  {
+   "t": "This time is free.",
+   "f": false
+  },
+  {
+   "t": "A quiet stretch, just for you.",
+   "f": false
+  },
+  {
+   "t": "Nothing on right now.",
+   "f": false
+  },
+  {
+   "t": "Free time, right now.",
+   "f": false
+  },
+  {
+   "t": "This space is yours.",
+   "f": false
+  },
+  {
+   "t": "Nothing booked. Take it easy.",
+   "f": false
+  },
+  {
+   "t": "A little room in your day.",
+   "f": false
+  },
+  {
+   "t": "An open moment.",
+   "f": false
+  },
+  {
+   "t": "Unplanned time. All yours.",
+   "f": false
+  },
+  {
+   "t": "Nothing needs you right now.",
+   "f": false
+  },
+  {
+   "t": "Right now is wide open.",
+   "f": false
+  },
+  {
+   "t": "A pause in the plan.",
+   "f": false
+  },
+  {
+   "t": "A clear stretch of time.",
+   "f": false
+  },
+  {
+   "t": "Free for now.",
+   "f": false
+  },
+  {
+   "t": "Room to breathe.",
+   "f": false
+  },
+  {
+   "t": "Your time, unscheduled.",
+   "f": false
+  },
+  {
+   "t": "Nothing in the diary right now.",
+   "f": false
+  },
+  {
+   "t": "Open space in your day.",
+   "f": false
+  },
+  {
+   "t": "A gap, just for you.",
+   "f": false
+  },
+  {
+   "t": "The plan has a pause here.",
+   "f": false
+  },
+  {
+   "t": "Nothing lined up right now.",
+   "f": false
+  },
+  {
+   "t": "Time that’s yours to spend.",
+   "f": false
+  },
+  {
+   "t": "A quiet gap in the day.",
+   "f": false
+  },
+  {
+   "t": "You’re free right now.",
+   "f": false
+  },
+  {
+   "t": "No plans at the moment.",
+   "f": false
+  },
+  {
+   "t": "This moment is unclaimed.",
+   "f": false
+  },
+  {
+   "t": "A breather in your day.",
+   "f": false
+  },
+  {
+   "t": "Nothing scheduled here.",
+   "f": false
+  },
+  {
+   "t": "Free space, right now.",
+   "f": false
+  },
+  {
+   "t": "A calm little gap.",
+   "f": false
+  },
+  {
+   "t": "Clear for now.",
+   "f": false
+  },
+  {
+   "t": "Nothing asked of you right now.",
+   "f": false
+  },
+  {
+   "t": "An empty spot in the plan.",
+   "f": false
+  },
+  {
+   "t": "Unscheduled and all yours.",
+   "f": false
+  },
+  {
+   "t": "Some open time.",
+   "f": false
+  },
+  {
+   "t": "Free time. Side quests welcome.",
+   "f": true
+  },
+  {
+   "t": "Nothing scheduled. The tabs are calling.",
+   "f": true
+  },
+  {
+   "t": "A gap. Rabbit holes optional.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. Snack, stretch, or stare.",
+   "f": true
+  },
+  {
+   "t": "Free. Your brain has ideas already.",
+   "f": true
+  },
+  {
+   "t": "Nothing planned. Suspicious, but nice.",
+   "f": true
+  },
+  {
+   "t": "Open time. Choose your own adventure.",
+   "f": true
+  },
+  {
+   "t": "A gap. Don’t tell the to-do list.",
+   "f": true
+  },
+  {
+   "t": "Free time. Very rare. Handle with care.",
+   "f": true
+  },
+  {
+   "t": "Nothing planned. Plot twist.",
+   "f": true
+  },
+  {
+   "t": "A gap. Perfect for staring into space.",
+   "f": true
+  },
+  {
+   "t": "Free now. The doom pile won’t notice.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. Officially off duty.",
+   "f": true
+  },
+  {
+   "t": "Open time. No alarms, for once.",
+   "f": true
+  },
+  {
+   "t": "The calendar is holding its breath.",
+   "f": true
+  },
+  {
+   "t": "Free time spotted in the wild.",
+   "f": true
+  },
+  {
+   "t": "Nothing planned. Your brain’s choice.",
+   "f": true
+  },
+  {
+   "t": "Free now. Five minutes? An hour? Yes.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. Go on, wander.",
+   "f": true
+  },
+  {
+   "t": "Free time. Try to act natural.",
+   "f": true
+  },
+  {
+   "t": "A gap. The good kind of nothing.",
+   "f": true
+  },
+  {
+   "t": "Nothing here. Just you and 47 thoughts.",
+   "f": true
+  },
+  {
+   "t": "Open time. Dopamine hunt optional.",
+   "f": true
+  },
+  {
+   "t": "A gap. Unclaimed time, finders keepers.",
+   "f": true
+  },
+  {
+   "t": "Free now. Nobody needs anything. Weird.",
+   "f": true
+  },
+  {
+   "t": "Nothing booked. Brain picks the music.",
+   "f": true
+  },
+  {
+   "t": "Free now. Great time to find your keys.",
+   "f": true
+  },
+  {
+   "t": "Free time. Drawer reorganising optional.",
+   "f": true
+  },
+  {
+   "t": "Nothing planned. Main character pause.",
+   "f": true
+  },
+  {
+   "t": "Open time. Hyperfocus at your own risk.",
+   "f": true
+  },
+  {
+   "t": "A gap. The plan is taking a nap.",
+   "f": true
+  },
+  {
+   "t": "Free now. Maybe drink that cold tea.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. You’re off the clock.",
+   "f": true
+  },
+  {
+   "t": "Free time. No quest markers here.",
+   "f": true
+  },
+  {
+   "t": "A gap. Nothing to remember. Lovely.",
+   "f": true
+  },
+  {
+   "t": "Free. Enjoy it before the day notices.",
+   "f": true
+  },
+  {
+   "t": "Open time. Wander, wonder, wiggle.",
+   "f": true
+  },
+  {
+   "t": "Free time, no homework attached.",
+   "f": true
+  },
+  {
+   "t": "Nothing scheduled. Cue the lo-fi.",
+   "f": true
+  },
+  {
+   "t": "A gap. Walk into a room, forget why.",
+   "f": true
+  },
+  {
+   "t": "Free now. Your inbox can wait.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. Daydreaming is allowed.",
+   "f": true
+  },
+  {
+   "t": "Open time. The couch is also an option.",
+   "f": true
+  },
+  {
+   "t": "A gap. Ideal for one quick thing.",
+   "f": true
+  },
+  {
+   "t": "Nothing planned. Let the squirrels roam.",
+   "f": true
+  },
+  {
+   "t": "Free time. Nobody’s timing you.",
+   "f": true
+  },
+  {
+   "t": "Nothing booked. Brain on free-roam.",
+   "f": true
+  },
+  {
+   "t": "Free now. Body doubling with the cat?",
+   "f": true
+  },
+  {
+   "t": "Nothing on. The kettle’s free too.",
+   "f": true
+  },
+  {
+   "t": "Free now. Wandering counts as a plan.",
+   "f": true
+  },
+  {
+   "t": "Nothing scheduled. A small miracle.",
+   "f": true
+  },
+  {
+   "t": "Free time. Brain says: tangent?",
+   "f": true
+  },
+  {
+   "t": "A gap. Stretch like nobody’s watching.",
+   "f": true
+  },
+  {
+   "t": "Open time. Do a thing. Or don’t.",
+   "f": true
+  },
+  {
+   "t": "Free now. Reread that sentence in peace.",
+   "f": true
+  },
+  {
+   "t": "Nothing on. Your brain can freewheel.",
+   "f": true
+  },
+  {
+   "t": "A gap. Doodle, doze, or dawdle.",
+   "f": true
+  },
+  {
+   "t": "Nothing scheduled. Time is on your side.",
+   "f": true
+  },
+  {
+   "t": "Free now. The later pile can stay later.",
+   "f": true
+  },
+  {
+   "t": "Free now. Pace around thinking. Classic.",
+   "f": true
+  }
+ ],
+ "dayLineRoutine": [
+  {
+   "t": "Planning from your routine today.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan follows your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is planned around your routine.",
+   "f": false
+  },
+  {
+   "t": "Working from your usual routine today.",
+   "f": false
+  },
+  {
+   "t": "Your routine is shaping today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is built on your routine.",
+   "f": false
+  },
+  {
+   "t": "Using your routine to plan today.",
+   "f": false
+  },
+  {
+   "t": "Planning today around your usual day.",
+   "f": false
+  },
+  {
+   "t": "Today follows your regular routine.",
+   "f": false
+  },
+  {
+   "t": "Your usual routine is guiding today.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan comes from your routine.",
+   "f": false
+  },
+  {
+   "t": "Going by your routine today.",
+   "f": false
+  },
+  {
+   "t": "Today, the plan follows your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning today from your usual habits.",
+   "f": false
+  },
+  {
+   "t": "Your routine sets the plan today.",
+   "f": false
+  },
+  {
+   "t": "Today’s schedule follows your routine.",
+   "f": false
+  },
+  {
+   "t": "Building today around your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is based on your routine.",
+   "f": false
+  },
+  {
+   "t": "Following your routine for today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan uses your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning around your routine today.",
+   "f": false
+  },
+  {
+   "t": "Your routine is the guide for today.",
+   "f": false
+  },
+  {
+   "t": "Today runs on your usual routine.",
+   "f": false
+  },
+  {
+   "t": "Today is shaped by your routine.",
+   "f": false
+  },
+  {
+   "t": "Your regular routine is leading today.",
+   "f": false
+  },
+  {
+   "t": "The plan today follows your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is based on your usual day.",
+   "f": false
+  },
+  {
+   "t": "Planning today with your routine.",
+   "f": false
+  },
+  {
+   "t": "Keeping to your routine for today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today, planning from your routine.",
+   "f": false
+  },
+  {
+   "t": "Leaning on your routine to plan today.",
+   "f": false
+  },
+  {
+   "t": "Your routine is the starting point today.",
+   "f": false
+  },
+  {
+   "t": "Today starts from your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning from your everyday routine today.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan draws on your routine.",
+   "f": false
+  },
+  {
+   "t": "Relying on your routine for today.",
+   "f": false
+  },
+  {
+   "t": "Your routine is steering today.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan rests on your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning today by your routine.",
+   "f": false
+  },
+  {
+   "t": "Today takes its shape from your routine.",
+   "f": false
+  },
+  {
+   "t": "Using your usual day as today’s guide.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is shaped around your routine.",
+   "f": false
+  },
+  {
+   "t": "Your day is planned from your routine.",
+   "f": false
+  },
+  {
+   "t": "Your everyday routine is guiding today.",
+   "f": false
+  },
+  {
+   "t": "Today follows the shape of your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is running on your routine.",
+   "f": false
+  },
+  {
+   "t": "The plan is following your routine today.",
+   "f": false
+  },
+  {
+   "t": "Planning today in line with your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is behind today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan leans on your routine.",
+   "f": false
+  },
+  {
+   "t": "This plan is built from your routine.",
+   "f": false
+  },
+  {
+   "t": "Today, your routine guides the plan.",
+   "f": false
+  },
+  {
+   "t": "Planning today using your usual routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is in charge of today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today is organised around your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is organised by your routine.",
+   "f": false
+  },
+  {
+   "t": "Arranging today around your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is set out from your routine.",
+   "f": false
+  },
+  {
+   "t": "Laying out today from your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is setting today’s pace.",
+   "f": false
+  },
+  {
+   "t": "Today’s pace follows your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning today from your normal routine.",
+   "f": false
+  },
+  {
+   "t": "Today follows your familiar routine.",
+   "f": false
+  },
+  {
+   "t": "Today, the plan comes from your routine.",
+   "f": false
+  },
+  {
+   "t": "Your usual day is the template for today.",
+   "f": false
+  },
+  {
+   "t": "Your routine is today’s template.",
+   "f": false
+  },
+  {
+   "t": "Mapping today from your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is mapped around your routine.",
+   "f": false
+  },
+  {
+   "t": "Planning today to fit your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan fits around your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is framing today.",
+   "f": false
+  },
+  {
+   "t": "Today is framed by your routine.",
+   "f": false
+  },
+  {
+   "t": "Shaping today from your routine.",
+   "f": false
+  },
+  {
+   "t": "Taking today’s plan from your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is drawn from your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine forms the basis of today.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is grounded in your routine.",
+   "f": false
+  },
+  {
+   "t": "Grounding today’s plan in your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is the base for today.",
+   "f": false
+  },
+  {
+   "t": "Today builds on your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan keeps to your routine.",
+   "f": false
+  },
+  {
+   "t": "Structuring today around your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is structured by your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine gives today its structure.",
+   "f": false
+  },
+  {
+   "t": "Your routine is guiding today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Today’s running order comes from your routine.",
+   "f": false
+  },
+  {
+   "t": "Plotting today from your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan tracks your routine.",
+   "f": false
+  },
+  {
+   "t": "Setting today’s plan by your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is set by your routine.",
+   "f": false
+  },
+  {
+   "t": "Your routine is anchoring today.",
+   "f": false
+  },
+  {
+   "t": "Anchoring today in your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is anchored to your routine.",
+   "f": false
+  },
+  {
+   "t": "Your habits are shaping today’s plan.",
+   "f": false
+  },
+  {
+   "t": "Planning today around your usual habits.",
+   "f": false
+  },
+  {
+   "t": "Today is paced by your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan mirrors your routine.",
+   "f": false
+  },
+  {
+   "t": "Today’s plan is set from your routine.",
+   "f": false
+  },
+  {
+   "t": "The day is planned around your routine.",
+   "f": false
+  },
+  {
+   "t": "Today is guided by your routine.",
+   "f": false
+  }
+ ],
+ "tinyWinsTitle": [
+  {
+   "t": "Look what you already did.",
+   "f": false
+  },
+  {
+   "t": "What you’ve done today.",
+   "f": false
+  },
+  {
+   "t": "Today’s wins so far.",
+   "f": false
+  },
+  {
+   "t": "Look at all this.",
+   "f": false
+  },
+  {
+   "t": "Done today.",
+   "f": false
+  },
+  {
+   "t": "Everything you’ve finished.",
+   "f": false
+  },
+  {
+   "t": "Your wins today.",
+   "f": false
+  },
+  {
+   "t": "Look how much you’ve done.",
+   "f": false
+  },
+  {
+   "t": "Things you got done today.",
+   "f": false
+  },
+  {
+   "t": "Today’s finished list.",
+   "f": false
+  },
+  {
+   "t": "All the things you did.",
+   "f": false
+  },
+  {
+   "t": "So far today, you did this.",
+   "f": false
+  },
+  {
+   "t": "Small wins, all yours.",
+   "f": false
+  },
+  {
+   "t": "Here’s what you’ve done.",
+   "f": false
+  },
+  {
+   "t": "Today’s tiny wins.",
+   "f": false
+  },
+  {
+   "t": "Look back at today so far.",
+   "f": false
+  },
+  {
+   "t": "Done and dusted today.",
+   "f": false
+  },
+  {
+   "t": "You did all of this today.",
+   "f": false
+  },
+  {
+   "t": "What you’ve ticked off.",
+   "f": false
+  },
+  {
+   "t": "The done list.",
+   "f": false
+  },
+  {
+   "t": "Today, you did these.",
+   "f": false
+  },
+  {
+   "t": "Finished today.",
+   "f": false
+  },
+  {
+   "t": "All done so far.",
+   "f": false
+  },
+  {
+   "t": "Every win counts. Here they are.",
+   "f": false
+  },
+  {
+   "t": "Look how far today’s come.",
+   "f": false
+  },
+  {
+   "t": "Today’s progress.",
+   "f": false
+  },
+  {
+   "t": "Wins, big and small.",
+   "f": false
+  },
+  {
+   "t": "What got done today.",
+   "f": false
+  },
+  {
+   "t": "Your finished things.",
+   "f": false
+  },
+  {
+   "t": "This is what you did.",
+   "f": false
+  },
+  {
+   "t": "Things you’ve wrapped up.",
+   "f": false
+  },
+  {
+   "t": "Today’s ticks.",
+   "f": false
+  },
+  {
+   "t": "Look what’s done.",
+   "f": false
+  },
+  {
+   "t": "A list worth looking at.",
+   "f": false
+  },
+  {
+   "t": "You’ve done more than you think.",
+   "f": false
+  },
+  {
+   "t": "Here’s your day so far.",
+   "f": false
+  },
+  {
+   "t": "Checked off today.",
+   "f": false
+  },
+  {
+   "t": "Small things, all done.",
+   "f": false
+  },
+  {
+   "t": "Every finished thing today.",
+   "f": false
+  },
+  {
+   "t": "Today, so far.",
+   "f": false
+  },
+  {
+   "t": "Proof you did things. Receipts attached.",
+   "f": true
+  },
+  {
+   "t": "Brain says nothing. Evidence says lots.",
+   "f": true
+  },
+  {
+   "t": "Things you did. Not just thought about.",
+   "f": true
+  },
+  {
+   "t": "The done pile. Nicer than the doom pile.",
+   "f": true
+  },
+  {
+   "t": "Look at you, doing stuff.",
+   "f": true
+  },
+  {
+   "t": "Done list: surprisingly long.",
+   "f": true
+  },
+  {
+   "t": "Exhibit A: you did stuff.",
+   "f": true
+  },
+  {
+   "t": "Today’s highlight reel.",
+   "f": true
+  },
+  {
+   "t": "Done. Actually done. Not ‘nearly’.",
+   "f": true
+  },
+  {
+   "t": "Things that are no longer on the list.",
+   "f": true
+  },
+  {
+   "t": "Your done list, in all its glory.",
+   "f": true
+  },
+  {
+   "t": "The things that escaped the to-do list.",
+   "f": true
+  },
+  {
+   "t": "Where did the time go? Here.",
+   "f": true
+  },
+  {
+   "t": "Wins. Tiny, but they count.",
+   "f": true
+  },
+  {
+   "t": "The list your brain forgot to mention.",
+   "f": true
+  },
+  {
+   "t": "Victory lap, this way.",
+   "f": true
+  },
+  {
+   "t": "All this, and it’s not even bedtime.",
+   "f": true
+  },
+  {
+   "t": "Tiny wins. Big deal.",
+   "f": true
+  },
+  {
+   "t": "Behold, things you finished.",
+   "f": true
+  },
+  {
+   "t": "Plot twist: you did loads.",
+   "f": true
+  },
+  {
+   "t": "The ‘I did that’ list.",
+   "f": true
+  },
+  {
+   "t": "You, getting things done. Look.",
+   "f": true
+  },
+  {
+   "t": "The things that didn’t get away.",
+   "f": true
+  },
+  {
+   "t": "Done things. Frame them, maybe.",
+   "f": true
+  },
+  {
+   "t": "A small parade of wins.",
+   "f": true
+  },
+  {
+   "t": "Your trophy shelf for today.",
+   "f": true
+  },
+  {
+   "t": "Tasks, conquered.",
+   "f": true
+  },
+  {
+   "t": "Look. Actual, real, finished things.",
+   "f": true
+  },
+  {
+   "t": "Today’s wins, now on display.",
+   "f": true
+  },
+  {
+   "t": "Look, a whole list of done.",
+   "f": true
+  },
+  {
+   "t": "That five-minute task? Done.",
+   "f": true
+  },
+  {
+   "t": "Stuff you did. Take a bow.",
+   "f": true
+  },
+  {
+   "t": "Checked off. Crossed out. Celebrated.",
+   "f": true
+  },
+  {
+   "t": "Look who’s been busy.",
+   "f": true
+  },
+  {
+   "t": "Evidence for your inner critic.",
+   "f": true
+  },
+  {
+   "t": "Today’s done list. Very shiny.",
+   "f": true
+  },
+  {
+   "t": "A little museum of today.",
+   "f": true
+  },
+  {
+   "t": "A hall of fame, today edition.",
+   "f": true
+  },
+  {
+   "t": "Tick, tick, tick. Look at that.",
+   "f": true
+  },
+  {
+   "t": "Main quest progress: noted.",
+   "f": true
+  },
+  {
+   "t": "Side quests count too. Here they are.",
+   "f": true
+  },
+  {
+   "t": "Done list. Better than a to-do list.",
+   "f": true
+  },
+  {
+   "t": "Achievements unlocked today.",
+   "f": true
+  },
+  {
+   "t": "Stuff future you can brag about.",
+   "f": true
+  },
+  {
+   "t": "Wins so far. Snack-worthy, honestly.",
+   "f": true
+  },
+  {
+   "t": "Look what past you pulled off.",
+   "f": true
+  },
+  {
+   "t": "The good kind of list.",
+   "f": true
+  },
+  {
+   "t": "Done. Done. Also done.",
+   "f": true
+  },
+  {
+   "t": "The list that deserves a gold star.",
+   "f": true
+  },
+  {
+   "t": "A modest collection of triumphs.",
+   "f": true
+  },
+  {
+   "t": "Officially off your plate.",
+   "f": true
+  },
+  {
+   "t": "You and your tiny wins. Lovely.",
+   "f": true
+  },
+  {
+   "t": "A round of applause, in list form.",
+   "f": true
+  },
+  {
+   "t": "Today’s finished business.",
+   "f": true
+  },
+  {
+   "t": "Your wins. No filter needed.",
+   "f": true
+  },
+  {
+   "t": "Check marks, collected like stickers.",
+   "f": true
+  },
+  {
+   "t": "These got done. Wild.",
+   "f": true
+  },
+  {
+   "t": "The tabs you closed today.",
+   "f": true
+  },
+  {
+   "t": "Your brain’s greatest hits, today.",
+   "f": true
+  },
+  {
+   "t": "A list for the fridge door.",
+   "f": true
+  }
+ ],
+ "arrivalAfternoon": [
+  {
+   "t": "Good afternoon, {name}.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Hope your afternoon’s kind.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Hope the afternoon’s good.",
+   "f": false
+  },
+  {
+   "t": "Welcome back, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Nice to see you.",
+   "f": false
+  },
+  {
+   "t": "Hello {name}. The afternoon’s here.",
+   "f": false
+  },
+  {
+   "t": "{name}, good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Good to see you.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Here’s your afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Welcome back.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Happy afternoon.",
+   "f": false
+  },
+  {
+   "t": "A good afternoon to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hi, {name}. It’s the afternoon.",
+   "f": false
+  },
+  {
+   "t": "Hello again, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. How’s it going?",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. How’s today?",
+   "f": false
+  },
+  {
+   "t": "Hey {name}, good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Welcome to the afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Glad you’re here.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Hope today’s been kind.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Take a breath.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Here’s what’s next.",
+   "f": false
+  },
+  {
+   "t": "Hello {name}. A calm afternoon to you.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}, and good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Here we are.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Nice to have you back.",
+   "f": false
+  },
+  {
+   "t": "Hello there, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. All good?",
+   "f": false
+  },
+  {
+   "t": "Hey there, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Hope it’s a good one.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. The afternoon’s all yours.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Easy does it.",
+   "f": false
+  },
+  {
+   "t": "Hello {name}. Here comes the afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. You’re here. Nice.",
+   "f": false
+  },
+  {
+   "t": "Good to see you this afternoon, {name}.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Settle in.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Ready when you are.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. How’s your afternoon?",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. One step at a time.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Lovely afternoon to you.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Settling into the afternoon?",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. How are you doing?",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Afternoon’s arrived.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Onward.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Still plenty of day left.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Nice and steady now.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. The afternoon starts here.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Here’s the plan.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. How’s the afternoon?",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Welcome.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Good to have you here.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Let’s go gently.",
+   "f": false
+  },
+  {
+   "t": "Hello {name}. Hope you’re doing okay.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Hope it’s going well.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. How are things?",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Hello from the afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon greetings, {name}.",
+   "f": false
+  },
+  {
+   "t": "Well hello, {name}. Good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Good afternoon, {name}. Glad to see you.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Hope your afternoon’s gentle.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. The afternoon awaits.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Let’s take it easy.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Here’s to a good afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. You’re doing fine.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Hope the day’s been good.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Welcome to the afternoon.",
+   "f": false
+  },
+  {
+   "t": "Afternoon, {name}. Time is sneaky.",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. The morning just vanished.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Snack o’clock, roughly.",
+   "f": true
+  },
+  {
+   "t": "Good afternoon, {name}. Tabs still open?",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Hello from post-lunch brain.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. Round two, ding ding.",
+   "f": true
+  },
+  {
+   "t": "Good afternoon, {name}. Kettle on?",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. The afternoon crept up on us.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. It’s afternoon. Yes, already.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. Second wind, loading.",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. Afternoon mode: engaged.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. Alarms all behaving?",
+   "f": true
+  },
+  {
+   "t": "Afternoon has entered the chat, {name}.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. The day’s second act.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. The afternoon shift begins.",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. Afternoon unlocked.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Welcome to the second half.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. It’s the afternoon. Probably.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Back from a rabbit hole?",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. New hobby since morning?",
+   "f": true
+  },
+  {
+   "t": "Hello, {name}. Day’s still young-ish.",
+   "f": true
+  },
+  {
+   "t": "Good afternoon, officially, {name}.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. The afternoon edition is out.",
+   "f": true
+  },
+  {
+   "t": "Hello, {name}. Remember why you came in?",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. Still today, just later.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. The plot thickens.",
+   "f": true
+  },
+  {
+   "t": "Afternoon, {name}. Right on schedule.",
+   "f": true
+  },
+  {
+   "t": "Hey {name}. Your planner says hi.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Call it late morning?",
+   "f": true
+  },
+  {
+   "t": "Hello, {name}. Let’s outsmart the slump.",
+   "f": true
+  }
+ ],
+ "rhythmTuneTitle": [
+  {
+   "t": "Something here not quite you?",
+   "f": false
+  },
+  {
+   "t": "Does this look like you?",
+   "f": false
+  },
+  {
+   "t": "Anything here feel off?",
+   "f": false
+  },
+  {
+   "t": "Want to adjust what we’ve learned?",
+   "f": false
+  },
+  {
+   "t": "Tweak what the app has learned.",
+   "f": false
+  },
+  {
+   "t": "Not quite right? Change it.",
+   "f": false
+  },
+  {
+   "t": "Is this how your days really go?",
+   "f": false
+  },
+  {
+   "t": "Make these patterns fit you.",
+   "f": false
+  },
+  {
+   "t": "Anything you’d like to change?",
+   "f": false
+  },
+  {
+   "t": "Does this match your days?",
+   "f": false
+  },
+  {
+   "t": "Something not quite right?",
+   "f": false
+  },
+  {
+   "t": "Fine-tune your patterns.",
+   "f": false
+  },
+  {
+   "t": "Help us get this right.",
+   "f": false
+  },
+  {
+   "t": "Correct anything that’s off.",
+   "f": false
+  },
+  {
+   "t": "You know you best. Adjust away.",
+   "f": false
+  },
+  {
+   "t": "Adjust these to match real life.",
+   "f": false
+  },
+  {
+   "t": "Is this really you?",
+   "f": false
+  },
+  {
+   "t": "Edit what we’ve learned about you.",
+   "f": false
+  },
+  {
+   "t": "Want to make a few changes?",
+   "f": false
+  },
+  {
+   "t": "Does this ring true?",
+   "f": false
+  },
+  {
+   "t": "See something that isn’t you?",
+   "f": false
+  },
+  {
+   "t": "Adjust your patterns here.",
+   "f": false
+  },
+  {
+   "t": "Make it feel more like you.",
+   "f": false
+  },
+  {
+   "t": "Anything we got wrong?",
+   "f": false
+  },
+  {
+   "t": "Something off? You can change it.",
+   "f": false
+  },
+  {
+   "t": "Your patterns, your call.",
+   "f": false
+  },
+  {
+   "t": "Does this sound right to you?",
+   "f": false
+  },
+  {
+   "t": "Refine what the app has learned.",
+   "f": false
+  },
+  {
+   "t": "Is this close to right?",
+   "f": false
+  },
+  {
+   "t": "Spot something that’s off?",
+   "f": false
+  },
+  {
+   "t": "Tidy up your patterns.",
+   "f": false
+  },
+  {
+   "t": "Anything here to adjust?",
+   "f": false
+  },
+  {
+   "t": "Change what doesn’t fit.",
+   "f": false
+  },
+  {
+   "t": "How close did we get?",
+   "f": false
+  },
+  {
+   "t": "Is this accurate for you?",
+   "f": false
+  },
+  {
+   "t": "Want to set the record straight?",
+   "f": false
+  },
+  {
+   "t": "Not quite you? Tell us.",
+   "f": false
+  },
+  {
+   "t": "Let’s make this more you.",
+   "f": false
+  },
+  {
+   "t": "Edit anything that feels wrong.",
+   "f": false
+  },
+  {
+   "t": "Take a look. Anything to change?",
+   "f": false
+  },
+  {
+   "t": "Did we get you wrong? It happens.",
+   "f": true
+  },
+  {
+   "t": "You, or a stranger with your calendar?",
+   "f": true
+  },
+  {
+   "t": "The app took notes. Fix any typos.",
+   "f": true
+  },
+  {
+   "t": "Guessed wrong? You know better.",
+   "f": true
+  },
+  {
+   "t": "Does this sound like you, or your evil twin?",
+   "f": true
+  },
+  {
+   "t": "Our notes on you. Please grade them.",
+   "f": true
+  },
+  {
+   "t": "This is our best guess. Be honest.",
+   "f": true
+  },
+  {
+   "t": "We studied you. Did we pass?",
+   "f": true
+  },
+  {
+   "t": "Your brain’s biography. Any edits?",
+   "f": true
+  },
+  {
+   "t": "We tried. Correct us kindly.",
+   "f": true
+  },
+  {
+   "t": "Pattern looks off? Your brain wins.",
+   "f": true
+  },
+  {
+   "t": "The app has theories. Check them.",
+   "f": true
+  },
+  {
+   "t": "We think we know you. Do we?",
+   "f": true
+  },
+  {
+   "t": "A rough sketch of you. Touch it up?",
+   "f": true
+  },
+  {
+   "t": "Fact-check the app. Politely.",
+   "f": true
+  },
+  {
+   "t": "Are we close, or wildly off?",
+   "f": true
+  },
+  {
+   "t": "Did we mistake a rabbit hole for a routine?",
+   "f": true
+  },
+  {
+   "t": "Not you? Blame the one weird Tuesday.",
+   "f": true
+  },
+  {
+   "t": "Our guess at your rhythm. How close?",
+   "f": true
+  },
+  {
+   "t": "This is you, according to maths.",
+   "f": true
+  },
+  {
+   "t": "Spot the mistake. Fix the mistake.",
+   "f": true
+  },
+  {
+   "t": "We drew your portrait. Nose look right?",
+   "f": true
+  },
+  {
+   "t": "Something off? You’re the expert here.",
+   "f": true
+  },
+  {
+   "t": "Did we get your brain right-ish?",
+   "f": true
+  },
+  {
+   "t": "Mostly right? Mostly wrong? Tell us.",
+   "f": true
+  },
+  {
+   "t": "Your patterns, as seen by a very keen app.",
+   "f": true
+  },
+  {
+   "t": "We learned a lot. Maybe too confidently.",
+   "f": true
+  },
+  {
+   "t": "Hmm, is that really you?",
+   "f": true
+  },
+  {
+   "t": "Plot holes in your pattern? Fix them.",
+   "f": true
+  },
+  {
+   "t": "The app’s been paying attention. Mostly.",
+   "f": true
+  },
+  {
+   "t": "Your rhythm, our rough draft.",
+   "f": true
+  },
+  {
+   "t": "This is you, give or take a tangent.",
+   "f": true
+  },
+  {
+   "t": "Did we confuse hyperfocus with a habit?",
+   "f": true
+  },
+  {
+   "t": "We’re good at patterns. You’re best at you.",
+   "f": true
+  },
+  {
+   "t": "Found a bug in your pattern? Squash it.",
+   "f": true
+  },
+  {
+   "t": "Not quite you? Let’s tune the dials.",
+   "f": true
+  },
+  {
+   "t": "Where did we go wrong? We can take it.",
+   "f": true
+  },
+  {
+   "t": "The app’s impression of you. How’d it do?",
+   "f": true
+  },
+  {
+   "t": "Correct the app. It won’t sulk.",
+   "f": true
+  },
+  {
+   "t": "You’re the boss of these patterns.",
+   "f": true
+  },
+  {
+   "t": "We guessed. Now you decide.",
+   "f": true
+  },
+  {
+   "t": "Accurate, or a very confident guess?",
+   "f": true
+  },
+  {
+   "t": "This is you, roughly. Emphasis on roughly.",
+   "f": true
+  },
+  {
+   "t": "Does this pattern pass the vibe check?",
+   "f": true
+  },
+  {
+   "t": "Edit away. The app is very coachable.",
+   "f": true
+  },
+  {
+   "t": "Help the app understand you. It’s trying.",
+   "f": true
+  },
+  {
+   "t": "We noticed things. Were we right?",
+   "f": true
+  },
+  {
+   "t": "Your pattern, in pencil. Rub bits out.",
+   "f": true
+  },
+  {
+   "t": "A guess with good intentions. Fix it?",
+   "f": true
+  },
+  {
+   "t": "Is the app being a know-it-all?",
+   "f": true
+  },
+  {
+   "t": "Our theory of you. Peer review, please.",
+   "f": true
+  },
+  {
+   "t": "You, in app form. Close enough?",
+   "f": true
+  },
+  {
+   "t": "Like a horoscope, but hopefully accurate.",
+   "f": true
+  },
+  {
+   "t": "Your brain called. It has notes.",
+   "f": true
+  },
+  {
+   "t": "Does this feel like you, or a costume?",
+   "f": true
+  },
+  {
+   "t": "The app learned things. Some may be wrong.",
+   "f": true
+  },
+  {
+   "t": "Is this you, or you during a deadline?",
+   "f": true
+  },
+  {
+   "t": "Let’s fix what we got wonky.",
+   "f": true
+  },
+  {
+   "t": "We tried to read your mind. Close?",
+   "f": true
+  },
+  {
+   "t": "Did the app overthink it?",
+   "f": true
+  }
+ ],
+ "detailWindow": [
+  {
+   "t": "How often your check-ins said it was working, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "This shows how often your check-ins said it was working, hour by hour after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "At each hour after logging, the line shows how often your check-ins said it was working. The band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "The line tracks how often check-ins said it was working, by hours since logging. The shaded area is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often you said it was working in check-ins, plotted by hours after logging. The band shows how confident the app is.",
+   "f": false
+  },
+  {
+   "t": "Your check-ins, by hours after logging: how often they said it was working. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Across the hours after logging, this shows how often your check-ins said it was working. The band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "The curve shows how often your check-ins said it was working at each hour after logging. The shaded band shows certainty.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging, how often your check-ins reported it was working. The shaded band is how sure the app is so far.",
+   "f": false
+  },
+  {
+   "t": "This is how often your check-ins said it was working, counted by hours after logging. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "For each hour after logging, how often your check-ins said it was working. The shaded band is how sure the app is about that.",
+   "f": false
+  },
+  {
+   "t": "The line is how often your check-ins said it was working, by hours after logging. The shading around it is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "It shows, hour by hour after logging, how often your check-ins said it was working. The shaded band is the app’s confidence.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, measured in hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, plotted against hours since logging. The shaded band reflects how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "This curve comes from your check-ins: how often they said it was working, by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "A picture of your check-ins: how often they said it was working, hour by hour after logging. The shading is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, according to your check-ins, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Based on your check-ins: how often it was working at each hour after logging. The shaded band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "Hour by hour after logging, the share of check-ins that said it was working. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The share of your check-ins that said it was working, by hours after logging. The band shows how confident the app is.",
+   "f": false
+  },
+  {
+   "t": "What your check-ins said, by hours after logging: how often it was working. The shaded band is the app’s level of certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins answered that it was working, by hours after logging. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Shown by hours after logging: how often your check-ins said it was working. The shaded band is how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "This tracks how often your check-ins said it was working in the hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "In the hours after logging, how often did check-ins say it was working? That’s the line. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The line: how often your check-ins said it was working, by hours after logging. The band: how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, broken down by hours after logging. The shaded band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "Your check-in answers, grouped by hours after logging, showing how often it was working. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, going by your check-ins, at each hour after logging. The shaded band shows the app’s confidence.",
+   "f": false
+  },
+  {
+   "t": "The height of the line is how often your check-ins said it was working, by hours after logging. The band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "See how often your check-ins said it was working, hour by hour after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "This is built from your check-ins: how often it was working, by hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How frequently your check-ins said it was working, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging, how frequently check-ins said it was working. The band around the line shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, for each hour after logging. The shaded band is the app’s confidence in that.",
+   "f": false
+  },
+  {
+   "t": "From your check-ins: how often it was working, by the number of hours after logging. The shaded band shows certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, by hours since you logged. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The chart shows how often your check-ins said it was working, by hours after logging. Shading shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Hours after logging, and how often your check-ins said it was working at each one. The shaded band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, arranged by hours after logging. The band shows how sure the app is about it.",
+   "f": false
+  },
+  {
+   "t": "Your check-ins, by hours after logging, showing how often they said it was working. The shaded band shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "The curve is how often check-ins said it was working, by hours after logging. The band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, by hours after logging, based on what your check-ins said. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Each hour after logging, how often your check-ins said it was working. The shaded band shows how confident the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins reported it working, by hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "This line shows how often your check-ins said it was working, by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging: how often your check-ins said it was working. The shaded band tells you how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, hour by hour from logging. The shaded band is the app’s certainty so far.",
+   "f": false
+  },
+  {
+   "t": "This maps how often your check-ins said it was working against hours after logging. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often you checked in and said it was working, by hours after logging. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "It charts how often your check-ins said it was working, by hours after logging. The shaded band is how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "The pattern of your check-ins: how often it was working, hour by hour after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "A summary of your check-ins, showing how often it was working by hours after logging. The band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said yes, it was working, by hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Plotted by hours after logging: how often check-ins said it was working. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins found it working, by hours after logging. The shaded band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "For every hour after logging, the line shows how often check-ins said it was working. The band shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, in your own check-ins, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The line follows your check-ins: how often they said it was working, by hours after logging. The band is certainty.",
+   "f": false
+  },
+  {
+   "t": "What this shows: how often check-ins said it was working, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, counted from the time you logged. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, by hours from logging, according to your check-ins. The band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "This is how your check-ins add up: how often it was working, by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Your check-ins, added up by hours after logging, show how often it was working. The shaded band is the app’s confidence.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, shown hour by hour after logging. The band shows how much the app trusts this.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging, the share of your check-ins that said it was working. The shading is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, per hour after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "It shows how often check-ins said it was working, by hours since logging. The band shows how sure the app is right now.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, laid out by hours after logging. The band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, per your check-ins, by hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, hour by hour after you logged. The shaded band is how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins came back as working, by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "Your check-ins say how often it was working, shown by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working at each hour after logging, from your check-ins. The band shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "This shows the hours after logging, and how often check-ins said it was working in each. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, hour by hour after logging. The shaded band shows how sure the app feels.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, by hours after logging. The shaded band marks how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging, how often it was working, going by your check-ins. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The line is built from your check-ins: how often it was working by hours after logging. The shading shows certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, by hours after logging. The shaded band is how confident the app is.",
+   "f": false
+  },
+  {
+   "t": "Hours after logging on one side, how often check-ins said it was working on the other. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, lined up by hours after logging. The shaded band shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, by hours after logging, as your check-ins tell it. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, sorted into hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "This curve is how often check-ins said it was working, hour by hour after logging. The band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, measured from when you logged. The shaded band shows how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, drawn from your check-ins, by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "The line is your check-ins, showing how often it was working by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, shown across the hours after logging. The band shows how confident the app is.",
+   "f": false
+  },
+  {
+   "t": "Check-ins, grouped by hours after logging, show how often it was working. The shaded band is how certain the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, in the hours after logging. The shaded band is the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "By hours after logging, this shows how often check-ins said it was working. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, tracked by hours after logging. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often check-ins said it was working, organised by hours after logging. The band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "From logging onwards, hour by hour: how often check-ins said it was working. The shaded band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, by the hour after logging. The band shows the app’s certainty.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, by hours after logging. The shaded band shows how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often it was working, as reported in your check-ins, by hours after logging. The band is how sure the app is.",
+   "f": false
+  },
+  {
+   "t": "How often your check-ins said it was working, taken hour by hour after logging. The shaded band is the app’s confidence.",
+   "f": false
+  }
+ ],
+ "actionButtonPitch": [
+  {
+   "t": "Want to log with one press? Your Action button can do it.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can log for you in one press. Want to set it up?",
+   "f": false
+  },
+  {
+   "t": "Log with a single press of your Action button. Want to try it?",
+   "f": false
+  },
+  {
+   "t": "One press of the Action button could log it. Set that up?",
+   "f": false
+  },
+  {
+   "t": "Want logging to take one press? Assign it to your Action button.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can handle logging. One press, done.",
+   "f": false
+  },
+  {
+   "t": "Prefer fewer taps? Your Action button can log in one press.",
+   "f": false
+  },
+  {
+   "t": "Set your Action button to log, and it’s one press from then on.",
+   "f": false
+  },
+  {
+   "t": "Logging can be a single press. Your Action button is ready if you are.",
+   "f": false
+  },
+  {
+   "t": "Would one press be easier? The Action button can log for you.",
+   "f": false
+  },
+  {
+   "t": "Turn your Action button into a one-press log.",
+   "f": false
+  },
+  {
+   "t": "Want a quicker way to log? Try the Action button.",
+   "f": false
+  },
+  {
+   "t": "The Action button can log with one press. Want it?",
+   "f": false
+  },
+  {
+   "t": "Make logging one press with your Action button.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can log in a single press. Set it up now?",
+   "f": false
+  },
+  {
+   "t": "For the quickest log, use your Action button. One press.",
+   "f": false
+  },
+  {
+   "t": "Want the Action button to log for you? It’s one press.",
+   "f": false
+  },
+  {
+   "t": "One press on the Action button, and it’s logged.",
+   "f": false
+  },
+  {
+   "t": "Want to skip the taps? Your Action button can log in one press.",
+   "f": false
+  },
+  {
+   "t": "Your Action button could be your log button. Want that?",
+   "f": false
+  },
+  {
+   "t": "Logging, one press away. Set up the Action button?",
+   "f": false
+  },
+  {
+   "t": "Try logging with the Action button. It takes one press.",
+   "f": false
+  },
+  {
+   "t": "The Action button can make logging a single press.",
+   "f": false
+  },
+  {
+   "t": "Logging can live on your Action button. One press does it.",
+   "f": false
+  },
+  {
+   "t": "Set up one-press logging on your Action button?",
+   "f": false
+  },
+  {
+   "t": "Give your Action button a job: one-press logging.",
+   "f": false
+  },
+  {
+   "t": "Log in one press with the Action button. Want to set it up?",
+   "f": false
+  },
+  {
+   "t": "A single press of the Action button can log it for you.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can make logging quick. One press.",
+   "f": false
+  },
+  {
+   "t": "Would you like to log with the Action button? One press is all.",
+   "f": false
+  },
+  {
+   "t": "Assign logging to your Action button for one-press logs.",
+   "f": false
+  },
+  {
+   "t": "Want one-press logging? The Action button has you covered.",
+   "f": false
+  },
+  {
+   "t": "The Action button can log with a press. Worth setting up?",
+   "f": false
+  },
+  {
+   "t": "Your Action button can log in one go. Want to try?",
+   "f": false
+  },
+  {
+   "t": "Log straight from your Action button with one press.",
+   "f": false
+  },
+  {
+   "t": "Make the Action button your shortcut to log. One press.",
+   "f": false
+  },
+  {
+   "t": "Logging could be one press on the Action button. Interested?",
+   "f": false
+  },
+  {
+   "t": "Save a few taps. Your Action button can log in one press.",
+   "f": false
+  },
+  {
+   "t": "One-press logging is possible with your Action button. Set it up?",
+   "f": false
+  },
+  {
+   "t": "Your Action button can log for you. Just one press.",
+   "f": false
+  },
+  {
+   "t": "Link logging to your Action button for a one-press log.",
+   "f": false
+  },
+  {
+   "t": "Want to log faster? One press on the Action button does it.",
+   "f": false
+  },
+  {
+   "t": "Logging, the one-press way. Use your Action button?",
+   "f": false
+  },
+  {
+   "t": "Want your Action button to log? One press, and it’s done.",
+   "f": false
+  },
+  {
+   "t": "Press the Action button once to log. Want to turn that on?",
+   "f": false
+  },
+  {
+   "t": "Quick option: log with one press of your Action button.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can be set to log in one press.",
+   "f": false
+  },
+  {
+   "t": "Log from the side of your phone. One press of the Action button.",
+   "f": false
+  },
+  {
+   "t": "How about one-press logging? Your Action button can do it.",
+   "f": false
+  },
+  {
+   "t": "One press is all it takes with the Action button. Want to set it up?",
+   "f": false
+  },
+  {
+   "t": "Your Action button can save you the taps. One press logs it.",
+   "f": false
+  },
+  {
+   "t": "Make logging as easy as one press. Your Action button can help.",
+   "f": false
+  },
+  {
+   "t": "The Action button can take care of logging in a single press.",
+   "f": false
+  },
+  {
+   "t": "Log with one press, straight from the Action button. Want to?",
+   "f": false
+  },
+  {
+   "t": "Want to try logging with the Action button? It’s one press.",
+   "f": false
+  },
+  {
+   "t": "Hand logging to the Action button. One press each time.",
+   "f": false
+  },
+  {
+   "t": "Your Action button could log for you with a single press.",
+   "f": false
+  },
+  {
+   "t": "Want an easier way to log? Your Action button does it in one press.",
+   "f": false
+  },
+  {
+   "t": "Set it once, then log with one press of the Action button.",
+   "f": false
+  },
+  {
+   "t": "The Action button can log for you, one press at a time.",
+   "f": false
+  },
+  {
+   "t": "Log with one press using the Action button. Set it up here.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can turn logging into a single press.",
+   "f": false
+  },
+  {
+   "t": "One press, logged. The Action button can do that.",
+   "f": false
+  },
+  {
+   "t": "Would it help to log with one press? Try the Action button.",
+   "f": false
+  },
+  {
+   "t": "Logging can be just one press on your Action button.",
+   "f": false
+  },
+  {
+   "t": "Put logging on your Action button for one-press logs.",
+   "f": false
+  },
+  {
+   "t": "Want one press instead of a few taps? Use the Action button to log.",
+   "f": false
+  },
+  {
+   "t": "Your Action button can do the logging. It’s one press.",
+   "f": false
+  },
+  {
+   "t": "Easiest way to log: one press of your Action button.",
+   "f": false
+  },
+  {
+   "t": "Log in a single press. Your Action button is ready.",
+   "f": false
+  },
+  {
+   "t": "Your Action button has been waiting its whole life for this. One press logs it.",
+   "f": true
+  },
+  {
+   "t": "One press to log. No detours through your messages on the way.",
+   "f": true
+  },
+  {
+   "t": "Log with one press, before your phone can distract you with anything else.",
+   "f": true
+  },
+  {
+   "t": "Fewer taps, fewer side quests. Your Action button can log in one press.",
+   "f": true
+  },
+  {
+   "t": "One press of the Action button logs it. Almost suspiciously easy.",
+   "f": true
+  },
+  {
+   "t": "One press on the Action button. Faster than finding the app. Or your phone.",
+   "f": true
+  },
+  {
+   "t": "Your Action button can log in one press. Much more exciting than the torch.",
+   "f": true
+  },
+  {
+   "t": "Log with one press. No scrolling, no notification rabbit holes.",
+   "f": true
+  },
+  {
+   "t": "The Action button can log in one press. Zero chances to open 12 apps first.",
+   "f": true
+  },
+  {
+   "t": "One press. That’s it. Your Action button is very good at this.",
+   "f": true
+  },
+  {
+   "t": "Give that little side button a purpose. One press to log.",
+   "f": true
+  },
+  {
+   "t": "Logging in one press, because every extra tap is a chance to wander off.",
+   "f": true
+  },
+  {
+   "t": "Log in one press with the Action button. Less faff, more everything else.",
+   "f": true
+  },
+  {
+   "t": "One press on the Action button logs it. Your thumb will barely notice.",
+   "f": true
+  },
+  {
+   "t": "Make the Action button your log button. It’s been looking for a hobby.",
+   "f": true
+  },
+  {
+   "t": "One press on the Action button logs it. Honestly, it’s a bit satisfying.",
+   "f": true
+  },
+  {
+   "t": "The Action button can log in one press. Faster than you can forget why you picked up your phone.",
+   "f": true
+  },
+  {
+   "t": "Want to log in one press? The Action button is right there, being a button.",
+   "f": true
+  },
+  {
+   "t": "Log with one press. The Action button doesn’t get distracted. That’s its whole thing.",
+   "f": true
+  },
+  {
+   "t": "Your Action button can log in one press. Feels a bit like a magic trick.",
+   "f": true
+  },
+  {
+   "t": "One press on the Action button, and it’s logged. Short and sweet, like a good to-do list.",
+   "f": true
+  },
+  {
+   "t": "The Action button can log in one press. It’s the least distracting button you own.",
+   "f": true
+  },
+  {
+   "t": "Log with one press on the Action button. It’s quicker than reading this sentence.",
+   "f": true
+  },
+  {
+   "t": "One press logs it. The Action button is the rare shortcut that’s actually short.",
+   "f": true
+  },
+  {
+   "t": "One press on the Action button. Logged before your brain changes the subject.",
+   "f": true
+  },
+  {
+   "t": "Want a one-press log? The Action button is small, but very keen.",
+   "f": true
+  },
+  {
+   "t": "Your Action button can log in one press. Muscle memory will take it from there.",
+   "f": true
+  },
+  {
+   "t": "One-press logging via the Action button. No menus, no maze, no mystery.",
+   "f": true
+  },
+  {
+   "t": "Log with one press. The Action button is basically a shortcut with good manners.",
+   "f": true
+  },
+  {
+   "t": "One press of the Action button logs it. Even on a 47-tabs kind of day.",
+   "f": true
+  }
+ ],
+ "settingsIntro": [
+  {
+   "t": "The boring but important bits.",
+   "f": false
+  },
+  {
+   "t": "Everything you can adjust, in one place.",
+   "f": false
+  },
+  {
+   "t": "Your preferences, all in one spot.",
+   "f": false
+  },
+  {
+   "t": "Set things up the way you like.",
+   "f": false
+  },
+  {
+   "t": "The practical bits live here.",
+   "f": false
+  },
+  {
+   "t": "Change how the app works for you.",
+   "f": false
+  },
+  {
+   "t": "Adjust anything here, anytime.",
+   "f": false
+  },
+  {
+   "t": "The nuts and bolts.",
+   "f": false
+  },
+  {
+   "t": "Make the app work your way.",
+   "f": false
+  },
+  {
+   "t": "All your options, gathered here.",
+   "f": false
+  },
+  {
+   "t": "Tweak things to suit you.",
+   "f": false
+  },
+  {
+   "t": "The details that keep things running.",
+   "f": false
+  },
+  {
+   "t": "Small settings, big difference.",
+   "f": false
+  },
+  {
+   "t": "Your app, your rules.",
+   "f": false
+  },
+  {
+   "t": "Everything behind the scenes.",
+   "f": false
+  },
+  {
+   "t": "Fine-tune how things work.",
+   "f": false
+  },
+  {
+   "t": "Quiet but important choices.",
+   "f": false
+  },
+  {
+   "t": "How the app behaves, your call.",
+   "f": false
+  },
+  {
+   "t": "The controls, all in one place.",
+   "f": false
+  },
+  {
+   "t": "Adjust things whenever you need.",
+   "f": false
+  },
+  {
+   "t": "Where you shape the app to fit you.",
+   "f": false
+  },
+  {
+   "t": "Less exciting, still important.",
+   "f": false
+  },
+  {
+   "t": "The essentials, sorted.",
+   "f": false
+  },
+  {
+   "t": "Your options, laid out simply.",
+   "f": false
+  },
+  {
+   "t": "Change what you like, when you like.",
+   "f": false
+  },
+  {
+   "t": "The settings that keep things smooth.",
+   "f": false
+  },
+  {
+   "t": "Where the app takes your lead.",
+   "f": false
+  },
+  {
+   "t": "Here’s where you set things up.",
+   "f": false
+  },
+  {
+   "t": "Set it up to suit your days.",
+   "f": false
+  },
+  {
+   "t": "The dull but useful stuff.",
+   "f": false
+  },
+  {
+   "t": "A few choices to make it yours.",
+   "f": false
+  },
+  {
+   "t": "The fine print you actually control.",
+   "f": false
+  },
+  {
+   "t": "Choices that shape how the app works.",
+   "f": false
+  },
+  {
+   "t": "Settings, kept simple.",
+   "f": false
+  },
+  {
+   "t": "Adjust, tweak, and tidy up here.",
+   "f": false
+  },
+  {
+   "t": "How things work, set by you.",
+   "f": false
+  },
+  {
+   "t": "The important but unexciting bits.",
+   "f": false
+  },
+  {
+   "t": "The fiddly bits, made simple.",
+   "f": false
+  },
+  {
+   "t": "Everything that makes the app yours.",
+   "f": false
+  },
+  {
+   "t": "Here’s how to make the app fit.",
+   "f": false
+  },
+  {
+   "t": "The boring bits. We kept them short.",
+   "f": true
+  },
+  {
+   "t": "Knobs, switches, and very few surprises.",
+   "f": true
+  },
+  {
+   "t": "Where the toggles live.",
+   "f": true
+  },
+  {
+   "t": "Less exciting than a new hobby, but useful.",
+   "f": true
+  },
+  {
+   "t": "The admin bits. Brace yourself. Gently.",
+   "f": true
+  },
+  {
+   "t": "Toggles galore. Rearranging everything is optional.",
+   "f": true
+  },
+  {
+   "t": "The unglamorous but useful corner of the app.",
+   "f": true
+  },
+  {
+   "t": "Settings. Perfect for productive procrastination.",
+   "f": true
+  },
+  {
+   "t": "The paperwork, minus the paper.",
+   "f": true
+  },
+  {
+   "t": "Dull, but in a helpful way. Promise.",
+   "f": true
+  },
+  {
+   "t": "Where the app keeps its sensible shoes.",
+   "f": true
+  },
+  {
+   "t": "Switches and choices. Love them or leave them.",
+   "f": true
+  },
+  {
+   "t": "The bits you set once and forget. Ideally.",
+   "f": true
+  },
+  {
+   "t": "The tidy drawer. Unlike the other drawer.",
+   "f": true
+  },
+  {
+   "t": "Not the fun part. But it makes the fun part work.",
+   "f": true
+  },
+  {
+   "t": "Behind the curtain. No wizard, just toggles.",
+   "f": true
+  },
+  {
+   "t": "The engine room. Mind your head.",
+   "f": true
+  },
+  {
+   "t": "The sensible stuff, with a light touch.",
+   "f": true
+  },
+  {
+   "t": "Admin corner. Low drama, high usefulness.",
+   "f": true
+  },
+  {
+   "t": "Fiddle away. That’s what this page is for.",
+   "f": true
+  },
+  {
+   "t": "The boring but important bits. Mostly boring.",
+   "f": true
+  },
+  {
+   "t": "Important, unexciting, and blessedly short.",
+   "f": true
+  },
+  {
+   "t": "Tweak things now, or later. Later is very popular.",
+   "f": true
+  },
+  {
+   "t": "Welcome to the control panel. Snacks not included.",
+   "f": true
+  },
+  {
+   "t": "The quiet bits that keep the lights on.",
+   "f": true
+  },
+  {
+   "t": "Settings. Where hyperfocus goes to reorganise.",
+   "f": true
+  },
+  {
+   "t": "Dials and switches. No rocket science required.",
+   "f": true
+  },
+  {
+   "t": "The not-so-thrilling bits. You’ve got this.",
+   "f": true
+  },
+  {
+   "t": "It’s settings. We tried to make it charming.",
+   "f": true
+  },
+  {
+   "t": "The bits that are dull until you need them.",
+   "f": true
+  },
+  {
+   "t": "Every app has a boring room. This is ours.",
+   "f": true
+  },
+  {
+   "t": "Toggle to your heart’s content.",
+   "f": true
+  },
+  {
+   "t": "Settings. Home of the humble switch.",
+   "f": true
+  },
+  {
+   "t": "The bits nobody posts about.",
+   "f": true
+  },
+  {
+   "t": "Not a rabbit hole. Well, a small one.",
+   "f": true
+  },
+  {
+   "t": "The admin. Short, painless, done.",
+   "f": true
+  },
+  {
+   "t": "Where you boss the app around.",
+   "f": true
+  },
+  {
+   "t": "Mildly dull. Deeply useful.",
+   "f": true
+  },
+  {
+   "t": "The operating manual, but you write it.",
+   "f": true
+  },
+  {
+   "t": "Adjust things here. No soldering required.",
+   "f": true
+  },
+  {
+   "t": "The back office. Tidier than most.",
+   "f": true
+  },
+  {
+   "t": "The part of the app with the clipboard.",
+   "f": true
+  },
+  {
+   "t": "The bits with switches. Flick responsibly.",
+   "f": true
+  },
+  {
+   "t": "Change a thing. Change it back. Nobody’s counting.",
+   "f": true
+  },
+  {
+   "t": "Boring? A bit. Important? Very.",
+   "f": true
+  },
+  {
+   "t": "The setup bits. Less fun than a new notebook.",
+   "f": true
+  },
+  {
+   "t": "The boring bits, but with nice fonts.",
+   "f": true
+  },
+  {
+   "t": "Toggles, choices, and zero pop quizzes.",
+   "f": true
+  },
+  {
+   "t": "Plain settings. No surprises hiding in here.",
+   "f": true
+  },
+  {
+   "t": "The dull corner. We dusted it for you.",
+   "f": true
+  },
+  {
+   "t": "It’s the settings page. Excitement levels: sensible.",
+   "f": true
+  },
+  {
+   "t": "Where you tell the app how things are.",
+   "f": true
+  },
+  {
+   "t": "Knobs to twiddle, as needed.",
+   "f": true
+  },
+  {
+   "t": "The practical stuff, in bite-sized pieces.",
+   "f": true
+  },
+  {
+   "t": "Settings, now with 40 percent less boring.",
+   "f": true
+  },
+  {
+   "t": "Where the magic is mostly checkboxes.",
+   "f": true
+  },
+  {
+   "t": "Grown-up stuff. We made it painless.",
+   "f": true
+  },
+  {
+   "t": "The bits you’ll visit twice a year. Welcome.",
+   "f": true
+  },
+  {
+   "t": "The less shiny bits. Still worth a look.",
+   "f": true
+  },
+  {
+   "t": "Buttons with a strong sense of importance.",
+   "f": true
+  }
+ ]
+}

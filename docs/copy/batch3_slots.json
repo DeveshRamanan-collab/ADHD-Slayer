@@ -1,0 +1,83 @@
+{
+ "greetingBody": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 150,
+  "context": "One or two sentences under the hello, saying what the app is: a planner built around an ADHD brain and its medication.",
+  "example": "This is a planner built around your brain and your medication, not the other way round."
+ },
+ "coachPriorities": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Coach mark pointing at today’s five priorities.",
+  "example": "These are today’s five. Short on purpose."
+ },
+ "medsAllLogged": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Shown under the medication row when everything due today is logged.",
+  "example": "All logged. Nice."
+ },
+ "dayLineWarming": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 50,
+  "context": "Status line: medication is warming up, best focus starts at time.",
+  "example": "Warming up. Best focus from {time}."
+ },
+ "restOneLeft": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 34,
+  "context": "Headline: exactly one thing left today.",
+  "example": "One thing left"
+ },
+ "breatheIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Intro to a one-minute paced breathing page where the phone taps along.",
+  "example": "In for four, out for six. Your phone will tap along."
+ },
+ "arrivalQuestion": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "The one question on the daily starting page: how their brain feels today (answers are Low, Okay, Good).",
+  "example": "How’s your brain today?"
+ },
+ "rhythmFooter": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Footer: patterns, not scores; the data stays on the iPhone.",
+  "example": "Patterns, not scores. All of this stays on your iPhone."
+ },
+ "detailSleep": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Explains the sleep chart: bars are hours slept, the line is how much of the plan got done the next day.",
+  "example": "Bars are hours slept. The line is how much of the next day’s plan got done."
+ },
+ "categoriesLimit": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "They hit the free plan’s five categories; Plus has unlimited.",
+  "example": "Five categories on the free plan. Plus if you need more boxes. We won’t judge."
+ },
+ "fixHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 34,
+  "context": "Fix my day headline: count small changes (count is 2 or more).",
+  "example": "{count} small changes"
+ }
+}

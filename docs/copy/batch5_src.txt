@@ -1,0 +1,1111 @@
+@@ accountBody
+P|An account lets your plans follow you to a new phone. Your medication is encrypted and we can’t read it.
+P|With an account, your plans come with you to a new phone. Your medication is encrypted, so we can’t read it.
+P|An account means your plans move with you when you change phones. Your medication is encrypted and we can’t see it.
+P|Your account carries your plans over to a new phone. Your medication is encrypted and stays unreadable to us.
+P|Get a new phone and your plans will be waiting, thanks to your account. Your medication is encrypted and we never see it.
+P|An account keeps your plans with you, even on a new phone. Your medication is encrypted, and we have no way to read it.
+P|Switch phones and your plans come too. That’s what the account is for. Your medication is encrypted and hidden from us.
+P|We ask for an account so your plans can follow you to a new phone. Your medication is encrypted. We can’t read it.
+P|An account lets your plans travel with you to your next phone. Your medication is encrypted, so it stays private, even from us.
+P|With an account, a new phone still has all your plans. Your medication is encrypted and we can’t read it.
+P|An account keeps your plans safe when you change phones. Your medication is encrypted, and it’s unreadable to us.
+P|With an account, you won’t lose your plans when you get a new phone. Your medication is encrypted and never readable by us.
+P|The account is how your plans get to a new phone. Your medication is encrypted, and we can’t read it.
+P|If you change phones, your account brings your plans along. Your medication is encrypted. Not even we can read it.
+P|An account lets your plans follow you from phone to phone. Your medication is encrypted and we can’t read it.
+P|Your plans can follow you to a new phone once you have an account. Your medication is encrypted and we can’t see it.
+P|An account lets you pick up your plans on a new phone. Your medication is encrypted. It stays unreadable to us.
+P|An account keeps your plans ready for your next phone. Your medication is encrypted, so we can’t read it.
+P|New phone, same plans. An account makes that possible. Your medication is encrypted and we can’t read it.
+P|An account moves your plans with you to a new phone. Your medication is encrypted, which means we can’t read it.
+P|Your account lets your plans follow you, phone to phone. Your medication is encrypted and kept private from us.
+P|With an account, your plans are there on your new phone. Your medication is encrypted. We can’t read any of it.
+P|An account keeps your plans with you if your phone changes. Your medication is encrypted and private, even from us.
+P|We use an account so your plans follow you to a new phone. Your medication is encrypted, and we can’t read it.
+P|An account means your plans aren’t tied to one phone. Your medication is encrypted and we can’t read it.
+P|An account holds on to your plans when you move to a new phone. Your medication is encrypted. It’s unreadable to us.
+P|With an account, sign in on a new phone and your plans are there. Your medication is encrypted, and we can’t read it.
+P|Why an account? So your plans can follow you to a new phone. Your medication is encrypted and we can’t read it.
+P|Here’s why: an account lets your plans follow you to a new phone. Your medication is encrypted, and we can’t read it.
+P|An account is how your plans reach a new phone. Your medication is encrypted and we can’t read it.
+P|Your plans sync to your account, so they follow you to a new phone. Your medication is encrypted. We can’t read it.
+P|An account backs up your plans for your next phone. Your medication is encrypted, and we can’t read it.
+P|With an account, changing phones doesn’t mean losing your plans. Your medication is encrypted and we can’t read it.
+P|An account lets your plans carry over to a new phone. Your medication is encrypted, so it’s unreadable to us.
+P|An account means your plans can make the move to a new phone. Your medication is encrypted and we can’t read it.
+P|Your account lets your plans move to a new phone with you. We encrypt your medication, so we can’t read it.
+P|We encrypt your medication, so we can’t read it. An account simply lets your plans follow you to a new phone.
+P|Your medication is encrypted and we can’t read it. The account is there so your plans can follow you to a new phone.
+P|Your medication is encrypted, so we never see it. The account lets your plans follow you to a new phone.
+P|An account keeps your plans with you through a phone change. Your medication is encrypted and we can’t read it.
+P|Two things to know. An account lets your plans follow you to a new phone. And your medication is encrypted, so we can’t read it.
+P|With an account, your plans are safe if you switch phones. Your medication is encrypted. We can’t read it, ever.
+P|An account means your plans can follow you to whatever phone comes next. Your medication is encrypted and we can’t read it.
+P|Your plans go where you go, even to a new phone. That’s the account’s job. Your medication is encrypted and we can’t read it.
+P|An account keeps your plans in step with you when you change phones. Your medication is encrypted, and we can’t read it.
+P|An account lets your plans come across to a new phone. Your medication is encrypted and out of our sight.
+P|Set up an account and your plans can follow you to a new phone. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you if you ever get a new phone. Your medication is encrypted and we can’t read it.
+P|An account saves your plans so a new phone can pick them up. Your medication is encrypted, and it stays unreadable to us.
+P|Your plans shouldn’t stay behind with an old phone. An account brings them along. Your medication is encrypted and we can’t read it.
+P|An account makes sure your plans come with you to a new phone. Your medication is encrypted, so we can’t read it.
+P|With an account, your plans move over when your phone does. Your medication is encrypted and we can’t read it.
+P|An account keeps your plans safe for your next phone. Your medication is encrypted, and nobody here can read it.
+P|An account lets your plans follow you to a new phone. We can’t read your medication, because it’s encrypted.
+P|Your plans come with you to a new phone when you have an account. We can’t read your medication. It’s encrypted.
+P|An account lets your plans follow you to any new phone. As for your medication, it’s encrypted and we can’t read it.
+P|An account keeps your plans with you, whatever phone you’re on. Your medication is encrypted and we can’t read it.
+P|With an account, your plans outlast your current phone. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you when you upgrade your phone. Your medication is encrypted, and we can’t see it.
+P|An account means your plans won’t be stuck on one phone. Your medication is encrypted and we can’t read it.
+P|Your plans are saved to your account, ready for a new phone. Your medication is encrypted, and we can’t read it.
+P|An account lets your plans follow you to a new phone. Your medication details are encrypted, and we can’t read them.
+P|With an account, moving to a new phone brings your plans too. Your medication details are encrypted and unreadable to us.
+P|An account keeps your plans when you get a new phone. Your medication details are encrypted. We can’t read them.
+P|An account is what lets your plans follow you to a new phone. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted, and we can’t read it at all.
+P|A new phone shouldn’t mean starting from scratch. An account keeps your plans with you. Your medication is encrypted and we can’t read it.
+P|With an account, your plans are ready on your next phone. Your medication is encrypted, so it’s hidden from us.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted, and it’s never readable by us.
+P|An account means your plans follow you to a new phone. Your medication stays encrypted, and we can’t read it.
+P|Your account lets your plans follow you to a new phone. Your medication stays encrypted. We never see it.
+P|An account lets your plans follow you to a new phone. Your medication is locked with encryption, and we can’t read it.
+P|An account brings your plans with you to a new phone. Your medication is encrypted, so we couldn’t read it if we tried.
+P|An account keeps your plans with you on a new phone. Your medication is encrypted, so it stays private from us.
+P|With an account, your plans can move to a new phone with you. Your medication is encrypted and we can’t read it.
+P|Your account makes your plans portable, so a new phone has them too. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted and can’t be read by us.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted. We have no access to read it.
+P|An account keeps your plans safe and ready for a new phone. Your medication is encrypted, and we can’t read it.
+P|An account lets your plans move to a new phone without any fuss. Your medication is encrypted and we can’t read it.
+P|With an account, your plans follow you to a new phone. Your medication is encrypted, which keeps it unreadable to us.
+P|An account keeps your plans with you, from this phone to the next. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you to a new phone. We can’t read your medication. It’s encrypted for your privacy.
+P|Your plans follow you to a new phone with an account. Your medication is encrypted, and we can’t read it.
+P|We’d like your plans to follow you to a new phone, and an account does that. Your medication is encrypted and we can’t read it.
+P|An account lets you switch phones and keep your plans. Your medication is encrypted and we can’t read it.
+P|With an account, you can change phones and keep every plan. Your medication is encrypted, so we can’t read it.
+P|An account means your plans come with you to your next phone. Your medication is encrypted and hidden, even from us.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted and we can never read it.
+P|An account keeps your plans safe when you switch phones. Your medication is encrypted and we can’t see it.
+P|With an account, a new phone picks up your plans right where you left off. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you to a new phone. Your medication is private: it’s encrypted, and we can’t read it.
+P|An account lets your plans follow you to a new phone. And your medication? Encrypted. We can’t read it.
+P|An account lets your plans follow you to your new phone. Your medication is encrypted, so it’s unreadable to us.
+P|An account keeps your plans with you on every new phone. Your medication is encrypted, and we can’t read it.
+P|An account lets your plans follow you to a new phone. Your medication is encrypted and not visible to us.
+P|Your plans can move to a new phone with you, thanks to an account. Your medication is encrypted and we can’t read it.
+P|An account lets your plans follow you when you get a new phone. Your medication is encrypted and kept unreadable to us.
+P|With an account your plans come along to any new phone. Your medication is encrypted, and it’s never visible to us.
+P|An account helps your plans follow you to a new phone. Your medication is encrypted and we’re unable to read it.
+@@ coachDots
+P|Flick up for the next page. The dots show where you are.
+P|Flick up to see the next page. The dots show which page you’re on.
+P|Flick up for more. Each dot is a page.
+P|Flick up to turn the page. The dots keep your place.
+P|The next page is one flick up. The dots show where you are.
+P|Flick up to move on. The dots show your spot.
+P|Flick up for the next page. Each dot stands for a page.
+P|Swipe up for the next page. The dots show where you are.
+P|Flick up to go to the next page. The dots track your place.
+P|Flick up for the next page. The dots mark where you are.
+P|Flick up to keep going. The dots show how far along you are.
+P|Flick up for the next page. The dots show how many there are.
+P|There’s more below. Flick up for the next page.
+P|Flick up to turn the page. The dots show where you’ve got to.
+P|Flick up to continue. The dots show which page this is.
+P|One flick up takes you to the next page. The dots show where you are.
+P|Flick up for the next page. Watch the dots to see where you are.
+P|Flick up whenever you’re ready. The dots show where you are.
+P|Flick up for the next page. These dots are your place markers.
+P|Next page: flick up. The dots show where you are.
+P|Flick up to go on. The dots keep track of your page.
+P|Flick up for the next page. The dots show your progress.
+P|Flick up to see what’s next. The dots show where you are.
+P|Flick up for the next page. The dots are your map.
+P|Flick up to page through. The dots show where you are.
+P|Flick up to go forward a page. The dots show where you are.
+P|Flick up, not sideways, for the next page. The dots show where you are.
+P|Flick up to see the next page. The dots help you keep your place.
+P|Flick up for the next page. You can always check the dots to see where you are.
+P|Flick up for the next page. The dots count the pages for you.
+P|Flick up to turn to the next page. The dots show your place.
+P|Flick up for the next page. The dots are there to show your place.
+P|Flick up for another page. The dots show where you are.
+P|Flick up to see more. The dots mark each page.
+P|Ready for more? Flick up. The dots show where you are.
+P|Flick up for the next page. Each dot is one page, so you’ll always know where you are.
+P|Flick up to go to the next page. Keep an eye on the dots to see where you are.
+P|Flick up gently for the next page. The dots show where you are.
+P|Flick up to reach the next page. The dots show your place in the set.
+P|To see the next page, flick up. The dots show where you are.
+F|Flick up for the next page. The dots remember where you are, so you don’t have to.
+F|Flick up for the next page. The dots are breadcrumbs that no bird can eat.
+F|Flick up for the next page. The dots are a tiny “you are here” sign.
+F|Flick up for the next page. The dots know where you are, even when we don’t.
+F|Flick up for the next page. It’s like a book that bookmarks itself.
+F|Flick up for the next page. Unlike your 47 tabs, these dots stay in order.
+F|Flick up for the next page. The dots hold your place if you wander off for a snack.
+F|Flick up for the next page. If you drift, the dots will tell you where you were.
+F|Flick up for the next page. The dots count, so nobody has to do maths today.
+F|Flick up for the next page. The dots track progress, no working memory needed.
+F|Flick up. The dots show where you are, in case you walked in here and forgot why.
+F|Flick up for the next page. The dots are your place, saved. No screenshots required.
+F|Flick up for the next page. These dots are the calmest thing on your phone.
+F|Flick up for the next page. You flick, the dots keep count. Teamwork.
+F|Flick up for the next page. There are fewer pages than you have open tabs, promise.
+F|Flick up for the next page. The dots are like a sticky note that can’t fall off.
+F|Flick up for the next page. The dots are small, but they never forget a page.
+F|Flick up for the next page. The dots will still be here after the side quest.
+F|Flick up for the next page. The dots keep your place, even if your brain leaves the chat.
+F|Flick up for the next page. The dots are a map for those of us who lose maps.
+F|Flick up for the next page. Easier than finding the phone you’re already holding.
+F|Flick up for the next page. The dots keep your place while your mind takes a lap.
+F|Flick up for the next page. The dots keep track. You keep the vibes.
+F|Flick up for the next page. The dots show where you are. There’s no quiz at the end.
+F|Flick up for the next page. We kept the pages short. You’re welcome, brain.
+F|Flick up for the next page. The dots show where you are. Keys not included.
+F|Flick up for the next page. Think of the dots as tabs that behave.
+F|Flick up for the next page. The dots keep your place if five minutes becomes an hour.
+F|Flick up for the next page. The dots keep count while you read this sentence twice.
+F|Flick up for the next page. The dots keep your place better than a receipt in a book.
+F|Flick up for the next page. The dots are a progress bar in a very tidy disguise.
+F|Flick up for the next page. The dots are small, quiet and never send notifications.
+F|Flick up for the next page. The dots are more organised than my sock drawer.
+F|Flick up for the next page. The dots show where you are. No detective work needed.
+F|Flick up for the next page. The dots keep your place, even mid-daydream.
+F|Flick up for the next page. The dots are small, loyal and never wander off.
+F|Flick up for the next page. Get distracted halfway? The dots kept your place.
+F|Flick up for the next page. We added dots because “where was I?” is a full-time job.
+F|Flick up for the next page. The dots keep your place like a friend saving your seat.
+F|Flick up for the next page. The dots never lose count, which makes one of us.
+F|Flick up for the next page. The dots know the way back from any rabbit hole.
+F|Flick up for the next page. The dots show where you are, no retracing your steps.
+F|Flick up for the next page. Consider the dots your very small, very calm tour guide.
+F|Flick up for the next page. The dots know where you are. Your coffee, less so.
+F|Flick up for the next page. One flick per page. Hyperfocus not required.
+F|Flick up for the next page. The dots are tidier than any browser we’ve ever had open.
+F|Flick up for the next page. No alarms, no reminders. Just some very patient dots.
+F|Flick up for the next page. Dots: the one list in here that counts itself.
+F|Flick up for the next page. The dots track where you are. You can track snacks.
+F|Flick up for the next page. If your mind wanders mid-flick, the dots will wait.
+F|Flick up for the next page. The dots keep your place, even through a notification.
+F|Flick up for the next page. Lose the thread? The dots will find it.
+F|Flick up for the next page. Each dot is a page, not a new hobby.
+F|Flick up for the next page. The dots are shorter than any to-do list we’ve had.
+F|Flick up for the next page. Wander off to another app? The dots will hold your spot.
+F|Flick up for the next page. The dots save your place. No voice note to self needed.
+F|Flick up for the next page. The dots are quieter than any brain we know.
+F|Flick up for the next page. The dots hold your place like a coat on a chair.
+F|Flick up for the next page. The dots are the tidy corner of your phone. Enjoy it.
+F|Flick up for the next page. The dots know where you are. Where the time went, no idea.
+@@ medsLoggedToast
+P|Logged {count}. Done and dusted.
+P|{count} logged. All done.
+P|Logged {count}. All set.
+P|{count} logged. That’s done.
+P|Logged {count}. Nice and tidy.
+P|{count} logged. You’re all caught up.
+P|Logged {count}. Sorted.
+P|{count} logged. All noted.
+P|Logged {count}. All in the log.
+P|{count} logged. Nice and simple.
+P|{count} logged. Saved.
+P|Logged {count}. All recorded.
+P|{count} logged. Safely noted.
+P|Logged {count}. It’s in the log.
+P|Logged {count}. Neat.
+P|{count} logged in one go.
+P|All {count} logged.
+P|Logged {count} in one tap.
+P|{count} logged, just like that.
+P|Logged {count}. Done.
+P|{count} logged. Easy.
+P|Logged {count}. Off your mind.
+P|{count} logged. All squared away.
+P|Logged {count}. Tidy.
+P|Logged {count}. Your log is up to date.
+P|{count} logged. Your record’s current.
+P|Done. {count} logged.
+P|Got it. {count} logged.
+P|Noted. {count} logged.
+P|All good. Logged {count}.
+P|Logged {count}. Nothing left to log.
+P|{count} logged. That’s the lot.
+P|Logged {count}. Wrapped up.
+P|{count} logged. Nicely done.
+P|Logged {count}. Quick and done.
+P|{count} logged. Consider it handled.
+P|Logged {count}. All in order.
+P|Logged {count}. All written down.
+P|Saved {count} to your log.
+P|{count} added to your log.
+P|Logged {count}. Your log’s all caught up.
+P|Logged {count}. Job done.
+P|{count} logged, all at once.
+P|Logged {count} together.
+P|Logged {count}. Simple as that.
+P|{count} logged. Nice work.
+P|Logged {count}. That’s that.
+P|{count} logged. All tidy now.
+P|Logged {count}. Checked off.
+P|{count} logged and checked off.
+P|{count} logged. Easy as that.
+P|Logged {count}. You’re up to date.
+P|{count} logged. Everything’s recorded.
+P|Logged {count}. All accounted for.
+P|Logged {count}. Kept safe in your log.
+P|{count} logged. Safe and sound.
+P|Logged {count}. Neatly done.
+P|{count} logged. Sorted and saved.
+P|Logged {count}. All filed away.
+P|{count} logged. That’s the admin done.
+P|Great, {count} logged.
+P|Thanks. {count} logged.
+P|{count} logged. Thanks for keeping track.
+P|Logged {count}. Log updated.
+P|{count} logged. Log’s up to date.
+P|Logged {count}. Recorded and saved.
+P|{count} logged. Done in one tap.
+P|Logged {count}. All in one go.
+P|{count} now logged.
+P|{count} logged. All sorted.
+F|Logged {count}. One less tab open in your head.
+F|Logged {count}. Admin, defeated in one tap.
+F|{count} logged. Quickest admin you’ll do all day.
+F|Logged {count}. No sticky notes required.
+F|{count} logged. Your future self just nodded.
+F|Logged {count}. Done before it joined the doom pile.
+F|{count} logged. No alarm for the alarm needed.
+F|Logged {count}. Paperwork, but it’s one tap.
+F|{count} logged. Admin speedrun complete.
+F|Logged {count}. Your brain can drop that thought now.
+F|{count} logged. Memory, outsourced. As it should be.
+F|Logged {count}. Filed before a thought could wander off.
+F|Logged {count}. No three-week wait for this one.
+F|{count} logged. Brain space reclaimed.
+F|Logged {count}. Your working memory says thanks.
+F|{count} logged. One tap. Zero side quests.
+F|Logged {count}. Neater than any notebook we’ve owned.
+F|Logged {count}. Tidier than my desk will ever be.
+F|{count} logged. The notebook of good intentions is jealous.
+F|Logged {count}. Done before your brain changed the channel.
+F|{count} logged. The admin goblin has been fed.
+F|Logged {count}. The fridge whiteboard is off the hook.
+F|{count} logged. Remembered and recorded. Love that for us.
+F|Logged {count}. Tiny admin, big tidy energy.
+F|{count} logged. That’s one loop closed.
+F|Logged {count}. The boring bit, done in a blink.
+F|{count} logged. Faster than finding a pen.
+F|Logged {count}. Your log is tidier than my inbox.
+F|{count} logged. Past you and future you are in sync.
+F|Logged {count}. Admin done. Back to the good stuff.
+@@ dayLineLighter
+P|Lighter focus until {time}.
+P|Lighter focus till {time}.
+P|Gentler focus until {time}.
+P|Softer focus until {time}.
+P|Low-key focus until {time}.
+P|Relaxed focus until {time}.
+P|Easygoing focus until {time}.
+P|Gentle focus until {time}.
+P|Light focus until {time}.
+P|Focus runs lighter until {time}.
+P|Focus is lighter until {time}.
+P|Your focus is lighter until {time}.
+P|A lighter stretch until {time}.
+P|A gentler stretch until {time}.
+P|A quieter stretch until {time}.
+P|An easier stretch until {time}.
+P|A low-key stretch until {time}.
+P|A lighter spell until {time}.
+P|A lighter patch until {time}.
+P|Lighter focus, up to {time}.
+P|Until {time}, lighter focus.
+P|Until {time}, focus runs light.
+P|Until {time}, keep it light.
+P|Until {time}, focus is lighter.
+P|Light-focus time until {time}.
+P|Gentle-focus stretch until {time}.
+P|Lighter going until {time}.
+P|Keeping focus light until {time}.
+P|Light lifting until {time}.
+P|Lighter lifting until {time}.
+P|Lighter tasks until {time}.
+P|Lighter work until {time}.
+P|Light work until {time}.
+P|Light and easy until {time}.
+P|Nice and light until {time}.
+P|Keep it light until {time}.
+P|Keeping it light till {time}.
+P|On the lighter side until {time}.
+P|Focus is on the light side till {time}.
+P|Lighter focus for now, until {time}.
+P|Lighter focus now until {time}.
+P|Lighter focus from now to {time}.
+P|Lighter focus right up to {time}.
+P|Lighter focus for a bit, until {time}.
+P|Lighter focus, just until {time}.
+P|Focus: lighter until {time}.
+P|Lighter focus lasts until {time}.
+P|Lighter focus runs until {time}.
+P|Lighter focus through to {time}.
+P|It’s lighter focus until {time}.
+P|Lighter focus holds until {time}.
+P|Lighter concentration until {time}.
+P|Light concentration until {time}.
+P|Easier-going focus until {time}.
+P|A lighter load until {time}.
+P|Lighter load until {time}.
+P|Go gently until {time}.
+P|Gentle going until {time}.
+P|Easy stretch until {time}.
+P|Quieter focus until {time}.
+P|Softer focus till {time}.
+P|Gentle focus till {time}.
+P|Low-key focus till {time}.
+P|A lighter part of the day until {time}.
+P|Keep things light until {time}.
+P|Keeping things light till {time}.
+P|Light focus for now, till {time}.
+P|Light-touch focus until {time}.
+P|Focus is gentler until {time}.
+P|Focus stays light until {time}.
+F|Brain on light duty until {time}.
+F|Brain in light mode until {time}.
+F|Brain on low power until {time}.
+F|Brain in slippers until {time}.
+F|Hammock-mode focus until {time}.
+F|Cruise control until {time}.
+F|Brain’s on a stroll until {time}.
+F|Scenic-route focus until {time}.
+F|Brain on gentle cycle until {time}.
+F|Easy-mode focus until {time}.
+F|Snack-sized focus until {time}.
+F|Bite-sized focus until {time}.
+F|Brain on half volume until {time}.
+F|Shallow-end focus until {time}.
+F|Paddling-pool focus until {time}.
+F|Brain on the dimmer until {time}.
+F|Cosy focus until {time}.
+F|Cardigan focus until {time}.
+F|Pyjama-level focus until {time}.
+F|Brain on simmer until {time}.
+F|Simmer, don’t boil, until {time}.
+F|Brain in low gear until {time}.
+F|Brain at walking pace until {time}.
+F|Light reading only until {time}.
+F|Beach-read focus until {time}.
+F|Easy-listening focus until {time}.
+F|Brain’s in comfy shoes until {time}.
+F|Sunday-afternoon focus until {time}.
+F|Low-tide focus until {time}.
+F|Featherweight focus until {time}.
+@@ shapesHeadline
+P|{done} of {total} done
+P|{done} of {total} finished
+P|{done} of {total} complete
+P|{done} out of {total} done
+P|{done} out of {total} finished
+P|{done} of {total} tasks done
+P|{done} of {total} ticked off
+P|{done} of {total} checked off
+P|{done} of {total} wrapped up
+P|{done} of {total} sorted
+P|{done} of {total} out of the way
+P|{done} of {total} handled
+P|{done} of {total} done and dusted
+P|{done} done out of {total}
+P|Done: {done} of {total}
+P|So far: {done} of {total}
+P|{done} of {total} so far
+P|{done} of {total} done so far
+P|{done} of {total} done today
+P|Today: {done} of {total} done
+P|{done} of {total} tasks finished
+P|{done} of {total} tasks complete
+P|{done} of {total} things done
+P|{done} of {total} things finished
+P|{done} tasks done of {total}
+P|{done} of your {total} done
+P|{done} of your {total} tasks done
+P|{done} of {total} knocked out
+P|{done} of {total} finished up
+P|{done} of {total} crossed off
+P|{done} of {total} complete so far
+P|{done} of {total} dealt with
+P|{done} of {total} taken care of
+P|{done} of {total} behind you
+P|{done} of {total} now done
+P|Finished: {done} of {total}
+P|{done} of {total} in the bag
+P|{done} of {total} squared away
+P|{done} of {total} seen to
+P|{done} of {total} ticked
+P|{done} of {total} checked
+P|{done} of {total} marked done
+P|{done} out of {total} complete
+P|{done} out of {total} ticked off
+P|{done} out of {total} so far
+P|{done} of {total} and counting
+P|{done} of {total} now sorted
+P|{done} of {total} finished today
+P|{done} of {total} off the list
+P|{done} of {total} off your list
+P|{done} of {total} off your plate
+P|{done} of {total} completed
+P|{done} of {total} tasks completed
+P|{done} of {total} wrapped
+P|{done} tasks done out of {total}
+P|Done so far: {done} of {total}
+P|{done} of {total} finished off
+P|{done} of {total} handled today
+P|{done} of {total} now finished
+P|{done} of {total} finished so far
+P|{done} of {total} sorted today
+P|{done} of {total} complete today
+P|{done} of {total} got done
+P|{done} of {total} now complete
+P|{done} out of {total} checked off
+P|{done} of {total} tasks ticked
+P|{done} of {total} tasks sorted
+P|{done} of {total} closed out
+P|{done} of {total} put to bed
+P|{done} out of {total} wrapped up
+F|{done} of {total} slain
+F|{done} of {total} dragons slain
+F|{done} of {total} quests complete
+F|{done} of {total} boss fights won
+F|{done} of {total} tabs closed
+F|{done} of {total} saved from doom
+F|{done} of {total} saved from later
+F|{done} of {total} in the done pile
+F|{done} of {total} tamed
+F|{done} of {total} wrangled
+F|{done} of {total} vanquished
+F|{done} of {total} conquered
+F|{done} of {total} demolished
+F|{done} of {total} gremlins handled
+F|{done} of {total} beasts tamed
+F|{done} of {total} loops closed
+F|{done} of {total} sent packing
+F|{done} of {total} evicted
+F|{done} of {total} outwitted
+F|{done} of {total} shown who’s boss
+F|{done} of {total} bested
+F|{done} of {total} unloomed
+F|{done} of {total} dispatched
+F|{done} of {total} crushed
+F|{done} of {total} quests done
+F|{done} of {total} to-dos to-done
+F|{done} of {total} brain tabs shut
+F|{done} of {total} mountains moved
+F|{done} of {total} made to behave
+F|{done} of {total} stopped nagging
+@@ socialMessage
+P|Hey {name}, any chance we could do {event} at {time} instead? That time works much better for me.
+P|Hi {name}, would it be okay to move {event} to {time}? I’d be much better company then.
+P|Hey {name}, could we move {event} to {time}? It’d really help me out.
+P|Hey {name}, is there any chance we could shift {event} to {time}? No worries if not.
+P|Hi {name}, would {time} work for {event} instead? I think I’d be more on it then.
+P|Hey {name}, small ask: could we do {event} at {time} instead? Totally fine if that doesn’t work.
+P|Hi {name}, how would you feel about moving {event} to {time}? I’d be able to be properly present.
+P|Hey {name}, could we do {event} at {time}? I’d love to give it my full attention.
+P|Hi {name}, any chance {event} could happen at {time} instead? It’d suit me a lot better.
+P|{name}, is {time} any good for {event}? It’d work better for me. Let me know.
+P|Hi {name}, would you mind if we did {event} at {time}? I’d be much better company.
+P|Hey {name}, quick one: can we do {event} at {time} instead? Happy to work around you if not.
+P|Hey {name}, could {event} be at {time} instead? I really want to enjoy it properly.
+P|Hi {name}, would {time} work for {event}? I’m much more myself at that time of day.
+P|Hey {name}, I was wondering if we could do {event} at {time}. No pressure at all if it’s tricky.
+P|Hi {name}, is it cheeky to ask to move {event} to {time}? I’d be far better company.
+P|Hey {name}, could we try {time} for {event}? I think I’ll be a lot more fun then.
+P|Hey {name}, fancy doing {event} at {time} instead? It’d be a big help for me.
+P|Hi {name}, would it work to move {event} to {time}? Let me know what suits you.
+P|Hey {name}, any way we could do {event} at {time}? I’d be much more present.
+P|Hi {name}, I’d love to still do {event}. Could we make it {time}?
+P|Hey {name}, still keen on {event}. Would {time} work for you?
+P|Hey {name}, can we move {event} to {time}? Still really looking forward to it.
+P|Hi {name}, would {time} be alright for {event}? It fits my day much better.
+P|Hey {name}, could {event} move to {time}? Totally understand if it can’t.
+P|Hi {name}, hope it’s okay to ask: could we do {event} at {time} instead?
+P|Hey {name}, how’s {time} for {event}? I think I’d be a better version of me then.
+P|Hi {name}, any chance of {event} at {time}? I’d be so much better company.
+P|Hey {name}, I’m really looking forward to {event}. Any chance we could do {time} instead?
+P|Hi {name}, would you be up for {event} at {time} instead? Thanks for being flexible.
+P|Hey {name}, could we do {time} for {event}? Thanks for bearing with me.
+P|Hey {name}, is it okay if we move {event} to {time}? It’d really help my day.
+P|Hi {name}, could we do {event} at {time}? Let me know if that’s awkward for you.
+P|Hey {name}, would you be okay with {time} for {event}? I’d be more on the ball.
+P|Hi {name}, can we shift {event} to {time}? I want to be good company, not half there.
+P|Hey {name}, would {time} work for {event}? It’d be so much better for me.
+P|Hi {name}, might {time} work for {event}? Happy to find another time if not.
+P|Hey {name}, any chance we could move {event} to {time}? I’ll bring my best self.
+P|Hi {name}, could {event} be at {time}? I’ll be much more fun to be around.
+P|{name}, would {time} suit you for {event}? I’d be able to really enjoy it.
+F|Hey {name}, any chance we could do {event} at {time} instead? My brain’s much better company then.
+F|Hey {name}, can we move {event} to {time}? My brain has far fewer tabs open then.
+F|Hi {name}, could {event} be at {time} instead? You’d get the full version of me, not the demo.
+F|Hey {name}, any chance of {event} at {time}? My brain properly turns up around then. Otherwise it sends a stand-in.
+F|Hey {name}, could we do {event} at {time}? That’s when my brain and I are on speaking terms.
+F|Hi {name}, is {time} okay for {event}? That way you get me and my brain in the same room.
+F|Hey {name}, could we do {event} at {time}? My brain wanders less then, so you’d get the good listening.
+F|Hey {name}, any chance of {event} at {time}? I want to give you my whole brain, not the bit left over from a rabbit hole.
+F|Hey {name}, can we do {event} at {time}? My brain keeps office hours and that’s one of them.
+F|Hi {name}, would {time} work for {event}? I checked with my brain and it said yes to that one.
+F|Hey {name}, could we do {event} at {time}? You deserve the version of me that remembers what you said.
+F|Hey {name}, can we move {event} to {time}? You deserve my full attention, and it keeps its own hours.
+F|Hey {name}, could we do {event} at {time}? My focus clocks in around then.
+F|Hey {name}, could {event} happen at {time}? My brain is a lot more charming then, I promise.
+F|Hey {name}, any chance we can do {event} at {time}? I’d like to bring the good brain.
+F|Hey {name}, could we switch {event} to {time}? The good brain is available then. I don’t recommend the other one.
+F|Hey {name}, how about {event} at {time}? That’s when my brain is done buffering.
+F|Hey {name}, can {event} be at {time}? My brain runs on its own timetable and I’m just the passenger.
+F|Hey {name}, is {time} okay for {event}? I want to be listening, not wondering if I left the oven on.
+F|Hi {name}, could we do {event} at {time}? You’ll get the fun version, not the one hunting for my keys.
+F|Hey {name}, can we move {event} to {time}? It’s the slot where my brain is actually in the building.
+F|Hey {name}, could {event} be at {time}? I’d love you to meet the version of me who can find my phone.
+F|Hey {name}, would {time} work for {event}? My brain has a very strict social calendar.
+F|Hi {name}, can we do {event} at {time}? My brain has asked for a reschedule and honestly, it has a point.
+F|Hey {name}, any chance of {event} at {time}? My brain has put in a formal request.
+F|Hey {name}, could {event} move to {time}? My attention span sends its apologies and its preferred time.
+F|Hey {name}, is {time} good for {event}? My brain works best then, and you deserve the good stuff.
+F|Hey {name}, can {event} happen at {time}? That’s my brain’s golden hour.
+F|Hey {name}, could we do {event} at {time}? My brain gets its act together around then.
+F|Hey {name}, any chance of {event} at {time}? I’d rather you got the director’s cut of me, not the blooper reel.
+F|Hey {name}, would {time} be okay for {event}? I’d like to bring my brain along, not just my body.
+F|Hi {name}, could {event} be at {time}? My brain is better at conversations then. Right now it’s 11 tabs deep in otters.
+F|Hey {name}, can we do {event} at {time} instead? I promise to be 40% more fun and 60% less distracted.
+F|Hey {name}, how’s {time} for {event}? My brain is a radio, and that’s when it finds the station.
+F|Hey {name}, could we do {event} at {time}? I’d hate for you to get the loading-screen version of me.
+F|Hi {name}, can {event} be at {time}? You’d get the HD version of me.
+F|Hey {name}, could {event} be at {time}? That way you get me, not my out-of-office reply.
+F|Hey {name}, any chance of {event} at {time}? My brain has already RSVPed to that one.
+F|Hey {name}, would {time} work for {event}? My brain would like to attend too.
+F|Hi {name}, could {event} be at {time}? I’m much less likely to drift off mid-story then. Your story, I mean.
+F|Hey {name}, can we do {event} at {time}? My brain is more sparkle, less static then.
+F|Hey {name}, could {event} be at {time}? I want to be all there, and that’s when all of me turns up.
+F|Hey {name}, would {time} suit for {event}? My brain and I will both be there, which is a treat.
+F|Hey {name}, can we move {event} to {time}? My focus is like a cat. It comes when it likes, and it likes then.
+F|Hey {name}, any chance we could do {event} at {time}? I’d love to remember the whole chat, not just the snacks.
+F|Hey {name}, is {time} okay for {event}? That’s when my brain stops doing side quests.
+F|Hey {name}, could {event} be at {time}? My brain is a better friend then, and so am I.
+F|Hey {name}, can we do {event} at {time}? My brain read the invite and suggested one small edit.
+F|Hi {name}, would {time} work for {event}? I want you to have my attention, not my screensaver.
+F|Hey {name}, could {event} be at {time}? Trust me, you want the version of me with snacks and focus.
+F|Hey {name}, any chance of {event} at {time}? That’s when I stop walking into rooms and forgetting why.
+F|Hey {name}, would {time} work for {event}? You bring you, I’ll bring my whole brain.
+F|Hey {name}, could we do {event} at {time}? It’s my brain’s favourite time slot and it’s been very vocal about it.
+F|Hey {name}, can {event} be at {time}? I’ll be a much better listener and a much worse daydreamer.
+F|Hey {name}, could we do {event} at {time}? My brain is less of a pinball machine then.
+F|Hey {name}, any chance of {event} at {time}? My brain has a sweet spot and that’s it.
+F|Hi {name}, could {event} be at {time}? You’d get the version of me who doesn’t lose the thread every two minutes.
+F|Hey {name}, would {time} work for {event}? I’d like to be present, not physically there and mentally on tab 48.
+F|Hey {name}, how does {time} sound for {event}? My brain votes yes. It’s very rarely this decisive.
+F|Hey {name}, can we do {event} at {time}? My brain and I are much better company as a team.
+@@ planWeekExplainer
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s the whole point of a baseline.
+P|Your baseline is the three things that keep life moving. Do those and the day counts. Most weeks aren’t seven out of seven, and that’s fine.
+P|A day counts once your three baseline things are done. Few weeks are seven out of seven. That’s normal, and it’s fine.
+P|Your baseline is three small things that keep life ticking. Get them done and the day counts. Most weeks won’t be seven out of seven, and that’s okay.
+P|When your three baseline things are done, the day counts. Most weeks aren’t seven for seven. That’s fine. That’s why it’s a baseline.
+P|A baseline is the three things that keep life moving. Any day you do them counts. Most weeks aren’t seven out of seven, and that’s expected.
+P|The day counts when your baseline is done: three things that keep life moving. Seven out of seven is rare, and that’s fine.
+P|Three things keep life moving. That’s your baseline. Do them and the day counts. Most weeks aren’t seven out of seven. That’s okay.
+P|A day counts when the three baseline things are done. Most weeks land somewhere short of seven, and that’s completely fine.
+P|Your baseline keeps life moving: three things, nothing more. When they’re done, the day counts. Most weeks aren’t seven out of seven, and that’s fine.
+P|A day counts when your baseline is done. It’s only three things. Most weeks won’t hit seven out of seven, and they don’t need to.
+P|The baseline is three things that keep life going. Do them and the day counts. A week doesn’t need to be seven out of seven to be a good one.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s normal, not a problem.
+P|Days count when the baseline’s done. Three things, that’s all. Most weeks aren’t seven out of seven, and nobody expects them to be.
+P|Your baseline is the three things that keep your life moving. Any day they’re done counts. Seven out of seven isn’t the goal.
+P|Get your three baseline things done and the day counts. Most weeks aren’t seven out of seven. The baseline is built for that.
+P|A day counts when your baseline is done. Missing some days is part of it. Most weeks aren’t seven out of seven.
+P|The three baseline things keep life moving. Do them, and that day counts. Most weeks aren’t seven out of seven, which is exactly why it’s a baseline.
+P|A baseline day means the three things that keep life moving got done. Most weeks aren’t seven out of seven. That’s fine.
+P|A day counts when its baseline is done. Seven out of seven isn’t the usual week, and it doesn’t need to be.
+P|Your baseline is the minimum that keeps life moving: three things. Do them and the day counts. Most weeks aren’t seven for seven, and that’s fine.
+P|Three things keep life moving. When they’re done, the day counts. Not every day will count, and that’s okay. Most weeks aren’t seven out of seven.
+P|A day counts when your three baseline things are done. Most weeks aren’t seven out of seven, and that’s just how weeks go.
+P|The baseline: three things that keep life moving. Each day you do them counts. Most weeks aren’t seven out of seven, and that’s fine.
+P|A day counts when your baseline is done. A normal week isn’t seven out of seven. The baseline is meant for real weeks.
+P|When the baseline’s done, the day counts. It’s three things that keep life moving. Most weeks aren’t seven out of seven, and that’s alright.
+P|Your baseline is three things that keep things moving. Do them, and the day counts. Plenty of good weeks aren’t seven out of seven.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. A baseline is there for exactly those weeks.
+P|Days count when the three baseline things are done. A week with fewer than seven is still a good week. That’s the point.
+P|A day counts when your baseline is done. Few weeks are seven out of seven, and that’s fine. The baseline is made for real life.
+P|Baseline done, day counts. Three things that keep life moving. Most weeks aren’t seven out of seven, and that’s fine.
+P|The three things that keep life moving are your baseline. When they’re done, the day counts. Most weeks aren’t a full seven. That’s okay.
+P|A day counts when you’ve done your baseline. Most weeks aren’t seven out of seven. That’s why the baseline is small.
+P|A day counts when your baseline is done: three things that keep life moving. Most weeks aren’t seven out of seven. That’s fine, really.
+P|Your baseline is three things. Do them and the day counts. Most weeks aren’t seven out of seven, and that’s the whole idea of a baseline.
+P|A day counts once the baseline is done. Seven out of seven is unusual, and an ordinary week is completely fine.
+P|Three things that keep life moving. Get them done and the day counts. Most weeks aren’t seven out of seven. That’s allowed.
+P|A day counts when your baseline is done. Seven out of seven is not the target. Most weeks aren’t, and that’s fine.
+P|When your three baseline things are done, that’s a day that counts. Most weeks aren’t seven out of seven, and they don’t have to be.
+P|Your baseline is the three things that keep life moving. A day counts when they’re done. Most weeks aren’t perfect, and that’s fine.
+P|A day counts when your baseline is done. Most weeks won’t be seven out of seven. That’s fine. The baseline expects it.
+P|A baseline is three things that keep life moving. Do them and the day counts. Weeks rarely go seven out of seven, and that’s okay.
+P|A day counts when the baseline is done. Most weeks aren’t seven out of seven. That’s ordinary, and it’s fine.
+P|Three small things keep life moving. Do them and the day counts. Most weeks aren’t seven out of seven. That’s what a baseline is for.
+P|A day counts when your baseline is done. Real weeks aren’t seven out of seven, and this is built for real weeks.
+P|The day counts when your three baseline things are done. Most weeks aren’t seven out of seven. That’s fine, and it’s normal.
+P|A day counts when your baseline is done. The baseline is three things that keep life moving. Most weeks aren’t seven out of seven, and that’s fine.
+P|Your baseline is three things that keep life moving. On days they’re done, the day counts. Most weeks aren’t seven out of seven. That’s okay.
+P|A day counts when the baseline is done. Most weeks aren’t seven out of seven. That’s not a problem. It’s the design.
+P|A day counts when your baseline is done. Some days won’t count, and most weeks aren’t seven out of seven. That’s fine.
+P|Baseline done means the day counts. Three things, that’s all. Most weeks aren’t seven out of seven, and that’s just fine.
+P|A day counts when your baseline is done. The three things keep life moving. Seven out of seven is rare, and that’s okay.
+P|Your baseline: the three things that keep life moving. Do them, and today counts. Most weeks aren’t seven out of seven. That’s fine.
+P|A day counts when its three baseline things are done. Most weeks don’t hit seven out of seven. That’s normal.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s the reason for a baseline.
+P|Do your three baseline things and the day counts. They keep life moving. Most weeks aren’t seven out of seven, and that’s alright.
+P|A day counts when your baseline’s done. Most weeks come in under seven, and that’s completely fine.
+P|The baseline is three things that keep life moving. That’s what makes a day count. Most weeks aren’t seven out of seven, and that’s okay.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s expected, and it’s fine.
+P|A day counts when the baseline is done. Three things keep life moving. Seven out of seven isn’t the usual, and that’s fine.
+P|Your baseline is small on purpose: three things that keep life moving. Do them and the day counts. Most weeks aren’t seven out of seven, and that’s fine.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven, and that’s fine. That’s what baselines are for.
+P|When the three things that keep life moving are done, the day counts. Most weeks aren’t seven out of seven. That’s okay.
+P|A day counts when your baseline is done. A good week doesn’t need seven. Most weeks aren’t seven out of seven.
+P|Three things make a baseline day. Do them and the day counts. Most weeks aren’t seven out of seven, and that’s fine.
+P|A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s fine, and it’s why the baseline exists.
+P|The baseline is three things that keep life moving. Any day you do them counts. Seven out of seven is rare. That’s fine.
+P|A day counts when your baseline is done. Weeks are rarely seven out of seven. That’s fine. The baseline was made with that in mind.
+P|A day counts when the three baseline things are done. Most weeks aren’t seven out of seven. That’s how it’s meant to work.
+P|A day counts once your baseline is done. Most weeks aren’t seven out of seven, and that’s perfectly fine.
+F|A day counts when your three baseline things are done. Seven out of seven is about as common as a matching pair of socks. That’s fine.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven. Some weeks are three and a very good snack. Also fine.
+F|A day counts when your baseline’s done. A seven-out-of-seven week is as rare as a tidy junk drawer. And that’s fine.
+F|Your baseline is the three things that keep the wheels on. Do them and the day counts. Most weeks aren’t seven out of seven, and the wheels stay on anyway.
+F|A day counts when the baseline’s done. Three things. That’s it. Most weeks aren’t seven out of seven, and the plants are still alive.
+F|A day counts when your baseline is done. It’s three things, not thirty. Most weeks aren’t seven out of seven, and that’s fine.
+F|Three things keep the show on the road. Do them and the day counts. Most weeks aren’t seven out of seven. Roads have bumps.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven. Ours definitely aren’t, and that’s fine.
+F|Three things keep life moving. Do them and the day counts. Seven out of seven is lovely, but so is four with a nap.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven. The baseline doesn’t mind. It’s very relaxed about it.
+F|Your baseline is three things that keep life moving. Do them and the day counts. A seven-out-of-seven week is a unicorn. Horses are great too.
+F|A day counts when the baseline is done. Three things, not a personality overhaul. Most weeks aren’t seven out of seven, and that’s fine.
+F|A day counts when the three baseline things are done. Most weeks aren’t seven out of seven. Nobody’s are. We checked.
+F|Your baseline is the three things that keep life ticking over. A day counts when they’re done. Most weeks aren’t seven out of seven, and life keeps ticking.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven. Life happens. Usually on a Wednesday.
+F|Three things keep life moving: that’s the baseline. When they’re done, the day counts. Seven out of seven is rare, like a phone at full charge.
+F|A day counts when your baseline is done. It keeps life moving, it’s not a gold star chart. Most weeks aren’t seven out of seven, and that’s fine.
+F|A day counts when your three baseline things are done. Most weeks aren’t seven out of seven. The dishes understand.
+F|A day counts when your baseline is done. Three things, not a heroic quest. Most weeks aren’t seven out of seven, and that’s fine.
+F|Your baseline is three things that keep life moving. Do them and the day counts. Most weeks aren’t seven out of seven. Some don’t even feel seven days long.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven, and your plan won’t sulk about it.
+F|A day counts when your baseline’s done. Most weeks aren’t seven out of seven. That’s for calendars. You’re a person.
+F|A day counts when your three baseline things are done. Most weeks aren’t seven out of seven. Even the moon has phases.
+F|Your baseline is three things that keep you going. Do them and the day counts. Seven out of seven is optional, like ironing.
+F|A day counts when your baseline is done. It’s three things that keep life moving, not a to-do list with big ambitions. Most weeks aren’t seven out of seven. That’s fine.
+F|Baseline done, day counts. Three things. Most weeks aren’t seven out of seven, and that’s fine. Weeks are wobbly by nature.
+F|A day counts when your baseline is done. Most weeks aren’t seven out of seven, and the baseline won’t send you a sad notification about it.
+F|Your baseline is three things, picked to keep life moving. Do them and the day counts. Most weeks aren’t seven out of seven. Very normal behaviour.
+F|A day counts when the three baseline things are done. Most weeks aren’t seven out of seven. Most laundry isn’t folded either. It’s fine.
+F|Your baseline: three things that keep life moving. Do them and the day counts. Most weeks aren’t seven out of seven. Most weeks are more of a jazz solo.
+@@ detailBrain
+P|How you said your brain felt each morning. On low days the plan got lighter on its own.
+P|Your brain weather, as you reported it each morning. On low days, the plan switched to a baseline day.
+P|Each morning’s brain check-in, in one place. On low days, you got a baseline day.
+P|How your brain felt each morning, in your words. Low days got a lighter, baseline plan.
+P|Your morning brain weather, day by day. When it was low, the plan eased to a baseline day.
+P|This shows how you said your brain felt each morning. On low days, the plan became a baseline day.
+P|Your brain weather from each morning. Low days were planned as baseline days.
+P|How you rated your brain each morning. When it was low, the plan went lighter automatically.
+P|Each morning you said how your brain felt. On low days, we planned a baseline day.
+P|Your brain, morning by morning, as you described it. Low days got a lighter plan.
+P|The brain weather you logged each morning. On low days the plan scaled back to a baseline day.
+P|How your brain was doing each morning, by your own account. Low days got a baseline plan.
+P|Your mornings, as your brain reported them. On the low ones, the plan got lighter by itself.
+P|This is your morning brain weather. On low days, the plan made itself a baseline day.
+P|How you felt each morning, brain-wise. On low days the plan got lighter without you asking.
+P|Your brain weather each morning, in one view. Low days turned into baseline days automatically.
+P|Every morning’s brain weather, as you told it. On low days the plan went down to the baseline.
+P|How your brain felt each morning. On low days, a baseline day was planned for you.
+P|Your morning check-ins about your brain. When a day started low, the plan went lighter.
+P|How you said your brain felt at the start of each day. Low days got a baseline plan.
+P|Your brain weather, one morning at a time. On low days, the plan got lighter by itself.
+P|What you said about your brain each morning. On low days, the plan became a baseline day on its own.
+P|Brain weather from your mornings. Low mornings meant a lighter, baseline plan.
+P|Here’s how your brain felt each morning. On low days, the plan quietly went to a baseline day.
+P|How your brain felt, morning by morning. On low days the plan kept to the baseline.
+P|Your mornings, by brain weather. On low days, the app planned just the baseline.
+P|How you rated your brain each morning. Low days got a baseline day, planned for you.
+P|This chart is your morning brain weather. On low days the plan went lighter on its own.
+P|Each morning’s brain weather, as you said it. On low days, the plan kept things to a baseline day.
+P|How your brain felt each morning, as you told us. On low days, the plan got lighter automatically.
+P|The weather in your head each morning. On low days the plan switched to a baseline day.
+P|Your brain weather at the start of each day. On low days, you got a lighter plan.
+P|How you checked in each morning. On low brain days, the plan eased off to a baseline day.
+P|Your daily brain weather, from your morning check-ins. Low days got a baseline plan.
+P|Each morning, how you said your brain felt. On low days the plan dropped to a baseline day.
+P|Brain weather, as you reported it each morning. Low days were given a baseline plan.
+P|How your brain felt each morning. On low days, the plan made room by going lighter.
+P|Your morning brain reports, all together. On low days, the plan became a baseline day.
+P|How you described your brain each morning. On the low days, the plan got lighter on its own.
+P|How your brain felt each morning, by your own report. Low days meant a baseline day.
+P|Your morning brain weather over time. On low days, the plan lightened up by itself.
+P|How your brain was each morning, in your words. On low days, a baseline day was planned.
+P|Your brain weather, logged each morning. On low days the plan went to a baseline day automatically.
+P|This tracks how you said your brain felt each morning. Low days got a lighter plan.
+P|What your brain weather was each morning. On low days the plan stuck to the baseline.
+P|How your brain started each day, as you said. On low days, the plan got lighter by itself.
+P|How your brain felt each morning. On low days, we kept the plan to a baseline day.
+P|Your brain weather from each morning. On low days, the plan was lighter, on its own.
+P|Each morning’s brain weather. Low days were met with a baseline plan.
+P|How you said your brain was doing each morning. On low days the plan scaled itself down.
+P|Your morning brain check-ins. When one was low, that day’s plan became a baseline day.
+P|How your brain felt each morning. On low days the plan got gentler on its own.
+P|Brain weather, morning by morning. On low days you were given a baseline day.
+P|How you felt in your head each morning. On low days, the plan went lighter automatically.
+P|Your mornings, by how your brain felt. Low ones got a baseline day.
+P|How your brain felt each morning, in one place. Low days were planned lighter, as baseline days.
+P|This shows your brain weather each morning. On low days the plan changed to a baseline day.
+P|How you said your brain felt each morning. When it was low, the plan went baseline on its own.
+P|Every morning’s brain weather. On low days the plan did less, all by itself.
+P|Your morning brain weather. On days it was low, the plan was a baseline day.
+P|How your brain felt as each day began. On low days the plan got lighter on its own.
+P|How you said your head felt each morning. On low days, the plan became a lighter baseline day.
+P|Your brain weather, collected from each morning. Low days got a lighter plan automatically.
+P|How your brain felt each morning, as you rated it. Low days became baseline days.
+P|Your morning brain weather, all in one chart. On low days, the plan got lighter.
+P|How your brain felt each morning. The plan went lighter on the low days, without you having to ask.
+P|Your brain weather, reported each morning. On low days the plan adjusted itself to a baseline day.
+P|How your brain felt each morning, according to you. On low days, the plan lightened.
+P|Your brain weather each morning. The low days got a baseline plan, set up for you.
+P|What you told us about your brain each morning. On low days, the plan went lighter by itself.
+F|Your brain weather, morning by morning. On foggy days the plan packed light and went baseline.
+F|How your brain felt each morning. On grey days the plan went easy without being asked.
+F|Your brain weather, reported each morning. On drizzly days the plan shrank to a baseline day.
+F|How your brain said it was doing each morning. Low days got a lighter plan. No umbrella needed.
+F|Every morning’s brain weather. When it was cloudy, the plan brought fewer things and a cardigan.
+F|Your brain weather, logged each morning. On low days the plan changed into something comfier: a baseline day.
+F|How you rated your brain each morning. Foggy days got a baseline plan, the way a good friend would suggest.
+F|Your morning brain weather. On stormy days the plan battened down the hatches to a baseline day.
+F|How your brain felt each morning. On low days the plan read the room and went lighter.
+F|Your brain weather, one morning at a time. On foggy days the plan dimmed the lights and kept it simple.
+F|Each morning’s brain weather. On low days the plan got lighter, like packing for a day trip, not a month.
+F|How your brain felt each morning. On low days the plan took one look and said “baseline it is”.
+F|Your brain weather, as reported each morning. Cloudy days got a baseline day, no questions asked.
+F|How your brain was feeling each morning. On low days the plan put its feet up and went baseline.
+F|Your mornings in brain weather. When it was foggy, the plan turned the volume down to a baseline day.
+F|How you said your brain felt each morning. Low days got a lighter plan. The app took the hint.
+F|Your brain weather, every morning. On low-battery days, the plan switched to a baseline day.
+F|How your brain felt each morning. On low days the plan did the sensible thing before you had to.
+F|Your brain weather each morning. On drizzly days the plan kept it short, like a good text.
+F|How your brain said it was doing each morning. Low days? The plan went baseline, no forms to fill in.
+F|Brain weather, by morning. On foggy days the plan quietly swapped in a baseline day. Very smooth.
+F|How your brain felt each morning. On low days the plan went into cosy mode: baseline only.
+F|Your morning brain weather. On low days the plan traded the big list for a baseline day.
+F|Each morning’s brain weather, as you called it. Stormy mornings got a baseline day and some shelter.
+F|How your brain felt each morning. On slow-start days, the plan followed suit and went lighter.
+F|How your brain felt each morning. Low days got a lighter plan. The plan is a good listener.
+F|Your brain weather from each morning. On low days the plan went lighter, like a friend who can read your face.
+F|How you said your brain felt each morning. On low days the plan shrugged and went baseline.
+F|Your brain weather, each morning. On low days the plan dialled itself down. No fuss, no lecture.
+F|How your brain felt each morning. On the grey ones, the plan went lighter and didn’t make a big thing of it.
+@@ dayTypesIntro
+P|Different days, different rhythms. Name them whatever makes sense to you.
+P|Not every day runs the same. Give each type a name that makes sense to you.
+P|Some days have their own rhythm. Name them anything you like.
+P|Your days don’t all run the same way. Set up a type for each and call it whatever you want.
+P|Workdays, weekends, the in-between days. Each can have its own rhythm and any name you like.
+P|Different days can have different rhythms. Name each one however you like.
+P|Days vary, and so do their rhythms. Call each type whatever works for you.
+P|Every kind of day can have its own rhythm. Name them in your own words.
+P|Your days have different rhythms. Give each one a name that feels right.
+P|Different days, different rhythms. Call them anything you like.
+P|Not all days are alike. Make a type for each rhythm and name it anything.
+P|Some days run one way, some another. Name each day type whatever suits you.
+P|Different kinds of days, different rhythms. The names are up to you.
+P|Each type of day can have its own rhythm. You choose the name.
+P|Days have different shapes. Give each rhythm a name that makes sense to you.
+P|Different days, different rhythms. Use any names you like.
+P|A workday might not run like a weekend. Name each day type whatever you want.
+P|Different days need different rhythms. Name them any way that makes sense.
+P|Your days aren’t all the same, so their rhythms don’t have to be. Name them anything.
+P|Different days, different rhythms. Pick names that mean something to you.
+P|Set up the kinds of days you have. Each gets its own rhythm and whatever name you choose.
+P|Different days run to different rhythms. Name them as you like.
+P|Every day type has its own rhythm. Name them anything at all.
+P|Different days, different rhythms. Any name works.
+P|Your rhythm can change from day to day. Name each type of day whatever fits.
+P|Different days can run differently. Give each type a name you’ll recognise.
+P|Not every day follows the same rhythm. Name your day types however you like.
+P|Different days, different rhythms. Name each one so it makes sense to you.
+P|Some days are different, and that’s normal. Give each rhythm a name you like.
+P|Different days have different rhythms. What you call them is up to you.
+P|Days come in different rhythms. Name them in whatever way makes sense.
+P|Different days, different rhythms. Name them whatever you’d call them anyway.
+P|Each kind of day can keep its own rhythm. Call it anything you want.
+P|Different days, different rhythms. There are no wrong names here.
+P|Your week has different kinds of days. Give each rhythm a name that works for you.
+P|Different days, different rhythms. Label them any way you like.
+P|Different days move differently. Name each type whatever feels natural.
+P|Not every day has the same rhythm. You can name each type freely.
+P|Different days, different rhythms. Name them anything that makes sense to you.
+P|Different days can follow different rhythms. Name them to suit you.
+P|Different days, different rhythms. Choose any name for each.
+P|Some days have a rhythm all of their own. Name those days however you like.
+P|Different days, their own rhythms. Name each type in your own way.
+P|Days differ, and rhythms do too. Give each type any name you want.
+P|Different days, different rhythms. Your names, your way.
+P|Different days can have different rhythms. Call them what you’d call them.
+P|Your days can have different rhythms. Name each type whatever is clear to you.
+P|Different days, different rhythms. Make the names yours.
+P|One rhythm doesn’t fit every day. Name each day type however you like.
+P|Different days, different rhythms. Name them whatever helps you recognise them.
+P|Different days bring different rhythms. Give them names that make sense to you.
+P|Every day isn’t the same, and that’s fine. Name each rhythm anything you like.
+P|Different days, different rhythms. Name each one in a way that clicks for you.
+P|Some days work differently. Create a type for each and give it any name.
+P|Different days, different rhythms. Anything you call them is fine.
+P|Your days aren’t one size fits all. Name each rhythm whatever makes sense.
+P|Different days, different rhythms. Name them in whatever way helps.
+P|Days don’t all run the same. Name each rhythm how you like.
+P|Different days, different rhythms. Name them so they’re easy to spot.
+P|Different days, different rhythms. Go with names that feel like yours.
+P|Different types of days, different rhythms. Name them whatever you like.
+P|Different days call for different rhythms. Name each one anything you like.
+P|Different days, different rhythms. Name them whatever feels right to you.
+P|Different days can keep different rhythms. You pick the names.
+P|Different days, different rhythms. Give them any names at all.
+P|Some days run differently from others. Name each type anything that helps.
+P|Different days, different rhythms. How you name them is entirely up to you.
+P|Not every day keeps the same rhythm. Give each one a name of your choosing.
+P|Different days, different rhythms. Call each one something you’ll recognise.
+P|Different days, different rhythms. There’s no right way to name them.
+F|Different days, different rhythms. Name them anything. “Weird Wednesday” is a classic.
+F|Different days, different rhythms. Call them anything, even “the one with the dentist”.
+F|Different days run differently. Name them whatever you like. “Gremlin mode” counts.
+F|Different days, different rhythms. Naming them is the fun bit. Try not to spend an hour on it.
+F|Days have rhythms. Give each one a name. Picking the name may take longer than expected.
+F|Different days, different rhythms. Name them anything. “Chaos Thursday” is a perfectly good name.
+F|Workday, weekend, that one odd Wednesday. Name each rhythm whatever feels right.
+F|Your days have different rhythms. Name them anything. Nobody’s grading the names.
+F|Different days, different rhythms. Call them whatever you like. “Big brain Monday”, “Soup Sunday”, anything.
+F|Each kind of day has its own rhythm. Name them anything, even something with “vibes” in it.
+F|Days come with different rhythms. Name them whatever you like. Puns are very welcome.
+F|Different days, different rhythms. Call them anything. Future you will know what “Duvet day” means.
+F|Different days, different rhythms. Name them anything. Nobody will judge “Pyjama Saturday”.
+F|Different days, different rhythms. Name them whatever you want. Naming things is half the fun.
+F|Different days, different rhythms. Pick names you’ll recognise first thing, with one eye open.
+F|Not every day moves the same. Name them anything. “Tuesday but gentle” is allowed.
+F|Different days, different rhythms. Name them anything. Maybe don’t call them all “Tuesday”.
+F|Not every day runs the same. Name each type anything. “Everything at once” is a valid name.
+F|Your days run to different rhythms. Name them anything. Short names are handy, long ones funnier.
+F|Some days have a rhythm all their own. Name them anything you like. A name can be a mood.
+F|Different days, different rhythms. Call them anything. “Meeting marathon” works. So does “Nope”.
+F|Different days, different rhythms. Name them anything. Your label maker would be proud.
+F|Different days, different rhythms. Name them however you like, even after your favourite snack.
+F|Each day type has its own rhythm. Name them anything. Bonus points if the name makes you smile.
+F|Days vary, and so do their rhythms. Your days, your rules, your odd little names.
+F|Some days sprint, some days stroll. Name each rhythm whatever makes sense to you.
+F|Days don’t all run alike. Name them anything. “Laundry mountain day” is extremely valid.
+F|Different days, different rhythms. Name them anything. “Leave the house day” is a strong choice.
+F|Different days, different rhythms. Name them anything. Inside jokes with yourself are encouraged.
+F|Different days keep different rhythms. Name them anything. Go on, make it a little bit silly.
+@@ hyperfixationWarning
+P|Careful. This page might become your hyperfixation and eat the next six hours.
+P|Heads up: this page could become your next hyperfixation. It may take the next six hours.
+P|A gentle warning: customising can turn into a hyperfixation. Six hours can disappear here.
+P|Fair warning: this page might become a hyperfixation and use up the next six hours.
+P|Just so you know, this page could easily become your hyperfixation for the next six hours.
+P|Careful. It’s easy to get absorbed here. This page could take the next six hours.
+P|A note before you start: this page can become a hyperfixation. Six hours can go quickly.
+P|Heads up. You might hyperfixate on this page for the next six hours.
+P|Careful here. This could become your hyperfixation and quietly take six hours.
+P|Friendly warning: this page might become your hyperfixation. Six hours can slip away.
+P|Before you dive in: this page has hyperfixation potential. It could take six hours.
+P|Careful. Customising can become a hyperfixation, and six hours can vanish.
+P|A small warning: you might lose the next six hours to this page.
+P|Heads up: this page is easy to hyperfixate on. The next six hours may disappear.
+P|Careful. This page could hold your attention for the next six hours.
+P|Worth knowing: this page might become a hyperfixation and take six hours of your day.
+P|Just a heads up. This could become your hyperfixation for six hours.
+P|Careful. This page can turn into a six-hour hyperfixation.
+P|A quick warning: the next six hours could go to this page.
+P|Fair warning. This page has a habit of becoming a hyperfixation. Six hours, easily.
+P|Careful. This is the kind of page that becomes a hyperfixation for six hours.
+P|Take care: this page might become your hyperfixation and eat six hours.
+P|Heads up. Customising is fun enough to become a hyperfixation for six hours.
+P|Careful. You could end up here for the next six hours. It happens.
+P|A little warning: this page might become your hyperfixation. Six hours can pass unnoticed.
+P|Careful. Spend a minute here and it might become six hours.
+P|Just so you know: this page can become a hyperfixation that eats six hours.
+P|Careful. This page may become a hyperfixation. The next six hours could vanish.
+P|Heads up: there’s a real chance this page eats the next six hours.
+P|Careful. This page is easy to get lost in, maybe for six hours.
+P|Warning: this page might become your hyperfixation and eat the next six hours.
+P|Before you start: this page could turn into a six-hour hyperfixation.
+P|A word of warning: customising can become a hyperfixation. Six hours, gone.
+P|Careful. This page might take over the next six hours.
+P|Heads up. This page could easily become a hyperfixation that lasts six hours.
+P|Careful. This page may become your next hyperfixation and use up six hours.
+P|Fair warning: the next six hours might end up here.
+P|Heads up: customising here can turn into six hours of hyperfixation.
+P|Careful. You might start with one change and still be here six hours later.
+P|Just a warning: this page might become a hyperfixation and eat the next six hours.
+F|Careful. This page is where six hours go to hide.
+F|Warning: people have come here to change one setting and left six hours later.
+F|Fair warning: this is how “just one tweak” becomes six hours.
+F|This page may become your new hyperfixation. We take no responsibility for the next six hours.
+F|Careful. Six hours from now you’ll still be choosing between two nearly identical options.
+F|Heads up: this page has swallowed six hours before. It’s very polite about it.
+F|Customising: fun for five minutes, then suddenly it’s six hours later.
+F|Warning: time works differently in here. Six hours can pass in one tiny choice.
+F|Careful. This could eat six hours. Keep snacks within reach.
+F|Enter with caution: this page might become your whole personality for six hours.
+F|Careful. You came to change one thing. Six hours from now you’ll have a whole new aesthetic.
+F|This page is a known hyperfixation hazard. Estimated time lost: six hours.
+F|Warning: contains six hours of joyful fiddling.
+F|Careful. This page is a rabbit hole with very nice options. It’s about six hours deep.
+F|This could become your hyperfixation. Tell someone where you’re going. Back in six hours.
+F|Warning: we’ve lost six hours in here and regret nothing.
+F|Customise responsibly. This page has eaten six hours before and it’s still hungry.
+F|Careful. Six hours can vanish in here like socks in a dryer.
+F|Hyperfixation risk: high. Estimated disappearance: six hours. Fun: considerable.
+F|Careful. This page has “just one more thing” energy. About six hours of it.
+F|Proceed gently. This could become your hyperfixation, and six hours will feel like one minute.
+F|Careful. You’ll blink, and it’ll be six hours later with a very good-looking planner.
+F|Heads up: this page is the doom scroll’s prettier cousin. Six hours, easily.
+F|Warning: this page might become your hyperfixation. The next six hours have been notified.
+F|Careful. This page eats six hours for breakfast.
+F|Fair warning: this page has eaten six hours of ours. It will want yours too.
+F|Careful. You open this page, and suddenly the sun has moved. Six hours, gone.
+F|Warning: customising may turn into a six-hour side quest with no map.
+F|Careful. This page is a hyperfixation in a trench coat. Allow six hours.
+F|Heads up: this page might become this week’s new hobby, starting with the next six hours.
+F|Careful. Nobody customises “for a minute”. The next six hours are at risk.
+F|Warning: contains lots of lovely options and roughly six hours of your day.
+F|Careful. This page has the pull of a fresh notebook. Six hours can go missing.
+F|Heads up: this page has its own gravity. About six hours of it.
+F|Careful. This page might become your hyperfixation. Your to-do list will wait six hours, sulking.
+F|This page could become your hyperfixation. The laundry will understand. For about six hours.
+F|Careful. Time blindness plus a settings page. Six hours doesn’t stand a chance.
+F|Warning: this is a “five minutes” page. Those are six hours long.
+F|Careful. This page might become your hyperfixation. We’ll see you in six hours.
+F|Caution: highly customisable. Six hours may be lost to delight.
+F|Heads up: in here, six hours feels like ten minutes. Customise wisely.
+F|Careful. This page is basically a dopamine buffet. Six hours, easily.
+F|Careful. You might hyperfixate here, and six hours will leave without saying goodbye.
+F|Warning: this page invites hyperfocus. Six hours may go missing, like keys.
+F|Careful. Your brain has found a new toy. The next six hours are its now.
+F|Heads up: this page might be your hyperfixation. Six hours, give or take a snack break.
+F|Warning: tinkering here may carry on for six hours without asking you first.
+F|Careful. This page is fun in a way that eats six hours.
+F|This might become your hyperfixation. Six hours will pass. You’ll regret none of them.
+F|Careful. This page has a six-hour appetite.
+F|Heads up: this page runs on hyperfixation time. One minute here is six hours out there.
+F|Careful. It starts with “ooh” and ends six hours later.
+F|Warning: this page comes with hyperfixation and six very happy hours.
+F|Careful. This page has hyperfixation written all over it. Set aside six hours.
+F|Heads up: you’re about to rearrange things for six hours and call it a quick look.
+F|Warning: this page is shiny. You know what shiny does. Six hours, gone.
+F|Careful. This page might become your hyperfixation. The next six hours say goodbye.
+F|Customise at your own pace. Your pace will be six hours. We’ve seen it.
+F|Careful. This page is very tweakable, and six hours is very eatable.
+F|Heads up: this page is a hyperfixation starter kit. Six hours included.
+@@ emptyPlan
+P|Nothing planned today.
+P|Nothing on today.
+P|Your day is clear.
+P|A clear day. Nothing planned.
+P|Nothing planned yet.
+P|No plans today.
+P|Today’s wide open.
+P|Nothing on the plan today.
+P|An empty day, yours to use as you like.
+P|Nothing scheduled today.
+P|Today is free.
+P|A free day. Nothing planned.
+P|Nothing planned. The day’s all yours.
+P|Clear skies. Nothing planned.
+P|Nothing planned today. Enjoy the space.
+P|Your plan is empty today.
+P|Nothing here today.
+P|No plans for today yet.
+P|Nothing lined up today.
+P|Nothing on the list today.
+P|An open day. Nothing planned.
+P|Today has nothing planned.
+P|All clear today.
+P|Today’s plan is blank.
+P|Nothing planned. Plenty of room.
+P|Nothing booked in today.
+P|A blank page today.
+P|Nothing planned. A quiet one.
+P|Nothing on the cards today.
+P|Your day is open.
+P|Today is a clean slate.
+P|Nothing planned. Lots of space.
+P|Nothing planned today. That’s allowed.
+P|Nothing planned for today.
+P|The plan is empty for today.
+P|Nothing in today’s plan.
+P|Room to breathe. Nothing planned.
+P|Open day ahead. Nothing planned.
+P|A quiet day with nothing planned.
+P|Nothing planned. Take it as it comes.
+F|Nothing planned. Suspiciously calm.
+F|Nothing planned. The calm before the side quests.
+F|Nothing planned. Your brain will find something.
+F|An empty plan. Rare, like a closed tab.
+F|Nothing planned. Even the doom pile is taking the day off.
+F|Nothing planned. Plenty of room for a surprise hobby.
+F|Nothing planned. Perfect conditions for a hyperfocus.
+F|Nothing planned. The to-do list is on holiday.
+F|Nothing planned. Enjoy it before you invent four projects.
+F|A blank day. Your brain is already drafting ideas.
+F|Nothing planned. Quiet. Too quiet.
+F|Nothing planned. The calendar is having a nap.
+F|Nothing here. Just vibes and possibly a snack.
+F|Nothing planned. Squint and it’s a holiday.
+F|Nothing planned. Radio silence, the nice kind.
+F|Nothing planned. All tabs closed. Weird.
+F|Nothing planned. A rare sighting of an empty day.
+F|Nothing planned. Don’t tell your brain, it’ll get ideas.
+F|Nothing planned. Hide this from your inner project starter.
+F|Nothing planned. Zero alarms for your alarms.
+F|Nothing planned. A blank canvas. Or a nap.
+F|Empty plan. Spotless. Almost unsettling.
+F|Nothing planned. The side quests are circling.
+F|Nothing planned. Loads of time for “just five minutes”.
+F|Nothing planned. Watch out for that new hobby itch.
+F|Nothing planned. The doom pile can wait. It’s used to it.
+F|Nothing planned. The quiet is loud today.
+F|Nothing planned. Nobody panic.
+F|Nothing planned. This is fine. Genuinely.
+F|Nothing planned. Your future self sends a thumbs up.
+F|Nothing planned. Unusual, but we’ll allow it.
+F|Nothing planned. Even your brain looks surprised.
+F|Wide open day. Don’t let the rabbit holes hear.
+F|Nothing planned. The squirrels are on a break.
+F|No plans. Somewhere, a new hobby senses an opening.
+F|Nothing planned. Great day for losing track of time.
+F|Nothing planned. A snow day, minus the snow.
+F|Nothing planned. Just a very clean page, being smug.
+F|Nothing planned. The list is on a long lunch.
+F|Nothing planned. Room for wandering thoughts to wander.
+F|Nothing planned. Your brain’s radio can pick any station.
+F|Nothing planned. A day with no pings. Savour it.
+F|Nothing planned. The alarms are having a lie-in.
+F|Nothing planned. Even the reminders took the day off.
+F|Nothing planned. Consider it a very long pause.
+F|Nothing planned. The plan is doing a little meditation.
+F|Nothing planned. Suspiciously tidy in here.
+F|Nothing planned. The day is a clean desk. Enjoy it.
+F|Nothing planned. Plot twist: the day is yours.
+F|Nothing planned. The planner is just vibing.
+F|Nothing planned. All quiet on the doom pile front.
+F|Nothing planned. Enjoy the novelty.
+F|Nothing planned. The calendar ran out of opinions.
+F|Nothing planned. Even the snacks have no deadlines.
+F|No plans. No “quick jobs” that take three hours.
+F|Nothing planned. Your brain has the whole stage.
+F|Nothing planned. Even your phone looks relaxed.
+F|Nothing planned. Time blindness has nothing to eat today.
+F|Nothing planned. The day is one big maybe.
+F|Nothing planned. An empty inbox, but for your day.

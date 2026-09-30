@@ -1,0 +1,1121 @@
+@@ accountTitle
+P|First, somewhere to keep your stuff.
+P|First, a home for your plans.
+P|First, a safe place for your things.
+P|Let’s give your stuff a home.
+P|First things first: a home for your plans.
+P|A place to keep your stuff.
+P|First, a place for everything.
+P|Start with a home for your plans.
+P|First, a spot to keep your things.
+P|Your stuff needs a home. Let’s make one.
+P|A safe home for your plans, first.
+P|First, let’s give your plans a home.
+P|First up, a place to keep your stuff.
+P|First, somewhere safe for your plans.
+P|Let’s set up a home for your stuff.
+P|One quick thing: a home for your stuff.
+P|Somewhere to keep your plans safe.
+P|First, a place your plans can live.
+P|Let’s find your stuff a home.
+P|First, a home base for your plans.
+P|A home for your plans comes first.
+P|Before anything else, a home for your stuff.
+P|First, a safe spot for your plans.
+P|Let’s make a home for your things.
+P|Your plans need somewhere to live.
+P|First, a place to keep it all.
+P|Let’s start with somewhere to keep things.
+P|Step one: somewhere to keep your stuff.
+P|First, a place to keep your plans safe.
+P|Somewhere safe to keep your things.
+P|Let’s give everything a home.
+P|First, a home for all of it.
+P|A place for your stuff to live.
+P|Let’s keep your plans somewhere safe.
+P|Every plan needs a home. Let’s make yours.
+P|First, a place to put your plans.
+P|Start here: a home for your stuff.
+P|A home for your plans, to start.
+P|First, somewhere your plans can stay.
+P|First, somewhere to keep things safe.
+P|To begin, a home for your stuff.
+P|First, let’s give your things a place.
+P|A safe place for your plans to live.
+P|Let’s set up somewhere to keep your stuff.
+P|First, a home for your days.
+P|Let’s make your plans a home.
+P|First, somewhere to store your stuff.
+P|First, a place where your plans live.
+P|Let’s get your things a safe home.
+P|First, a little home for your plans.
+P|A safe place for everything, first.
+P|First, a place to hold your plans.
+P|First, a place to keep your days.
+P|Let’s find a home for your plans.
+P|One thing first: a place for your stuff.
+P|Quick first step: a home for your plans.
+P|First, somewhere for your plans to live.
+P|Let’s give your plans somewhere to live.
+P|Your plans need a home. Let’s set one up.
+P|First, a safe home for your things.
+P|First, somewhere to keep what matters.
+P|Let’s make somewhere safe for your stuff.
+P|First, a home for everything you plan.
+P|Somewhere to keep your days, first.
+P|First, one safe place for your stuff.
+P|One home for all your plans.
+P|A home for your stuff, to begin.
+P|First, a place to keep your things.
+P|Let’s give your days a home.
+P|First, a safe place for it all.
+F|Somewhere safer than the doom pile.
+F|First, a place you can’t misplace.
+F|A home for your stuff. Keys not included.
+F|First, somewhere better than tab 48.
+F|A spot for your stuff that stays put.
+F|First, a place your stuff actually stays.
+F|Somewhere safer than sticky notes.
+F|A safer spot than the back of your hand.
+F|Somewhere to keep it, so your head doesn’t.
+F|Your plans deserve better than a napkin.
+F|One home for your stuff, not seven.
+F|A home where your stuff won’t wander off.
+F|Let’s keep your stuff somewhere findable.
+F|A home for your stuff. We’ll remember where.
+F|A home for your stuff. No scavenger hunts.
+F|Your plans, safe from the back of the sofa.
+F|A home for your stuff, even out of mind.
+F|A home for your stuff. Not the junk drawer.
+F|Somewhere your plans won’t get buried.
+F|A home for your plans. Future you approves.
+F|Your stuff won’t vanish here. Unlike socks.
+F|Let’s give your stuff a home. A real one.
+F|A labelled home for your stuff. Fancy.
+F|One place for it all. Your brain can exhale.
+F|First, a home that isn’t the kitchen table.
+F|Somewhere safer than 900 screenshots.
+F|A home for all of it. Even the random bits.
+F|Here, things stay where you left them.
+F|Somewhere tidier than the bottom of a bag.
+F|Somewhere better than emailing yourself.
+
+@@ coachMeds
+P|Your medication lives here. One tap logs everything you’ve set for now.
+P|Your medication is here. Tap Log all to log everything you’ve set for now.
+P|This row is your medication. One tap on Log all logs whatever you’ve set for now.
+P|Here’s your medication. Log all records everything you’ve set for about now.
+P|Your medication sits in this row. A single tap logs everything you’ve set for now.
+P|This is where your medication lives. Log all logs everything set for around now.
+P|Your medication shows up in this row. Tap Log all to log what you’ve set for now.
+P|This row holds your medication. One tap logs everything you’ve set for about now.
+P|Your medication lives in this row. Log all covers everything you’ve set for now.
+P|Here’s where your medication lives. One tap on Log all logs everything set for now.
+P|Your medication has its own row, right here. One tap logs what you’ve set for now.
+P|Your medication stays here. Log all logs everything you’ve set for around now.
+P|This is your medication row. Tap Log all once to log everything you’ve set for now.
+P|Your medication, all in one row. One tap logs whatever you’ve set for now.
+P|All your medication lives in this row. Log all logs everything set for about now.
+P|You’ll find your medication in this row. One tap logs everything you’ve set for now.
+P|Your medication is kept in this row. Log all records what you’ve set for around now.
+P|This row keeps your medication together. One tap on Log all logs what’s set for now.
+P|Your medication lives here. Tap Log all and everything you’ve set for now is logged.
+P|Your medication is listed here. A single tap on Log all logs everything set for now.
+P|Here’s your medication, in one row. Log all logs everything you’ve set for now.
+P|This row shows your medication. One tap logs everything you’ve set for this time.
+P|Your medication lives in this row. Log everything you’ve set for now with a single tap.
+P|Your medication is right here. One tap on Log all covers everything set for now.
+P|This is where your medication sits. Tap Log all to log whatever you’ve set for now.
+P|Your medication has a home in this row. One tap logs everything set for about now.
+P|Here’s your medication row. Log all logs everything you’ve set for now, in one tap.
+P|Your medication appears here. Tap Log all once and everything set for now is logged.
+P|This row is for your medication. Log all records everything you’ve set for now.
+P|Your medication lives here. Log all logs anything you’ve set for about now in one tap.
+P|Your medication is all here. Tap Log all to log everything you’ve set for around now.
+P|This row is your medication. Tap Log all to log everything set for now in one go.
+P|Your medication lives in this one row. One tap logs everything you’ve set for now.
+P|Here is your medication. One tap on Log all logs everything you’ve set for now.
+P|Your medication is in this row. Log all logs whatever you’ve set for now with one tap.
+P|Find your medication here. One tap on Log all logs everything you’ve set for now.
+P|Your medication lives here. Log all is one tap for everything you’ve set for now.
+P|This is your medication. Tap Log all to log everything set for now, all at once.
+P|Your medication sits here. One tap logs everything you’ve set for now, all together.
+P|Your medication has its own row. Log all logs everything you’ve set for about now.
+P|This row is where your medication lives. One tap logs all you’ve set for now.
+P|Your medication lives here. One tap on Log all, and everything set for now is logged.
+P|Here’s your medication. Tap Log all once to log everything you’ve set for now.
+P|This row lists your medication. Log all logs everything set for now with a single tap.
+P|Your medication is shown here. One tap logs everything you’ve set for around now.
+P|Your medication, right here. Tap Log all to log whatever you’ve set for now.
+P|This row is your medication. A single tap logs all you’ve set for about now.
+P|Your medication lives in this row. Log all records whatever you’ve set for now in one tap.
+P|Here’s where your medication is. Log all logs everything you’ve set for now at once.
+P|Your medication is in this row. One tap on Log all records everything set for now.
+P|This is the medication row. One tap logs everything you’ve set for now.
+P|Your medication lives here. Log all saves everything you’ve set for now in one tap.
+P|You can see your medication here. Log all logs everything set for now with one tap.
+P|This row keeps track of your medication. One tap logs whatever you’ve set for now.
+P|Your medication is here, in one row. Log all logs everything set for now at once.
+P|Your medication lives in this spot. Tap Log all to log everything you’ve set for now.
+P|Here’s your medication. A single tap on Log all logs everything you’ve set for now.
+P|This row is for your medication. One tap on Log all logs everything set for about now.
+P|Your medication lives here. Log everything you’ve set for now in one tap with Log all.
+P|Your medication has a row of its own. Log all logs whatever you’ve set for now in one tap.
+P|This is your medication, all in one place. One tap logs everything you’ve set for now.
+P|Your medication sits right here. Log all records everything you’ve set for about now.
+P|Your medication lives in this row. Tap once on Log all to log what you’ve set for now.
+P|Here’s your medication, together in one row. One tap logs everything set for now.
+P|This row is home to your medication. Log all logs everything you’ve set for now.
+P|Your medication is listed in this row. One tap logs everything set for now at once.
+P|Your medication is here. Log all logs everything you’ve set for now, with one tap.
+P|This row shows your medication. Tap Log all to log everything you’ve set for now.
+P|Your medication lives here. With one tap, Log all logs everything you’ve set for now.
+P|Your medication is gathered in this row. One tap logs whatever you’ve set for now.
+P|Here’s where your medication sits. Tap Log all to log everything set for about now.
+P|This row has your medication. Log all logs everything you’ve set for now in one go.
+P|Your medication lives here. Everything you’ve set for now logs with one tap.
+P|This is where you’ll find your medication. One tap logs everything set for now.
+P|Your medication is in one place, here. Log all logs everything you’ve set for now.
+P|Your medication lives in this row. Log all marks everything set for now as logged.
+P|This row is your medication. Log all logs everything you’ve set for now at once.
+P|Here’s your medication. One tap logs everything you’ve set for now, together.
+P|Your medication is kept right here. Tap Log all to log whatever you’ve set for now.
+P|Your medication lives here. Log all covers everything you’ve set for about now in one tap.
+P|This row keeps your medication in one place. One tap logs everything set for now.
+P|Your medication shows here. Log all records everything you’ve set for now at once.
+P|Here is where your medication lives. Log all logs whatever you’ve set for now in one tap.
+P|This is your medication row. One tap on Log all covers everything set for now.
+P|Your medication is in this row. Tap Log all once for everything you’ve set for now.
+P|Your medication sits in one row, here. Tap Log all to log what you’ve set for now.
+P|This row is where your medication sits. Log all logs everything set for now.
+P|Your medication lives here. Whatever you’ve set for about now, one tap logs it all.
+P|This row holds your medication. Log all logs everything you’ve set for this time of day.
+P|Here’s your medication. Whatever you’ve set for now, one tap on Log all logs it.
+P|Your medication is in this row. Anything you’ve set for now logs with a single tap.
+P|Your medication lives here. Log all logs everything set for now, no need to tap each one.
+P|This row is your medication. Log all logs everything set for now together, not one by one.
+P|Your medication is here. Log all logs what you’ve set for now in one go, not one by one.
+P|Here’s your medication. Log all logs everything set for now at once, not one at a time.
+P|Your medication lives in this row. Tap Log all to log everything you’ve set for now together.
+P|Your medication is listed here. Tap Log all, and everything you’ve set for now gets logged.
+P|This row is for your medication. One tap on Log all logs whatever is set for now.
+P|Your medication lives here. Log all handles everything you’ve set for around now in one tap.
+P|This is your medication. One tap logs everything you’ve set for now.
+
+@@ medsNothingDue
+P|Nothing to log right now. Next one’s set for {time}.
+P|Nothing to log right now. The next one is set for {time}.
+P|Nothing to log at the moment. Next one’s set for {time}.
+P|Nothing to log for now. Your next one is set for {time}.
+P|Nothing to log just now. Next one’s at {time}.
+P|Nothing to log yet. The next one you set is at {time}.
+P|Nothing to log right now. Your next one’s set for {time}.
+P|Nothing needs logging right now. Next one’s set for {time}.
+P|Nothing to log. The next one’s set for {time}.
+P|Nothing to log right now. You set the next one for {time}.
+P|Nothing to log at the moment. The next one is at {time}.
+P|Nothing to log for now. Next one’s at {time}.
+P|Nothing to log just yet. Next one’s set for {time}.
+P|All clear for now. Next one’s set for {time}.
+P|Nothing to log right now. Next up at {time}.
+P|Nothing to log right now. Next one set for {time}.
+P|Nothing to log yet. Your next one is set for {time}.
+P|Nothing needs logging yet. Next one’s at {time}.
+P|Nothing to log right now. The next one you set is {time}.
+P|Nothing to log now. The next one’s set for {time}.
+P|Right now, nothing to log. Next one’s set for {time}.
+P|For now, nothing to log. Next one’s set for {time}.
+P|At the moment, nothing to log. The next one is at {time}.
+P|Nothing to log until {time}.
+P|Nothing to log before {time}.
+P|Nothing needs logging until {time}.
+P|Nothing to log till {time}, when your next one is set.
+P|Nothing to log until your next one at {time}.
+P|Next one’s set for {time}. Nothing to log right now.
+P|Your next one is set for {time}. Nothing to log yet.
+P|The next one you set is at {time}. Nothing to log now.
+P|Next one at {time}. Nothing to log until then.
+P|Next one’s at {time}. Nothing to log before then.
+P|Nothing to log right now. Next one at {time}.
+P|Nothing to log at present. Next one’s set for {time}.
+P|Nothing to log right this minute. Next one’s at {time}.
+P|Nothing waiting to be logged. Next one’s set for {time}.
+P|Nothing waiting to log. The next one is set for {time}.
+P|No medication to log right now. Next one’s set for {time}.
+P|No medication to log just now. The next is set for {time}.
+P|Nothing to log for the moment. Next one’s at {time}.
+P|Nothing to log right now. The next is set for {time}.
+P|Nothing to log right now. Coming up next at {time}.
+P|Nothing to log yet. Next one’s at {time}.
+P|Nothing to log now. Next one is at {time}.
+P|Nothing to log right now. Your next is set for {time}.
+P|Nothing to log right now. You’ve set the next for {time}.
+P|Nothing to log right now. The next one you’ve set is {time}.
+P|Nothing to log. Your next one’s at {time}.
+P|Nothing to log right now. Your next one is at {time}.
+P|Nothing to log at the moment. Your next one’s at {time}.
+P|Nothing to log for now. The next one you set is at {time}.
+P|Nothing to log just now. The next one you set is {time}.
+P|Nothing to log yet. You set the next one for {time}.
+P|Nothing needs logging now. The next one’s set for {time}.
+P|Nothing to log. Next one set for {time}.
+P|Nothing to log. The next one you set is at {time}.
+P|You’re clear for now. Next one’s set for {time}.
+P|You’re clear until {time}. Nothing to log right now.
+P|Clear until {time}. Nothing to log right now.
+P|Nothing to log right now. You’re clear until {time}.
+P|Nothing to log until {time}. You’re clear for now.
+P|Nothing to log till {time}.
+P|Nothing needs logging till {time}.
+P|Nothing to log right now. Next one’s scheduled for {time}.
+P|Nothing to log at the moment. Next one’s scheduled for {time}.
+P|Nothing to log right now. Your next one’s scheduled for {time}.
+P|Nothing to log yet. The next one’s scheduled for {time}.
+P|Nothing to log right now. Next on your list at {time}.
+P|Nothing to log right now. Next on the list: {time}.
+P|Nothing to log right now. The next one comes up at {time}.
+P|Nothing to log right now. Next one comes up at {time}.
+P|Nothing to log for now. The next one comes up at {time}.
+P|Nothing to log. Next one comes up at {time}.
+P|Nothing to log right now. The next time you set is {time}.
+P|Nothing to log right now. Next time you’ve set: {time}.
+P|Nothing to log yet. The next time you’ve set is {time}.
+P|Nothing to log for now. Next time you set is {time}.
+P|Nothing to log at the moment. Next time set: {time}.
+P|Nothing to log now. Next one you set: {time}.
+P|Nothing to log right now. Next one you’ve set: {time}.
+P|Nothing to log just now. Next one set: {time}.
+P|Nothing here to log right now. Next one’s set for {time}.
+P|Nothing here to log yet. The next one is at {time}.
+P|Nothing here to log for now. Next one’s at {time}.
+P|There’s nothing to log right now. Next one’s set for {time}.
+P|There’s nothing to log yet. The next one is set for {time}.
+P|There’s nothing to log for now. Next one at {time}.
+P|There’s nothing to log until {time}.
+P|There’s nothing to log before {time}.
+P|Nothing is waiting to be logged. Next one’s at {time}.
+P|Nothing to log right now. The next one’s at {time}.
+P|Nothing to log at the moment. Next at {time}.
+P|Nothing to log right now. Next at {time}.
+P|Nothing to log for now. Next at {time}.
+P|Nothing to log yet. Next at {time}.
+P|Nothing to log. Next at {time}.
+P|No medication to log right now. The next one is at {time}.
+P|No medication to log until {time}.
+P|No medication to log yet. Your next one’s set for {time}.
+
+@@ dayLineBest
+P|Best focus until {time}.
+P|In your best focus until {time}.
+P|Peak focus until {time}.
+P|Your best focus runs until {time}.
+P|Sharpest until {time}.
+P|Best focus, right up to {time}.
+P|You’re in best focus until {time}.
+P|Prime focus time until {time}.
+P|Your strongest focus lasts until {time}.
+P|Best focus now, until {time}.
+P|Top focus until {time}.
+P|Focus is at its best until {time}.
+P|Your best window runs to {time}.
+P|In your best window until {time}.
+P|Best focus lasts until {time}.
+P|Clearest focus until {time}.
+P|Your focus peaks until {time}.
+P|Best focus from now until {time}.
+P|In best focus. Good until {time}.
+P|Best focus is on until {time}.
+P|Focus is strongest until {time}.
+P|Best focus till {time}.
+P|Your best focus, until {time}.
+P|Now in best focus, until {time}.
+P|Best time to focus: now until {time}.
+P|Prime time for focus until {time}.
+P|Best focus time lasts to {time}.
+P|Your sharpest stretch runs to {time}.
+P|In your sharpest stretch until {time}.
+P|Best focus, on until {time}.
+P|Focus at its best till {time}.
+P|Your best focus is here until {time}.
+P|Focus at its peak until {time}.
+P|Best focus window, until {time}.
+P|Best focus window open till {time}.
+P|Your strongest focus, until {time}.
+P|You’re at your sharpest until {time}.
+P|At your sharpest till {time}.
+P|At your best focus until {time}.
+P|Best focus is yours until {time}.
+P|Best focus runs till {time}.
+P|Peak focus lasts until {time}.
+P|Focus is at its sharpest till {time}.
+P|Sharpest focus of the day, until {time}.
+P|Best focus now, until about {time}.
+P|Your prime focus lasts to {time}.
+P|Best focus stretch until {time}.
+P|Peak focus now, until {time}.
+P|In peak focus until {time}.
+P|You’re in peak focus till {time}.
+P|Best focus from here to {time}.
+P|Strongest focus until {time}.
+P|Focus is best until {time}.
+P|Clear-headed until {time}.
+P|Your clearest stretch runs to {time}.
+P|Focus at full strength until {time}.
+P|Best focus lasts till {time}.
+P|Your best focus goes until {time}.
+P|Best focus holds until {time}.
+P|Peak focus holds till {time}.
+P|Focus peaks now, until {time}.
+P|Your peak runs until {time}.
+P|At peak focus till {time}.
+P|In your peak until {time}.
+P|Best focus stays until {time}.
+P|Best focus is running until {time}.
+P|Your focus is at its best till {time}.
+P|Sharp focus until {time}.
+P|Top focus stretch, until {time}.
+P|Best focus. Lasts until {time}.
+F|Brain’s online until {time}.
+F|Big brain time until {time}.
+F|Tabs loading fast until {time}.
+F|Station found. Best focus till {time}.
+F|Brain on good Wi-Fi until {time}.
+F|Focus: suspiciously good till {time}.
+F|Focus mode unlocked until {time}.
+F|Peak brain. Open until {time}.
+F|Brain’s doing its thing until {time}.
+F|Laser mode on until {time}.
+F|Best focus. Tabs behaving till {time}.
+F|Golden hour for your brain, till {time}.
+F|Firing on all cylinders till {time}.
+F|Focus on, squirrels off, till {time}.
+F|Brain says yes until {time}.
+F|Brain’s cooperating until {time}.
+F|Your brain’s best era, till {time}.
+F|Just one tab open until {time}.
+F|Brain in high gear until {time}.
+F|Best focus, fully charged, till {time}.
+F|Brain’s at full bars until {time}.
+F|Your brain’s showing up until {time}.
+F|Good brain weather until {time}.
+F|Clear skies upstairs until {time}.
+F|Thoughts queuing nicely till {time}.
+F|Main character focus until {time}.
+F|Brain’s got its shoes on till {time}.
+F|Brain’s in the building till {time}.
+F|Your brain RSVP’d yes until {time}.
+F|Brain’s playing along until {time}.
+
+@@ restUnplaced
+P|{count} didn’t fit without over-packing. Fix my day can split or move what’s left.
+P|{count} didn’t fit without cramming the day. Fix my day can help find room.
+P|{count} couldn’t fit without overfilling today. Fix my day can split or shift things.
+P|Not everything fit: {count} would have over-packed the day. Fix my day can help.
+P|{count} left over so today isn’t over-packed. Fix my day can split or move things.
+P|To keep today from getting over-packed, {count} didn’t fit. Fix my day can find space.
+P|{count} didn’t make it in without overloading today. Fix my day can split or move things.
+P|{count} wouldn’t fit without packing today too tight. Fix my day can help.
+P|{count} didn’t fit without over-packing the day. Fix my day can split or move things.
+P|Today’s full enough, so {count} didn’t fit. Fix my day can split or move what’s left.
+P|{count} couldn’t fit without over-packing. Fix my day can make room.
+P|There wasn’t room for {count} without over-packing. Fix my day can split or move things.
+P|{count} didn’t fit without crowding the day. Fix my day can split or reshuffle.
+P|Didn’t fit without over-packing: {count}. Fix my day can split or move things.
+P|{count} left without a spot, so the day isn’t over-packed. Fix my day can help.
+P|{count} didn’t fit without overdoing the day. Fix my day can split or move things.
+P|Fitting {count} in would over-pack today. Fix my day can split or move things.
+P|Adding {count} would over-pack today. Fix my day can find room.
+P|{count} couldn’t fit without squeezing the day too hard. Fix my day can split or move things.
+P|{count} wouldn’t fit without overfilling today. Fix my day can split or reschedule.
+P|{count} didn’t fit today without over-packing. Fix my day can move or split things.
+P|So today isn’t over-packed, {count} didn’t fit. Fix my day can help sort it.
+P|{count} didn’t fit without making today too full. Fix my day can split or move things.
+P|{count} couldn’t squeeze in without over-packing. Fix my day can find room.
+P|{count} left over to keep today realistic. Fix my day can split or move things.
+P|{count} didn’t fit without piling too much on. Fix my day can split or move things.
+P|{count} didn’t fit without over-packing. Fix my day can break things up or shift them later.
+P|{count} couldn’t fit without over-packing the day. Fix my day can break things up or move them.
+P|{count} didn’t fit, or the day would be over-packed. Fix my day can split or move things.
+P|{count} didn’t fit without tipping into over-packed. Fix my day can help.
+P|The day would be over-packed with {count} added. Fix my day can split or move things.
+P|{count} didn’t fit without putting too much in one day. Fix my day can help.
+P|{count} didn’t fit without over-packing. Fix my day can split big things or move them.
+P|{count} didn’t fit without over-packing. Fix my day can find room elsewhere.
+P|{count} couldn’t fit without over-packing. Fix my day can spread things out.
+P|{count} didn’t fit without over-packing today. Fix my day can spread things out.
+P|{count} didn’t fit, to keep today from over-packing. Fix my day can split or move things.
+P|There wasn’t space for {count} without over-packing. Fix my day can help.
+P|No room for {count} without over-packing. Fix my day can split or move things.
+P|{count} didn’t fit without over-packing. Fix my day can split, shift or reschedule.
+P|{count} couldn’t go in without over-packing today. Fix my day can make space.
+P|{count} didn’t fit, since the day was already full. Fix my day can split or move things.
+P|{count} couldn’t fit without cramming. Fix my day can split things up or move them.
+P|{count} didn’t fit without stuffing the day. Fix my day can split or move things.
+P|{count} didn’t fit without over-packing. Fix my day can work out where things can go.
+P|{count} didn’t fit without over-packing. Fix my day can suggest a split or a move.
+P|{count} didn’t fit without over-packing. Fix my day has a few ideas.
+P|{count} didn’t fit without over-packing. Fix my day can sort out where things go.
+P|{count} didn’t fit without over-packing the day. Fix my day can help rearrange.
+P|{count} couldn’t fit without the day getting too full. Fix my day can split or move things.
+P|{count} didn’t fit without overloading. Fix my day can split things or find another time.
+P|To avoid over-packing, {count} didn’t fit. Fix my day can split or move things.
+P|To keep the day doable, {count} didn’t fit. Fix my day can split or move things.
+P|To leave some breathing room, {count} didn’t fit. Fix my day can help place things.
+P|{count} didn’t fit without losing your breathing room. Fix my day can split or move things.
+P|{count} didn’t fit without eating into breathing room. Fix my day can help.
+P|{count} couldn’t fit and still leave room to breathe. Fix my day can split or move things.
+P|{count} didn’t fit without over-packing. Fix my day can split things or push them to later.
+P|{count} didn’t fit without over-packing. Fix my day can split things or move them to another day.
+P|{count} didn’t fit without over-packing. Tap Fix my day to split or move things.
+P|{count} couldn’t fit without over-packing today. Tap Fix my day for options.
+P|{count} didn’t fit without over-packing. Fix my day can show you options.
+P|{count} didn’t fit without over-packing. Fix my day can suggest where things go.
+P|{count} wouldn’t fit without over-packing. Fix my day can help you choose what moves.
+P|{count} didn’t fit without making the day too tight. Fix my day can split or move things.
+P|{count} didn’t fit without packing things too close. Fix my day can split or move things.
+P|{count} wouldn’t fit without back-to-back everything. Fix my day can split or move things.
+P|{count} didn’t fit without over-packing. Fix my day can split, move or reshuffle.
+P|{count} didn’t fit, so today stays manageable. Fix my day can split or move things.
+P|{count} couldn’t fit without over-packing. Fix my day can split things or find them a new time.
+F|{count} didn’t fit without sitting on the suitcase. Fix my day can split or move things.
+F|{count} didn’t fit. Today’s a day, not a clown car. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. Days, sadly, don’t stretch. Fix my day can help.
+F|{count} didn’t fit. The day ran out of room before the list ran out of ideas. Fix my day can help.
+F|{count} didn’t fit. Optimism packed the day, and the day said no. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. Even the best day has walls. Fix my day can help.
+F|{count} didn’t fit without over-packing. Even your plans need personal space. Fix my day can help.
+F|{count} didn’t fit without over-packing. The day is full, not magic. Fix my day can help.
+F|{count} didn’t fit without over-packing. Future you would like a lunch break. Fix my day can help.
+F|{count} didn’t fit, and we’re not shoehorning. Fix my day can split or move things.
+F|{count} didn’t fit. Your day deserves elbow room. Fix my day can split or move things.
+F|{count} didn’t fit. A day only holds so much, even an ambitious one. Fix my day can help.
+F|{count} didn’t fit without over-packing. Five-minute jobs have a way of growing. Fix my day can help.
+F|{count} didn’t fit. The day is 24 hours, sadly not 30. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. No cramming, no heroics. Fix my day can split or move things.
+F|{count} didn’t fit. The to-do list dreamed bigger than the day. Fix my day can split or move things.
+F|{count} didn’t fit. Big plans, regular-sized day. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. Rather than bend time, Fix my day can split or move things.
+F|{count} didn’t fit. We checked every corner, twice. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. The day tapped out. Fix my day can split or move things.
+F|{count} didn’t fit. Today said “that’s plenty”. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. Sadly, the day has no bonus level. Fix my day can help.
+F|{count} didn’t fit. The day’s full and politely declining more. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. Optimistic planning happens to the best of us. Fix my day can help.
+F|{count} didn’t fit. Days are like drawers: only so much goes in. Fix my day can help.
+F|{count} didn’t fit without over-packing. Fix my day can split or move things. No sitting on the lid.
+F|{count} didn’t fit without over-packing. Hours don’t come in bigger sizes. Fix my day can help.
+F|{count} didn’t fit. Later is a real time, promise. Fix my day can split or move things.
+F|{count} didn’t fit without over-packing. The day said “any more and I pop”. Fix my day can help.
+F|{count} didn’t fit. Even a great day has a guest limit. Fix my day can split or move things.
+
+@@ socialLine
+P|{event} is at {time}. Want to ask to move it?
+P|{event} is at {time}, which is a tricky time. Want to suggest another?
+P|{event} lands at {time}. Want to ask for a better time?
+P|{event} is set for {time}. Ask to move it?
+P|{event} at {time} might be tough. Want to suggest a new time?
+P|{event} is at {time}. Want a better time to suggest?
+P|{event} falls at {time}, an awkward spot. Want to ask to move it?
+P|{event} is at {time}. Tap for a better time to suggest.
+P|{event} sits at {time}. Want to see if it could move?
+P|{event} at {time} could be tricky. Want to ask to shift it?
+P|{event} is at {time}. There might be a better time. Want to see?
+P|{event} is at {time}. We found a time that may suit you better.
+P|{event} at {time} isn’t ideal for you. Want to ask to move it?
+P|{event} is at {time}. Want help asking to move it?
+P|{event} is booked for {time}. Would another time suit you better?
+P|{event} is at {time}. Want to suggest a time that suits you?
+P|{event} is at {time}. A different time could be easier. Want to ask?
+P|{event} at {time} is an awkward fit. Tap to see a better time.
+P|{event} is at {time}. Want to see a better slot to suggest?
+P|{event} is at {time}, a hard time for you. Ask to move it?
+P|{event} is at {time}. Want to ask if it can move?
+P|{event} is at {time}. Could it move? Tap to see a suggestion.
+P|{event} lands at {time}, a tricky time. Tap for a suggestion.
+P|{event} is scheduled for {time}. Want to ask for a change?
+P|{event} at {time} might not suit you. Want to ask to move it?
+P|{event} is at {time}. Tap to see a time that might work better.
+P|{event} is at {time}. Worth asking to move it?
+P|{event} at {time} is a bit awkward. Want to ask about moving it?
+P|{event} falls at {time}. Want to see a better option?
+P|{event} is at {time}. There’s a time that could suit you better.
+P|{event} is at {time}. Want to float a different time?
+P|{event} at {time} could be hard. Tap for a gentler time.
+P|{event} is at {time}. Want to ask for a time that’s easier on you?
+P|{event} is at {time}. Maybe ask to move it? Tap for a suggestion.
+P|{event} is at {time}, an awkward time. Tap to see a suggestion.
+P|{event} is set for {time}. Want to suggest moving it?
+P|{event} at {time}? Want to ask to move it?
+P|{event} is at {time}. Would moving it help? Tap to see.
+P|{event} sits at {time}, which could be tricky. Want to ask to move it?
+P|{event} is at {time}. We have a suggestion if you want to move it.
+P|{event} is at {time}. Want a suggestion for a better time?
+P|{event} is at {time}. Tap if you’d like to ask to move it.
+P|{event} is at {time}. There may be an easier time. Want to ask?
+P|{event} at {time} is a tough slot. Want to ask to move it?
+P|{event} is at {time}. Want to see a time that fits you better?
+P|{event} lands at {time}. Want to ask about another time?
+P|{event} is at {time}. Want to suggest a better time?
+P|{event} is at {time}, an awkward time for you. Tap for ideas.
+P|{event} is at {time}. Could another time work? Tap to see.
+P|{event} happens at {time}. Want to ask to move it?
+P|{event} is at {time}. Another time might suit you. Want to ask?
+P|{event} is at {time}. Want to check a better time with them?
+P|{event} at {time} could clash with your rhythm. Want to ask to move it?
+P|{event} is at {time}, outside your easier hours. Want to ask to move it?
+P|{event} is at {time}. A small move could make it easier. Want to ask?
+P|{event} is at {time}. Tap to see what might work better.
+P|{event} is at {time}. Would a different time be kinder? Tap to see.
+P|{event} at {time} may be a stretch. Want to ask to move it?
+P|{event} is at {time}. If that’s awkward, tap for a suggestion.
+P|{event} is at {time}. Want to ask to shift it a little?
+P|{event} is at {time}. There’s a friendlier time. Want to see?
+P|{event} is at {time}. Tap for a time that might suit everyone.
+P|{event} is at {time}. Want to see if a new time works?
+P|{event} lands at {time}. Tap to see a better fit.
+P|{event} is at {time}, which may be hard. Tap to see a suggestion.
+P|{event} is on at {time}. Want to ask to move it?
+P|{event} is at {time}. Want to gently ask to move it?
+P|{event} is at {time}. Great plan, tricky time. Want to ask to move it?
+P|{event} at {time} looks awkward. Want to ask to move it?
+P|{event} at {time} might be hard going. Tap for a suggestion.
+F|{event} is at {time}, when your brain’s between stations. Ask to move it?
+F|{event} is at {time}. Future you has concerns. Want to ask to move it?
+F|{event} is at {time}. Your brain would like a word. Want to ask to move it?
+F|{event} is at {time}. Not your brain’s favourite hour. Want to ask to move it?
+F|{event} is at {time}. Awkward timing, great company. Want to ask to move it?
+F|{event} is at {time}. Your brain’s calendar disagrees. Want to ask to move it?
+F|{event} at {time} could catch your brain mid-reboot. Want to ask to move it?
+F|{event} is at {time}. Good people, awkward o’clock. Want to ask to move it?
+F|{event} is at {time}, when your brain likes to wander. Ask to move it?
+F|{event} at {time}? Your brain may arrive fashionably late. Ask to move it?
+F|{event} is at {time}. Want your best brain there? Ask to move it.
+F|{event} is at {time}. Timing’s a bit meh. Want to ask to move it?
+F|{event} is at {time}. Your brain’s RSVP says “maybe”. Want to ask to move it?
+F|{event} is at {time}. Your focus may be off on a side quest. Ask to move it?
+F|{event} is at {time}. Your brain may be in another tab. Want to ask to move it?
+F|{event} is at {time}. Your brain has a scheduling note. Want to ask to move it?
+F|{event} is at {time}. Your brain asked us to check. Want to ask to move it?
+F|{event} is at {time}. Your brain may be buffering. Ask to move it?
+F|{event} is at {time}. Your focus may be on a tea break. Ask to move it?
+F|{event} at {time}? Your brain may send its apologies. Want to ask to move it?
+F|{event} is at {time}. Your best self might be busy then. Ask to move it?
+F|{event} is at {time}. Your brain’s out of office then. Want to ask to move it?
+F|{event} is at {time}. Lovely plan, wobbly timing. Want to ask to move it?
+F|{event} at {time}. Your brain checked its diary and winced. Ask to move it?
+F|{event} is at {time}. Your brain’s already negotiating. Want to ask to move it?
+F|{event} is at {time}. The vibes are great, the timing less so. Ask to move it?
+F|{event} is at {time}, low-battery time for your brain. Ask to move it?
+F|{event} is at {time}. Timing: chaotic neutral. Want to ask to move it?
+F|{event} is at {time}. Your brain filed a complaint. Ask to move it?
+F|{event} at {time} might meet the fuzzy version of you. Want to ask to move it?
+
+@@ planWeekHeadline
+P|{count} of 7 days counted
+P|{count} of the last 7 days counted
+P|{count} out of 7 days counted
+P|{count} of 7 days met your baseline
+P|Baseline met on {count} of 7 days
+P|{count} of the past 7 days counted
+P|{count} of 7 days hit baseline
+P|This week: {count} of 7 days counted
+P|{count} of your last 7 days counted
+P|Last 7 days: {count} counted
+P|{count} of 7 baseline days
+P|{count} of 7 days reached baseline
+P|{count} of seven days counted
+P|Your baseline, {count} of 7 days
+P|{count} of 7 days, baseline done
+P|Baseline done on {count} of 7 days
+P|{count} of the last seven days counted
+P|{count} out of the last 7 counted
+P|{count} of 7 recent days counted
+P|{count} of 7 days made baseline
+P|{count} of 7 days covered the basics
+P|Past week: {count} of 7 days counted
+P|{count} of 7 days kept the basics going
+P|The basics got done {count} of 7 days
+P|{count} of 7 days had baseline done
+P|{count} out of seven days counted
+P|Last seven days: {count} counted
+P|Baseline reached {count} of 7 days
+P|{count} of 7 days counted this week
+P|Counted days: {count} of 7
+P|Days counted: {count} of 7
+P|Baseline days: {count} of 7
+P|{count} of 7 days with baseline done
+P|{count} of 7 days, counted
+P|{count} of the last 7 days, counted
+P|{count} of 7 days met the baseline
+P|In the last 7 days, {count} counted
+P|Of the last 7 days, {count} counted
+P|Of the past 7 days, {count} counted
+P|{count} of 7 days saw baseline done
+P|{count} of the week’s 7 days counted
+P|Baseline hit on {count} of 7 days
+P|{count} of 7 days got the basics done
+P|The past 7 days: {count} counted
+P|{count} of 7 days had the basics done
+P|Your week: {count} of 7 days counted
+P|{count} of 7 days, baseline met
+P|{count} of 7 days ticked the three boxes
+P|{count} of 7 days did the basics
+P|{count} out of 7 days met baseline
+P|{count} of 7 days the basics landed
+P|{count} out of 7 recent days counted
+P|The past week: {count} of 7 counted
+P|{count} of 7 counted this past week
+P|Counted this week: {count} of 7
+P|This week, {count} of 7 days counted
+P|{count} of the 7 days counted
+P|{count} of 7 days made the baseline
+P|{count} of 7 days reached the baseline
+P|Baseline: {count} of 7 days
+P|Baseline met {count} of 7 days
+P|{count} of this week’s 7 days counted
+P|{count} of 7 days covered baseline
+P|{count} of 7 days met the basics
+P|{count} of 7 days got their three things
+P|{count} of the last 7 hit baseline
+P|{count} of the last 7 met baseline
+P|{count} of 7 days, basics done
+P|In 7 days, {count} counted
+P|{count} of 7 days counted, all told
+F|{count} of 7 days got the baseline stamp
+F|{count} of 7 days wore the baseline hat
+F|{count} of 7 days joined the baseline club
+F|{count} of 7 days went baseline
+F|{count} of 7 days, baseline-certified
+F|{count} of 7 counted, no gold stars
+F|{count} of 7 days got a quiet tick
+F|{count} of 7 days, baseline-shaped
+F|{count} of 7 days did the boring, vital bits
+F|Friendly abacus says {count} of 7 days
+F|{count} of 7 got the basics over the line
+F|{count} of 7 did the three-thing shuffle
+F|{count} of 7 days had their basics on
+F|{count} of 7 days showed up for the basics
+F|{count} of 7 days said yes to the basics
+F|{count} of 7 days RSVP’d to baseline
+F|{count} of 7, basics present and correct
+F|{count} of 7 days kept the basics humming
+F|{count} of 7 days, the basics got airtime
+F|{count} of 7 days got the baseline nod
+F|{count} of 7 days, the basics clocked in
+F|{count} of 7 befriended the baseline
+F|By our count, {count} of 7 days counted
+F|{count} of 7 days were baseline material
+F|{count} of 7 days kept the basics ticking
+F|{count} of 7 days did the unglamorous bits
+F|{count} of 7 days, the essentials said hi
+F|{count} of 7 days the basics behaved
+F|{count} of 7 days, basics made a cameo
+F|{count} of 7 high-fived the baseline
+
+@@ detailPlanDone
+P|Grey is what you planned, gold is what got done. Gaps are information, not failure.
+P|Grey shows the plan, gold shows what got done. The gaps are information, not failure.
+P|Grey bars are planned, gold bars are done. Any gap is information, not a failure.
+P|Grey is the plan. Gold is what happened. Gaps are just information.
+P|Grey means planned and gold means done. A gap is information, never a failure.
+P|Planned is grey, done is gold. The space between is information, not failure.
+P|Grey for planned, gold for done. Gaps tell you something. They aren’t failures.
+P|Grey is what you meant to do, gold is what got done. Gaps are information, not failure.
+P|The grey is your plan, the gold is what got done. Gaps are information, not a verdict.
+P|Grey shows what you planned. Gold shows what got done. Gaps are useful information.
+P|Grey is planned, gold is done. Where they differ, that’s information, not failure.
+P|Grey marks the plan, gold marks what got done. The gaps are information, nothing more.
+P|Grey is what you planned and gold is what got done. A gap is a clue, not a failure.
+P|Grey is the plan, gold is the done part. Gaps are information to learn from, not failure.
+P|What you planned is grey. What got done is gold. Gaps are information, not failure.
+P|Grey is planned, gold is done. Gaps help the plan learn. They aren’t failure.
+P|Grey shows your plan and gold shows what got done. The gaps are information, not a grade.
+P|Grey: what you planned. Gold: what got done. Gaps: information, not failure.
+P|Grey is the plan and gold is the real day. Gaps are information, not failure.
+P|In grey, what you planned. In gold, what got done. Gaps are information, not failure.
+P|Grey is what you set out to do, gold is what got done. Gaps are simply information.
+P|Grey stands for planned, gold for done. Every gap is information, not failure.
+P|Grey is what was planned, gold is what got done. Gaps are information, not a failing.
+P|Grey is your plan. Gold is what you got done. Gaps are information, not failure.
+P|Grey is the plan, gold is the done. The gaps are just information, not failure.
+P|The grey bars are your plan and the gold bars are what got done. Gaps are information.
+P|Grey is what you planned, gold is what happened. Gaps are information, not failure.
+P|Grey for the plan, gold for what got done. The gaps show patterns, not failure.
+P|Grey is planned, gold is done. Gaps are there to learn from, not to judge.
+P|Grey is what you planned, gold is what got done. Gaps are notes, not failures.
+P|Grey is what you planned. Gold is what got done. A gap just tells you something.
+P|Grey means planned. Gold means done. Gaps are information, and that’s all they are.
+P|Grey shows what you planned, gold what got done. Gaps are information, not failure.
+P|Grey is the plan you made, gold is what got done. The gaps are information, not failure.
+P|Grey is planned, gold is done, and the gaps are information, not failure.
+P|Grey is the plan. Gold is what got done. The difference is information, not failure.
+P|Grey is what you planned, gold is what got finished. Gaps are information, not failure.
+P|Grey is planned and gold is finished. Gaps are information, not failure.
+P|Grey shows the plan, gold shows the done bits. Gaps are information, not failure.
+P|Grey is what you hoped to do, gold is what got done. Gaps are information, not failure.
+P|Grey is planned, gold is done. When they don’t match, that’s information, not failure.
+P|The plan is grey and what got done is gold. Gaps are information, not failure.
+P|Grey is what you planned, gold is what got done. The gaps help, they don’t judge.
+P|Grey is the plan and gold is what got done. Gaps are information, never failure.
+P|Grey is planned. Gold is done. The gaps are worth noticing, not worrying about.
+P|Grey is your plan and gold is what got done. Gaps are facts, not failures.
+P|Grey is what was planned and gold is what was done. Gaps are information, not failure.
+P|Grey shows plans, gold shows what got done. Gaps are information, not a failing grade.
+P|Grey is the plan, gold is the result. Gaps are information, not failure.
+P|Grey is planned, gold is done. A gap is just something to notice.
+P|Grey is what you planned, gold is what you did. Gaps are information, not failure.
+P|Grey bars show the plan. Gold bars show what got done. Gaps are information.
+P|Grey is the plan, gold is what got done. Gaps are information, not a reason to worry.
+P|Grey is planned, gold is done. Gaps are information for next time, not failure.
+P|Grey shows what you planned. Gold shows what you did. Gaps are information, that’s all.
+P|Grey is what you planned, gold is what got done. The gaps are data, not failure.
+P|Grey is planned work, gold is done work. Gaps are information, not failure.
+P|Grey marks what you planned, gold marks what got done. Gaps are information, not failure.
+P|Grey is the plan, gold is the outcome. Gaps are information, not failure.
+P|Grey is planned, gold is done. Gaps help the plan adjust. They’re not failure.
+P|Grey is what you planned, gold is what got done. Gaps are information, no judgement.
+P|Grey is what you planned and gold is what got done. Gaps simply show what happened.
+P|Grey is the plan, gold is what actually got done. Gaps are information, not failure.
+P|Grey is what you planned. Gold is what got done. A gap is information, nothing bad.
+P|Grey is planned, gold is done. Read the gaps as information, not failure.
+P|Grey is the plan and gold is the done. Gaps are information, not a mark against you.
+P|Planned shows in grey, done shows in gold. Gaps are information, not failure.
+P|Grey is the plan and gold is the doing. Gaps are information, not failure.
+P|Grey is what you planned, gold is what got done. Gaps are useful, not failures.
+P|Grey is what you planned, gold is what got done. Each gap is information, not failure.
+F|Grey is what you planned, gold is what got done. Gaps are plot points, not failures.
+F|Grey is the plan, gold is the reality. Gaps are information, not a report card.
+F|Grey is what you planned, gold is what got done. Gaps are clues. You’re the detective.
+F|Grey is the plan, gold is what got done. Gaps are information. Nobody’s grading this.
+F|Grey is the map, gold is the road you took. Gaps are information, not failure.
+F|Grey is what you planned, gold is what got done. Gaps are data. Very boring, very useful.
+F|Grey is optimism, gold is what got done. Gaps are information, not failure.
+F|Grey is the dream, gold is the done. Gaps are information, not failure.
+F|Grey is the plan, gold is what got done. The gaps are just your day being a day.
+F|Grey is planned, gold is done. Gaps are information, often about those five-minute tasks.
+F|Grey is what you planned, gold is what got done. Gaps happen. Days are like that.
+F|Grey is the plan, gold is what got done. Gaps are where side quests went, not failures.
+F|Grey is the plan, gold is what got done. Gaps are information. No gold stars required.
+F|Grey is what you planned, gold is what got done. Gaps are information. The chart isn’t judging.
+F|Grey is the plan and gold is the done. Gaps are information, not a character review.
+F|Grey is planned, gold is done. Gaps are information. The day had its own ideas.
+F|Grey is the plan, gold is what got done. Gaps are just notes in the margin.
+F|Grey is what you planned, gold is what got done. Gaps are information. The chart is unbothered.
+F|Grey is the plan, gold is what got done. Gaps? Information. Not failure. Not even close.
+F|Grey is the plan, gold is real life. Gaps are information, and real life always wins.
+F|Grey is the wish list, gold is what got done. Gaps are information, not failure.
+F|Grey is the plan, gold is what got done. Gaps are information. Also normal. Also fine.
+F|Grey is planned, gold is done. Gaps are the day telling you things, not telling you off.
+F|Grey is the plan, gold is what got done. Gaps are information, not a verdict on anyone.
+F|Grey is planned, gold is done. Gaps are information. Plans are drafts, after all.
+F|Grey is what you planned, gold is what got done. Gaps are information. Days rarely read the plan.
+F|Grey is what you planned, gold is what got done. Gaps are information. Time is slippery.
+F|Grey is the plan, gold is what got done. Gaps show where time went wandering, not failure.
+F|Grey is the forecast, gold is the weather. Gaps are information, not failure.
+F|Grey is what you planned, gold is what got done. Gaps are breadcrumbs, not failures.
+
+@@ detailLogs
+P|Each dot is a logged morning. The band is where most of them land.
+P|Every dot is a morning you logged. The band shows where most of them fall.
+P|Each dot is one logged morning. The band is where most mornings land.
+P|One dot per logged morning. The band marks where most of them sit.
+P|Each dot is a morning you logged. The shaded band is where most fall.
+P|Dots are logged mornings. The band is where most of them land.
+P|Each dot marks a logged morning. Most of them fall inside the band.
+P|Every dot is a logged morning. Most land inside the band.
+P|Each dot is a morning’s log. The band shows where most of them fall.
+P|A dot for each logged morning. The band is where most of them gather.
+P|Each dot is one morning you logged. The band covers where most of them land.
+P|Each dot stands for a logged morning. The band is where most land.
+P|Every dot is one logged morning. The band shows your usual range.
+P|Dots show logged mornings. The band is where most of them fall.
+P|Each dot is a logged morning, and the band is where most of them land.
+P|Each dot is a morning you logged. Most of them sit within the band.
+P|One dot, one logged morning. The band holds most of them.
+P|Each dot is a logged morning. The band marks the usual range.
+P|Each dot is a morning you logged. The band is your usual spread.
+P|Every dot is a morning you logged. The band is where they mostly fall.
+P|Each dot is a logged morning. The band shows where they tend to land.
+P|Each dot is a logged morning. The band is where they usually fall.
+P|A dot is a logged morning. The band is where most of them land.
+P|Dots are mornings you logged. The band is where most fall.
+P|Each dot shows a logged morning. The band is where most of them cluster.
+P|Each dot is a logged morning. Most of them land in the band.
+P|Every dot is a logged morning, and most fall within the band.
+P|Each dot is a morning with a log. The band is where most land.
+P|Each dot is a morning you logged. The band is the range most fall in.
+P|Each dot is a logged morning. The band is the range where most land.
+P|Dots mark logged mornings. The band marks where most of them fall.
+P|Each dot is one morning’s log. The band is where most sit.
+P|Each dot is a logged morning. The band is your most common range.
+P|Every dot is a logged morning. The band is where they tend to cluster.
+P|Each dot means a logged morning. The band is where most of them are.
+P|Each dot is a logged morning. The band shows the typical spread.
+P|Each dot is a morning you logged. Most of them fall within the shaded band.
+P|One dot for every logged morning. The band shows where most land.
+P|Each dot is a logged morning. The band covers most of them.
+P|Each dot is a logged morning. Where the band sits, most of them land.
+P|Each dot is a logged morning. The band is where the bulk of them fall.
+P|Every dot is a morning you logged. The band holds most of them.
+P|A dot for every logged morning. The band shows where most fall.
+P|Each dot is a morning log. The band is where most of them land.
+P|Each dot is a logged morning. The band is where they usually land.
+P|Every dot is a logged morning. The band is where most sit.
+P|Each dot is a logged morning. Most of them gather in the band.
+P|Each dot is one logged morning. The band is where they mostly land.
+P|Each dot is a logged morning. The band shows where most of them group.
+P|Dots show each logged morning. The band shows where most land.
+P|Every dot is a logged morning. The band marks where most fall.
+P|Each dot is a logged morning. The band is the zone most of them fall in.
+P|Each dot is a morning you logged, and the band is where most fall.
+P|Dots are logged mornings, and the band is where most of them land.
+P|Each dot is a logged morning. The band shows the usual spread of them.
+P|Each dot is a logged morning. The shaded band is where most of them land.
+P|Each dot is a morning you logged. The band is where most of them tend to fall.
+P|Every dot is a logged morning. The shaded band holds most of them.
+P|Each dot is a morning you logged. The band shows where they usually land.
+P|Each dot is one morning’s log. The band is where most of them land.
+P|Each dot is a morning you logged. The band is where most of them fall.
+P|Each dot is a logged morning. The band shows the range most land in.
+P|Every dot marks a logged morning. The band marks where most of them land.
+P|Each dot is a morning you logged. The band is where most of them end up.
+P|Each dot is a logged morning. The band shows your typical range.
+P|Each dot is a logged morning. Most fall somewhere in the band.
+P|Each dot is a morning you logged. The band is where the most dots fall.
+P|Dots are logged mornings. The band holds the majority of them.
+P|Each dot is a logged morning. The band is where most of them usually fall.
+P|Each dot is a logged morning. The band traces where most of them land.
+F|Each dot is a logged morning. The band is where most of them hang out.
+F|Every dot is a logged morning. The band is where most of them like to gather.
+F|Each dot is a logged morning. The band is where the crowd is.
+F|One dot per logged morning. The band is the popular spot.
+F|Each dot is a logged morning. The band is where most dots feel at home.
+F|Every dot is a morning you logged. Most of them huddle in the band.
+F|Each dot is a logged morning. The band is the dots’ favourite hangout.
+F|Each dot is a logged morning. The band is where most of them flock.
+F|A dot for each logged morning. The band is where most of them queue up.
+F|Every dot is a logged morning. The band is where they bunch up, like a group photo.
+F|Each dot is a logged morning. The band is the busy part of the dance floor.
+F|Each dot is a logged morning. Most settle in the band, like cats in a sunny spot.
+F|Each dot is a logged morning. Most gather in the band, like birds on a wire.
+F|One dot, one logged morning. The band is the dots’ comfort zone.
+F|Each dot is a logged morning. The band is where most sit, like regulars at a café.
+F|Each dot is a logged morning. Most of them crowd into the band. Very sociable dots.
+F|Each dot is a morning you logged. Most of them stick to the band. Dots love a band.
+F|Every dot is a logged morning. The band is the neighbourhood most of them live in.
+F|Each dot is a logged morning. Most land in the band. A few go exploring.
+F|Each dot is a logged morning. The band is the dots’ usual table.
+F|Each dot is a logged morning. The band is where most of them pile in, politely.
+F|Each dot is a logged morning. The band is where most of them clock in.
+F|Each dot is a logged morning. The band is dot rush hour.
+F|Every dot is a logged morning. The band is the dots’ meeting point.
+F|Each dot is a logged morning. Most land in the band. Dots are creatures of habit.
+F|Each dot is a logged morning. The band is the dots’ happy place.
+F|Each dot is a logged morning. The band is where most dots find their seat.
+F|Each dot is a logged morning. The band is where most of them gossip.
+F|One dot for each logged morning. Most gather in the band, like a small, tidy crowd.
+F|Each dot is a logged morning. The band is where most of them nest.
+
+@@ socialIntro
+P|Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you.
+P|Your phone can notice plans with other people and suggest times that suit you better. It never sends anything for you.
+P|Plans with people get spotted, and better times get suggested. Nothing is ever sent on your behalf.
+P|When you have plans with people, your phone can suggest better times. It never sends a thing for you.
+P|Your phone looks for plans with people and suggests kinder times. Nothing gets sent without you.
+P|Your phone can find plans with others and offer better times. Nothing is ever sent for you.
+P|Your phone can pick out plans with people and suggest better times. Sending is always up to you.
+P|Your phone spots plans with people and suggests better times. It never messages anyone for you.
+P|Plans with people? Your phone can suggest better times. It won’t ever send anything for you.
+P|Your phone can see plans with people and suggest easier times. Nothing is sent unless you send it.
+P|Your phone can flag plans with people and suggest better times. Nothing ever goes out for you.
+P|Your phone notices plans with people and suggests better times. It never contacts anyone for you.
+P|Your phone can spot plans with others and suggest times that work better. Nothing gets sent for you, ever.
+P|Your phone can find plans with people and suggest better times. You decide what, if anything, gets sent.
+P|Your phone can catch plans with people and suggest better times. Nothing is ever sent in your name.
+P|Your phone spots plans with people and suggests better times. Nothing is sent for you. Ever.
+P|When plans with people land at awkward times, your phone can suggest better ones. Nothing is ever sent for you.
+P|Your phone can spot plans with people and offer better times. Any message is yours to send, or not.
+P|Your phone can pick up plans with people and suggest better times. It never sends anything on its own.
+P|Your phone can spot plans involving other people and suggest better times. Nothing ever gets sent for you.
+P|Your phone can spot plans with people and suggest times that suit you better. Nothing is sent for you.
+P|Your phone can notice when a plan with people sits at a tricky time and suggest a better one. It never sends anything.
+P|Your phone spots plans with people and suggests better times. You stay in charge of what gets sent.
+P|Your phone can find plans with people and suggest better times. It never reaches out for you.
+P|Your phone can spot plans with people and suggest better times. Nothing is sent without you doing it.
+P|Your phone can spot shared plans and suggest better times. Nothing ever gets sent for you.
+P|Your phone can spot plans you’ve made with people and suggest better times. Nothing is ever sent for you.
+P|Your phone can look out for plans with people and suggest better times. It will never send anything for you.
+P|Your phone can notice plans with people and suggest times that fit your day. Nothing is ever sent for you.
+P|Your phone can spot plans with people and suggest a better time. You choose whether to send anything.
+P|Your phone keeps an eye out for plans with people and suggests better times. It never sends anything for you.
+P|Got plans with people? Your phone can suggest times that suit you better. Nothing is ever sent for you.
+P|Your phone can see when you have plans with people and suggest better times. It never sends anything for you.
+P|Your phone can spot plans with people and suggest gentler times. Nothing ever gets sent for you.
+P|Your phone can spot plans with people and suggest better times. Nothing is ever sent without your say.
+P|Your phone can recognise plans with people and suggest better times. No message is ever sent for you.
+P|Your phone can spot plans with people, then suggest better times. Nothing ever gets sent for you.
+P|Your phone can spot plans with people and suggest better times. What you send, if anything, is up to you.
+P|Your phone can spot plans with people and suggest better times. It never texts anyone for you.
+P|If a plan with people falls at a hard time, your phone can suggest another. Nothing is ever sent for you.
+P|Plans with people can be spotted, and better times suggested. Nothing is ever sent for you.
+P|Your phone can notice plans with people and suggest a better time. It never sends messages for you.
+P|Your phone can spot plans with people and suggest better times. Any message stays a draft until you send it.
+P|Your phone can spot plans with people and suggest better times. It doesn’t send anything for you, ever.
+P|Your phone can spot plans with people and suggest better times, and it never sends anything for you.
+P|Your phone can pick out plans that involve other people and suggest better times. Nothing gets sent for you.
+P|Your phone can spot plans with people and suggest better times. Nothing sends itself.
+P|Your phone can quietly spot plans with people and suggest better times. Nothing is ever sent for you.
+P|Your phone can spot plans with people and suggest better times. Nothing goes to anyone without you.
+P|Your phone can spot plans with people and suggest better times. You’re always the one who sends.
+P|Your phone can spot plans with people and suggest better times. It will never message anyone on your behalf.
+P|With plans involving people, your phone can suggest better times. Nothing is ever sent for you.
+P|Your phone can spot plans with people and suggest times that suit you. Nothing is ever sent for you.
+P|Your phone can spot plans with people and suggest better times. Sending stays with you, always.
+P|Your phone can spot plans with people and suggest better timing. Nothing ever gets sent for you.
+P|Your phone can spot plans with people and suggest better times. It never sends or messages for you.
+P|Your phone can spot plans with people and suggest better times. Nothing is sent. It’s all your call.
+P|Your phone can spot plans with people and suggest better times. Nothing gets sent for you. That’s a promise.
+P|Your phone can spot plans with people and suggest better times. Nothing is ever sent unless you send it.
+P|Your phone can spot plans with people, and suggest times that suit you better. It never sends a word for you.
+P|Your phone can spot plans with people and suggest better times. It never sends anything without you.
+P|Your phone can spot when plans with people fall at hard times and suggest better ones. Nothing is sent for you.
+P|Your phone can notice plans with people and suggest better times. You always do the sending.
+P|Your phone can spot plans with people and suggest better times. All sending is up to you.
+P|Your phone can spot plans with people and suggest better times. Nothing is sent automatically.
+P|Your phone can spot plans with people and suggest better times. It will never send on your behalf.
+P|Social plans can be spotted by your phone, which then suggests better times. Nothing is ever sent for you.
+P|Your phone can spot plans with people and suggest better times. Nothing is ever sent in your place.
+P|Your phone can spot plans with people and suggest better times. Nothing gets sent for you, not ever.
+P|Your phone can spot plans with people and suggest times that are easier on you. Nothing is sent for you.
+F|Your phone can spot plans with people and suggest better times. It will never text your friends for you. Promise.
+F|Your phone can spot plans with people and suggest better times. Nothing gets sent for you. No surprise texts.
+F|Your phone can notice plans with people and suggest better times. It never sends anything. No awkward surprise messages.
+F|Your phone can pick out plans with people and suggest better times. Nothing is sent. Your friends won’t hear from a robot.
+F|Plans with people? Your phone can suggest better times. It never sends a thing. No robot small talk.
+F|When a plan with people lands at a tricky time, your phone can suggest a better one. Nothing is sent. You do the talking.
+F|Your phone can spot plans with people and suggest better times. It never sends anything, so nobody gets a weird text from it.
+F|Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you. Your friends are safe.
+F|Your phone can spot plans with people and suggest better times. It drafts, you decide. It’s shy like that.
+F|Your phone keeps an eye on plans with people and suggests better times. It never sends anything. It’s a helper, not a gossip.
+F|Your phone can find plans with people and suggest better times. Nothing gets sent. It knows its place.
+F|Your phone can play scheduling detective with plans involving people and suggest better times. It never sends anything for you.
+F|Your phone can spot plans with people and suggest better times. Nothing ever gets sent. No ghostwriting behind your back.
+F|Your phone can spot plans with people and suggest better times. Think wingman, not spokesperson. Nothing gets sent.
+F|Your phone can notice plans with people and suggest better times. It whispers ideas. It never texts anyone.
+F|Your phone can spot plans with people and suggest better times. Nothing is sent for you. Your friends only hear from you.
+F|Your phone can flag plans with people and suggest better times. Nothing sends itself. No rogue texts, ever.
+F|Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you. Your messages stay yours.
+F|Your phone can spot plans with people and suggest better times. It’s an ideas person. Sending is all you.
+F|Your phone can spot plans with people and suggest better times, like a thoughtful friend who never texts for you.
+F|Your phone can spot plans with people and suggest better times. It suggests. You send. It’s a good arrangement.
+F|Your phone can spot plans with people and suggest better times. It never sends a thing. It’s more of a whisperer.
+F|Your phone can see plans with people and suggest better times. It never messages anyone. It just raises an eyebrow.
+F|Your phone can spot plans with people and suggest better times. Nothing ever gets sent. Your phone isn’t that bold.
+F|Your phone can spot plans with people and suggest better times. It never sends anything. That’s your job, if you fancy it.
+F|Your phone can catch plans with people and suggest better times. It never texts for you. Your friends get the real you.
+F|Your phone can spot plans with people and nudge you toward better times. It never sends anything. Nudging only.
+F|Your phone can spot plans with people and suggest better times. Nothing gets sent. It’s a sidekick, not a secretary.
+F|Your phone can recognise plans with people and suggest better times. It never sends anything. It’s polite like that.
+F|Your phone can spot plans with people and suggest better times. Nothing is sent for you. It’s helpful, not bossy.
+
+@@ fixSubtitle
+P|You’re running {minutes} min over. Here’s the smallest change that keeps today on track.
+P|Today’s {minutes} min over. This is the smallest change that keeps it on track.
+P|You’re {minutes} min over. Here’s the smallest fix that keeps today on track.
+P|Running {minutes} min over. This small change keeps today on track.
+P|The day is running {minutes} min over. Here’s the smallest change to keep it on track.
+P|You’re about {minutes} min over. This is the lightest change that keeps today on track.
+P|{minutes} min over so far. Here’s the smallest change that keeps today on track.
+P|You’re running {minutes} min over. This is the smallest tweak that keeps today on track.
+P|Today is {minutes} min over. Here’s the gentlest change that gets it back on track.
+P|You’re {minutes} min over. The change below is the smallest one that keeps today on track.
+P|Running over by {minutes} min. Here’s the smallest change that keeps today on track.
+P|You’re over by {minutes} min. This is the smallest change that keeps the day on track.
+P|The plan is {minutes} min over. Here’s the smallest change that keeps today on track.
+P|{minutes} min over. Here’s the smallest change that keeps today on track.
+P|You’re running {minutes} min over. One small change keeps today on track.
+P|You’re {minutes} min over today. Here’s the least you’d need to change to stay on track.
+P|The day’s running {minutes} min over. This is the smallest change that keeps it on track.
+P|You’re running {minutes} min over. Here’s the smallest shift that keeps today on track.
+P|You’re {minutes} min over. Here’s the least disruptive way to keep today on track.
+P|You’re running {minutes} min over. Here’s the smallest move that keeps today on track.
+P|Today has {minutes} min too much in it. Here’s the smallest change that keeps it on track.
+P|There’s {minutes} min more than today can hold. Here’s the smallest change that fixes it.
+P|You’re {minutes} min over. This is the smallest change that keeps today workable.
+P|You’re running {minutes} min over. Here’s the smallest change that keeps today doable.
+P|The day is {minutes} min over. Here’s the smallest change that keeps it on track.
+P|You’re {minutes} min over plan. Here’s the smallest change that keeps today on track.
+P|You’re running {minutes} min over. Here’s the lightest touch that keeps today on track.
+P|You’re {minutes} min over. Here’s the smallest change that gets today back on track.
+P|Today’s running {minutes} min over. Here’s the smallest fix to keep it on track.
+P|You’re {minutes} min over. A small change here keeps the rest of today on track.
+P|You’re running about {minutes} min over. Here’s the smallest change that keeps today on track.
+P|Over by {minutes} min. Here’s the smallest change that keeps today on track.
+P|You’re {minutes} min over. This is the simplest change that keeps today on track.
+P|You’re running {minutes} min over. Here’s the easiest change that keeps today on track.
+P|You’re {minutes} min over. Here’s the one small change that keeps today on track.
+P|You’re running {minutes} min over. The smallest change to keep today on track is below.
+P|You’re {minutes} min over. Here’s how to keep today on track with the least change.
+P|Today’s over by {minutes} min. Here’s the smallest change that keeps it on track.
+P|You’re {minutes} min over. Here’s the smallest change that keeps the rest of today on track.
+P|You’re running {minutes} min over. Here’s the least you need to change to stay on track.
+P|The day has run {minutes} min over. Here’s the smallest change that keeps it on track.
+P|You’re {minutes} min over. Here’s a small change that keeps today on track.
+P|You’re running {minutes} min over. This is the smallest change that keeps things on track.
+P|You’re {minutes} min over. Here’s the smallest change that keeps your day on track.
+P|The plan’s running {minutes} min over. Here’s the smallest change to keep today on track.
+P|You’re running {minutes} min over. The smallest change that keeps today on track is this one.
+P|You’re {minutes} min over. Here’s the smallest adjustment that keeps today on track.
+P|You’re running {minutes} min over. This adjustment is the smallest that keeps today on track.
+P|You’re {minutes} min over. Here’s the smallest change to keep today steady.
+P|Things are running {minutes} min over. Here’s the smallest change that keeps today on track.
+P|You’re {minutes} min over. Here’s the gentlest way to keep today on track.
+P|You’re running {minutes} min over. Here’s the smallest change that keeps today on course.
+P|You’re {minutes} min over. This small change keeps today on course.
+P|You’re running {minutes} min over. This is the smallest change that still keeps today on track.
+P|You’re {minutes} min over. Here’s the smallest change that keeps today in shape.
+P|You’re running {minutes} min over. Here’s the smallest change that keeps today running smoothly.
+P|You’re {minutes} min over. Here’s the smallest change that keeps today within reach.
+P|You’re running {minutes} min over. Here’s the smallest change that makes today fit again.
+P|You’re {minutes} min over. Here’s the smallest change that makes today fit.
+P|You’re running {minutes} min over. Here’s the one change that keeps today on track, and it’s small.
+P|You’re {minutes} min over. The smallest change that keeps today on track is right here.
+P|You’re running {minutes} min over. Here’s a small change so today stays on track.
+P|You’re {minutes} min over. Here’s the smallest change so today stays on track.
+P|You’re running {minutes} min over. With this small change, today stays on track.
+P|You’re {minutes} min over. With one small change, today stays on track.
+P|Today’s {minutes} min over. One small change puts it back on track.
+P|You’re running {minutes} min over. A single small change keeps today on track.
+P|Today’s plan is {minutes} min over. Here’s the smallest change that keeps it on track.
+P|You’re running {minutes} min over. Here’s the smallest change that keeps today manageable.
+P|You’re {minutes} min over. Nothing dramatic needed, just the smallest change that keeps today on track.
+F|You’re {minutes} min over. Time did its stretchy thing. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Sneaky five-minute jobs. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Hello, time blindness. Here’s the smallest fix that keeps today on track.
+F|You’re {minutes} min over. Happens to the best brains. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Time went for a wander. Here’s the smallest change that keeps today on track.
+F|{minutes} min over. The clock got ahead of itself. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Time flew. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. A rabbit hole, perhaps. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. No time machine needed. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Can’t add hours, but this small change keeps today on track.
+F|{minutes} min over. Your brain took the scenic route. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Tasks grew, as they do. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. The day had other ideas. Here’s the smallest change that keeps today on track.
+F|{minutes} min over. The day got a bit ambitious. Here’s the smallest change that keeps it on track.
+F|You’re {minutes} min over. No need to flip the table. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. That “quick” thing wasn’t. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Minutes multiply. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Time didn’t read the plan. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Hyperfocus happens. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. It’s a nudge, not a rescue. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Some tabs were opened. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Small bump, small fix. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. A side quest, maybe. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Blame time. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Here’s the smallest change that keeps today on track. Future you says thanks.
+F|You’re {minutes} min over. Clocks, honestly. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. Tiny detour, no drama. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. The day wobbled a bit. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. The plan was optimistic. Here’s the smallest change that keeps today on track.
+F|You’re {minutes} min over. We’ve all been there. Here’s the smallest change that keeps today on track.

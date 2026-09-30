@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+.data
+.env
+.env.*
+test
+openapi.json
+*.md
+*.log
+.git
+.gitignore
+.dockerignore
+Dockerfile
+eslint.config.js
+vitest.config.ts

@@ -1,0 +1,81 @@
+{
+ "splashTagline": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 48,
+  "context": "Under the app name on the animated starting screen, first launch.",
+  "example": "Plans that know how your brain works."
+ },
+ "trialWhy": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 190,
+  "context": "Why the trial exists: ADHD takes time to understand, and so does knowing if an app works for you. If it doesn’t, just cancel. Must end with the idea of cancelling being easy.",
+  "example": "Because ADHD takes time to figure out, and so does knowing whether an app actually helps. If it doesn’t, just cancel."
+ },
+ "coachDone": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Last coach mark; they can now explore freely.",
+  "example": "That’s the tour. Wander wherever you like."
+ },
+ "nowGap": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "Headline when nothing is scheduled right now.",
+  "example": "This gap is yours."
+ },
+ "dayLineRoutine": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Status line on a medication-free or not-yet-logged day.",
+  "example": "Planning from your routine today."
+ },
+ "tinyWinsTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "Headline on the page listing what they’ve finished today.",
+  "example": "Look what you already did."
+ },
+ "arrivalAfternoon": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Afternoon greeting on the daily starting page.",
+  "example": "Good afternoon, {name}."
+ },
+ "rhythmTuneTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Headline inviting them to edit their learned patterns.",
+  "example": "Something here not quite you?"
+ },
+ "detailWindow": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 130,
+  "context": "Explains the learned focus curve: how often check-ins said it was working, by hours after logging; the band is certainty.",
+  "example": "How often your check-ins said it was working, by hours after logging. The shaded band is how sure the app is."
+ },
+ "actionButtonPitch": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Suggestion right after medication setup: log with one press of the Action button.",
+  "example": "Want to log with one press? Your Action button can do it."
+ },
+ "settingsIntro": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Intro to Settings.",
+  "example": "The boring but important bits."
+ }
+}

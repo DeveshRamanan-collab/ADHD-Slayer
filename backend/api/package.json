@@ -1,0 +1,45 @@
+{
+  "name": "focus-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Focus API server and job runner",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "FOCUS_ENV=local tsx watch --clear-screen=false src/server.ts",
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "start": "node dist/server.js",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "migrate": "node dist/cli/migrate.js",
+    "openapi": "tsx src/cli/openapi.ts",
+    "jobs": "node dist/jobs/run.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-kms": "^3.1143.0",
+    "@aws-sdk/client-s3": "^3.1143.0",
+    "@aws-sdk/client-sesv2": "^3.1143.0",
+    "@aws-sdk/s3-request-presigner": "^3.1143.0",
+    "@fastify/swagger": "^9.9.0",
+    "fastify": "^5.12.5",
+    "fastify-type-provider-zod": "^7.0.0",
+    "pg": "^8.23.0",
+    "pino": "^10.3.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.19.0",
+    "@types/pg": "^8.23.1",
+    "eslint": "^10.11.0",
+    "globals": "^17.12.0",
+    "tsx": "^4.23.15",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.71.0",
+    "vitest": "^5.0.2"
+  }
+}

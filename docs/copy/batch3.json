@@ -1,0 +1,4424 @@
+{
+ "greetingBody": [
+  {
+   "t": "This is a planner built around your brain and your medication, not the other way round.",
+   "f": false
+  },
+  {
+   "t": "A day planner shaped around your brain and your medication, instead of the other way round.",
+   "f": false
+  },
+  {
+   "t": "This planner fits around your brain and your medication, so you don’t have to fit around it.",
+   "f": false
+  },
+  {
+   "t": "A planner made for an ADHD brain, built around your own medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "This is a planner that starts with your brain and your medication, then builds the day from there.",
+   "f": false
+  },
+  {
+   "t": "A planner built for ADHD brains. It works around your medication, so your day can too.",
+   "f": false
+  },
+  {
+   "t": "Here, the plan follows your brain and your medication. Not the other way round.",
+   "f": false
+  },
+  {
+   "t": "This is a day planner for ADHD brains, built around your medication and the way you really work.",
+   "f": false
+  },
+  {
+   "t": "A planner that plans each day around your brain and your medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "Focus is a planner built around your ADHD brain and your medication. The plan bends to fit you.",
+   "f": false
+  },
+  {
+   "t": "This planner is built around two things: your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "Built around your brain and your medication, this planner meets you where you are.",
+   "f": false
+  },
+  {
+   "t": "A calm planner for an ADHD brain, built to work with your medication rather than against it.",
+   "f": false
+  },
+  {
+   "t": "Your brain and your medication come first here. The plan is built around them.",
+   "f": false
+  },
+  {
+   "t": "This is a planner that works with your ADHD brain and your medication, not against them.",
+   "f": false
+  },
+  {
+   "t": "A planner designed around your brain and your medication, so the day fits you.",
+   "f": false
+  },
+  {
+   "t": "Most planners expect you to fit them. This one is built around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This is your day planner, built around your ADHD brain and the rhythm of your medication.",
+   "f": false
+  },
+  {
+   "t": "A planner that starts from your brain and your medication, not from a blank to-do list.",
+   "f": false
+  },
+  {
+   "t": "This planner shapes each day around your brain and your medication. You bring the rest.",
+   "f": false
+  },
+  {
+   "t": "Think of this as a planner that puts your brain and your medication first, then plans the day.",
+   "f": false
+  },
+  {
+   "t": "Focus builds your day around your ADHD brain and your medication, not around an ideal schedule.",
+   "f": false
+  },
+  {
+   "t": "A planner built with ADHD in mind, shaped around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This is a planner that respects your brain and your medication, and plans the day around both.",
+   "f": false
+  },
+  {
+   "t": "Here the plan works around your brain and your medication. You don’t have to work around the plan.",
+   "f": false
+  },
+  {
+   "t": "A day planner made for ADHD, built around your own brain and your own medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "Your brain and your medication shape your day. So this planner starts there.",
+   "f": false
+  },
+  {
+   "t": "Plans that follow your brain and your medication, instead of asking you to follow them.",
+   "f": false
+  },
+  {
+   "t": "A planner built around the brain you have and the medication you take.",
+   "f": false
+  },
+  {
+   "t": "This is a planner shaped by your brain and your medication, not by how days are supposed to go.",
+   "f": false
+  },
+  {
+   "t": "A gentle planner for ADHD, built around your brain and your medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "Focus is a planner that fits your day to your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This planner is made for ADHD. It plans around your brain and your medication, one day at a time.",
+   "f": false
+  },
+  {
+   "t": "The idea is simple: a planner built around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "A planner for your ADHD brain that takes your medication rhythm into account.",
+   "f": false
+  },
+  {
+   "t": "Your brain, your medication, your day. This planner is built around all three.",
+   "f": false
+  },
+  {
+   "t": "This is a planner made to fit your brain and your medication, rather than the other way round.",
+   "f": false
+  },
+  {
+   "t": "A planner that works with your medication and your brain, so each day makes sense for you.",
+   "f": false
+  },
+  {
+   "t": "Every day here is planned around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This is a planner that plans around you: your ADHD brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "A planner that puts your brain and your medication at the centre of the day.",
+   "f": false
+  },
+  {
+   "t": "Here’s a planner built around your brain and your medication, not the other way round.",
+   "f": false
+  },
+  {
+   "t": "This planner was built for ADHD brains, and it plans each day around your medication.",
+   "f": false
+  },
+  {
+   "t": "Your planner, designed around your ADHD brain and the way your medication shapes the day.",
+   "f": false
+  },
+  {
+   "t": "A planner that takes your brain and your medication as the starting point.",
+   "f": false
+  },
+  {
+   "t": "This is a day planner that bends around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "A planner built around how your brain works and where your medication fits in your day.",
+   "f": false
+  },
+  {
+   "t": "Focus plans your day around your brain and your medication, so the plan fits the person.",
+   "f": false
+  },
+  {
+   "t": "This planner is built around you, meaning your brain and your medication, not an ideal day.",
+   "f": false
+  },
+  {
+   "t": "A planner for ADHD. First your brain and your medication, then the plan.",
+   "f": false
+  },
+  {
+   "t": "This is a planner that plans your day with your brain and your medication in mind.",
+   "f": false
+  },
+  {
+   "t": "Built for ADHD brains, this planner arranges each day around your medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "A day planner that follows your brain’s lead and your medication’s rhythm.",
+   "f": false
+  },
+  {
+   "t": "Your day, planned around your ADHD brain and your medication, not the other way round.",
+   "f": false
+  },
+  {
+   "t": "A planner that makes room for your brain and your medication before anything else.",
+   "f": false
+  },
+  {
+   "t": "A planner built from the ground up around your ADHD brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "Focus is a planner that shapes your day around your brain and your medication rhythm.",
+   "f": false
+  },
+  {
+   "t": "This is a planner where your brain and your medication set the pace.",
+   "f": false
+  },
+  {
+   "t": "A planner that fits itself to your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This planner is built around your real days, and the brain and medication that come with them.",
+   "f": false
+  },
+  {
+   "t": "A planner for ADHD brains. Your medication rhythm shapes the plan, not the other way round.",
+   "f": false
+  },
+  {
+   "t": "This is a planner built on your terms: your brain, your medication, your day.",
+   "f": false
+  },
+  {
+   "t": "A planner designed so your brain and your medication lead, and the plan follows.",
+   "f": false
+  },
+  {
+   "t": "Here’s the idea: your day, planned around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "Welcome to a planner that plans around your brain and your medication, every day.",
+   "f": false
+  },
+  {
+   "t": "A planner for the way your ADHD brain works, built around your medication too.",
+   "f": false
+  },
+  {
+   "t": "This planner starts with you: how your brain works and how your medication shapes your day.",
+   "f": false
+  },
+  {
+   "t": "Focus is a day planner for ADHD, arranged around your brain and your medication.",
+   "f": false
+  },
+  {
+   "t": "This planner keeps your brain and your medication in mind, so the plan feels like yours.",
+   "f": false
+  },
+  {
+   "t": "This is a planner for ADHD brains that plans around your medication, not a perfect routine.",
+   "f": false
+  },
+  {
+   "t": "A planner built around your brain and your medication. Not around someone who wakes at 5am and loves it.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built around your brain and your medication. Rabbit holes happen, and the plan copes.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. No colour-coding hobby required.",
+   "f": true
+  },
+  {
+   "t": "This is a planner that plans around your brain and your medication. The 47 open tabs can stay.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your ADHD brain and your medication, not around a very organised imaginary person.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. You’re the boss. The planner is the assistant.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. The sticky notes on the fridge can have the day off.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built around your brain and your medication. It won’t ask you to become a morning person.",
+   "f": true
+  },
+  {
+   "t": "A planner that bends around your brain and your medication, so you don’t have to. Stretching optional.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built around your brain and your medication, not the other way round. Revolutionary, we know.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. Think of it as a friend who keeps the calendar.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. No bullet journal skills needed.",
+   "f": true
+  },
+  {
+   "t": "This planner works around your brain and your medication. Basically, an external hard drive for your day.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. It remembers things, so your brain can wander.",
+   "f": true
+  },
+  {
+   "t": "This planner fits your brain and your medication. The alarms for your alarms can retire.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. Room for all four hobbies you started this month.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your ADHD brain and your medication, by people who also lose their phone while holding it.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built for your brain and your medication, not for a productivity influencer.",
+   "f": true
+  },
+  {
+   "t": "A planner shaped around your brain and your medication. Hyperfocus days and slow days both welcome.",
+   "f": true
+  },
+  {
+   "t": "Built around your brain and your medication, this planner will never judge the doom pile.",
+   "f": true
+  },
+  {
+   "t": "This planner is built around your brain and your medication. A to-do list that actually gets you.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. Less spreadsheet, more friend who remembers things.",
+   "f": true
+  },
+  {
+   "t": "A planner that works with your brain and your medication, not a version of you that only exists in January.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built around your brain and your medication. Part calendar, zero lectures.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication, for people with more ideas than hours.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. It knows “five minutes” sometimes means an hour.",
+   "f": true
+  },
+  {
+   "t": "This is a planner built around your brain and your medication. Yes, even if it’s your eleventh planner.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication. Side quests welcome.",
+   "f": true
+  },
+  {
+   "t": "This planner is built around your brain and your medication. Forgot why you opened it? The plan’s right here.",
+   "f": true
+  },
+  {
+   "t": "A planner built around your brain and your medication, for days that refuse to go in a straight line.",
+   "f": true
+  }
+ ],
+ "coachPriorities": [
+  {
+   "t": "These are today’s five. Short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Here are today’s five priorities. Kept short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five priorities live here. Five is plenty.",
+   "f": false
+  },
+  {
+   "t": "These five are today’s priorities. Just five, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Your five priorities for today. We kept the list short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five. A short list is the point.",
+   "f": false
+  },
+  {
+   "t": "These are the five that matter most today.",
+   "f": false
+  },
+  {
+   "t": "Here’s today’s top five. Short by design.",
+   "f": false
+  },
+  {
+   "t": "Five priorities for today, and only five. That’s on purpose.",
+   "f": false
+  },
+  {
+   "t": "These are your five for today. Small list, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five priorities. Keeping it short helps.",
+   "f": false
+  },
+  {
+   "t": "Your top five for today sit here. Short and doable.",
+   "f": false
+  },
+  {
+   "t": "These five come first today. The list stays short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Here are the five things that matter today.",
+   "f": false
+  },
+  {
+   "t": "Today’s priorities, all five of them. Short is good.",
+   "f": false
+  },
+  {
+   "t": "Five things for today. A short list, and that helps.",
+   "f": false
+  },
+  {
+   "t": "These are today’s five priorities. We cap it at five on purpose.",
+   "f": false
+  },
+  {
+   "t": "Your day’s five priorities. Kept short so it feels doable.",
+   "f": false
+  },
+  {
+   "t": "Here’s what matters today: five things, no more.",
+   "f": false
+  },
+  {
+   "t": "Today’s five live here. Short lists are easier to start.",
+   "f": false
+  },
+  {
+   "t": "These are today’s top five. The limit is on purpose.",
+   "f": false
+  },
+  {
+   "t": "Five priorities for today. A short list on purpose.",
+   "f": false
+  },
+  {
+   "t": "This is today’s five. It’s short for a reason.",
+   "f": false
+  },
+  {
+   "t": "Today’s priorities: five, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Your five for today. Small enough to hold in your head.",
+   "f": false
+  },
+  {
+   "t": "Here are today’s five. Just enough, not too much.",
+   "f": false
+  },
+  {
+   "t": "These five are your focus today. Short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s list holds five things. That’s deliberate.",
+   "f": false
+  },
+  {
+   "t": "Here’s your five for today. Short and kind.",
+   "f": false
+  },
+  {
+   "t": "Your top five today. We keep it short so it stays doable.",
+   "f": false
+  },
+  {
+   "t": "Five priorities, right here. Short lists are kinder.",
+   "f": false
+  },
+  {
+   "t": "These are the day’s five priorities. Nothing more, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five things. Five is the limit, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Here are your five priorities. A short list keeps the day clear.",
+   "f": false
+  },
+  {
+   "t": "These five are today’s. Keeping it small is the point.",
+   "f": false
+  },
+  {
+   "t": "Your five priorities for today. Short, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today, these five come first. Short by design.",
+   "f": false
+  },
+  {
+   "t": "Here’s today’s shortlist: five things.",
+   "f": false
+  },
+  {
+   "t": "These are your five priorities. Room for five, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s top five are here. Just five, so they fit.",
+   "f": false
+  },
+  {
+   "t": "Five things today. Short lists feel lighter.",
+   "f": false
+  },
+  {
+   "t": "These are today’s priorities. Five of them, by design.",
+   "f": false
+  },
+  {
+   "t": "Here sit today’s five. Short list, clear day.",
+   "f": false
+  },
+  {
+   "t": "Your five for today. Short so the day stays clear.",
+   "f": false
+  },
+  {
+   "t": "Today’s five priorities, kept short on purpose.",
+   "f": false
+  },
+  {
+   "t": "These five matter most today. The rest can wait.",
+   "f": false
+  },
+  {
+   "t": "Here are today’s five. Five is plenty for one day.",
+   "f": false
+  },
+  {
+   "t": "This is your top five for today. Small on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five, right here. We keep it short for a reason.",
+   "f": false
+  },
+  {
+   "t": "Your priorities for today: five, and that’s enough.",
+   "f": false
+  },
+  {
+   "t": "These are the five for today. A short list is the whole idea.",
+   "f": false
+  },
+  {
+   "t": "Five priorities for today. No endless lists here.",
+   "f": false
+  },
+  {
+   "t": "Here’s today’s five. The short list is intentional.",
+   "f": false
+  },
+  {
+   "t": "Today’s five priorities. Short enough to see at a glance.",
+   "f": false
+  },
+  {
+   "t": "These are today’s five. Five is the limit, and that’s good.",
+   "f": false
+  },
+  {
+   "t": "Your five things for today. A small list on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five sit here. Keeping it short keeps it doable.",
+   "f": false
+  },
+  {
+   "t": "These five are today’s focus. Kept short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Here are the day’s five priorities. Just five, by design.",
+   "f": false
+  },
+  {
+   "t": "Today’s list: five priorities. Short on purpose.",
+   "f": false
+  },
+  {
+   "t": "Your five priorities live here. A short list is easier to trust.",
+   "f": false
+  },
+  {
+   "t": "Here are today’s five priorities. We stop at five on purpose.",
+   "f": false
+  },
+  {
+   "t": "Today’s five. Kept small so the day stays yours.",
+   "f": false
+  },
+  {
+   "t": "These are the five that count today. Short by choice.",
+   "f": false
+  },
+  {
+   "t": "Your five for the day. Five is enough to start.",
+   "f": false
+  },
+  {
+   "t": "Five priorities for today. That’s the whole list, on purpose.",
+   "f": false
+  },
+  {
+   "t": "Here’s today’s five. Short lists leave room to breathe.",
+   "f": false
+  },
+  {
+   "t": "These are today’s five priorities. Short is the point.",
+   "f": false
+  },
+  {
+   "t": "Today’s top five, and only five. That’s the plan.",
+   "f": false
+  },
+  {
+   "t": "These five are today’s priorities. Five fits in one head.",
+   "f": false
+  },
+  {
+   "t": "These are today’s five. Not fifty. Five. On purpose.",
+   "f": true
+  },
+  {
+   "t": "Today’s five priorities. Short on purpose, unlike most to-do lists.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five. The other ideas can wait in the side quest pile.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Short on purpose, so your brain doesn’t open 30 new tabs.",
+   "f": true
+  },
+  {
+   "t": "Today’s five priorities. A list you can read without scrolling for a week.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Five is a list. Fifty is a novel.",
+   "f": true
+  },
+  {
+   "t": "Your five for today. Short on purpose, so it never turns into the doom pile.",
+   "f": true
+  },
+  {
+   "t": "Today’s five priorities. Short enough to remember while walking into another room.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. One per finger, if that helps.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five. The rest of the list is on a well-earned break.",
+   "f": true
+  },
+  {
+   "t": "Today’s five. Short on purpose. The rabbit holes can wait their turn.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. We counted to five, then stopped. On purpose.",
+   "f": true
+  },
+  {
+   "t": "Your five for today. Short list, fewer tabs open in your head.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five priorities. Everything else is tomorrow’s problem, kindly.",
+   "f": true
+  },
+  {
+   "t": "These five are today’s. Short on purpose. Long lists are where tasks go to hide.",
+   "f": true
+  },
+  {
+   "t": "Today’s five priorities. Short on purpose, because thirty-seven priorities is just a list.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Short and sweet, like a good snack break.",
+   "f": true
+  },
+  {
+   "t": "Here’s today’s five. A list that fits on a sticky note, if you can find one.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Short on purpose. Hobbies started this month not included.",
+   "f": true
+  },
+  {
+   "t": "Today’s five priorities. Short on purpose. Your brain gets a smaller menu today.",
+   "f": true
+  },
+  {
+   "t": "Your five for today. Short on purpose. The rest of your brain’s ideas can form a queue.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Small list, big energy.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five. Nobody needs a to-do list with chapters.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Short on purpose. Your brain’s radio can stay on one station.",
+   "f": true
+  },
+  {
+   "t": "Today’s five. Short on purpose, because a to-do list shouldn’t need a scroll bar.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five. Five things. Not a whole season of things.",
+   "f": true
+  },
+  {
+   "t": "These are today’s five. Short on purpose. The big list can sit on the bench.",
+   "f": true
+  },
+  {
+   "t": "Your top five today. Short on purpose, so you can read it once, not six times.",
+   "f": true
+  },
+  {
+   "t": "Today’s five. Short on purpose. Think of it as the highlights reel.",
+   "f": true
+  },
+  {
+   "t": "Here are today’s five. Short on purpose. The encore list is for another day.",
+   "f": true
+  }
+ ],
+ "medsAllLogged": [
+  {
+   "t": "All logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "Everything’s logged for today.",
+   "f": false
+  },
+  {
+   "t": "All logged for today. Nice work.",
+   "f": false
+  },
+  {
+   "t": "That’s everything logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "All done for today. Logged.",
+   "f": false
+  },
+  {
+   "t": "Everything due today is logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. You’re set for today.",
+   "f": false
+  },
+  {
+   "t": "Today’s all logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "Logged and done for today.",
+   "f": false
+  },
+  {
+   "t": "That’s all of today logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. That’s today sorted.",
+   "f": false
+  },
+  {
+   "t": "Everything’s in for today. Nice.",
+   "f": false
+  },
+  {
+   "t": "All logged for the day.",
+   "f": false
+  },
+  {
+   "t": "Done. Everything is logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. All good.",
+   "f": false
+  },
+  {
+   "t": "That’s the lot logged for today.",
+   "f": false
+  },
+  {
+   "t": "Everything logged. Nicely done.",
+   "f": false
+  },
+  {
+   "t": "All logged today. Good stuff.",
+   "f": false
+  },
+  {
+   "t": "Today’s list is fully logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. Nothing left here today.",
+   "f": false
+  },
+  {
+   "t": "Every one logged for today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Nothing more to add today.",
+   "f": false
+  },
+  {
+   "t": "That’s everything for today, logged.",
+   "f": false
+  },
+  {
+   "t": "Fully logged for today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Nice going.",
+   "f": false
+  },
+  {
+   "t": "Everything’s logged. You’re all set.",
+   "f": false
+  },
+  {
+   "t": "All logged. This row is done for today.",
+   "f": false
+  },
+  {
+   "t": "Complete for today. All logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. Tidy.",
+   "f": false
+  },
+  {
+   "t": "All of today’s logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "Today: all logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. That’s one less thing.",
+   "f": false
+  },
+  {
+   "t": "Everything’s logged. Lovely.",
+   "f": false
+  },
+  {
+   "t": "All logged. Well done.",
+   "f": false
+  },
+  {
+   "t": "All logged, all done.",
+   "f": false
+  },
+  {
+   "t": "That’s today logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "All logged. Good job.",
+   "f": false
+  },
+  {
+   "t": "You’ve logged everything for today.",
+   "f": false
+  },
+  {
+   "t": "Everything due is logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. All set for today.",
+   "f": false
+  },
+  {
+   "t": "Nothing left to log today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Done and done.",
+   "f": false
+  },
+  {
+   "t": "Logged, every one. Nice.",
+   "f": false
+  },
+  {
+   "t": "Everything today is logged. Nice.",
+   "f": false
+  },
+  {
+   "t": "All up to date for today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Today’s covered.",
+   "f": false
+  },
+  {
+   "t": "Everything’s logged. Done for the day.",
+   "f": false
+  },
+  {
+   "t": "All logged. Nicely handled.",
+   "f": false
+  },
+  {
+   "t": "All logged. That’s it for today.",
+   "f": false
+  },
+  {
+   "t": "Logged. All of it. Nice.",
+   "f": false
+  },
+  {
+   "t": "Today is fully logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. You can let this one go.",
+   "f": false
+  },
+  {
+   "t": "That’s it, all logged.",
+   "f": false
+  },
+  {
+   "t": "All logged and accounted for.",
+   "f": false
+  },
+  {
+   "t": "All logged. Good work today.",
+   "f": false
+  },
+  {
+   "t": "All logged. One thing off your mind.",
+   "f": false
+  },
+  {
+   "t": "Everything logged. You’re done here.",
+   "f": false
+  },
+  {
+   "t": "Today’s entries are all in. Nice.",
+   "f": false
+  },
+  {
+   "t": "All logged. Nice and tidy.",
+   "f": false
+  },
+  {
+   "t": "That’s every one logged today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Easy.",
+   "f": false
+  },
+  {
+   "t": "All logged. Sorted.",
+   "f": false
+  },
+  {
+   "t": "Everything’s logged. Nice work.",
+   "f": false
+  },
+  {
+   "t": "All logged. Consider it done.",
+   "f": false
+  },
+  {
+   "t": "Logged and sorted for today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Lovely.",
+   "f": false
+  },
+  {
+   "t": "All logged for today. Sorted.",
+   "f": false
+  },
+  {
+   "t": "All done here. Everything’s logged.",
+   "f": false
+  },
+  {
+   "t": "All logged. Smooth.",
+   "f": false
+  },
+  {
+   "t": "That’s all logged. Nice work today.",
+   "f": false
+  },
+  {
+   "t": "All logged. Your future self says thanks.",
+   "f": true
+  },
+  {
+   "t": "All logged. Paperwork, conquered.",
+   "f": true
+  },
+  {
+   "t": "All logged. A tiny admin victory.",
+   "f": true
+  },
+  {
+   "t": "All logged. Gold star, if you’re into those.",
+   "f": true
+  },
+  {
+   "t": "All logged. The clipboard is pleased.",
+   "f": true
+  },
+  {
+   "t": "All logged. Admin, done and dusted.",
+   "f": true
+  },
+  {
+   "t": "All logged. Your brain can close this tab.",
+   "f": true
+  },
+  {
+   "t": "All logged. Tick, tick, done.",
+   "f": true
+  },
+  {
+   "t": "All logged. Tiny victory dance allowed.",
+   "f": true
+  },
+  {
+   "t": "All logged. The spreadsheet gods smile upon you.",
+   "f": true
+  },
+  {
+   "t": "All logged. Your brain can stop reminding you.",
+   "f": true
+  },
+  {
+   "t": "All logged. Note to self: done.",
+   "f": true
+  },
+  {
+   "t": "All logged. No sticky note required.",
+   "f": true
+  },
+  {
+   "t": "All logged. No alarms for your alarms needed.",
+   "f": true
+  },
+  {
+   "t": "All logged. A small, satisfying click.",
+   "f": true
+  },
+  {
+   "t": "All logged. Admin level: expert.",
+   "f": true
+  },
+  {
+   "t": "All logged. Tidy as a freshly made bed.",
+   "f": true
+  },
+  {
+   "t": "All logged. Mental to-do, deleted.",
+   "f": true
+  },
+  {
+   "t": "All logged. File under: handled.",
+   "f": true
+  },
+  {
+   "t": "All logged. Chef’s kiss.",
+   "f": true
+  },
+  {
+   "t": "All logged before it became a side quest.",
+   "f": true
+  },
+  {
+   "t": "All logged. Satisfying, isn’t it?",
+   "f": true
+  },
+  {
+   "t": "Logged, the lot. Brain inbox: zero.",
+   "f": true
+  },
+  {
+   "t": "All logged. Quietly impressive.",
+   "f": true
+  },
+  {
+   "t": "All logged. The row is happy. So are we.",
+   "f": true
+  },
+  {
+   "t": "All logged. That’s a neat little tick.",
+   "f": true
+  },
+  {
+   "t": "All logged. Take a small bow.",
+   "f": true
+  },
+  {
+   "t": "All logged. Boring admin, beautifully done.",
+   "f": true
+  },
+  {
+   "t": "Every one logged. The admin fairy approves.",
+   "f": true
+  },
+  {
+   "t": "All logged. That’s the good kind of boring.",
+   "f": true
+  }
+ ],
+ "dayLineWarming": [
+  {
+   "t": "Warming up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up now. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Still warming up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus peaks from {time}.",
+   "f": false
+  },
+  {
+   "t": "Getting going. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Clearer focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Easing in. Best focus from about {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your best focus begins at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up for now. Best focus at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Sharpest focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Not quite there yet. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus picks up from {time}.",
+   "f": false
+  },
+  {
+   "t": "Easing in. Best focus starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. The good focus starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Ramping up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus window opens at {time}.",
+   "f": false
+  },
+  {
+   "t": "Still getting going. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Prime focus starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up gently. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warm-up time. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "On the way up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Deep work fits best from {time}.",
+   "f": false
+  },
+  {
+   "t": "Building up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Save the hard stuff for {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Big tasks go best from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus settles in by {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus arrives around {time}.",
+   "f": false
+  },
+  {
+   "t": "Still warming. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your best stretch starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Getting there. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus from {time} onwards.",
+   "f": false
+  },
+  {
+   "t": "Early days yet. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Clearest thinking from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus time begins at {time}.",
+   "f": false
+  },
+  {
+   "t": "Easing in. Your best focus is from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Peak focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus starting {time}.",
+   "f": false
+  },
+  {
+   "t": "Just warming up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your sharp hours start at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus lands around {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus is best from {time}.",
+   "f": false
+  },
+  {
+   "t": "Still easing in. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus from around {time}.",
+   "f": false
+  },
+  {
+   "t": "Gearing up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your prime time starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Clear focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus gets easier from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Strongest focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus opens up at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Heavy lifting from {time}.",
+   "f": false
+  },
+  {
+   "t": "Not warmed up yet. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus from {time}, roughly.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your best hours start at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus builds towards {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Top focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best focus comes at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up for now. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focused stretch starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Your focus is best after {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Tough tasks from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Best time to focus: from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. The sweet spot starts at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus steadies from {time}.",
+   "f": false
+  },
+  {
+   "t": "Settling in. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Coming online. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Starting slow. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Hard tasks fit best at {time}.",
+   "f": false
+  },
+  {
+   "t": "Warming up. Focus sharpens from {time}.",
+   "f": false
+  },
+  {
+   "t": "Still ramping up. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Easing into it. Best focus from {time}.",
+   "f": false
+  },
+  {
+   "t": "Brain’s booting up. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain kettle’s on. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Still loading. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain engine’s warming. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Buffering a bit. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s stretching. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s fans are spinning. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Tabs still loading. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s on the runway. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Warming up. Big brain hours from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still warming its hands. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s picking a playlist. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Pre-game warm-up. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still finding its keys. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Radio’s tuning in. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Tuning in. Clear focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s in the lobby. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s preheating. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Still on the warm-up lap. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still tying its laces. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still parking the car. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still unpacking. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Warming up. Top gear from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s clearing its throat. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Signal’s coming in. Best focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still in first gear. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s on dial-up. Broadband from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s sharpening pencils. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still on the on-ramp. Focus from {time}.",
+   "f": true
+  },
+  {
+   "t": "Brain’s still in its slippers. Focus from {time}.",
+   "f": true
+  }
+ ],
+ "restOneLeft": [
+  {
+   "t": "One thing left",
+   "f": false
+  },
+  {
+   "t": "Just one thing left",
+   "f": false
+  },
+  {
+   "t": "One thing to go",
+   "f": false
+  },
+  {
+   "t": "One left for today",
+   "f": false
+  },
+  {
+   "t": "Only one thing left",
+   "f": false
+  },
+  {
+   "t": "One more thing today",
+   "f": false
+  },
+  {
+   "t": "Just one to go",
+   "f": false
+  },
+  {
+   "t": "One task left today",
+   "f": false
+  },
+  {
+   "t": "Down to one",
+   "f": false
+  },
+  {
+   "t": "One thing left today",
+   "f": false
+  },
+  {
+   "t": "Only one to go",
+   "f": false
+  },
+  {
+   "t": "One more to go",
+   "f": false
+  },
+  {
+   "t": "Just one left",
+   "f": false
+  },
+  {
+   "t": "One thing remains",
+   "f": false
+  },
+  {
+   "t": "Last one for today",
+   "f": false
+  },
+  {
+   "t": "The last thing today",
+   "f": false
+  },
+  {
+   "t": "One left on the list",
+   "f": false
+  },
+  {
+   "t": "Just one more today",
+   "f": false
+  },
+  {
+   "t": "Down to the last one",
+   "f": false
+  },
+  {
+   "t": "One thing still to do",
+   "f": false
+  },
+  {
+   "t": "One to go today",
+   "f": false
+  },
+  {
+   "t": "Only one left today",
+   "f": false
+  },
+  {
+   "t": "One thing, then done",
+   "f": false
+  },
+  {
+   "t": "Last thing for today",
+   "f": false
+  },
+  {
+   "t": "One more, then that’s it",
+   "f": false
+  },
+  {
+   "t": "Just the one left",
+   "f": false
+  },
+  {
+   "t": "One thing left to do",
+   "f": false
+  },
+  {
+   "t": "One last thing",
+   "f": false
+  },
+  {
+   "t": "One thing to finish",
+   "f": false
+  },
+  {
+   "t": "One left. That’s all",
+   "f": false
+  },
+  {
+   "t": "Just one thing to go",
+   "f": false
+  },
+  {
+   "t": "Down to one thing",
+   "f": false
+  },
+  {
+   "t": "That’s one left",
+   "f": false
+  },
+  {
+   "t": "The last one for today",
+   "f": false
+  },
+  {
+   "t": "One thing still open",
+   "f": false
+  },
+  {
+   "t": "One more thing, that’s all",
+   "f": false
+  },
+  {
+   "t": "Nearly there. One left",
+   "f": false
+  },
+  {
+   "t": "Only one thing to go",
+   "f": false
+  },
+  {
+   "t": "One final thing today",
+   "f": false
+  },
+  {
+   "t": "One left, the last for today",
+   "f": false
+  },
+  {
+   "t": "One left. The final boss",
+   "f": true
+  },
+  {
+   "t": "One thing left. Snack break after?",
+   "f": true
+  },
+  {
+   "t": "One left. The grand finale",
+   "f": true
+  },
+  {
+   "t": "Last one. Cue the dramatic music",
+   "f": true
+  },
+  {
+   "t": "One left. Last level unlocked",
+   "f": true
+  },
+  {
+   "t": "One thing. Then the sofa",
+   "f": true
+  },
+  {
+   "t": "The last one. No sequel today",
+   "f": true
+  },
+  {
+   "t": "One left. Victory lap next",
+   "f": true
+  },
+  {
+   "t": "One left. Main character energy",
+   "f": true
+  },
+  {
+   "t": "The last one standing",
+   "f": true
+  },
+  {
+   "t": "One task. One. Singular",
+   "f": true
+  },
+  {
+   "t": "Down to one. Look at that",
+   "f": true
+  },
+  {
+   "t": "One left. The rest is history",
+   "f": true
+  },
+  {
+   "t": "One thing left. Kettle on after?",
+   "f": true
+  },
+  {
+   "t": "Just one. The last domino",
+   "f": true
+  },
+  {
+   "t": "One left, then the credits roll",
+   "f": true
+  },
+  {
+   "t": "One thing. The season finale",
+   "f": true
+  },
+  {
+   "t": "Last quest of the day",
+   "f": true
+  },
+  {
+   "t": "One left. Hero music, please",
+   "f": true
+  },
+  {
+   "t": "One thing left. Big finish",
+   "f": true
+  },
+  {
+   "t": "The final one. Drumroll",
+   "f": true
+  },
+  {
+   "t": "One left. No side quests, please",
+   "f": true
+  },
+  {
+   "t": "One thing left. Rabbit holes later",
+   "f": true
+  },
+  {
+   "t": "One left. Down to a single tab",
+   "f": true
+  },
+  {
+   "t": "One left. The cherry on top",
+   "f": true
+  },
+  {
+   "t": "The one. The only. The last",
+   "f": true
+  },
+  {
+   "t": "One left. Nearly done-done",
+   "f": true
+  },
+  {
+   "t": "One left. Practically retired",
+   "f": true
+  },
+  {
+   "t": "One more. Then feet up",
+   "f": true
+  },
+  {
+   "t": "Last one. Then you’re off duty",
+   "f": true
+  },
+  {
+   "t": "One left. The last puzzle piece",
+   "f": true
+  },
+  {
+   "t": "The last one. Finish-line vibes",
+   "f": true
+  },
+  {
+   "t": "One task left. Main quest only",
+   "f": true
+  },
+  {
+   "t": "Last one. Cape optional",
+   "f": true
+  },
+  {
+   "t": "One left. Mic almost dropped",
+   "f": true
+  },
+  {
+   "t": "One left. Save the best for last?",
+   "f": true
+  },
+  {
+   "t": "Last one. Fanfare on standby",
+   "f": true
+  },
+  {
+   "t": "One left. Then do-nothing o’clock",
+   "f": true
+  },
+  {
+   "t": "One left. Then it’s you-time",
+   "f": true
+  },
+  {
+   "t": "One left. Squirrels, please hold",
+   "f": true
+  },
+  {
+   "t": "One left. Hyperfocus, assemble",
+   "f": true
+  },
+  {
+   "t": "One thing left. Suspense builds",
+   "f": true
+  },
+  {
+   "t": "One left. Final round, ding ding",
+   "f": true
+  },
+  {
+   "t": "One left. Solo act",
+   "f": true
+  },
+  {
+   "t": "One left. It gets the spotlight",
+   "f": true
+  },
+  {
+   "t": "One left. Lonely, but important",
+   "f": true
+  },
+  {
+   "t": "One left. Feeling very special",
+   "f": true
+  },
+  {
+   "t": "One thing left. VIP treatment",
+   "f": true
+  },
+  {
+   "t": "One left. Summit in sight",
+   "f": true
+  },
+  {
+   "t": "One left. Last stop on the line",
+   "f": true
+  },
+  {
+   "t": "One left. Then the victory nap",
+   "f": true
+  },
+  {
+   "t": "One left. Last track on the album",
+   "f": true
+  },
+  {
+   "t": "One left. Final whistle soon",
+   "f": true
+  },
+  {
+   "t": "One left. The crowd is on its feet",
+   "f": true
+  },
+  {
+   "t": "One left. Last one out, lights off",
+   "f": true
+  },
+  {
+   "t": "One task left. Lone ranger",
+   "f": true
+  },
+  {
+   "t": "One left. Ready for its close-up",
+   "f": true
+  },
+  {
+   "t": "One left. Clock, please behave",
+   "f": true
+  },
+  {
+   "t": "One left. The final chapter",
+   "f": true
+  },
+  {
+   "t": "One left. Encore, then bows",
+   "f": true
+  }
+ ],
+ "breatheIntro": [
+  {
+   "t": "In for four, out for six. Your phone will tap along.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, out for six. Your phone taps along with you.",
+   "f": false
+  },
+  {
+   "t": "One minute. In for four, out for six. Your phone will tap the rhythm.",
+   "f": false
+  },
+  {
+   "t": "In for four counts, out for six. Your phone keeps time with gentle taps.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four and out for six. Feel your phone tap along.",
+   "f": false
+  },
+  {
+   "t": "A minute of breathing. In for four, out for six, with taps to guide you.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. The taps will keep the pace.",
+   "f": false
+  },
+  {
+   "t": "Four counts in, six counts out. Your phone will tap along.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, then out for six. Your phone keeps the beat.",
+   "f": false
+  },
+  {
+   "t": "Just one minute. In for four, out for six. Follow the taps.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along with each breath.",
+   "f": false
+  },
+  {
+   "t": "Let’s breathe for a minute. In for four, out for six. Your phone will tap along.",
+   "f": false
+  },
+  {
+   "t": "Breathe with the taps: in for four, out for six. One minute.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six, for one minute. Your phone guides the pace.",
+   "f": false
+  },
+  {
+   "t": "Slow breaths, in for four and out for six. Your phone taps along the whole time.",
+   "f": false
+  },
+  {
+   "t": "Four in, six out. Your phone will tap to keep you on pace.",
+   "f": false
+  },
+  {
+   "t": "One minute of slow breathing. In for four, out for six. The taps show the way.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four and out for six. Your phone will tap to guide you.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Let the taps set the pace.",
+   "f": false
+  },
+  {
+   "t": "Take a minute. In for four, out for six, with your phone tapping along.",
+   "f": false
+  },
+  {
+   "t": "In for a count of four, out for a count of six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "A one-minute breather: in for four, out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone gives a gentle tap to guide each breath.",
+   "f": false
+  },
+  {
+   "t": "Four counts in, six counts out, for one minute. Follow your phone’s taps.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four and out for six. Your phone taps along, so you can close your eyes.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. You’ll feel your phone tap along.",
+   "f": false
+  },
+  {
+   "t": "One minute, one rhythm: in for four, out for six. Your phone taps it out.",
+   "f": false
+  },
+  {
+   "t": "Breathe in slowly for four, out slowly for six. Your phone will tap along.",
+   "f": false
+  },
+  {
+   "t": "Let’s slow down for a minute. In for four, out for six, with taps to follow.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six, for sixty seconds. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "Breathe along with the taps: four in, six out.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Eyes open or closed, the taps will guide you.",
+   "f": false
+  },
+  {
+   "t": "Four in, six out, for one minute. Your phone keeps the rhythm.",
+   "f": false
+  },
+  {
+   "t": "One minute of breathing, paced by your phone. In for four, out for six.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Rest your phone in your hand and feel the taps.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, breathe out for six. The phone in your hand taps along.",
+   "f": false
+  },
+  {
+   "t": "A slow minute. In for four, out for six. Your phone will tap the pace.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Just follow the taps from your phone.",
+   "f": false
+  },
+  {
+   "t": "Here’s one minute: breathe in for four, out for six, and follow the taps.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, steady and slow.",
+   "f": false
+  },
+  {
+   "t": "Four counts in and six counts out. The phone will tap along for one minute.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, out for six. Your phone’s taps will set the pace.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Feel the taps and breathe with them.",
+   "f": false
+  },
+  {
+   "t": "One minute to breathe. In for four, out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. No need to count. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, out for six, and let your phone tap out the rhythm.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Gentle taps from your phone keep you in step.",
+   "f": false
+  },
+  {
+   "t": "A minute of paced breathing: four in, six out. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone will tap along for one minute.",
+   "f": false
+  },
+  {
+   "t": "Slow in for four, slow out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "Breathe with your phone. In for four, out for six, for one minute.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. The taps lead, you follow.",
+   "f": false
+  },
+  {
+   "t": "Four in, six out. One minute of this, with your phone tapping the beat.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, so you can just breathe.",
+   "f": false
+  },
+  {
+   "t": "Settle in for a minute. In for four, out for six, with gentle taps.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone will tap along. That’s all there is to it.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, out for six. Your phone will quietly tap along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. The phone taps, you breathe.",
+   "f": false
+  },
+  {
+   "t": "For one minute: in for four, out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "One minute. Four counts in, six counts out. Your phone taps each one.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. You can close your eyes. Your phone will tap along.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four and out for six, following the taps.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone will tap along. Nothing else to do.",
+   "f": false
+  },
+  {
+   "t": "Just breathe: in for four, out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six, for a minute. Let your phone keep count.",
+   "f": false
+  },
+  {
+   "t": "Four in, six out. Your phone taps along so the rhythm stays steady.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone taps gently to keep the count.",
+   "f": false
+  },
+  {
+   "t": "Breathe in for four, out for six. The taps will carry you through the minute.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Hold your phone and the taps will lead the way.",
+   "f": false
+  },
+  {
+   "t": "One quiet minute. In for four, out for six. Your phone taps along.",
+   "f": false
+  },
+  {
+   "t": "In for four, out for six. Your phone does the counting. You do the breathing.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, so your brain can skip the maths.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, so nobody loses count at three.",
+   "f": true
+  },
+  {
+   "t": "Breathe in for four, out for six. Your phone keeps count, since brains like to wander.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Easiest minute of the day.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. A real minute, not an ADHD minute.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along like a very calm drummer.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, like a tiny, patient metronome.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. The 47 tabs aren’t going anywhere.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Lost count? The taps haven’t.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Body doubling, but for breathing.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. One minute, not a hyperfocus session.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, because counting is a whole other task.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Let your phone tap along. Your brain is off duty for a minute.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along, even when your mind takes a detour.",
+   "f": true
+  },
+  {
+   "t": "Four in, six out. Your phone taps along, a bit like a friend nudging your elbow.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. The taps keep time, which is more than our brains usually do.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. No to-do list required for this one.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. This is the whole task. Truly.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Breathing, now with a co-pilot.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps, you breathe. Teamwork.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Squirrels can wait sixty seconds.",
+   "f": true
+  },
+  {
+   "t": "Breathe in for four, out for six. Your phone taps along, so you can forget the numbers.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Side quests resume in a minute.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. The doom pile can wait a minute.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. A very small, very calm dance.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Brain radio, one calm station.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. Sixty seconds, no rabbit holes.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. The taps keep the beat, even if your mind changes the song.",
+   "f": true
+  },
+  {
+   "t": "In for four, out for six. Your phone taps along. It’s the one thing with no admin.",
+   "f": true
+  }
+ ],
+ "arrivalQuestion": [
+  {
+   "t": "How’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain feeling today?",
+   "f": false
+  },
+  {
+   "t": "How is your brain doing today?",
+   "f": false
+  },
+  {
+   "t": "How’s the brain today?",
+   "f": false
+  },
+  {
+   "t": "How does your brain feel today?",
+   "f": false
+  },
+  {
+   "t": "How’s your mind today?",
+   "f": false
+  },
+  {
+   "t": "Brain check: how’s it feeling today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing?",
+   "f": false
+  },
+  {
+   "t": "How’s the brain feeling today?",
+   "f": false
+  },
+  {
+   "t": "How are you and your brain today?",
+   "f": false
+  },
+  {
+   "t": "What kind of brain day is it?",
+   "f": false
+  },
+  {
+   "t": "How does the brain feel today?",
+   "f": false
+  },
+  {
+   "t": "Quick check: how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain showing up today?",
+   "f": false
+  },
+  {
+   "t": "How is the brain today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain feeling right now?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain at the moment?",
+   "f": false
+  },
+  {
+   "t": "Today, how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "First things first: how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How is your brain feeling?",
+   "f": false
+  },
+  {
+   "t": "How’s your mind feeling today?",
+   "f": false
+  },
+  {
+   "t": "How does your mind feel today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain treating you today?",
+   "f": false
+  },
+  {
+   "t": "What’s your brain like today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain getting on today?",
+   "f": false
+  },
+  {
+   "t": "How is your mind today?",
+   "f": false
+  },
+  {
+   "t": "Where’s your brain at today?",
+   "f": false
+  },
+  {
+   "t": "How are things in your head today?",
+   "f": false
+  },
+  {
+   "t": "So, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain feeling so far?",
+   "f": false
+  },
+  {
+   "t": "How’s today’s brain?",
+   "f": false
+  },
+  {
+   "t": "Honestly, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "How is your brain feeling right now?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain holding up?",
+   "f": false
+  },
+  {
+   "t": "Check in: how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "Brain today: how’s it doing?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing right now?",
+   "f": false
+  },
+  {
+   "t": "How does your brain feel right now?",
+   "f": false
+  },
+  {
+   "t": "Tell us, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain starting the day?",
+   "f": false
+  },
+  {
+   "t": "What’s the brain saying today?",
+   "f": false
+  },
+  {
+   "t": "How’s your mind doing today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing, honestly?",
+   "f": false
+  },
+  {
+   "t": "Just checking: how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain today, roughly?",
+   "f": false
+  },
+  {
+   "t": "Roughly, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "On the whole, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "How would you say your brain is today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain feeling overall?",
+   "f": false
+  },
+  {
+   "t": "In a word, how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "Your brain today: how is it?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain getting along today?",
+   "f": false
+  },
+  {
+   "t": "What’s your brain feeling like today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain faring today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing so far today?",
+   "f": false
+  },
+  {
+   "t": "Before we plan: how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain before we start?",
+   "f": false
+  },
+  {
+   "t": "Let’s start here. How’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain, all things considered?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing this minute?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain today, in a word?",
+   "f": false
+  },
+  {
+   "t": "How does today’s brain feel?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain treating you?",
+   "f": false
+  },
+  {
+   "t": "Generally speaking, how’s your brain?",
+   "f": false
+  },
+  {
+   "t": "How is your mind feeling today?",
+   "f": false
+  },
+  {
+   "t": "How’s your brain doing, would you say?",
+   "f": false
+  },
+  {
+   "t": "How’s the brain doing today?",
+   "f": false
+  },
+  {
+   "t": "How is today’s brain feeling?",
+   "f": false
+  },
+  {
+   "t": "One question: how’s your brain today?",
+   "f": false
+  },
+  {
+   "t": "Right now, how’s your brain doing?",
+   "f": false
+  },
+  {
+   "t": "How’s the brain weather today?",
+   "f": true
+  },
+  {
+   "t": "What’s the brain forecast today?",
+   "f": true
+  },
+  {
+   "t": "How’s it going up there today?",
+   "f": true
+  },
+  {
+   "t": "How’s the old noggin today?",
+   "f": true
+  },
+  {
+   "t": "How’s the signal up there today?",
+   "f": true
+  },
+  {
+   "t": "How many bars is your brain getting?",
+   "f": true
+  },
+  {
+   "t": "How’s your brain’s battery today?",
+   "f": true
+  },
+  {
+   "t": "Brain battery check: how’s it looking?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain engine running today?",
+   "f": true
+  },
+  {
+   "t": "How’s your brain’s Wi-Fi today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain behaving today?",
+   "f": true
+  },
+  {
+   "t": "How’s mission control today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain browser running today?",
+   "f": true
+  },
+  {
+   "t": "How’s your brain vibing today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain radio reception today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain machine today?",
+   "f": true
+  },
+  {
+   "t": "How’s the grey matter today?",
+   "f": true
+  },
+  {
+   "t": "How’s the thinking department today?",
+   "f": true
+  },
+  {
+   "t": "What’s the vibe upstairs today?",
+   "f": true
+  },
+  {
+   "t": "How’s brain HQ today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain team feeling today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain’s control panel today?",
+   "f": true
+  },
+  {
+   "t": "How’s the noodle today?",
+   "f": true
+  },
+  {
+   "t": "How’s the thinking cap fitting today?",
+   "f": true
+  },
+  {
+   "t": "How are the brain cells today?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain’s horsepower today?",
+   "f": true
+  },
+  {
+   "t": "What’s the brain’s status update?",
+   "f": true
+  },
+  {
+   "t": "How’s your brain showing up for duty?",
+   "f": true
+  },
+  {
+   "t": "How’s the brain holding the fort?",
+   "f": true
+  },
+  {
+   "t": "How’s the head office today?",
+   "f": true
+  }
+ ],
+ "rhythmFooter": [
+  {
+   "t": "Patterns, not scores. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These are patterns, not scores. Everything here stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything stays here on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "We show patterns, not scores. This data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns only, never scores. It all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This shows patterns, not scores. Your data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Nothing here leaves your iPhone.",
+   "f": false
+  },
+  {
+   "t": "No scores, just patterns. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Just patterns, no scores. This stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns to notice, not scores. The data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data doesn’t leave your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything you see here is kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This is about patterns, not scores. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns to learn from, not scores. It all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Look for patterns, not scores. Your data stays on this iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All this data lives on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns here, not scores. Everything stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These show patterns, not scores. It’s all stored on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, never scores. All of this is kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This is a picture of patterns, not a score. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Only your iPhone holds this data.",
+   "f": false
+  },
+  {
+   "t": "It’s patterns, not scores. And it all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This information stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "We track patterns, not scores. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data is stored only on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "There are no scores here, only patterns. It all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. None of this leaves your iPhone.",
+   "f": false
+  },
+  {
+   "t": "What you see are patterns, not scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything here is private to your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns are the point, not scores. Your data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this lives on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Read these as patterns, not scores. They stay on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data stays right here on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These are patterns, not scores, and they stay on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Stored on your iPhone, and only there.",
+   "f": false
+  },
+  {
+   "t": "Not scores, just patterns. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This stays between you and your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Only patterns, no scores. Everything stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All data here is kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This is a view of patterns, not scores. It lives on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your iPhone keeps all of this.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Kept on your iPhone, nowhere else.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Every bit of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These patterns aren’t scores. They stay on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "See patterns, not scores. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data is kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. It all lives here, on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. The data behind them stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "There’s no score here, only patterns. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This is all kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This shows patterns, never scores. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Nothing is sent off your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this is stored on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not a score. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These are patterns, not a score. It all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. What’s here stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns you can notice, not scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this remains on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This data remains on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "It’s about patterns, not scores. All of it remains on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything is saved on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. It’s saved on your iPhone only.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your iPhone is the only place this lives.",
+   "f": false
+  },
+  {
+   "t": "No scoring, only patterns. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. And all of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This all stays with you, on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "These are patterns, not scores. Everything is kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All your data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. The data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "This shows patterns, not scores. Stored on your iPhone only.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Kept privately on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything here stays on this iPhone.",
+   "f": false
+  },
+  {
+   "t": "Just patterns, never scores. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your iPhone is where all of this stays.",
+   "f": false
+  },
+  {
+   "t": "We show patterns here, not scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this is saved to your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Notice patterns, not scores. Your data stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "For spotting patterns, not scoring. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Held on your iPhone and nowhere else.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. None of this data leaves your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything is kept locally on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of it is stored locally on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This stays on your iPhone, with you.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Private, and kept on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. It all stays on the iPhone in your hand.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this stays on your own iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything here lives on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Only patterns here, never scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data is yours, and it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. It’s all on your iPhone, and only there.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This data is kept on your iPhone only.",
+   "f": false
+  },
+  {
+   "t": "Think patterns, not scores. All of this stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. All of this is held on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "You’ll see patterns here, not scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "A look at patterns, not scores. All of it stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Everything shown here stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns rather than scores. It all stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. This lives only on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Here you’ll find patterns, not scores. It stays on your iPhone.",
+   "f": false
+  },
+  {
+   "t": "Patterns, not scores. Your data is kept here, on your iPhone.",
+   "f": false
+  }
+ ],
+ "detailSleep": [
+  {
+   "t": "Bars are hours slept. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show hours of sleep. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Each bar is a night’s sleep in hours. The line is how much of the next day’s plan you did.",
+   "f": false
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the following day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars mark hours slept. The line tracks how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are your hours of sleep. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Hours slept are the bars. How much of the next day’s plan got done is the line.",
+   "f": false
+  },
+  {
+   "t": "Each bar shows hours slept. The line follows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show sleep in hours. The line shows the share of the next day’s plan that got done.",
+   "f": false
+  },
+  {
+   "t": "The bars count hours slept. The line shows how much of the plan got done the day after.",
+   "f": false
+  },
+  {
+   "t": "Bars are the hours you slept. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show how long you slept. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Read the bars as hours slept, and the line as how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars stand for hours slept. The line stands for how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Each bar is hours slept that night. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are sleep, in hours. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars: how many hours you slept. Line: how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars track hours slept. The line tracks how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Taller bars mean more hours slept. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours of sleep each night. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows what share of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Hours slept are shown as bars. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours asleep. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show your sleep in hours. The line shows how much of the next day’s plan was done.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept each night. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Each bar is how long you slept. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows how much of the plan got done the next day.",
+   "f": false
+  },
+  {
+   "t": "The bars are hours slept. The line shows how much of each next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars measure sleep in hours. The line measures how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show hours slept. The line shows how much of the next day’s plan was completed.",
+   "f": false
+  },
+  {
+   "t": "Bars are sleep hours. The line is how much of the following day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Here, bars are hours slept, and the line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are hours slept. The line is the next day: how much of the plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show how many hours you slept. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are hours of sleep. The line is how much of the plan got done the following day.",
+   "f": false
+  },
+  {
+   "t": "Each bar is one night’s sleep, in hours. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows how much of the next day’s plan you got through.",
+   "f": false
+  },
+  {
+   "t": "Bars: sleep, in hours. Line: how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept. The line is the part of the next day’s plan that got done.",
+   "f": false
+  },
+  {
+   "t": "The bars give hours slept. The line gives how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show each night’s hours of sleep. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are how long you slept, in hours. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show how many hours you slept. The line shows how much of the next day’s plan happened.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows the next day, and how much of its plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars mean hours slept. The line means how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are sleep hours. The line is how much of your plan got done the next day.",
+   "f": false
+  },
+  {
+   "t": "Bars show your hours of sleep. The line shows how much of your plan got done the next day.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept. The line is how much of your next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line is how much of the plan you got done the day after.",
+   "f": false
+  },
+  {
+   "t": "Bars show sleep, measured in hours. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars represent hours slept. The line represents how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars are hours slept, night by night. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept. The line is the share of the next day’s plan that got done.",
+   "f": false
+  },
+  {
+   "t": "Each bar is hours slept. The line is how much of the plan got done the next day.",
+   "f": false
+  },
+  {
+   "t": "Bars track sleep in hours. The line tracks how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show hours slept. The line shows how far you got through the next day’s plan.",
+   "f": false
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the plan got done the next day.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show hours asleep. The line shows how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are your sleep in hours. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. Follow the line to see how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are hours slept. The line tells you how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars show hours slept each night. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars are the night’s sleep, in hours. The line is how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows how much of the next day’s plan was ticked off.",
+   "f": false
+  },
+  {
+   "t": "The bars are hours slept. The line is how much of the next day’s plan was completed.",
+   "f": false
+  },
+  {
+   "t": "Bars show hours slept. The line shows how much of the following day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Bars equal hours slept. The line equals how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "The bars: hours slept. The line: how much of the next day’s plan got done.",
+   "f": false
+  },
+  {
+   "t": "Hours slept make the bars. How much of the next day’s plan got done makes the line.",
+   "f": false
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Detective work, basically.",
+   "f": true
+  },
+  {
+   "t": "Bars are hours slept. The line is how much of the next day’s plan got done. The plot thickens.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Sleep, meet to-do list.",
+   "f": true
+  },
+  {
+   "t": "Bars show hours slept. Line: how much of the next day’s plan got done. Your pillow, in numbers.",
+   "f": true
+  },
+  {
+   "t": "Bars are hours slept. The line is how much of the next day’s plan got done. Clues, not verdicts.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Snoozes and to-dos, side by side.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours of sleep. Line: how much of the next day’s plan got done. Plot twists welcome.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Magnifying glass not included.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Nerdy, but the cosy kind.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. A sleep diary, minus the diary.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. No pen or notebook needed.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Zero maths required.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Read it like a weather map.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Squint and a story appears.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. The chart does the remembering.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Spot any patterns? No pressure.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Two shapes, one story.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. The pillow has opinions.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Night shift, meet day shift.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Nights and days, one tidy chart.",
+   "f": true
+  },
+  {
+   "t": "The bars are hours slept. The line is how much of the next day’s plan got done. Nerd out gently.",
+   "f": true
+  },
+  {
+   "t": "Bars are hours slept. The line is how much of the next day’s plan got done. Nosy, in a helpful way.",
+   "f": true
+  },
+  {
+   "t": "Bars are hours slept. The line is how much of the next day’s plan got done. Pillow meets planner.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Sleep, but make it data.",
+   "f": true
+  },
+  {
+   "t": "Bars show hours slept. The line is how much of the next day’s plan got done. Your own little lab.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Graph nerds, this one’s yours.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. No homework, just a peek.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Charts, but friendly.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Yesterday’s pillow, today’s list.",
+   "f": true
+  },
+  {
+   "t": "Bars: hours slept. Line: how much of the next day’s plan got done. Curious? So are we.",
+   "f": true
+  }
+ ],
+ "categoriesLimit": [
+  {
+   "t": "The free plan holds five categories. Plus gives you as many as you like.",
+   "f": false
+  },
+  {
+   "t": "You’ve used all five free categories. Plus has unlimited.",
+   "f": false
+  },
+  {
+   "t": "That’s five categories, the free plan’s limit. Plus lets you add as many as you want.",
+   "f": false
+  },
+  {
+   "t": "The free plan stops at five categories. Plus has no limit.",
+   "f": false
+  },
+  {
+   "t": "Five is the free limit for categories. With Plus, there’s no cap.",
+   "f": false
+  },
+  {
+   "t": "You’ve reached five categories on the free plan. Plus unlocks unlimited categories.",
+   "f": false
+  },
+  {
+   "t": "The free plan includes five categories. Need more? Plus has unlimited.",
+   "f": false
+  },
+  {
+   "t": "Five categories is the free plan’s max. Plus lets you make as many as you need.",
+   "f": false
+  },
+  {
+   "t": "All five free categories are in use. Plus removes the limit.",
+   "f": false
+  },
+  {
+   "t": "The free plan comes with five categories. Plus comes with unlimited.",
+   "f": false
+  },
+  {
+   "t": "You’re at five, the most the free plan allows. Plus has room for unlimited categories.",
+   "f": false
+  },
+  {
+   "t": "Five categories fit on the free plan. For more, Plus has unlimited.",
+   "f": false
+  },
+  {
+   "t": "The free plan caps categories at five. Plus lifts the cap.",
+   "f": false
+  },
+  {
+   "t": "Categories are limited to five on the free plan. Plus has no limit at all.",
+   "f": false
+  },
+  {
+   "t": "Free includes five categories. Plus includes as many as you want.",
+   "f": false
+  },
+  {
+   "t": "The free plan allows five categories. Plus allows unlimited.",
+   "f": false
+  },
+  {
+   "t": "That’s the free plan’s five categories used. Plus gives you unlimited.",
+   "f": false
+  },
+  {
+   "t": "Five categories is where the free plan stops. Plus keeps going, with no limit.",
+   "f": false
+  },
+  {
+   "t": "You can have five categories on the free plan, or unlimited with Plus.",
+   "f": false
+  },
+  {
+   "t": "The free plan fits five categories. If you need more, Plus has no cap.",
+   "f": false
+  },
+  {
+   "t": "Five categories on free. Unlimited on Plus.",
+   "f": false
+  },
+  {
+   "t": "You’ve hit the five-category limit on the free plan. Plus has unlimited categories.",
+   "f": false
+  },
+  {
+   "t": "The free plan tops out at five categories. Plus doesn’t have a top.",
+   "f": false
+  },
+  {
+   "t": "Five categories come free. With Plus, add as many as you like.",
+   "f": false
+  },
+  {
+   "t": "The free plan keeps it to five categories. Plus has unlimited, whenever you want it.",
+   "f": false
+  },
+  {
+   "t": "You’ve used the five categories in the free plan. Plus offers unlimited.",
+   "f": false
+  },
+  {
+   "t": "That’s all five free categories. Plus has space for unlimited.",
+   "f": false
+  },
+  {
+   "t": "On the free plan, five categories is the max. On Plus, there isn’t one.",
+   "f": false
+  },
+  {
+   "t": "The free plan has five category slots, all in use. Plus has unlimited slots.",
+   "f": false
+  },
+  {
+   "t": "You’re at the free plan’s five categories. Plus has unlimited.",
+   "f": false
+  },
+  {
+   "t": "Free gives you five categories. Plus gives you unlimited.",
+   "f": false
+  },
+  {
+   "t": "Five categories is the free plan’s limit. Plus has as many as you need.",
+   "f": false
+  },
+  {
+   "t": "The free plan includes up to five categories. Plus includes unlimited categories.",
+   "f": false
+  },
+  {
+   "t": "All five of the free plan’s categories are used. Plus lets you add more, with no limit.",
+   "f": false
+  },
+  {
+   "t": "Five categories on the free plan, unlimited on Plus. Your call.",
+   "f": false
+  },
+  {
+   "t": "The five free categories are full. Plus has unlimited, if that helps.",
+   "f": false
+  },
+  {
+   "t": "Five categories is the free plan’s limit. Want more? Plus has no limit.",
+   "f": false
+  },
+  {
+   "t": "The free plan covers five categories. Plus covers as many as you like.",
+   "f": false
+  },
+  {
+   "t": "You’ve got five categories, the free plan’s max. Plus has no maximum.",
+   "f": false
+  },
+  {
+   "t": "Five categories are included free. Plus has unlimited, if you ever need it.",
+   "f": false
+  },
+  {
+   "t": "Five categories on the free plan. Plus if you need more boxes. We won’t judge.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited, for the four hobbies you started this month.",
+   "f": true
+  },
+  {
+   "t": "That’s the free plan’s five categories. Plus has unlimited, because brains have a lot of interests.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free limit. Plus has unlimited, for a brain that never runs out of new ideas.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds five categories. Plus holds unlimited. Your hobbies will love the space.",
+   "f": true
+  },
+  {
+   "t": "Five categories is where free stops. Plus has unlimited, like your supply of new interests.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, so the sourdough phase gets its own box.",
+   "f": true
+  },
+  {
+   "t": "That’s five, the free plan’s limit. Plus has unlimited categories. Even “Misc 2”.",
+   "f": true
+  },
+  {
+   "t": "The free plan stops at five categories. Plus has unlimited. Label-makers, rejoice.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited, for side quests that became main quests.",
+   "f": true
+  },
+  {
+   "t": "You’ve filled all five free categories. Plus has unlimited. Every rabbit hole gets a home.",
+   "f": true
+  },
+  {
+   "t": "Five categories fit on free. Plus has unlimited, for a brain with more than five things going on.",
+   "f": true
+  },
+  {
+   "t": "That’s the five free categories. Plus gives you unlimited. Go on, organise everything.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited. Yes, even one just for houseplants.",
+   "f": true
+  },
+  {
+   "t": "The free plan has five categories. Plus has unlimited, for when life won’t fit in five boxes.",
+   "f": true
+  },
+  {
+   "t": "You’re at five categories, the free limit. Plus has unlimited. Boxes for your boxes.",
+   "f": true
+  },
+  {
+   "t": "Five is the free limit. Plus has unlimited categories, like tabs, but tidier.",
+   "f": true
+  },
+  {
+   "t": "The free plan gives you five categories. Plus gives you unlimited. Your many interests say hi.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Unlimited on Plus. No judgement about what goes in them.",
+   "f": true
+  },
+  {
+   "t": "All five free categories are taken. Plus has unlimited, including one called “Stuff”.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free plan’s max. Plus has unlimited. Every new hobby deserves a drawer.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited. Some brains just aren’t five-folder brains.",
+   "f": true
+  },
+  {
+   "t": "Free gives you five categories. Plus gives you unlimited. Future hobbies are already queuing.",
+   "f": true
+  },
+  {
+   "t": "You’ve got five categories, the free max. Plus has unlimited, for this week’s new interest and next week’s.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, for people whose brains run 47 tabs.",
+   "f": true
+  },
+  {
+   "t": "That’s all five free categories. Plus has unlimited, so nothing ends up in the doom pile.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free limit. Plus has unlimited, and on Plus nobody’s counting.",
+   "f": true
+  },
+  {
+   "t": "The free plan fits five categories. Plus fits unlimited. Ambitious brains welcome.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, for the brain that sorts life into 23 piles.",
+   "f": true
+  },
+  {
+   "t": "Five is the free plan’s limit. Plus has unlimited categories. More boxes, more joy.",
+   "f": true
+  },
+  {
+   "t": "That’s five categories, the free limit. Plus has unlimited, for when every idea wants its own shelf.",
+   "f": true
+  },
+  {
+   "t": "Five categories come free. Plus has unlimited, in case your hobbies multiply overnight.",
+   "f": true
+  },
+  {
+   "t": "The free plan does five categories. Plus does unlimited. Colour-coders, this is your moment.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free cap. Plus has unlimited, for every “this is my thing now” moment.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited. Even a whole category for “later”.",
+   "f": true
+  },
+  {
+   "t": "That’s the free plan’s five. Plus has unlimited categories, for a life with more than five plot lines.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, perfect for a brain that loves a fresh new folder.",
+   "f": true
+  },
+  {
+   "t": "The free plan stops at five categories. Plus doesn’t stop. A bit like a good hyperfocus.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited. Collecting categories is a valid hobby too.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free limit. Plus has unlimited, so no hobby has to share a box.",
+   "f": true
+  },
+  {
+   "t": "The free plan has room for five categories. Plus has room for all of them, even the new ones.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. With Plus, unlimited. The knitting, the guitar and the kombucha can all move in.",
+   "f": true
+  },
+  {
+   "t": "That’s five, the free limit. Plus has unlimited categories. Life is rarely just five things.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited, and nobody here will ask why you need 14.",
+   "f": true
+  },
+  {
+   "t": "Five categories is free. Unlimited is Plus. Your ideas get all the room they want.",
+   "f": true
+  },
+  {
+   "t": "The five free categories are full. Plus has unlimited, for every “quick” new project.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, handy for the “I’ll sort it later” pile.",
+   "f": true
+  },
+  {
+   "t": "Five free categories, all used. Plus has unlimited. Your interests clearly have range.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, for when the side quests need side quests.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited, like a very organised version of your brain.",
+   "f": true
+  },
+  {
+   "t": "You’ve hit five, the free limit. Plus has unlimited categories. A home for every hyperfocus.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, from “Garden” to “Garden, but serious this time”.",
+   "f": true
+  },
+  {
+   "t": "The free plan caps it at five. Plus has unlimited categories, which your many projects will appreciate.",
+   "f": true
+  },
+  {
+   "t": "Five categories is the free limit. Plus has unlimited, for a brain that sees a new category everywhere.",
+   "f": true
+  },
+  {
+   "t": "Five on free, unlimited on Plus. Room for every hobby, even the one you’ll start tomorrow.",
+   "f": true
+  },
+  {
+   "t": "The free plan has five categories. Plus has unlimited. More boxes, same lovely chaos.",
+   "f": true
+  },
+  {
+   "t": "Five categories on free. Plus has unlimited, because “Other” shouldn’t have to carry everything.",
+   "f": true
+  },
+  {
+   "t": "That’s the five free categories. Plus has unlimited, so “Misc” can take a break.",
+   "f": true
+  },
+  {
+   "t": "Five categories on the free plan. Plus has unlimited. Even one for the tabs you swear you’ll read.",
+   "f": true
+  },
+  {
+   "t": "The free plan holds five. Plus holds unlimited categories, for every new thing your brain falls for.",
+   "f": true
+  }
+ ],
+ "fixHeadline": [
+  {
+   "t": "{count} small changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to try",
+   "f": false
+  },
+  {
+   "t": "{count} little changes",
+   "f": false
+  },
+  {
+   "t": "{count} small tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small changes for today",
+   "f": false
+  },
+  {
+   "t": "Just {count} small changes",
+   "f": false
+  },
+  {
+   "t": "Here are {count} small changes",
+   "f": false
+  },
+  {
+   "t": "{count} gentle changes",
+   "f": false
+  },
+  {
+   "t": "{count} small fixes",
+   "f": false
+  },
+  {
+   "t": "{count} small shifts",
+   "f": false
+  },
+  {
+   "t": "{count} quick changes",
+   "f": false
+  },
+  {
+   "t": "{count} small adjustments",
+   "f": false
+  },
+  {
+   "t": "Try {count} small changes",
+   "f": false
+  },
+  {
+   "t": "{count} easy changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, that’s all",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to your day",
+   "f": false
+  },
+  {
+   "t": "{count} little tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small moves",
+   "f": false
+  },
+  {
+   "t": "Only {count} small changes",
+   "f": false
+  },
+  {
+   "t": "{count} small edits to today",
+   "f": false
+  },
+  {
+   "t": "{count} small changes suggested",
+   "f": false
+  },
+  {
+   "t": "{count} light changes",
+   "f": false
+  },
+  {
+   "t": "{count} small tweaks for today",
+   "f": false
+  },
+  {
+   "t": "{count} small tweaks to try",
+   "f": false
+  },
+  {
+   "t": "{count} changes, all small",
+   "f": false
+  },
+  {
+   "t": "{count} tiny changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to help",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, nothing big",
+   "f": false
+  },
+  {
+   "t": "{count} small, easy changes",
+   "f": false
+  },
+  {
+   "t": "{count} simple changes",
+   "f": false
+  },
+  {
+   "t": "{count} minor changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to consider",
+   "f": false
+  },
+  {
+   "t": "{count} small nudges",
+   "f": false
+  },
+  {
+   "t": "{count} small plan changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to the plan",
+   "f": false
+  },
+  {
+   "t": "{count} small tweaks to the plan",
+   "f": false
+  },
+  {
+   "t": "{count} gentle tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small swaps",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, easy ones",
+   "f": false
+  },
+  {
+   "t": "{count} small changes for the day",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, no big ones",
+   "f": false
+  },
+  {
+   "t": "{count} small changes worth trying",
+   "f": false
+  },
+  {
+   "t": "{count} modest changes",
+   "f": false
+  },
+  {
+   "t": "{count} small updates",
+   "f": false
+  },
+  {
+   "t": "{count} small updates to today",
+   "f": false
+  },
+  {
+   "t": "Just {count} small tweaks",
+   "f": false
+  },
+  {
+   "t": "Just {count} little changes",
+   "f": false
+  },
+  {
+   "t": "{count} quick tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, that’s it",
+   "f": false
+  },
+  {
+   "t": "We found {count} small changes",
+   "f": false
+  },
+  {
+   "t": "{count} small changes we suggest",
+   "f": false
+  },
+  {
+   "t": "{count} small changes could help",
+   "f": false
+  },
+  {
+   "t": "{count} small changes to make",
+   "f": false
+  },
+  {
+   "t": "{count} changes, each one small",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, no rush",
+   "f": false
+  },
+  {
+   "t": "{count} easy tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small, simple changes",
+   "f": false
+  },
+  {
+   "t": "{count} little adjustments",
+   "f": false
+  },
+  {
+   "t": "{count} small changes on offer",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, your call",
+   "f": false
+  },
+  {
+   "t": "{count} small changes, if you like",
+   "f": false
+  },
+  {
+   "t": "{count} small rearrangements",
+   "f": false
+  },
+  {
+   "t": "{count} light tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small course corrections",
+   "f": false
+  },
+  {
+   "t": "Here are {count} little changes",
+   "f": false
+  },
+  {
+   "t": "{count} optional small changes",
+   "f": false
+  },
+  {
+   "t": "Only {count} small tweaks",
+   "f": false
+  },
+  {
+   "t": "{count} small fixes for today",
+   "f": false
+  },
+  {
+   "t": "{count} small fixes to try",
+   "f": false
+  },
+  {
+   "t": "{count} gentle tweaks to try",
+   "f": false
+  },
+  {
+   "t": "{count} small tweaks, no big drama",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, zero drama",
+   "f": true
+  },
+  {
+   "t": "{count} tiny tweaks, big relief",
+   "f": true
+  },
+  {
+   "t": "{count} small tweaks, no overhaul",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, no rebuild",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, not a makeover",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, not a total reboot",
+   "f": true
+  },
+  {
+   "t": "{count} small nudges, not a shove",
+   "f": true
+  },
+  {
+   "t": "{count} small changes. No sweat",
+   "f": true
+  },
+  {
+   "t": "{count} tiny tweaks, pinky promise",
+   "f": true
+  },
+  {
+   "t": "{count} small fixes, no duct tape",
+   "f": true
+  },
+  {
+   "t": "{count} little tweaks, big exhale",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, no pep talk",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, no rewrites",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, not a remodel",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, zero chaos",
+   "f": true
+  },
+  {
+   "t": "{count} small fixes, no hammer",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, snack-sized",
+   "f": true
+  },
+  {
+   "t": "{count} bite-sized changes",
+   "f": true
+  },
+  {
+   "t": "{count} small tweaks, easy mode",
+   "f": true
+  },
+  {
+   "t": "{count} tiny fixes, no big reset",
+   "f": true
+  },
+  {
+   "t": "{count} small tweaks, not a saga",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, no fanfare",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, no spreadsheets",
+   "f": true
+  },
+  {
+   "t": "{count} feather-light changes",
+   "f": true
+  },
+  {
+   "t": "{count} pocket-sized changes",
+   "f": true
+  },
+  {
+   "t": "{count} small tweaks, no homework",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, zero lectures",
+   "f": true
+  },
+  {
+   "t": "{count} tweaks, no new hobbies",
+   "f": true
+  },
+  {
+   "t": "{count} small changes, no new tabs",
+   "f": true
+  }
+ ]
+}

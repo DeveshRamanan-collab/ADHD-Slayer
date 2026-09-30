@@ -1,0 +1,86 @@
+{
+ "greetingTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 32,
+  "context": "Big serif hello on the first screen after the start animation.",
+  "example": "Hi. Welcome in."
+ },
+ "welcomeHome": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Small toast the first time the home page appears.",
+  "example": "You’re in. Have a wander."
+ },
+ "fiveThingsEyebrow": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 24,
+  "context": "Tiny uppercase label above today’s five priorities.",
+  "example": "Today, in five"
+ },
+ "nowThen": {
+  "tone": "light",
+  "placeholders": [
+   "task",
+   "time"
+  ],
+  "maxCharacters": 60,
+  "context": "Line under the Now card saying what’s next.",
+  "example": "Then {task} at {time}."
+ },
+ "restHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 34,
+  "context": "Headline: how many things are left today (count is 2 or more).",
+  "example": "{count} things left"
+ },
+ "tinyWinsEmpty": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Nothing finished yet today. Never shaming.",
+  "example": "Nothing ticked off yet. The day is young."
+ },
+ "arrivalEvening": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Evening greeting on the daily starting page.",
+  "example": "Good evening, {name}."
+ },
+ "rhythmTuneBody": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 140,
+  "context": "What they can change on the Patterns page; plans follow at once.",
+  "example": "Change your focus window, how long things take, how full days get and when you eat. Plans follow straight away."
+ },
+ "detailEstimates": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Explains the estimates chart: your guess, then what it really took; plans add a buffer.",
+  "example": "Your guess, then what it actually took. Plans now add the difference for you."
+ },
+ "personaliseIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Intro to the Personalise page: tell us when you like doing things and the plan leans that way.",
+  "example": "Tell us when you like doing things. The plan will lean that way."
+ },
+ "focusDoneCheer": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Small cheer after marking a focus block done.",
+  "example": "Done. Brain one, chaos nil."
+ }
+}

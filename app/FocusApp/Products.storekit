@@ -1,0 +1,75 @@
+{
+  "identifier" : "5F0C8A1E",
+  "nonRenewingSubscriptions" : [ ],
+  "products" : [ ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_AU",
+    "_storefront" : "AUS",
+    "_storeKitErrors" : [ ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21A00001",
+      "localizations" : [ ],
+      "name" : "Focus Plus",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [ ],
+          "codeOffers" : [ ],
+          "displayPrice" : "59.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "31A00002",
+          "introductoryOffer" : {
+            "internalID" : "41A00002",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "Unlimited kinds of day and activity categories.",
+              "displayName" : "Focus Plus, yearly",
+              "locale" : "en_AU"
+            }
+          ],
+          "productID" : "au.adhdslayer.focus.plus.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Focus Plus Yearly",
+          "subscriptionGroupID" : "21A00001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [ ]
+        },
+        {
+          "adHocOffers" : [ ],
+          "codeOffers" : [ ],
+          "displayPrice" : "7.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "31A00001",
+          "introductoryOffer" : {
+            "internalID" : "41A00001",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "Unlimited kinds of day and activity categories.",
+              "displayName" : "Focus Plus, monthly",
+              "locale" : "en_AU"
+            }
+          ],
+          "productID" : "au.adhdslayer.focus.plus.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Focus Plus Monthly",
+          "subscriptionGroupID" : "21A00001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [ ]
+        }
+      ]
+    }
+  ],
+  "version" : { "major" : 4, "minor" : 0 }
+}

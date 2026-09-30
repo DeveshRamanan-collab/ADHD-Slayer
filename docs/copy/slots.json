@@ -1,0 +1,498 @@
+{
+ "splashTagline": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 48,
+  "context": "Under the app name on the animated starting screen, first launch.",
+  "example": "Plans that know how your brain works."
+ },
+ "greetingTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 32,
+  "context": "Big serif hello on the first screen after the start animation.",
+  "example": "Hi. Welcome in."
+ },
+ "greetingBody": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 150,
+  "context": "One or two sentences under the hello, saying what the app is: a planner built around an ADHD brain and its medication.",
+  "example": "This is a planner built around your brain and your medication, not the other way round."
+ },
+ "accountTitle": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Heading on the create-account screen.",
+  "example": "First, somewhere to keep your stuff."
+ },
+ "accountBody": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 150,
+  "context": "Why an account: plans follow you to a new phone; medication is encrypted and never readable by us.",
+  "example": "An account lets your plans follow you to a new phone. Your medication is encrypted and we can’t read it."
+ },
+ "trialTitle": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Heading on the free-trial screen before the free plan. Must not state a trial length (Apple’s offer shows that).",
+  "example": "Try all of it, free, for a month."
+ },
+ "trialWhy": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 190,
+  "context": "Why the trial exists: ADHD takes time to understand, and so does knowing if an app works for you. If it doesn’t, just cancel. Must end with the idea of cancelling being easy.",
+  "example": "Because ADHD takes time to figure out, and so does knowing whether an app actually helps. If it doesn’t, just cancel."
+ },
+ "welcomeHome": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Small toast the first time the home page appears.",
+  "example": "You’re in. Have a wander."
+ },
+ "coachPriorities": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Coach mark pointing at today’s five priorities.",
+  "example": "These are today’s five. Short on purpose."
+ },
+ "coachMeds": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Coach mark pointing at the home medication row: two medication buttons (tap to log, hold for another time) and a more button (every dose today, with Log all).",
+  "example": "Your medication lives here. Tap one to log it. More shows the rest."
+ },
+ "coachDots": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Coach mark pointing at the page dots: flick up for the next page.",
+  "example": "Flick up for the next page. The dots show where you are."
+ },
+ "coachSetup": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Coach mark suggesting they set up medication and day types in You.",
+  "example": "Set up your medication and day types in You. It takes about two minutes."
+ },
+ "coachDone": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Last coach mark; they can now explore freely.",
+  "example": "That’s the tour. Wander wherever you like."
+ },
+ "fiveThingsEyebrow": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 24,
+  "context": "Tiny uppercase label above today’s five priorities.",
+  "example": "Today, in five"
+ },
+ "medsAllLogged": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Shown under the medication row when everything due today is logged.",
+  "example": "All logged. Nice."
+ },
+ "medsNothingDue": {
+  "tone": "serious",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 64,
+  "context": "Nothing is due right now; says when the next one is.",
+  "example": "Nothing due right now. Next at {time}."
+ },
+ "medsLoggedToast": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 60,
+  "context": "Toast after Log all logs some doses.",
+  "example": "Logged {count}. Done and dusted."
+ },
+ "medsNone": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 80,
+  "context": "No medication set up yet; invites them to add it.",
+  "example": "No medication set up yet. Add it whenever you’re ready."
+ },
+ "nowGap": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "Headline when nothing is scheduled right now.",
+  "example": "This gap is yours."
+ },
+ "nowThen": {
+  "tone": "light",
+  "placeholders": [
+   "task",
+   "time"
+  ],
+  "maxCharacters": 60,
+  "context": "Line under the Now card saying what’s next.",
+  "example": "Then {task} at {time}."
+ },
+ "dayLineWarming": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 52,
+  "context": "Status line: medication is warming up, best focus starts at time.",
+  "example": "Warming up. Best focus from {time}."
+ },
+ "dayLineBest": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 40,
+  "context": "Status line: in best focus until time.",
+  "example": "Best focus until {time}."
+ },
+ "dayLineLighter": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 40,
+  "context": "Status line: lighter focus until time.",
+  "example": "Lighter focus until {time}."
+ },
+ "dayLineAfter": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Status line: the focus window has ended for today.",
+  "example": "Focus window’s done for today. Go gently."
+ },
+ "dayLineRoutine": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Status line on a medication-free or not-yet-logged day.",
+  "example": "Planning from your routine today."
+ },
+ "restHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 34,
+  "context": "Headline: how many things are left today (count is 2 or more).",
+  "example": "{count} things left"
+ },
+ "restOneLeft": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 34,
+  "context": "Headline: exactly one thing left today.",
+  "example": "One thing left"
+ },
+ "restUnplaced": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 110,
+  "context": "Some tasks didn’t fit without over-packing; Fix my day can help.",
+  "example": "{count} didn’t fit without over-packing. Fix my day can split or move it."
+ },
+ "shapesHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "done",
+   "total"
+  ],
+  "maxCharacters": 36,
+  "context": "Headline: done of total tasks.",
+  "example": "{done} of {total} done"
+ },
+ "changeFootnote": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 80,
+  "context": "Reassurance under Fix my day and Baseline buttons.",
+  "example": "Nothing moves until you say so. Undo is always one tap."
+ },
+ "tinyWinsTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "Headline on the page listing what they’ve finished today.",
+  "example": "Look what you already did."
+ },
+ "tinyWinsEmpty": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Nothing finished yet today. Never shaming.",
+  "example": "Nothing ticked off yet. The day is young."
+ },
+ "breatheIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Intro to a one-minute paced breathing page where the phone taps along.",
+  "example": "In for four, out for six. Your phone will tap along."
+ },
+ "socialLine": {
+  "tone": "light",
+  "placeholders": [
+   "event",
+   "time"
+  ],
+  "maxCharacters": 80,
+  "context": "Short line on the home page: a plan with other people sits at an awkward time; tap to see a suggestion.",
+  "example": "{event} is at {time}. Want to ask to move it?"
+ },
+ "socialMessage": {
+  "tone": "playful",
+  "placeholders": [
+   "name",
+   "event",
+   "time"
+  ],
+  "maxCharacters": 160,
+  "context": "Draft text message the person may send a friend asking to move a plan. Warm, casual, may joke about their own brain. They edit it before sending.",
+  "example": "Hey {name}, any chance we could do {event} at {time} instead? My brain’s much better company then."
+ },
+ "arrivalMorning": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Morning greeting on the daily starting page.",
+  "example": "Good morning, {name}."
+ },
+ "arrivalAfternoon": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Afternoon greeting on the daily starting page.",
+  "example": "Good afternoon, {name}."
+ },
+ "arrivalEvening": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Evening greeting on the daily starting page.",
+  "example": "Good evening, {name}."
+ },
+ "arrivalQuestion": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 40,
+  "context": "The one question on the daily starting page: how their brain feels today (answers are Low, Okay, Good).",
+  "example": "How’s your brain today?"
+ },
+ "planWeekHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 44,
+  "context": "Headline: how many of the last 7 days met their baseline.",
+  "example": "{count} of 7 days counted"
+ },
+ "planWeekExplainer": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 170,
+  "context": "Explains a baseline day: the three things that keep life moving; most weeks aren’t 7/7 and that’s fine.",
+  "example": "A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s the whole point of a baseline."
+ },
+ "rhythmIntro": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 60,
+  "context": "Under ‘Four weeks of you’: how many days counted this week.",
+  "example": "This week, {count} of 7 days counted."
+ },
+ "rhythmTuneTitle": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Headline inviting them to edit their learned patterns.",
+  "example": "Something here not quite you?"
+ },
+ "rhythmTuneBody": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 140,
+  "context": "What they can change on the Patterns page; plans follow at once.",
+  "example": "Change your focus window, how long things take, how full days get and when you eat. Plans follow straight away."
+ },
+ "rhythmFooter": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 70,
+  "context": "Footer: patterns, not scores; the data stays on the iPhone.",
+  "example": "Patterns, not scores. All of this stays on your iPhone."
+ },
+ "detailPlanDone": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Explains the planned vs done chart: grey planned, gold done; gaps are information not failure.",
+  "example": "Grey is what you planned, gold is what got done. Gaps are information, not failure."
+ },
+ "detailBrain": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 120,
+  "context": "Explains the brain weather chart; on low days the app planned a baseline day.",
+  "example": "How you said your brain felt each morning. On low days the plan got lighter on its own."
+ },
+ "detailHours": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Explains the hour heatmap: each dot is an hour; brighter means more finished.",
+  "example": "Each dot is an hour. The brighter it is, the more you finished then."
+ },
+ "detailWindow": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 130,
+  "context": "Explains the learned focus curve: how often check-ins said it was working, by hours after logging; the band is certainty.",
+  "example": "How often your check-ins said it was working, by hours after logging. The shaded band is how sure the app is."
+ },
+ "detailEstimates": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Explains the estimates chart: your guess, then what it really took; plans add a buffer.",
+  "example": "Your guess, then what it actually took. Plans now add the difference for you."
+ },
+ "detailSleep": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Explains the sleep chart: bars are hours slept, the line is how much of the plan got done the next day.",
+  "example": "Bars are hours slept. The line is how much of the next day’s plan got done."
+ },
+ "detailLogs": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Explains the log-times chart: each dot a logged morning; the band is where most fall.",
+  "example": "Each dot is a logged morning. The band is where most of them land."
+ },
+ "dayTypesIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Intro to day types on the Medication page: different days have different rhythms; name them anything.",
+  "example": "Different days, different rhythms. Name them whatever makes sense to you."
+ },
+ "dayTypesLimit": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "They hit the free plan’s three day types; Plus has unlimited. No pressure wording.",
+  "example": "The free plan holds three day types. Plus holds as many as your life has."
+ },
+ "actionButtonPitch": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Suggestion right after medication setup: log with one press of the Action button.",
+  "example": "Want to log with one press? Your Action button can do it."
+ },
+ "personaliseIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Intro to the Personalise page: tell us when you like doing things and the plan leans that way.",
+  "example": "Tell us when you like doing things. The plan will lean that way."
+ },
+ "categoriesLimit": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "They hit the free plan’s five categories; Plus has unlimited.",
+  "example": "Five categories on the free plan. Plus if you need more boxes. We won’t judge."
+ },
+ "socialIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 130,
+  "context": "Explains social suggestions: the phone spots plans with people and suggests better times; nothing is ever sent for them.",
+  "example": "Your phone can spot plans with people and suggest better times. Nothing ever gets sent for you."
+ },
+ "hyperfixationWarning": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Quirky warning at the top of the Customise page: this might become their hyperfixation and eat the next six hours.",
+  "example": "Careful. This page might become your hyperfixation and eat the next six hours."
+ },
+ "customiseIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Intro to Customise: make it yours; nothing here can break your plan.",
+  "example": "Make it yours. Nothing here can break your plan."
+ },
+ "settingsIntro": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Intro to Settings.",
+  "example": "The boring but important bits."
+ },
+ "focusDoneCheer": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Small cheer after marking a focus block done.",
+  "example": "Done. Brain one, chaos nil."
+ },
+ "fixHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 34,
+  "context": "Fix my day headline: count small changes (count is 2 or more).",
+  "example": "{count} small changes"
+ },
+ "fixSubtitle": {
+  "tone": "light",
+  "placeholders": [
+   "minutes"
+  ],
+  "maxCharacters": 110,
+  "context": "Fix my day subtitle: running minutes over; this is the smallest change that keeps today on track.",
+  "example": "You’re running {minutes} min over. Here’s the smallest change that keeps today on track."
+ },
+ "emptyPlan": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Nothing planned today.",
+  "example": "Nothing planned. Suspiciously calm."
+ }
+}

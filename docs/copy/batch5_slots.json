@@ -1,0 +1,90 @@
+{
+ "accountBody": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 150,
+  "context": "Why an account: plans follow you to a new phone; medication is encrypted and never readable by us.",
+  "example": "An account lets your plans follow you to a new phone. Your medication is encrypted and we can’t read it."
+ },
+ "coachDots": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Coach mark pointing at the page dots: flick up for the next page.",
+  "example": "Flick up for the next page. The dots show where you are."
+ },
+ "medsLoggedToast": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 60,
+  "context": "Toast after Log all logs some doses.",
+  "example": "Logged {count}. Done and dusted."
+ },
+ "dayLineLighter": {
+  "tone": "light",
+  "placeholders": [
+   "time"
+  ],
+  "maxCharacters": 40,
+  "context": "Status line: lighter focus until time.",
+  "example": "Lighter focus until {time}."
+ },
+ "shapesHeadline": {
+  "tone": "light",
+  "placeholders": [
+   "done",
+   "total"
+  ],
+  "maxCharacters": 34,
+  "context": "Headline: done of total tasks.",
+  "example": "{done} of {total} done"
+ },
+ "socialMessage": {
+  "tone": "playful",
+  "placeholders": [
+   "name",
+   "event",
+   "time"
+  ],
+  "maxCharacters": 160,
+  "context": "Draft text message the person may send a friend asking to move a plan. Warm, casual, may joke about their own brain. They edit it before sending.",
+  "example": "Hey {name}, any chance we could do {event} at {time} instead? My brain’s much better company then."
+ },
+ "planWeekExplainer": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 170,
+  "context": "Explains a baseline day: the three things that keep life moving; most weeks aren’t 7/7 and that’s fine.",
+  "example": "A day counts when your baseline is done. Most weeks aren’t seven out of seven. That’s the whole point of a baseline."
+ },
+ "detailBrain": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 120,
+  "context": "Explains the brain weather chart; on low days the app planned a baseline day.",
+  "example": "How you said your brain felt each morning. On low days the plan got lighter on its own."
+ },
+ "dayTypesIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Intro to day types on the Medication page: different days have different rhythms; name them anything.",
+  "example": "Different days, different rhythms. Name them whatever makes sense to you."
+ },
+ "hyperfixationWarning": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 100,
+  "context": "Quirky warning at the top of the Customise page: this might become their hyperfixation and eat the next six hours.",
+  "example": "Careful. This page might become your hyperfixation and eat the next six hours."
+ },
+ "emptyPlan": {
+  "tone": "playful",
+  "placeholders": [],
+  "maxCharacters": 60,
+  "context": "Nothing planned today.",
+  "example": "Nothing planned. Suspiciously calm."
+ }
+}

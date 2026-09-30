@@ -1,0 +1,1121 @@
+@@ splashTagline
+P|Plans that know how your brain works.
+P|A planner that works the way your brain does.
+P|Your day, planned around how you actually work.
+P|Days shaped around your own rhythm.
+P|Planning that fits the way you think.
+P|A calmer day, built around your brain.
+P|Plans that move with your brain, not against it.
+P|Your rhythm, your day, your plan.
+P|A day planner made for ADHD brains.
+P|Planning that starts with how you work.
+P|Built around the brain you actually have.
+P|Plans that follow your rhythm.
+P|A planner that learns how you work.
+P|Days that fit the way your mind works.
+P|Your day, arranged around your focus.
+P|Planning with your brain, not despite it.
+P|A gentler way to plan an ADHD day.
+P|Plans that make room for how you work.
+P|Made for the way your brain really works.
+P|Your day, in step with your brain.
+P|A planner that meets you where you are.
+P|Planning that understands your rhythm.
+P|Days planned the way your brain likes.
+P|Plans that fit your brain, not a template.
+P|Your focus, your rhythm, your day.
+P|A planner that gets how you work.
+P|Planning around the real you.
+P|Days built around when you focus best.
+P|A quieter way to plan your day.
+P|Plans made to match your mind.
+P|The planner that learns your rhythm.
+P|Built for brains that work differently.
+P|Your day, planned with you in mind.
+P|Plans that bend to your brain.
+P|Planning, tuned to how you think.
+P|A day that works with your brain.
+P|Plans shaped by your own patterns.
+P|Planning that follows your lead.
+P|A planner that knows your good hours.
+P|Your brain, your rhythm, a plan that fits.
+P|Made to work the way you do.
+P|Planning that fits real ADHD days.
+P|Days that work with you, not against you.
+P|A planner built around your focus.
+P|Plans that respect how your brain works.
+P|Your day, set to your own rhythm.
+P|A kind planner for busy brains.
+P|Planning that starts with you.
+P|Plans that know when you do your best work.
+P|Built to fit how you really focus.
+P|A planner in tune with your brain.
+P|Each day, planned around you.
+P|Planning designed for ADHD minds.
+P|Days that follow your natural rhythm.
+P|A planner that listens to your patterns.
+P|Plans that fit your focus, hour by hour.
+P|Your day, made to fit your brain.
+P|Planning that works on your terms.
+P|A day planner that understands ADHD.
+P|Plans that keep pace with your brain.
+P|Built around how your days really go.
+P|A planner that adapts to you.
+P|Planning with room for your brain.
+P|Your plans, in rhythm with you.
+P|Days that feel like yours.
+P|A planner that works with your focus.
+P|Plans made for how you really live.
+P|Planning that learns what works for you.
+P|A day, planned to fit your mind.
+P|The planner that fits your brain.
+F|Plans for brains with 47 tabs open.
+F|Built for brains on their own clock.
+F|Planning for brains that take the scenic route.
+F|For minds that wander. Plans that wander back.
+F|Plans for brains between radio stations.
+F|A planner for the gloriously distractible.
+F|Time blindness, meet your new planner.
+F|For brains that start four hobbies a month.
+F|Plans that know five minutes is never five.
+F|A planner that expects the side quests.
+F|For people who walk into rooms and forget why.
+F|Brain like a browser? Here are your bookmarks.
+F|Plans that don't mind a rabbit hole or two.
+F|A planner that gets ADHD. Like, really gets it.
+F|Hyperfocus-friendly. Tangent-tolerant.
+F|For brains that read the same line six times.
+F|For brains that run on snacks and curiosity.
+F|Where ‘later' gets an actual time.
+F|A planner that won't judge the doom pile.
+F|For anyone who's lost a phone while holding it.
+F|Like alarms for your alarms, but calmer.
+F|Made for brains with more ideas than hours.
+F|For brains that chase the interesting thing.
+F|A planner that knows the squirrel is coming.
+F|For the brain that's three thoughts ahead.
+F|Made for brains that do everything at once.
+F|Plans for hyperfocus days and scattered days.
+F|A planner fluent in ‘just one more thing'.
+F|Big ideas, loose grip on time? Same. Welcome.
+F|For brains that are busy being brilliant.
+
+@@ trialWhy
+P|Because ADHD takes time to figure out, and so does knowing whether an app actually helps. If it doesn't, just cancel.
+P|ADHD takes time to understand. So does knowing if an app is right for you. If this one isn't, cancelling is easy.
+P|Getting to know your ADHD takes time, and so does finding out if an app helps. If it doesn't, you can cancel easily.
+P|Your ADHD brain takes time to understand, and so does a new app. Try it properly. If it isn't helping, just cancel.
+P|Figuring out ADHD is a slow process, and so is figuring out if an app fits. If this one doesn't, cancelling is simple.
+P|Understanding your ADHD doesn't happen overnight. Neither does knowing if an app works for you. If it doesn't, you can cancel anytime.
+P|It takes time to learn how your ADHD works, and time to see if an app really helps. If it doesn't, just cancel, no fuss.
+P|ADHD isn't something you figure out in a day, and neither is a planner. Give it a fair go. If it's not for you, cancelling is easy.
+P|Knowing your own ADHD takes time. Knowing whether an app helps takes time too. If this one doesn't, cancelling is quick.
+P|Because learning your ADHD takes time, and so does learning whether an app is worth keeping. If it isn't, just cancel.
+P|ADHD takes a while to understand, and it's fair to take a while to see if this helps. If it doesn't, cancelling is easy.
+P|You deserve time to see if this actually helps, because ADHD takes time to understand. If it doesn't help, just cancel.
+P|Understanding ADHD takes patience, and so does finding the right tools. If this isn't the right one, cancelling is easy.
+P|It's fair to find out if an app works for you before you commit. ADHD takes time to figure out, after all. If it doesn't work, just cancel.
+P|ADHD takes time to get to know. So does any new app. See how it fits, and if it doesn't, cancel with no hassle.
+P|Learning how your brain works with ADHD takes time. So does knowing if an app helps. If this one doesn't, you can cancel easily.
+P|Because figuring out ADHD takes time, and you deserve time to see if this helps. If it doesn't, cancelling is easy.
+P|ADHD takes time to understand, and knowing if an app helps takes more than a first look. Try it for real. If it's not right, just cancel.
+P|It takes time to understand ADHD, and time to know if a planner fits your life. If this one doesn't, cancelling takes a moment.
+P|Understanding your ADHD is a long game. Knowing whether an app helps takes time too. If this one doesn't, just cancel.
+P|ADHD takes time to understand, and so does any tool that says it can help. See for yourself. If it doesn't help, cancelling is easy.
+P|It's only fair you get to see if this works for you. ADHD takes time to figure out, and so do apps. If it isn't right, just cancel.
+P|Nobody figures out ADHD in an afternoon, and apps are the same. Take your time with it. If this one doesn't help, just cancel.
+P|Understanding ADHD takes time. Knowing if an app is worth it takes time too. You get that time here, and if it's not for you, cancelling is easy.
+P|Making sense of ADHD takes a while, so it's fair to take a while deciding about this app too. If it doesn't help, cancelling is simple.
+P|Understanding ADHD takes time, and finding what helps takes some trial and error. If this app isn't it, cancelling is easy.
+P|Getting to know ADHD takes time. So does telling whether an app is really helping. If it isn't, cancelling is quick and easy.
+P|It takes a while to learn what your ADHD brain needs. It takes a while to know if an app helps, too. If this one doesn't, just cancel.
+P|Every ADHD brain is different, and it takes time to understand yours and what helps it. If this app doesn't, cancelling is easy.
+P|ADHD takes time to understand, so this gives you time to see if the app fits. If it doesn't, cancel whenever you like.
+P|Knowing if an app helps takes more than a first impression, especially with ADHD, which takes time to understand. If it doesn't help, just cancel.
+P|Because understanding ADHD takes time, and so does trusting a new app. If it doesn't earn that trust, cancelling is easy.
+P|ADHD makes sense slowly, and so does a new routine. See if this one helps. If it doesn't, cancelling is simple.
+P|ADHD takes time to understand, and so does the right planner. You get to find out properly. If this isn't it, just cancel.
+P|ADHD takes time to figure out, so you get a fair chance to see whether this helps. If it doesn't, cancelling is easy.
+P|There's no rush. ADHD takes time to understand, and so does knowing if an app works. If this one doesn't, just cancel.
+P|It takes time to see the patterns in an ADHD brain, and time to see if an app helps with them. If it doesn't, cancelling is easy.
+P|Understanding ADHD is a process, and so is finding what helps. This is part of it. If the app isn't helping, cancelling is quick.
+P|Because ADHD takes time to understand, and one good day isn't proof an app works. See how it goes. If it doesn't help, just cancel.
+P|It takes time to understand ADHD, and more than a quick look to know if an app helps. Try it. If it doesn't fit, cancelling is easy.
+P|Learning your ADHD is ongoing. Learning if an app suits it takes time too. If this one doesn't, you can cancel without any fuss.
+P|ADHD isn't quick to understand, and neither is whether an app helps. You get the time to decide. If it doesn't, just cancel.
+P|Because it takes time to know your ADHD, and time to know if this helps. If it doesn't, no hard feelings. Cancelling is easy.
+P|It takes time to learn what your ADHD needs, and to see if an app meets it. If this one doesn't, you can cancel easily.
+P|ADHD takes time to understand. It's fair to want time to see if an app works for you. If it doesn't, just cancel.
+P|Because understanding ADHD takes time, and a planner has to prove itself. If this one doesn't, cancelling is easy.
+P|Your ADHD is yours to understand, and that takes time. So does deciding if this helps. If it doesn't, cancelling is simple.
+P|ADHD takes time to understand, and a good planner takes time to settle in. If this one doesn't, cancelling is easy.
+P|Nobody understands their ADHD overnight, and no app gets judged overnight either. If this one doesn't help, just cancel.
+P|It takes time to understand ADHD. It takes time to see if an app helps. So take the time, and if it doesn't help, cancel easily.
+P|Because ADHD takes time to understand, and deciding if an app helps is part of that. If it doesn't, cancelling is easy.
+P|Understanding ADHD takes time, and trying something new works best without pressure. If this doesn't help, cancelling is easy.
+P|It's fair to test whether this helps before deciding. ADHD takes time to understand. If the app doesn't help, cancelling is easy.
+P|ADHD takes time to understand. So does a new habit. Give this one a real chance, and if it doesn't help, cancel anytime.
+P|Because ADHD takes time to understand, and what helps is personal. If this app isn't it for you, cancelling is easy.
+P|ADHD takes time to understand, and it's fair to see if an app works before you rely on it. If it doesn't, just cancel.
+P|Making sense of ADHD takes time. So does making sense of whether an app helps. If this one doesn't, cancelling is easy.
+P|ADHD takes time to understand. You get time here too, to see if this app is worth it. If it isn't, cancelling is easy.
+P|It takes a while to figure out ADHD, and a while to figure out an app. If this app doesn't help, just cancel, and that's that.
+P|ADHD takes time to understand, and so does any new way of planning. Give it a real try. If it doesn't suit you, cancelling is easy.
+P|You can't judge an ADHD tool in a hurry, because ADHD takes time to understand. See if this helps. If not, cancel easily.
+P|ADHD takes time to understand, and so does knowing if this is the app for you. If it isn't, cancelling is quick.
+P|Figuring out ADHD takes time, and it's fair to see if an app earns a place in your day. If it doesn't, just cancel.
+P|Because understanding ADHD takes time, and so does noticing whether an app makes a difference. If it doesn't, just cancel.
+P|ADHD takes time to understand. So does knowing if a planner helps on the messy days too. If it doesn't, cancelling is easy.
+P|ADHD takes time to understand, and an app needs real use to show if it helps. If this one doesn't, cancelling is easy.
+P|Understanding ADHD takes time. So does finding out if an app fits into your life. If this one doesn't, you can simply cancel.
+P|ADHD takes time to understand, and you deserve to know if this helps before you commit. If it doesn't, just cancel.
+P|Because ADHD takes time to understand, and one app won't suit everyone. If this isn't yours, cancelling is easy.
+P|ADHD takes time to understand, and so does an app. Use it on ordinary days and busy ones. If it doesn't help, cancelling is easy.
+F|ADHD takes time to figure out. So does telling a keeper app from hobby number five. If this one isn't a keeper, cancelling is easy.
+F|ADHD takes time to understand, and a new app deserves more than one hyperfocus session. If this one doesn't help, cancelling is easy.
+F|ADHD takes a while to explain itself. Apps do too. If this one isn't helping, cancelling is easy.
+F|ADHD takes time to understand. So does telling whether an app helps, or was just a shiny new thing. If it's just shiny, cancelling is easy.
+F|ADHD takes time to understand. Apps too, which is why many phones have a small planner graveyard. If this one joins it, cancelling is easy.
+F|Understanding ADHD takes time. So does deciding if an app is a tool or just another tab. If it's just a tab, cancelling is easy.
+F|ADHD takes time to understand, and first impressions of apps are famously unreliable. See if this one sticks. If not, cancelling is easy.
+F|ADHD takes time to figure out, and so does any app, even a charming one like this. If it doesn't help, cancelling is easy.
+F|It takes time to understand ADHD. It takes time to know if an app helps. It takes no time at all to cancel if it doesn't.
+F|ADHD takes time to understand, and so does trusting an app with your whole chaotic day. If it's not up to it, cancelling is easy.
+F|ADHD takes time to understand. We'd rather you find out if this helps than guess. If it doesn't, cancelling is easy, pinky promise.
+F|ADHD takes time to understand, and so does an app. Think of this as a proper first date. If there's no spark, cancelling is easy.
+F|ADHD takes time to understand. Apps too. If this one ends up in the doom pile, cancelling is easy.
+F|ADHD takes time to understand, so don't judge an app in the first five minutes. Or the first hour. If it doesn't help, just cancel.
+F|It takes time to get your ADHD, and time to see if an app gets it too. If this one doesn't get it, cancelling is easy.
+F|Understanding ADHD takes time, so take this app for a proper spin, not just a lap round the car park. If it doesn't help, cancelling is easy.
+F|ADHD takes time to understand. So does knowing if an app helps on a random Tuesday, not just the day you found it. If it doesn't, just cancel.
+F|ADHD brains take time to understand, even for their owners. Same with apps. If this one isn't helping, cancelling is easy.
+F|ADHD takes time to figure out. So does whether a planner survives contact with real life. If this one doesn't, cancelling is easy.
+F|ADHD takes time to understand. It's fair to see if this helps before it becomes another icon you forget about. If it doesn't, cancelling is easy.
+F|ADHD takes time to understand, and so do apps. Some are main quests, some are side quests. If this one's a side quest, cancelling is easy.
+F|ADHD takes time to understand, and so does telling if an app helps or just looks nice. If it only looks nice, cancelling is easy.
+F|ADHD takes time to understand, and so does an app. No need to decide before your tea goes cold. If it doesn't help, cancelling is easy.
+F|ADHD takes time to understand, and some things only click on the third try. If this app never clicks, cancelling is easy.
+F|ADHD takes time to understand, and so does an app. Like a new notebook, it's exciting at first. If the excitement is all it offers, cancelling is easy.
+F|ADHD takes time to understand. So do apps. If this one doesn't help, no sad goodbyes needed. Cancelling is easy.
+F|It takes time to understand ADHD, and the same goes for an app that claims it can help. See if it does. If not, cancelling is easy.
+F|ADHD takes time to understand, and so does an app. Try it on a good day, a bad day, and a lost-your-keys day. If it doesn't help, cancelling is easy.
+F|ADHD takes time to understand, and so does an app. Give it more attention than a Terms and Conditions page. If it doesn't help, cancelling is easy.
+F|Understanding ADHD takes time. Deciding about an app takes time too, ideally longer than it took to download. If it doesn't help, cancelling is easy.
+
+@@ coachDone
+P|That's the tour. Wander wherever you like.
+P|That's everything. Explore at your own pace.
+P|Tour's done. The app is all yours now.
+P|You've seen the basics. Have a look around.
+P|That's the end of the tour. Explore freely.
+P|All done. Take a look around whenever you like.
+P|That's it for the tour. Go wherever feels right.
+P|You're all set. Explore as much or as little as you like.
+P|Tour complete. Everything's open to you now.
+P|That's the lot. Wander around freely.
+P|And that's the tour. Explore whenever you're ready.
+P|You've got the basics. The rest is yours to find.
+P|That's all for now. Look around at your own pace.
+P|The tour's over. Feel free to explore.
+P|You're ready. Wander anywhere you like.
+P|That's the whole tour. Take your time looking around.
+P|Done. Everything is yours to explore.
+P|That's the tour finished. Head wherever you like.
+P|You've seen the main bits. Explore the rest freely.
+P|That's the walkthrough. The rest is up to you.
+P|Tour over. Browse around whenever you want.
+P|That's everything to start. Explore however suits you.
+P|All set. Go where your curiosity takes you.
+P|That's the end. Feel free to look anywhere.
+P|You know your way around now. Enjoy exploring.
+P|That's the quick tour. Wander freely from here.
+P|And you're through. Explore at whatever pace suits you.
+P|That wraps up the tour. Look around as you like.
+P|That's all the tips. The app is yours now.
+P|Finished. Wander through the app however you like.
+P|That's the introduction. Settle in and explore.
+P|You're all caught up. Look around freely.
+P|That's the tour, start to finish. Explore away.
+P|The tour ends here. Everything is open.
+P|That's the guided bit done. Explore on your own now.
+P|Tour done. Go wherever you'd like next.
+P|That's all you need for now. Have a wander.
+P|You're good to go. Explore any part you like.
+P|That was the tour. Take it from here.
+P|That's the last tip. Explore freely.
+F|That's the tour. Go poke every button. We know you want to.
+F|Tour over. Side quests are now unlocked.
+F|That's it. Explore like a cat in a new house.
+F|Tour done. Explore like it's a new hobby, minus the equipment.
+F|That's the tour. No map, no rules, no wrong turns.
+F|All done. Open every screen like it's 47 new tabs.
+F|Tour complete. You may now wander, as nature intended.
+F|That's the lot. Rabbit holes are fully permitted.
+F|Tour over. Curiosity has the wheel now.
+F|That's everything. Explore now, before something shinier appears.
+F|That's the tour. The rest is a choose-your-own-adventure.
+F|Done. Go explore. Snacks are optional but encouraged.
+F|Tour's finished. Wander freely, no hall pass needed.
+F|That's it. Tap around, nothing here bites.
+F|That's the whole tour. Shorter than most of our tangents.
+F|Tour done. Explore at your own speed, even if that's zoom mode.
+F|That's the tour. Consider yourself officially let loose.
+F|Tour complete. Go have a nose around.
+F|All finished. You have permission to get curious.
+F|That's it. Wander like you forgot why you came in.
+F|Tour over. Unlike most tours, there's no gift shop.
+F|That's the tour. No quiz at the end, promise.
+F|Done. Go explore. We'll hold your place, like a bookmark.
+F|Tour done. Go explore, the five-minute kind or the two-hour kind.
+F|Tour finished. The app is now officially your sandbox.
+F|That's it. No more pop-ups telling you where to look.
+F|The tour is over. The tooltips have left the building.
+F|That's the tour. The training wheels are off.
+F|That's all. Now it's your app. We're just the furniture.
+F|Tour done. Explore freely. Getting sidetracked counts as exploring.
+F|That's it from us. Off you go, curious one.
+F|Tour's over. Go on, have a wander. We won't follow you.
+F|That's the tour. The rest you'll find the fun way.
+F|Done. Wander off. It's the one time wandering off is the plan.
+F|That's the tour. You're now the tour guide. No hat required.
+F|Tour finished. Explore now, reorganise the doom pile later.
+F|That's everything. Explore like someone who skipped the manual.
+F|And we're done. You can stop nodding politely now.
+F|Tour over. You're free. Go where the dopamine leads.
+F|That's the grand tour. Well, the medium-sized tour. Explore away.
+F|That's it. Wander. Hyperfocus on something. Surprise yourself.
+F|Tour done. Explore freely. Nobody's timing you.
+F|That's the tour. Go explore. The squirrels can come too.
+F|All done. Make yourself at home. Shoes optional.
+F|Tour over. Explore however your brain wants to, zigzags included.
+F|That's everything. Now the fun bit: getting a little lost.
+F|That's the tour. Pick a direction. Any direction. Even sideways.
+F|Done. Explore in any order. Jumping around is encouraged.
+F|That's the tour. No need to remember any of it. Really.
+F|Tour finished. Forgot half of it already? Same. It's all still here.
+F|That's the tour. Now go explore like no one's watching. No one is.
+F|You've officially graduated from the tour. No speech needed.
+F|All done. Explore now, or after one quick thing. We know how it goes.
+F|That's the tour. The app is now open-world.
+F|Tour done. Explore at your own pace, whatever pace that is today.
+F|That's the end of the tour. The beginning of the wandering.
+F|That's all. The app has been fully introduced. It says hi.
+F|That's the tour. Go on then, have a proper rummage.
+F|That's the tour. Now go find the button we didn't mention.
+F|Tour's done. Explore with the energy of a fresh notebook.
+
+@@ nowGap
+P|This gap is yours.
+P|Nothing planned right now.
+P|A free moment, all yours.
+P|Open time. Yours to use.
+P|Nothing scheduled. Breathe.
+P|This time is free.
+P|A quiet stretch, just for you.
+P|Nothing on right now.
+P|Free time, right now.
+P|This space is yours.
+P|Nothing booked. Take it easy.
+P|A little room in your day.
+P|An open moment.
+P|Unplanned time. All yours.
+P|Nothing needs you right now.
+P|Right now is wide open.
+P|A pause in the plan.
+P|A clear stretch of time.
+P|Free for now.
+P|Room to breathe.
+P|Your time, unscheduled.
+P|Nothing in the diary right now.
+P|Open space in your day.
+P|A gap, just for you.
+P|The plan has a pause here.
+P|Nothing lined up right now.
+P|Time that's yours to spend.
+P|A quiet gap in the day.
+P|You're free right now.
+P|No plans at the moment.
+P|This moment is unclaimed.
+P|A breather in your day.
+P|Nothing scheduled here.
+P|Free space, right now.
+P|A calm little gap.
+P|Clear for now.
+P|Nothing asked of you right now.
+P|An empty spot in the plan.
+P|Unscheduled and all yours.
+P|Some open time.
+F|Free time. Side quests welcome.
+F|Nothing scheduled. The tabs are calling.
+F|A gap. Rabbit holes optional.
+F|Nothing on. Snack, stretch, or stare.
+F|Free. Your brain has ideas already.
+F|Nothing planned. Suspicious, but nice.
+F|Open time. Choose your own adventure.
+F|A gap. Don't tell the to-do list.
+F|Free time. Very rare. Handle with care.
+F|Nothing planned. Plot twist.
+F|A gap. Perfect for staring into space.
+F|Free now. The doom pile won't notice.
+F|Nothing on. Officially off duty.
+F|Open time. No alarms, for once.
+F|The calendar is holding its breath.
+F|Free time spotted in the wild.
+F|Nothing planned. Your brain's choice.
+F|Free now. Five minutes? An hour? Yes.
+F|Nothing on. Go on, wander.
+F|Free time. Try to act natural.
+F|A gap. The good kind of nothing.
+F|Nothing here. Just you and 47 thoughts.
+F|Open time. Dopamine hunt optional.
+F|A gap. Unclaimed time, finders keepers.
+F|Free now. Nobody needs anything. Weird.
+F|Nothing booked. Brain picks the music.
+F|Free now. Great time to find your keys.
+F|Free time. Drawer reorganising optional.
+F|Nothing planned. Main character pause.
+F|Open time. Hyperfocus at your own risk.
+F|A gap. The plan is taking a nap.
+F|Free now. Maybe drink that cold tea.
+F|Nothing on. You're off the clock.
+F|Free time. No quest markers here.
+F|A gap. Nothing to remember. Lovely.
+F|Free. Enjoy it before the day notices.
+F|Open time. Wander, wonder, wiggle.
+F|Free time, no homework attached.
+F|Nothing scheduled. Cue the lo-fi.
+F|A gap. Walk into a room, forget why.
+F|Free now. Your inbox can wait.
+F|Nothing on. Daydreaming is allowed.
+F|Open time. The couch is also an option.
+F|A gap. Ideal for one quick thing.
+F|Nothing planned. Let the squirrels roam.
+F|Free time. Nobody's timing you.
+F|Nothing booked. Brain on free-roam.
+F|Free now. Body doubling with the cat?
+F|Nothing on. The kettle's free too.
+F|Free now. Wandering counts as a plan.
+F|Nothing scheduled. A small miracle.
+F|Free time. Brain says: tangent?
+F|A gap. Stretch like nobody's watching.
+F|Open time. Do a thing. Or don't.
+F|Free now. Reread that sentence in peace.
+F|Nothing on. Your brain can freewheel.
+F|A gap. Doodle, doze, or dawdle.
+F|Nothing scheduled. Time is on your side.
+F|Free now. The later pile can stay later.
+F|Free now. Pace around thinking. Classic.
+
+@@ dayLineRoutine
+P|Planning from your routine today.
+P|Today's plan follows your routine.
+P|Today is planned around your routine.
+P|Working from your usual routine today.
+P|Your routine is shaping today's plan.
+P|Today's plan is built on your routine.
+P|Using your routine to plan today.
+P|Planning today around your usual day.
+P|Today follows your regular routine.
+P|Your usual routine is guiding today.
+P|Today's plan comes from your routine.
+P|Going by your routine today.
+P|Today, the plan follows your routine.
+P|Planning today from your usual habits.
+P|Your routine sets the plan today.
+P|Today's schedule follows your routine.
+P|Building today around your routine.
+P|Today is based on your routine.
+P|Following your routine for today's plan.
+P|Today's plan uses your routine.
+P|Planning around your routine today.
+P|Your routine is the guide for today.
+P|Today runs on your usual routine.
+P|Today is shaped by your routine.
+P|Your regular routine is leading today.
+P|The plan today follows your routine.
+P|Today's plan is based on your usual day.
+P|Planning today with your routine.
+P|Keeping to your routine for today's plan.
+P|Today, planning from your routine.
+P|Leaning on your routine to plan today.
+P|Your routine is the starting point today.
+P|Today starts from your routine.
+P|Planning from your everyday routine today.
+P|Today's plan draws on your routine.
+P|Relying on your routine for today.
+P|Your routine is steering today.
+P|Today's plan rests on your routine.
+P|Planning today by your routine.
+P|Today takes its shape from your routine.
+P|Using your usual day as today's guide.
+P|Today's plan is shaped around your routine.
+P|Your day is planned from your routine.
+P|Your everyday routine is guiding today.
+P|Today follows the shape of your routine.
+P|Today is running on your routine.
+P|The plan is following your routine today.
+P|Planning today in line with your routine.
+P|Your routine is behind today's plan.
+P|Today's plan leans on your routine.
+P|This plan is built from your routine.
+P|Today, your routine guides the plan.
+P|Planning today using your usual routine.
+P|Your routine is in charge of today's plan.
+P|Today is organised around your routine.
+P|Today's plan is organised by your routine.
+P|Arranging today around your routine.
+P|Today is set out from your routine.
+P|Laying out today from your routine.
+P|Your routine is setting today's pace.
+P|Today's pace follows your routine.
+P|Planning today from your normal routine.
+P|Today follows your familiar routine.
+P|Today, the plan comes from your routine.
+P|Your usual day is the template for today.
+P|Your routine is today's template.
+P|Mapping today from your routine.
+P|Today is mapped around your routine.
+P|Planning today to fit your routine.
+P|Today's plan fits around your routine.
+P|Your routine is framing today.
+P|Today is framed by your routine.
+P|Shaping today from your routine.
+P|Taking today's plan from your routine.
+P|Today's plan is drawn from your routine.
+P|Your routine forms the basis of today.
+P|Today's plan is grounded in your routine.
+P|Grounding today's plan in your routine.
+P|Your routine is the base for today.
+P|Today builds on your routine.
+P|Today's plan keeps to your routine.
+P|Structuring today around your routine.
+P|Today is structured by your routine.
+P|Your routine gives today its structure.
+P|Your routine is guiding today's plan.
+P|Today's running order comes from your routine.
+P|Plotting today from your routine.
+P|Today's plan tracks your routine.
+P|Setting today's plan by your routine.
+P|Today is set by your routine.
+P|Your routine is anchoring today.
+P|Anchoring today in your routine.
+P|Today's plan is anchored to your routine.
+P|Your habits are shaping today's plan.
+P|Planning today around your usual habits.
+P|Today is paced by your routine.
+P|Today's plan mirrors your routine.
+P|Today's plan is set from your routine.
+P|The day is planned around your routine.
+P|Today is guided by your routine.
+
+@@ tinyWinsTitle
+P|Look what you already did.
+P|What you've done today.
+P|Today's wins so far.
+P|Look at all this.
+P|Done today.
+P|Everything you've finished.
+P|Your wins today.
+P|Look how much you've done.
+P|Things you got done today.
+P|Today's finished list.
+P|All the things you did.
+P|So far today, you did this.
+P|Small wins, all yours.
+P|Here's what you've done.
+P|Today's tiny wins.
+P|Look back at today so far.
+P|Done and dusted today.
+P|You did all of this today.
+P|What you've ticked off.
+P|The done list.
+P|Today, you did these.
+P|Finished today.
+P|All done so far.
+P|Every win counts. Here they are.
+P|Look how far today's come.
+P|Today's progress.
+P|Wins, big and small.
+P|What got done today.
+P|Your finished things.
+P|This is what you did.
+P|Things you've wrapped up.
+P|Today's ticks.
+P|Look what's done.
+P|A list worth looking at.
+P|You've done more than you think.
+P|Here's your day so far.
+P|Checked off today.
+P|Small things, all done.
+P|Every finished thing today.
+P|Today, so far.
+F|Proof you did things. Receipts attached.
+F|Brain says nothing. Evidence says lots.
+F|Things you did. Not just thought about.
+F|The done pile. Nicer than the doom pile.
+F|Look at you, doing stuff.
+F|Done list: surprisingly long.
+F|Exhibit A: you did stuff.
+F|Today's highlight reel.
+F|Done. Actually done. Not ‘nearly'.
+F|Things that are no longer on the list.
+F|Your done list, in all its glory.
+F|The things that escaped the to-do list.
+F|Where did the time go? Here.
+F|Wins. Tiny, but they count.
+F|The list your brain forgot to mention.
+F|Victory lap, this way.
+F|All this, and it's not even bedtime.
+F|Tiny wins. Big deal.
+F|Behold, things you finished.
+F|Plot twist: you did loads.
+F|The ‘I did that' list.
+F|You, getting things done. Look.
+F|The things that didn't get away.
+F|Done things. Frame them, maybe.
+F|A small parade of wins.
+F|Your trophy shelf for today.
+F|Tasks, conquered.
+F|Look. Actual, real, finished things.
+F|Today's wins, now on display.
+F|Look, a whole list of done.
+F|That five-minute task? Done.
+F|Stuff you did. Take a bow.
+F|Checked off. Crossed out. Celebrated.
+F|Look who's been busy.
+F|Evidence for your inner critic.
+F|Today's done list. Very shiny.
+F|A little museum of today.
+F|A hall of fame, today edition.
+F|Tick, tick, tick. Look at that.
+F|Main quest progress: noted.
+F|Side quests count too. Here they are.
+F|Done list. Better than a to-do list.
+F|Achievements unlocked today.
+F|Stuff future you can brag about.
+F|Wins so far. Snack-worthy, honestly.
+F|Look what past you pulled off.
+F|The good kind of list.
+F|Done. Done. Also done.
+F|The list that deserves a gold star.
+F|A modest collection of triumphs.
+F|Officially off your plate.
+F|You and your tiny wins. Lovely.
+F|A round of applause, in list form.
+F|Today's finished business.
+F|Your wins. No filter needed.
+F|Check marks, collected like stickers.
+F|These got done. Wild.
+F|The tabs you closed today.
+F|Your brain's greatest hits, today.
+F|A list for the fridge door.
+
+@@ arrivalAfternoon
+P|Good afternoon, {name}.
+P|Afternoon, {name}.
+P|Hi {name}. Good afternoon.
+P|Hello, {name}. Good afternoon.
+P|Good afternoon to you, {name}.
+P|Hey {name}. Hope your afternoon's kind.
+P|Hi {name}. Hope the afternoon's good.
+P|Welcome back, {name}. Good afternoon.
+P|Good afternoon, {name}. Nice to see you.
+P|Hello {name}. The afternoon's here.
+P|{name}, good afternoon.
+P|Afternoon, {name}. Good to see you.
+P|Hi {name}. Here's your afternoon.
+P|Good afternoon, {name}. Welcome back.
+P|Hey {name}. Happy afternoon.
+P|A good afternoon to you, {name}.
+P|Hi, {name}. It's the afternoon.
+P|Hello again, {name}. Good afternoon.
+P|Afternoon, {name}. How's it going?
+P|Good afternoon, {name}. How's today?
+P|Hey {name}, good afternoon.
+P|Hi {name}. Welcome to the afternoon.
+P|Afternoon, {name}. Glad you're here.
+P|Hello, {name}. Hope today's been kind.
+P|Good afternoon, {name}. Take a breath.
+P|Afternoon, {name}. Here's what's next.
+P|Hello {name}. A calm afternoon to you.
+P|Hi {name}, and good afternoon.
+P|Good afternoon, {name}. Here we are.
+P|Hi {name}. Nice to have you back.
+P|Hello there, {name}. Good afternoon.
+P|Good afternoon, {name}. All good?
+P|Hey there, {name}. Good afternoon.
+P|Afternoon, {name}. Hope it's a good one.
+P|Hi {name}. The afternoon's all yours.
+P|Good afternoon, {name}. Easy does it.
+P|Hello {name}. Here comes the afternoon.
+P|Afternoon, {name}. You're here. Nice.
+P|Good to see you this afternoon, {name}.
+P|Good afternoon, {name}. Settle in.
+P|Afternoon, {name}. Ready when you are.
+P|Hey {name}. How's your afternoon?
+P|Afternoon, {name}. One step at a time.
+P|Hello, {name}. Lovely afternoon to you.
+P|Hi {name}. Settling into the afternoon?
+P|Afternoon, {name}. How are you doing?
+P|Hey {name}. Afternoon's arrived.
+P|Good afternoon, {name}. Onward.
+P|Hi {name}. Still plenty of day left.
+P|Afternoon, {name}. Nice and steady now.
+P|Hi {name}. The afternoon starts here.
+P|Good afternoon, {name}. Here's the plan.
+P|Hello, {name}. How's the afternoon?
+P|Afternoon, {name}. Welcome.
+P|Hey {name}. Good to have you here.
+P|Good afternoon, {name}. Let's go gently.
+P|Hello {name}. Hope you're doing okay.
+P|Afternoon, {name}. Hope it's going well.
+P|Good afternoon, {name}. How are things?
+P|Hi {name}. Hello from the afternoon.
+P|Afternoon greetings, {name}.
+P|Well hello, {name}. Good afternoon.
+P|Good afternoon, {name}. Glad to see you.
+P|Hi {name}. Hope your afternoon's gentle.
+P|Hello, {name}. The afternoon awaits.
+P|Afternoon, {name}. Let's take it easy.
+P|Hey {name}. Here's to a good afternoon.
+P|Afternoon, {name}. You're doing fine.
+P|Hi {name}. Hope the day's been good.
+P|Hello, {name}. Welcome to the afternoon.
+F|Afternoon, {name}. Time is sneaky.
+F|Hey {name}. The morning just vanished.
+F|Hi {name}. Snack o'clock, roughly.
+F|Good afternoon, {name}. Tabs still open?
+F|Hi {name}. Hello from post-lunch brain.
+F|Afternoon, {name}. Round two, ding ding.
+F|Good afternoon, {name}. Kettle on?
+F|Hi {name}. The afternoon crept up on us.
+F|Hi {name}. It's afternoon. Yes, already.
+F|Afternoon, {name}. Second wind, loading.
+F|Hey {name}. Afternoon mode: engaged.
+F|Afternoon, {name}. Alarms all behaving?
+F|Afternoon has entered the chat, {name}.
+F|Afternoon, {name}. The day's second act.
+F|Hi {name}. The afternoon shift begins.
+F|Hey {name}. Afternoon unlocked.
+F|Hi {name}. Welcome to the second half.
+F|Hi {name}. It's the afternoon. Probably.
+F|Hi {name}. Back from a rabbit hole?
+F|Hey {name}. New hobby since morning?
+F|Hello, {name}. Day's still young-ish.
+F|Good afternoon, officially, {name}.
+F|Hi {name}. The afternoon edition is out.
+F|Hello, {name}. Remember why you came in?
+F|Hey {name}. Still today, just later.
+F|Afternoon, {name}. The plot thickens.
+F|Afternoon, {name}. Right on schedule.
+F|Hey {name}. Your planner says hi.
+F|Hi {name}. Call it late morning?
+F|Hello, {name}. Let's outsmart the slump.
+
+@@ rhythmTuneTitle
+P|Something here not quite you?
+P|Does this look like you?
+P|Anything here feel off?
+P|Want to adjust what we've learned?
+P|Tweak what the app has learned.
+P|Not quite right? Change it.
+P|Is this how your days really go?
+P|Make these patterns fit you.
+P|Anything you'd like to change?
+P|Does this match your days?
+P|Something not quite right?
+P|Fine-tune your patterns.
+P|Help us get this right.
+P|Correct anything that's off.
+P|You know you best. Adjust away.
+P|Adjust these to match real life.
+P|Is this really you?
+P|Edit what we've learned about you.
+P|Want to make a few changes?
+P|Does this ring true?
+P|See something that isn't you?
+P|Adjust your patterns here.
+P|Make it feel more like you.
+P|Anything we got wrong?
+P|Something off? You can change it.
+P|Your patterns, your call.
+P|Does this sound right to you?
+P|Refine what the app has learned.
+P|Is this close to right?
+P|Spot something that's off?
+P|Tidy up your patterns.
+P|Anything here to adjust?
+P|Change what doesn't fit.
+P|How close did we get?
+P|Is this accurate for you?
+P|Want to set the record straight?
+P|Not quite you? Tell us.
+P|Let's make this more you.
+P|Edit anything that feels wrong.
+P|Take a look. Anything to change?
+F|Did we get you wrong? It happens.
+F|You, or a stranger with your calendar?
+F|The app took notes. Fix any typos.
+F|Guessed wrong? You know better.
+F|Does this sound like you, or your evil twin?
+F|Our notes on you. Please grade them.
+F|This is our best guess. Be honest.
+F|We studied you. Did we pass?
+F|Your brain's biography. Any edits?
+F|We tried. Correct us kindly.
+F|Pattern looks off? Your brain wins.
+F|The app has theories. Check them.
+F|We think we know you. Do we?
+F|A rough sketch of you. Touch it up?
+F|Fact-check the app. Politely.
+F|Are we close, or wildly off?
+F|Did we mistake a rabbit hole for a routine?
+F|Not you? Blame the one weird Tuesday.
+F|Our guess at your rhythm. How close?
+F|This is you, according to maths.
+F|Spot the mistake. Fix the mistake.
+F|We drew your portrait. Nose look right?
+F|Something off? You're the expert here.
+F|Did we get your brain right-ish?
+F|Mostly right? Mostly wrong? Tell us.
+F|Your patterns, as seen by a very keen app.
+F|We learned a lot. Maybe too confidently.
+F|Hmm, is that really you?
+F|Plot holes in your pattern? Fix them.
+F|The app's been paying attention. Mostly.
+F|Your rhythm, our rough draft.
+F|This is you, give or take a tangent.
+F|Did we confuse hyperfocus with a habit?
+F|We're good at patterns. You're best at you.
+F|Found a bug in your pattern? Squash it.
+F|Not quite you? Let's tune the dials.
+F|Where did we go wrong? We can take it.
+F|The app's impression of you. How'd it do?
+F|Correct the app. It won't sulk.
+F|You're the boss of these patterns.
+F|We guessed. Now you decide.
+F|Accurate, or a very confident guess?
+F|This is you, roughly. Emphasis on roughly.
+F|Does this pattern pass the vibe check?
+F|Edit away. The app is very coachable.
+F|Help the app understand you. It's trying.
+F|We noticed things. Were we right?
+F|Your pattern, in pencil. Rub bits out.
+F|A guess with good intentions. Fix it?
+F|Is the app being a know-it-all?
+F|Our theory of you. Peer review, please.
+F|You, in app form. Close enough?
+F|Like a horoscope, but hopefully accurate.
+F|Your brain called. It has notes.
+F|Does this feel like you, or a costume?
+F|The app learned things. Some may be wrong.
+F|Is this you, or you during a deadline?
+F|Let's fix what we got wonky.
+F|We tried to read your mind. Close?
+F|Did the app overthink it?
+
+@@ detailWindow
+P|How often your check-ins said it was working, by hours after logging. The shaded band is how sure the app is.
+P|This shows how often your check-ins said it was working, hour by hour after logging. The shaded band shows how sure the app is.
+P|At each hour after logging, the line shows how often your check-ins said it was working. The band shows how certain the app is.
+P|The line tracks how often check-ins said it was working, by hours since logging. The shaded area is the app's certainty.
+P|How often you said it was working in check-ins, plotted by hours after logging. The band shows how confident the app is.
+P|Your check-ins, by hours after logging: how often they said it was working. The shaded band is how sure the app is.
+P|Across the hours after logging, this shows how often your check-ins said it was working. The band is the app's certainty.
+P|The curve shows how often your check-ins said it was working at each hour after logging. The shaded band shows certainty.
+P|By hours after logging, how often your check-ins reported it was working. The shaded band is how sure the app is so far.
+P|This is how often your check-ins said it was working, counted by hours after logging. The band shows how sure the app is.
+P|For each hour after logging, how often your check-ins said it was working. The shaded band is how sure the app is about that.
+P|The line is how often your check-ins said it was working, by hours after logging. The shading around it is how sure the app is.
+P|It shows, hour by hour after logging, how often your check-ins said it was working. The shaded band is the app's confidence.
+P|How often check-ins said it was working, measured in hours after logging. The shaded band shows how sure the app is.
+P|How often your check-ins said it was working, plotted against hours since logging. The shaded band reflects how sure the app is.
+P|This curve comes from your check-ins: how often they said it was working, by hours after logging. The band is how sure the app is.
+P|A picture of your check-ins: how often they said it was working, hour by hour after logging. The shading is the app's certainty.
+P|How often it was working, according to your check-ins, by hours after logging. The shaded band is how sure the app is.
+P|Based on your check-ins: how often it was working at each hour after logging. The shaded band shows how certain the app is.
+P|Hour by hour after logging, the share of check-ins that said it was working. The shaded band is how sure the app is.
+P|The share of your check-ins that said it was working, by hours after logging. The band shows how confident the app is.
+P|What your check-ins said, by hours after logging: how often it was working. The shaded band is the app's level of certainty.
+P|How often your check-ins answered that it was working, by hours after logging. The band shows how sure the app is.
+P|Shown by hours after logging: how often your check-ins said it was working. The shaded band is how certain the app is.
+P|This tracks how often your check-ins said it was working in the hours after logging. The band is how sure the app is.
+P|In the hours after logging, how often did check-ins say it was working? That's the line. The band is how sure the app is.
+P|The line: how often your check-ins said it was working, by hours after logging. The band: how sure the app is.
+P|How often your check-ins said it was working, broken down by hours after logging. The shaded band is the app's certainty.
+P|Your check-in answers, grouped by hours after logging, showing how often it was working. The band is how sure the app is.
+P|How often it was working, going by your check-ins, at each hour after logging. The shaded band shows the app's confidence.
+P|The height of the line is how often your check-ins said it was working, by hours after logging. The band is the app's certainty.
+P|See how often your check-ins said it was working, hour by hour after logging. The shaded band is how sure the app is.
+P|This is built from your check-ins: how often it was working, by hours after logging. The shaded band shows how sure the app is.
+P|How frequently your check-ins said it was working, by hours after logging. The shaded band is how sure the app is.
+P|By hours after logging, how frequently check-ins said it was working. The band around the line shows the app's certainty.
+P|How often check-ins said it was working, for each hour after logging. The shaded band is the app's confidence in that.
+P|From your check-ins: how often it was working, by the number of hours after logging. The shaded band shows certainty.
+P|How often your check-ins said it was working, by hours since you logged. The shaded band is how sure the app is.
+P|The chart shows how often your check-ins said it was working, by hours after logging. Shading shows how sure the app is.
+P|Hours after logging, and how often your check-ins said it was working at each one. The shaded band is the app's certainty.
+P|How often your check-ins said it was working, arranged by hours after logging. The band shows how sure the app is about it.
+P|Your check-ins, by hours after logging, showing how often they said it was working. The shaded band shows the app's certainty.
+P|The curve is how often check-ins said it was working, by hours after logging. The band shows how certain the app is.
+P|How often it was working, by hours after logging, based on what your check-ins said. The shaded band is how sure the app is.
+P|Each hour after logging, how often your check-ins said it was working. The shaded band shows how confident the app is.
+P|How often your check-ins reported it working, by hours after logging. The shaded band shows how sure the app is.
+P|This line shows how often your check-ins said it was working, by hours after logging. The band is how sure the app is.
+P|By hours after logging: how often your check-ins said it was working. The shaded band tells you how sure the app is.
+P|How often check-ins said it was working, hour by hour from logging. The shaded band is the app's certainty so far.
+P|This maps how often your check-ins said it was working against hours after logging. The band shows how sure the app is.
+P|How often you checked in and said it was working, by hours after logging. The band shows how sure the app is.
+P|It charts how often your check-ins said it was working, by hours after logging. The shaded band is how certain the app is.
+P|The pattern of your check-ins: how often it was working, hour by hour after logging. The band is how sure the app is.
+P|A summary of your check-ins, showing how often it was working by hours after logging. The band is the app's certainty.
+P|How often your check-ins said yes, it was working, by hours after logging. The shaded band shows how sure the app is.
+P|Plotted by hours after logging: how often check-ins said it was working. The shaded band is how sure the app is.
+P|How often your check-ins found it working, by hours after logging. The shaded band shows how certain the app is.
+P|For every hour after logging, the line shows how often check-ins said it was working. The band shows the app's certainty.
+P|How often it was working, in your own check-ins, by hours after logging. The shaded band is how sure the app is.
+P|The line follows your check-ins: how often they said it was working, by hours after logging. The band is certainty.
+P|What this shows: how often check-ins said it was working, by hours after logging. The shaded band is how sure the app is.
+P|How often your check-ins said it was working, counted from the time you logged. The shaded band shows how sure the app is.
+P|How often it was working, by hours from logging, according to your check-ins. The band shows how certain the app is.
+P|This is how your check-ins add up: how often it was working, by hours after logging. The band is how sure the app is.
+P|Your check-ins, added up by hours after logging, show how often it was working. The shaded band is the app's confidence.
+P|How often check-ins said it was working, shown hour by hour after logging. The band shows how much the app trusts this.
+P|By hours after logging, the share of your check-ins that said it was working. The shading is how sure the app is.
+P|How often your check-ins said it was working, per hour after logging. The shaded band is how sure the app is.
+P|It shows how often check-ins said it was working, by hours since logging. The band shows how sure the app is right now.
+P|How often your check-ins said it was working, laid out by hours after logging. The band is the app's certainty.
+P|How often it was working, per your check-ins, by hours after logging. The shaded band shows how sure the app is.
+P|How often your check-ins said it was working, hour by hour after you logged. The shaded band is how certain the app is.
+P|How often your check-ins came back as working, by hours after logging. The band is how sure the app is.
+P|Your check-ins say how often it was working, shown by hours after logging. The shaded band is how sure the app is.
+P|How often it was working at each hour after logging, from your check-ins. The band shows the app's certainty.
+P|This shows the hours after logging, and how often check-ins said it was working in each. The band is how sure the app is.
+P|How often your check-ins said it was working, hour by hour after logging. The shaded band shows how sure the app feels.
+P|How often check-ins said it was working, by hours after logging. The shaded band marks how sure the app is.
+P|By hours after logging, how often it was working, going by your check-ins. The shaded band is how sure the app is.
+P|The line is built from your check-ins: how often it was working by hours after logging. The shading shows certainty.
+P|How often your check-ins said it was working, by hours after logging. The shaded band is how confident the app is.
+P|Hours after logging on one side, how often check-ins said it was working on the other. The band is how sure the app is.
+P|How often your check-ins said it was working, lined up by hours after logging. The shaded band shows the app's certainty.
+P|How often it was working, by hours after logging, as your check-ins tell it. The band shows how sure the app is.
+P|How often your check-ins said it was working, sorted into hours after logging. The shaded band is how sure the app is.
+P|This curve is how often check-ins said it was working, hour by hour after logging. The band is the app's certainty.
+P|How often your check-ins said it was working, measured from when you logged. The shaded band shows how certain the app is.
+P|How often it was working, drawn from your check-ins, by hours after logging. The shaded band is how sure the app is.
+P|The line is your check-ins, showing how often it was working by hours after logging. The band is how sure the app is.
+P|How often your check-ins said it was working, shown across the hours after logging. The band shows how confident the app is.
+P|Check-ins, grouped by hours after logging, show how often it was working. The shaded band is how certain the app is.
+P|How often your check-ins said it was working, in the hours after logging. The shaded band is the app's certainty.
+P|By hours after logging, this shows how often check-ins said it was working. The band shows how sure the app is.
+P|How often your check-ins said it was working, tracked by hours after logging. The shaded band is how sure the app is.
+P|How often check-ins said it was working, organised by hours after logging. The band shows how sure the app is.
+P|From logging onwards, hour by hour: how often check-ins said it was working. The shaded band is how sure the app is.
+P|How often your check-ins said it was working, by the hour after logging. The band shows the app's certainty.
+P|How often your check-ins said it was working, by hours after logging. The shaded band shows how sure the app is.
+P|How often it was working, as reported in your check-ins, by hours after logging. The band is how sure the app is.
+P|How often your check-ins said it was working, taken hour by hour after logging. The shaded band is the app's confidence.
+
+@@ actionButtonPitch
+P|Want to log with one press? Your Action button can do it.
+P|Your Action button can log for you in one press. Want to set it up?
+P|Log with a single press of your Action button. Want to try it?
+P|One press of the Action button could log it. Set that up?
+P|Want logging to take one press? Assign it to your Action button.
+P|Your Action button can handle logging. One press, done.
+P|Prefer fewer taps? Your Action button can log in one press.
+P|Set your Action button to log, and it's one press from then on.
+P|Logging can be a single press. Your Action button is ready if you are.
+P|Would one press be easier? The Action button can log for you.
+P|Turn your Action button into a one-press log.
+P|Want a quicker way to log? Try the Action button.
+P|The Action button can log with one press. Want it?
+P|Make logging one press with your Action button.
+P|Your Action button can log in a single press. Set it up now?
+P|For the quickest log, use your Action button. One press.
+P|Want the Action button to log for you? It's one press.
+P|One press on the Action button, and it's logged.
+P|Want to skip the taps? Your Action button can log in one press.
+P|Your Action button could be your log button. Want that?
+P|Logging, one press away. Set up the Action button?
+P|Try logging with the Action button. It takes one press.
+P|The Action button can make logging a single press.
+P|Logging can live on your Action button. One press does it.
+P|Set up one-press logging on your Action button?
+P|Give your Action button a job: one-press logging.
+P|Log in one press with the Action button. Want to set it up?
+P|A single press of the Action button can log it for you.
+P|Your Action button can make logging quick. One press.
+P|Would you like to log with the Action button? One press is all.
+P|Assign logging to your Action button for one-press logs.
+P|Want one-press logging? The Action button has you covered.
+P|The Action button can log with a press. Worth setting up?
+P|Your Action button can log in one go. Want to try?
+P|Log straight from your Action button with one press.
+P|Make the Action button your shortcut to log. One press.
+P|Logging could be one press on the Action button. Interested?
+P|Save a few taps. Your Action button can log in one press.
+P|One-press logging is possible with your Action button. Set it up?
+P|Your Action button can log for you. Just one press.
+P|Link logging to your Action button for a one-press log.
+P|Want to log faster? One press on the Action button does it.
+P|Logging, the one-press way. Use your Action button?
+P|Want your Action button to log? One press, and it's done.
+P|Press the Action button once to log. Want to turn that on?
+P|Quick option: log with one press of your Action button.
+P|Your Action button can be set to log in one press.
+P|Log from the side of your phone. One press of the Action button.
+P|How about one-press logging? Your Action button can do it.
+P|One press is all it takes with the Action button. Want to set it up?
+P|Your Action button can save you the taps. One press logs it.
+P|Make logging as easy as one press. Your Action button can help.
+P|The Action button can take care of logging in a single press.
+P|Log with one press, straight from the Action button. Want to?
+P|Want to try logging with the Action button? It's one press.
+P|Hand logging to the Action button. One press each time.
+P|Your Action button could log for you with a single press.
+P|Want an easier way to log? Your Action button does it in one press.
+P|Set it once, then log with one press of the Action button.
+P|The Action button can log for you, one press at a time.
+P|Log with one press using the Action button. Set it up here.
+P|Your Action button can turn logging into a single press.
+P|One press, logged. The Action button can do that.
+P|Would it help to log with one press? Try the Action button.
+P|Logging can be just one press on your Action button.
+P|Put logging on your Action button for one-press logs.
+P|Want one press instead of a few taps? Use the Action button to log.
+P|Your Action button can do the logging. It's one press.
+P|Easiest way to log: one press of your Action button.
+P|Log in a single press. Your Action button is ready.
+F|Your Action button has been waiting its whole life for this. One press logs it.
+F|One press to log. No detours through your messages on the way.
+F|Log with one press, before your phone can distract you with anything else.
+F|Fewer taps, fewer side quests. Your Action button can log in one press.
+F|One press of the Action button logs it. Almost suspiciously easy.
+F|One press on the Action button. Faster than finding the app. Or your phone.
+F|Your Action button can log in one press. Much more exciting than the torch.
+F|Log with one press. No scrolling, no notification rabbit holes.
+F|The Action button can log in one press. Zero chances to open 12 apps first.
+F|One press. That's it. Your Action button is very good at this.
+F|Give that little side button a purpose. One press to log.
+F|Logging in one press, because every extra tap is a chance to wander off.
+F|Log in one press with the Action button. Less faff, more everything else.
+F|One press on the Action button logs it. Your thumb will barely notice.
+F|Make the Action button your log button. It's been looking for a hobby.
+F|One press on the Action button logs it. Honestly, it's a bit satisfying.
+F|The Action button can log in one press. Faster than you can forget why you picked up your phone.
+F|Want to log in one press? The Action button is right there, being a button.
+F|Log with one press. The Action button doesn't get distracted. That's its whole thing.
+F|Your Action button can log in one press. Feels a bit like a magic trick.
+F|One press on the Action button, and it's logged. Short and sweet, like a good to-do list.
+F|The Action button can log in one press. It's the least distracting button you own.
+F|Log with one press on the Action button. It's quicker than reading this sentence.
+F|One press logs it. The Action button is the rare shortcut that's actually short.
+F|One press on the Action button. Logged before your brain changes the subject.
+F|Want a one-press log? The Action button is small, but very keen.
+F|Your Action button can log in one press. Muscle memory will take it from there.
+F|One-press logging via the Action button. No menus, no maze, no mystery.
+F|Log with one press. The Action button is basically a shortcut with good manners.
+F|One press of the Action button logs it. Even on a 47-tabs kind of day.
+
+@@ settingsIntro
+P|The boring but important bits.
+P|Everything you can adjust, in one place.
+P|Your preferences, all in one spot.
+P|Set things up the way you like.
+P|The practical bits live here.
+P|Change how the app works for you.
+P|Adjust anything here, anytime.
+P|The nuts and bolts.
+P|Make the app work your way.
+P|All your options, gathered here.
+P|Tweak things to suit you.
+P|The details that keep things running.
+P|Small settings, big difference.
+P|Your app, your rules.
+P|Everything behind the scenes.
+P|Fine-tune how things work.
+P|Quiet but important choices.
+P|How the app behaves, your call.
+P|The controls, all in one place.
+P|Adjust things whenever you need.
+P|Where you shape the app to fit you.
+P|Less exciting, still important.
+P|The essentials, sorted.
+P|Your options, laid out simply.
+P|Change what you like, when you like.
+P|The settings that keep things smooth.
+P|Where the app takes your lead.
+P|Here's where you set things up.
+P|Set it up to suit your days.
+P|The dull but useful stuff.
+P|A few choices to make it yours.
+P|The fine print you actually control.
+P|Choices that shape how the app works.
+P|Settings, kept simple.
+P|Adjust, tweak, and tidy up here.
+P|How things work, set by you.
+P|The important but unexciting bits.
+P|The fiddly bits, made simple.
+P|Everything that makes the app yours.
+P|Here's how to make the app fit.
+F|The boring bits. We kept them short.
+F|Knobs, switches, and very few surprises.
+F|Where the toggles live.
+F|Less exciting than a new hobby, but useful.
+F|The admin bits. Brace yourself. Gently.
+F|Toggles galore. Rearranging everything is optional.
+F|The unglamorous but useful corner of the app.
+F|Settings. Perfect for productive procrastination.
+F|The paperwork, minus the paper.
+F|Dull, but in a helpful way. Promise.
+F|Where the app keeps its sensible shoes.
+F|Switches and choices. Love them or leave them.
+F|The bits you set once and forget. Ideally.
+F|The tidy drawer. Unlike the other drawer.
+F|Not the fun part. But it makes the fun part work.
+F|Behind the curtain. No wizard, just toggles.
+F|The engine room. Mind your head.
+F|The sensible stuff, with a light touch.
+F|Admin corner. Low drama, high usefulness.
+F|Fiddle away. That's what this page is for.
+F|The boring but important bits. Mostly boring.
+F|Important, unexciting, and blessedly short.
+F|Tweak things now, or later. Later is very popular.
+F|Welcome to the control panel. Snacks not included.
+F|The quiet bits that keep the lights on.
+F|Settings. Where hyperfocus goes to reorganise.
+F|Dials and switches. No rocket science required.
+F|The not-so-thrilling bits. You've got this.
+F|It's settings. We tried to make it charming.
+F|The bits that are dull until you need them.
+F|Every app has a boring room. This is ours.
+F|Toggle to your heart's content.
+F|Settings. Home of the humble switch.
+F|The bits nobody posts about.
+F|Not a rabbit hole. Well, a small one.
+F|The admin. Short, painless, done.
+F|Where you boss the app around.
+F|Mildly dull. Deeply useful.
+F|The operating manual, but you write it.
+F|Adjust things here. No soldering required.
+F|The back office. Tidier than most.
+F|The part of the app with the clipboard.
+F|The bits with switches. Flick responsibly.
+F|Change a thing. Change it back. Nobody's counting.
+F|Boring? A bit. Important? Very.
+F|The setup bits. Less fun than a new notebook.
+F|The boring bits, but with nice fonts.
+F|Toggles, choices, and zero pop quizzes.
+F|Plain settings. No surprises hiding in here.
+F|The dull corner. We dusted it for you.
+F|It's the settings page. Excitement levels: sensible.
+F|Where you tell the app how things are.
+F|Knobs to twiddle, as needed.
+F|The practical stuff, in bite-sized pieces.
+F|Settings, now with 40 percent less boring.
+F|Where the magic is mostly checkboxes.
+F|Grown-up stuff. We made it painless.
+F|The bits you'll visit twice a year. Welcome.
+F|The less shiny bits. Still worth a look.
+F|Buttons with a strong sense of importance.

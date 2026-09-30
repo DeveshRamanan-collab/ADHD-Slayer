@@ -1,0 +1,4424 @@
+{
+ "greetingTitle": [
+  {
+   "t": "Hi. Welcome in.",
+   "f": false
+  },
+  {
+   "t": "Hello. Come on in.",
+   "f": false
+  },
+  {
+   "t": "Hi there. Welcome.",
+   "f": false
+  },
+  {
+   "t": "Welcome in.",
+   "f": false
+  },
+  {
+   "t": "Hello, and welcome.",
+   "f": false
+  },
+  {
+   "t": "Hi. Glad you’re here.",
+   "f": false
+  },
+  {
+   "t": "Oh, hello. Come in.",
+   "f": false
+  },
+  {
+   "t": "Welcome. Make yourself at home.",
+   "f": false
+  },
+  {
+   "t": "Hi. Nice to meet you.",
+   "f": false
+  },
+  {
+   "t": "Hello. You made it.",
+   "f": false
+  },
+  {
+   "t": "Hi. Pull up a chair.",
+   "f": false
+  },
+  {
+   "t": "Welcome. Take a breath.",
+   "f": false
+  },
+  {
+   "t": "Hello. Settle in.",
+   "f": false
+  },
+  {
+   "t": "Hi. Come on in.",
+   "f": false
+  },
+  {
+   "t": "Hey. Welcome in.",
+   "f": false
+  },
+  {
+   "t": "Hi there. Come in.",
+   "f": false
+  },
+  {
+   "t": "Hello there. Welcome.",
+   "f": false
+  },
+  {
+   "t": "Hi. This is Focus.",
+   "f": false
+  },
+  {
+   "t": "Welcome. Glad you came.",
+   "f": false
+  },
+  {
+   "t": "Hello. Good to see you.",
+   "f": false
+  },
+  {
+   "t": "Hi. Make yourself comfy.",
+   "f": false
+  },
+  {
+   "t": "Hello. Come and sit.",
+   "f": false
+  },
+  {
+   "t": "Hi. You’re very welcome.",
+   "f": false
+  },
+  {
+   "t": "Welcome. Let’s begin.",
+   "f": false
+  },
+  {
+   "t": "Hello. Let’s get started.",
+   "f": false
+  },
+  {
+   "t": "Hi. Let’s ease in.",
+   "f": false
+  },
+  {
+   "t": "Welcome. No rush.",
+   "f": false
+  },
+  {
+   "t": "Hello. Take your time.",
+   "f": false
+  },
+  {
+   "t": "Hi. Welcome aboard.",
+   "f": false
+  },
+  {
+   "t": "Hello. Door’s open.",
+   "f": false
+  },
+  {
+   "t": "Hi. Step right in.",
+   "f": false
+  },
+  {
+   "t": "Welcome, friend.",
+   "f": false
+  },
+  {
+   "t": "Hello, friend. Come in.",
+   "f": false
+  },
+  {
+   "t": "Hi. Happy you’re here.",
+   "f": false
+  },
+  {
+   "t": "Welcome. It’s calm in here.",
+   "f": false
+  },
+  {
+   "t": "Hello. A quiet place to start.",
+   "f": false
+  },
+  {
+   "t": "Welcome in. Slowly does it.",
+   "f": false
+  },
+  {
+   "t": "Hello. Starting is the hard bit.",
+   "f": false
+  },
+  {
+   "t": "Hi. Come in, sit down.",
+   "f": false
+  },
+  {
+   "t": "Hello. Nice and easy.",
+   "f": false
+  },
+  {
+   "t": "Hi. Found your phone, then.",
+   "f": true
+  },
+  {
+   "t": "Hi. Welcome to tab 48.",
+   "f": true
+  },
+  {
+   "t": "Hi. Snacks are allowed here.",
+   "f": true
+  },
+  {
+   "t": "Hello, fellow side-questers.",
+   "f": true
+  },
+  {
+   "t": "Hi. You came in for something.",
+   "f": true
+  },
+  {
+   "t": "Welcome in. Forgot why? Same.",
+   "f": true
+  },
+  {
+   "t": "Hi. Bring all 47 tabs in.",
+   "f": true
+  },
+  {
+   "t": "Hi. The chaos can wait outside.",
+   "f": true
+  },
+  {
+   "t": "Hi. Leave the doom pile there.",
+   "f": true
+  },
+  {
+   "t": "Hi. Brain came too. Lovely.",
+   "f": true
+  },
+  {
+   "t": "Welcome. Bring your hyperfocus.",
+   "f": true
+  },
+  {
+   "t": "Hi. Laundry can wait. Come in.",
+   "f": true
+  },
+  {
+   "t": "Hi. Step one done: you’re here.",
+   "f": true
+  },
+  {
+   "t": "Welcome to the main quest.",
+   "f": true
+  },
+  {
+   "t": "Hi. Leave your keys by the door.",
+   "f": true
+  },
+  {
+   "t": "Hello. Snack in hand? Perfect.",
+   "f": true
+  },
+  {
+   "t": "Hi. The squirrels stay outside.",
+   "f": true
+  },
+  {
+   "t": "Hi. You’re here. Keys, unknown.",
+   "f": true
+  },
+  {
+   "t": "Hello. Glasses are on your head.",
+   "f": true
+  },
+  {
+   "t": "Hi. Coffee’s in the microwave.",
+   "f": true
+  },
+  {
+   "t": "Welcome, fellow time traveller.",
+   "f": true
+  },
+  {
+   "t": "Hi. Welcome, dopamine hunter.",
+   "f": true
+  },
+  {
+   "t": "Hi. The doom pile can’t see you.",
+   "f": true
+  },
+  {
+   "t": "Hello. Tabs open: several. Fine.",
+   "f": true
+  },
+  {
+   "t": "Hello. Brain found the signal.",
+   "f": true
+  },
+  {
+   "t": "Hi. Brain buffering? Same here.",
+   "f": true
+  },
+  {
+   "t": "Hello. Loading brain. 99%.",
+   "f": true
+  },
+  {
+   "t": "Hello, player one.",
+   "f": true
+  },
+  {
+   "t": "Hi. Achievement: opened the app.",
+   "f": true
+  },
+  {
+   "t": "Hi. Alarms for alarms? Us too.",
+   "f": true
+  },
+  {
+   "t": "Hello. Your body double is here.",
+   "f": true
+  },
+  {
+   "t": "Hello. Ready-ish? Perfect.",
+   "f": true
+  },
+  {
+   "t": "Hi. Half ready counts.",
+   "f": true
+  },
+  {
+   "t": "Welcome. Pyjamas are fine.",
+   "f": true
+  },
+  {
+   "t": "Hi. Quick, before we forget.",
+   "f": true
+  },
+  {
+   "t": "Hi. All 40 thoughts welcome.",
+   "f": true
+  },
+  {
+   "t": "Hi. Let’s go before a tangent.",
+   "f": true
+  },
+  {
+   "t": "Hello. Tangents welcome too.",
+   "f": true
+  },
+  {
+   "t": "Hi. We’ll be quick. Mostly.",
+   "f": true
+  },
+  {
+   "t": "Welcome. Now, where were we?",
+   "f": true
+  },
+  {
+   "t": "Hi. Time is weird. Come in.",
+   "f": true
+  },
+  {
+   "t": "Hi. Radio brain? Tune in here.",
+   "f": true
+  },
+  {
+   "t": "Hi. No homework. Promise.",
+   "f": true
+  },
+  {
+   "t": "Hello. A short hello. Probably.",
+   "f": true
+  },
+  {
+   "t": "Hi. Kettle’s on. It’ll go cold.",
+   "f": true
+  },
+  {
+   "t": "Hello. Odd socks welcome here.",
+   "f": true
+  },
+  {
+   "t": "Hi. Brain’s warming up? Same.",
+   "f": true
+  },
+  {
+   "t": "Hi. This counts as starting.",
+   "f": true
+  },
+  {
+   "t": "Welcome. Late is a time too.",
+   "f": true
+  },
+  {
+   "t": "Hi. Pause the podcast. Or don’t.",
+   "f": true
+  },
+  {
+   "t": "Hi. You’re right on time. Ish.",
+   "f": true
+  },
+  {
+   "t": "Hi. Rabbit holes are next door.",
+   "f": true
+  },
+  {
+   "t": "Hi. Reading this once is enough.",
+   "f": true
+  },
+  {
+   "t": "Hello. Short words. Promise.",
+   "f": true
+  },
+  {
+   "t": "Hi. No fine print. Just hi.",
+   "f": true
+  },
+  {
+   "t": "Hi. We’ll remember. You relax.",
+   "f": true
+  },
+  {
+   "t": "Hi. Out of sight, now in mind.",
+   "f": true
+  },
+  {
+   "t": "Hello. One tab. This one.",
+   "f": true
+  },
+  {
+   "t": "Hi. Brain, meet plan.",
+   "f": true
+  },
+  {
+   "t": "Hello. Welcome, busy brain.",
+   "f": true
+  }
+ ],
+ "welcomeHome": [
+  {
+   "t": "You’re in. Have a wander.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Take a look around.",
+   "f": false
+  },
+  {
+   "t": "Welcome home. Have a look around.",
+   "f": false
+  },
+  {
+   "t": "This is home. Explore at your own pace.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Poke around as you like.",
+   "f": false
+  },
+  {
+   "t": "All set. Have a look around.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Nothing to do yet, just look.",
+   "f": false
+  },
+  {
+   "t": "This is your home page. Take your time.",
+   "f": false
+  },
+  {
+   "t": "Welcome home. No rush at all.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Wander wherever you like.",
+   "f": false
+  },
+  {
+   "t": "Here’s home. Have a gentle look around.",
+   "f": false
+  },
+  {
+   "t": "You made it in. Explore when you’re ready.",
+   "f": false
+  },
+  {
+   "t": "Home, sweet home. Have a wander.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Tap around, you can’t get it wrong.",
+   "f": false
+  },
+  {
+   "t": "This is where your day lives. Look around.",
+   "f": false
+  },
+  {
+   "t": "Welcome in. Everything’s here when you need it.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Settle in and have a look.",
+   "f": false
+  },
+  {
+   "t": "All done. This is home now.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Look around, no pressure.",
+   "f": false
+  },
+  {
+   "t": "Here you are. Have a slow look around.",
+   "f": false
+  },
+  {
+   "t": "Home is ready. Take a wander.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Everything can wait while you look.",
+   "f": false
+  },
+  {
+   "t": "This is home. Nothing needs doing yet.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Browse at your own pace.",
+   "f": false
+  },
+  {
+   "t": "Welcome to your home page. Have a look.",
+   "f": false
+  },
+  {
+   "t": "You’re all set. Feel free to explore.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Start wherever feels easy.",
+   "f": false
+  },
+  {
+   "t": "Home, ready and waiting. Have a look.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Tap anything that looks interesting.",
+   "f": false
+  },
+  {
+   "t": "Here’s your home. Make yourself comfortable.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Have a quiet look around.",
+   "f": false
+  },
+  {
+   "t": "Welcome home. Explore whenever you like.",
+   "f": false
+  },
+  {
+   "t": "This is your space now. Have a wander.",
+   "f": false
+  },
+  {
+   "t": "You’re in. It’s all yours to explore.",
+   "f": false
+  },
+  {
+   "t": "You’re home. Take a look at your day.",
+   "f": false
+  },
+  {
+   "t": "Settled in? Have a look around.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Look around, then start small.",
+   "f": false
+  },
+  {
+   "t": "Your home page is ready. Wander freely.",
+   "f": false
+  },
+  {
+   "t": "Welcome home. There’s no wrong place to tap.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Have a look, no need to do anything.",
+   "f": false
+  },
+  {
+   "t": "You’re in. Wander freely. Side quests encouraged.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Nothing here is on fire.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a wander. Snacks optional but advised.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Fewer tabs than your browser, promise.",
+   "f": true
+  },
+  {
+   "t": "You’re in. No doom pile here. We checked.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Wander off, we’ll still be here.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Get lost a bit. We’ll find you.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a wander. Rabbit holes are clearly marked.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Quieter than a group chat.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Wander. Forgetting why you came in is allowed.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore at the speed of curiosity.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Tap things. Most things are tappable.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Please touch the exhibits.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Your phone’s in your hand, by the way.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Wander. No alarm will go off, promise.",
+   "f": true
+  },
+  {
+   "t": "Have a wander. Five minutes, or fifty. We don’t judge.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore now. The laundry has waited this long.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Wander. The dishes won’t notice.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Everything’s where you left it. Unlike your keys.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore. We saved your spot, like a good bookmark.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. The only tab you need open. Well, mostly.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Go on, have a nosy.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Snoop around. It’s all yours.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Poke things. Nothing bites.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. We tidied up before you came.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Take the scenic route. We know you will.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore in any order. Even the chaotic one.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Wander freely. No one’s timing you.",
+   "f": true
+  },
+  {
+   "t": "Home at last. Well, at first. You know what we mean.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore now, or after one quick snack.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. Tangents fully supported.",
+   "f": true
+  },
+  {
+   "t": "You’re in. This is home base. Tag, you’re safe.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Take a wander. Leave the 47 tabs outside.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Wander like a cat in a new flat.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore. There’s no quiz later.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Browse like it’s a bookshop, not a to-do list.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. The chaos lives next door.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a wander. Hyperfocus not required.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a look. Getting distracted is part of the tour.",
+   "f": true
+  },
+  {
+   "t": "You’re in. The tour is self-guided and very forgiving.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore. If you drift off, the page will wait.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. It’s like a to-do list, but kind.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. No one will ask you to sit still.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. This planner can’t fall behind the sofa.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore now. Organising the organiser can wait.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. You don’t have to colour-code anything.",
+   "f": true
+  },
+  {
+   "t": "You’re in. No bullet journal setup needed. Phew.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore at your own speed. Zoomy or slow.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a wander. Pause for daydreams as needed.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Tour starts now. Or in a minute. Or now.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Explore now. Reading the manual is optional.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around before something shiny appears.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a wander. Bring a body double if you like.",
+   "f": true
+  },
+  {
+   "t": "You’re in. No setup marathon. Just a look around.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Have a look. Your tea will go cold anyway.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. Nothing here gets lost. Not even you.",
+   "f": true
+  },
+  {
+   "t": "Welcome home. Tidier than the junk drawer, promise.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Tap around. The back button is your friend.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. Your 12 other apps can wait.",
+   "f": true
+  },
+  {
+   "t": "You’re in. Look around. You’re allowed to start in the middle.",
+   "f": true
+  }
+ ],
+ "fiveThingsEyebrow": [
+  {
+   "t": "Today, in five",
+   "f": false
+  },
+  {
+   "t": "Five for today",
+   "f": false
+  },
+  {
+   "t": "Today’s five",
+   "f": false
+  },
+  {
+   "t": "Your five for today",
+   "f": false
+  },
+  {
+   "t": "Five things today",
+   "f": false
+  },
+  {
+   "t": "Today’s top five",
+   "f": false
+  },
+  {
+   "t": "The five for today",
+   "f": false
+  },
+  {
+   "t": "Five that matter today",
+   "f": false
+  },
+  {
+   "t": "Today, five things",
+   "f": false
+  },
+  {
+   "t": "Just five today",
+   "f": false
+  },
+  {
+   "t": "Five for you today",
+   "f": false
+  },
+  {
+   "t": "Your five today",
+   "f": false
+  },
+  {
+   "t": "Today in five things",
+   "f": false
+  },
+  {
+   "t": "Five picks for today",
+   "f": false
+  },
+  {
+   "t": "Five for the day",
+   "f": false
+  },
+  {
+   "t": "The day’s five",
+   "f": false
+  },
+  {
+   "t": "Today’s five things",
+   "f": false
+  },
+  {
+   "t": "Your day in five",
+   "f": false
+  },
+  {
+   "t": "The day in five",
+   "f": false
+  },
+  {
+   "t": "Five on today’s list",
+   "f": false
+  },
+  {
+   "t": "Today’s shortlist",
+   "f": false
+  },
+  {
+   "t": "Your shortlist",
+   "f": false
+  },
+  {
+   "t": "Today’s five picks",
+   "f": false
+  },
+  {
+   "t": "Five to focus on",
+   "f": false
+  },
+  {
+   "t": "Five to do today",
+   "f": false
+  },
+  {
+   "t": "Five worth doing",
+   "f": false
+  },
+  {
+   "t": "Five for now",
+   "f": false
+  },
+  {
+   "t": "Today’s main five",
+   "f": false
+  },
+  {
+   "t": "This day, in five",
+   "f": false
+  },
+  {
+   "t": "Five things that count",
+   "f": false
+  },
+  {
+   "t": "Five to aim for",
+   "f": false
+  },
+  {
+   "t": "The five that count",
+   "f": false
+  },
+  {
+   "t": "Today’s five priorities",
+   "f": false
+  },
+  {
+   "t": "Five priorities",
+   "f": false
+  },
+  {
+   "t": "Your five priorities",
+   "f": false
+  },
+  {
+   "t": "Only five today",
+   "f": false
+  },
+  {
+   "t": "Today, just five",
+   "f": false
+  },
+  {
+   "t": "The five for now",
+   "f": false
+  },
+  {
+   "t": "Five things to do",
+   "f": false
+  },
+  {
+   "t": "Top five today",
+   "f": false
+  },
+  {
+   "t": "Today: five things",
+   "f": false
+  },
+  {
+   "t": "Your top five",
+   "f": false
+  },
+  {
+   "t": "Your top five today",
+   "f": false
+  },
+  {
+   "t": "A five-thing day",
+   "f": false
+  },
+  {
+   "t": "Five good things",
+   "f": false
+  },
+  {
+   "t": "Five to get to",
+   "f": false
+  },
+  {
+   "t": "The list of five",
+   "f": false
+  },
+  {
+   "t": "Five in focus",
+   "f": false
+  },
+  {
+   "t": "In focus: five",
+   "f": false
+  },
+  {
+   "t": "Today, in focus",
+   "f": false
+  },
+  {
+   "t": "Five that come first",
+   "f": false
+  },
+  {
+   "t": "First, these five",
+   "f": false
+  },
+  {
+   "t": "Five things first",
+   "f": false
+  },
+  {
+   "t": "Five to start with",
+   "f": false
+  },
+  {
+   "t": "What matters today",
+   "f": false
+  },
+  {
+   "t": "What counts today",
+   "f": false
+  },
+  {
+   "t": "Five picked for you",
+   "f": false
+  },
+  {
+   "t": "Picked for today",
+   "f": false
+  },
+  {
+   "t": "The main five",
+   "f": false
+  },
+  {
+   "t": "Five things ahead",
+   "f": false
+  },
+  {
+   "t": "Ahead today: five",
+   "f": false
+  },
+  {
+   "t": "Up today: five",
+   "f": false
+  },
+  {
+   "t": "Five lined up",
+   "f": false
+  },
+  {
+   "t": "Five steady things",
+   "f": false
+  },
+  {
+   "t": "Today’s priorities",
+   "f": false
+  },
+  {
+   "t": "Your priorities today",
+   "f": false
+  },
+  {
+   "t": "Five on the list",
+   "f": false
+  },
+  {
+   "t": "Today’s chosen five",
+   "f": false
+  },
+  {
+   "t": "Five chosen things",
+   "f": false
+  },
+  {
+   "t": "Five, just for today",
+   "f": false
+  },
+  {
+   "t": "Five, not fifty",
+   "f": true
+  },
+  {
+   "t": "Five, and that’s plenty",
+   "f": true
+  },
+  {
+   "t": "Just five. Promise",
+   "f": true
+  },
+  {
+   "t": "Five. Not 47 tabs",
+   "f": true
+  },
+  {
+   "t": "Five things, one brain",
+   "f": true
+  },
+  {
+   "t": "Only five. Breathe",
+   "f": true
+  },
+  {
+   "t": "Five, no side quests",
+   "f": true
+  },
+  {
+   "t": "Main quests: five",
+   "f": true
+  },
+  {
+   "t": "Today’s five main quests",
+   "f": true
+  },
+  {
+   "t": "A handful. Literally",
+   "f": true
+  },
+  {
+   "t": "One hand’s worth",
+   "f": true
+  },
+  {
+   "t": "High five for today",
+   "f": true
+  },
+  {
+   "t": "Today’s high five",
+   "f": true
+  },
+  {
+   "t": "The fab five",
+   "f": true
+  },
+  {
+   "t": "Today’s famous five",
+   "f": true
+  },
+  {
+   "t": "Five, doom pile excluded",
+   "f": true
+  },
+  {
+   "t": "Five, snack breaks extra",
+   "f": true
+  },
+  {
+   "t": "Just five. Not a novel",
+   "f": true
+  },
+  {
+   "t": "Five, brain-sized",
+   "f": true
+  },
+  {
+   "t": "Five. Pocket-sized",
+   "f": true
+  },
+  {
+   "t": "Five, bite-sized",
+   "f": true
+  },
+  {
+   "t": "Five things. That’s it",
+   "f": true
+  },
+  {
+   "t": "Five, not everything",
+   "f": true
+  },
+  {
+   "t": "Five, and snacks",
+   "f": true
+  },
+  {
+   "t": "Five before any tangent",
+   "f": true
+  },
+  {
+   "t": "Five. Rabbit holes later",
+   "f": true
+  },
+  {
+   "t": "Today’s handful",
+   "f": true
+  },
+  {
+   "t": "Five. The rest can wait",
+   "f": true
+  },
+  {
+   "t": "Five, hand-picked",
+   "f": true
+  },
+  {
+   "t": "Five. No encore",
+   "f": true
+  }
+ ],
+ "nowThen": [
+  {
+   "t": "Then {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next up: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "After this, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Coming up: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} is next, at {time}.",
+   "f": false
+  },
+  {
+   "t": "At {time}, it’s {task}.",
+   "f": false
+  },
+  {
+   "t": "Then at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "After that, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Up next is {task}, at {time}.",
+   "f": false
+  },
+  {
+   "t": "Later: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next on the list: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Then it’s {task}, at {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} follows at {time}.",
+   "f": false
+  },
+  {
+   "t": "At {time}, {task} is next.",
+   "f": false
+  },
+  {
+   "t": "Once this is done, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "After this one: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Then {task}, around {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} comes next, at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next stop: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Later on, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Following this, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next is {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "{time} brings {task}.",
+   "f": false
+  },
+  {
+   "t": "Coming next: {task}, {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} at {time} is next.",
+   "f": false
+  },
+  {
+   "t": "What’s next: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next thing: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Afterwards, {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Up at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "Waiting at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "Starting at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "At {time}, on to {task}.",
+   "f": false
+  },
+  {
+   "t": "Then on to {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next in line: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Lined up for {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "Set for {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "Planned for {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "The plan: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Booked in for {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "You’ve got {task} at {time} next.",
+   "f": false
+  },
+  {
+   "t": "Next you have {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Then comes {task}, at {time}.",
+   "f": false
+  },
+  {
+   "t": "And then {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Later today: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next up, at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "On deck: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Heads up: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Just so you know, {task} is at {time}.",
+   "f": false
+  },
+  {
+   "t": "For later: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Looking ahead: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Coming after this: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} is next on the plan, at {time}.",
+   "f": false
+  },
+  {
+   "t": "At {time} you’ve got {task}.",
+   "f": false
+  },
+  {
+   "t": "Then you’re on to {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next on the plan: {task}, {time}.",
+   "f": false
+  },
+  {
+   "t": "{task} comes after, at {time}.",
+   "f": false
+  },
+  {
+   "t": "After this: {task}, {time}.",
+   "f": false
+  },
+  {
+   "t": "Your next thing: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "What comes next: {task} at {time}.",
+   "f": false
+  },
+  {
+   "t": "Then, {task}. That’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "Coming up at {time}: {task}.",
+   "f": false
+  },
+  {
+   "t": "Then {task} at {time}. One thing at a time.",
+   "f": false
+  },
+  {
+   "t": "Then {task} at {time}. No rush till then.",
+   "f": false
+  },
+  {
+   "t": "After this, {task}. It’s at {time}.",
+   "f": false
+  },
+  {
+   "t": "{time} is for {task}.",
+   "f": false
+  },
+  {
+   "t": "{time}: {task}, next.",
+   "f": false
+  },
+  {
+   "t": "Then {task}, which is at {time}.",
+   "f": false
+  },
+  {
+   "t": "The next thing is {task}, at {time}.",
+   "f": false
+  },
+  {
+   "t": "Next, at {time}, comes {task}.",
+   "f": false
+  },
+  {
+   "t": "Then {task} at {time}. Park that thought till then.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. That’s future you’s bit.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. No waiting mode needed.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. It’s on the list, off your mind.",
+   "f": true
+  },
+  {
+   "t": "Next: {task} at {time}. Consider it bookmarked.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Real clock time, we checked.",
+   "f": true
+  },
+  {
+   "t": "Next up: {task} at {time}. No need to hold it in your head.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Side quests after, if you like.",
+   "f": true
+  },
+  {
+   "t": "{task} at {time}. Until then, this is the main quest.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. It’s written down. Forget away.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Sticky note not required.",
+   "f": true
+  },
+  {
+   "t": "{task} at {time}. No need to write it on your hand.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Present you, carry on.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Rabbit holes can wait.",
+   "f": true
+  },
+  {
+   "t": "{task} at {time}. Filed under later. We’ve got it.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Enjoy not thinking about it.",
+   "f": true
+  },
+  {
+   "t": "{task} at {time}. Your brain can close that tab.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. You can stop rehearsing it now.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. No alarm for the alarm needed.",
+   "f": true
+  },
+  {
+   "t": "After this, {task} at {time}. The now is enough for now.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Put it down, it’s safe here.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. The plan remembers for you.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Hold the thought. Actually, don’t.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. We’ll keep it warm.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Not now. Now is for this.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. One ball in the air is plenty.",
+   "f": true
+  },
+  {
+   "t": "Later: {task} at {time}. Your brain’s off duty for that one.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Until then, pretend it doesn’t exist.",
+   "f": true
+  },
+  {
+   "t": "Then {task} at {time}. Nothing to juggle till then.",
+   "f": true
+  },
+  {
+   "t": "Next: {task} at {time}. A tiny heads up, not a siren.",
+   "f": true
+  }
+ ],
+ "restHeadline": [
+  {
+   "t": "{count} things left",
+   "f": false
+  },
+  {
+   "t": "{count} left for today",
+   "f": false
+  },
+  {
+   "t": "{count} things to go",
+   "f": false
+  },
+  {
+   "t": "{count} more today",
+   "f": false
+  },
+  {
+   "t": "Still to do: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} things still to do",
+   "f": false
+  },
+  {
+   "t": "{count} to go today",
+   "f": false
+  },
+  {
+   "t": "Just {count} left",
+   "f": false
+  },
+  {
+   "t": "{count} left on the list",
+   "f": false
+  },
+  {
+   "t": "{count} more to go",
+   "f": false
+  },
+  {
+   "t": "{count} things remaining",
+   "f": false
+  },
+  {
+   "t": "Left today: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} still waiting",
+   "f": false
+  },
+  {
+   "t": "{count} still on the list",
+   "f": false
+  },
+  {
+   "t": "{count} more things today",
+   "f": false
+  },
+  {
+   "t": "Remaining: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} left to do",
+   "f": false
+  },
+  {
+   "t": "Only {count} left",
+   "f": false
+  },
+  {
+   "t": "{count} left, that’s all",
+   "f": false
+  },
+  {
+   "t": "{count} more on today’s list",
+   "f": false
+  },
+  {
+   "t": "Today, {count} to go",
+   "f": false
+  },
+  {
+   "t": "{count} left in the day",
+   "f": false
+  },
+  {
+   "t": "Still ahead: {count}",
+   "f": false
+  },
+  {
+   "t": "Ahead of you: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} things ahead",
+   "f": false
+  },
+  {
+   "t": "{count} things still ahead",
+   "f": false
+  },
+  {
+   "t": "{count} to do today",
+   "f": false
+  },
+  {
+   "t": "{count} left today",
+   "f": false
+  },
+  {
+   "t": "{count} more things to do",
+   "f": false
+  },
+  {
+   "t": "The rest: {count} things",
+   "f": false
+  },
+  {
+   "t": "{count} left on today’s plan",
+   "f": false
+  },
+  {
+   "t": "{count} on the plan still",
+   "f": false
+  },
+  {
+   "t": "{count} still to come",
+   "f": false
+  },
+  {
+   "t": "{count} things to come",
+   "f": false
+  },
+  {
+   "t": "{count} more, then done",
+   "f": false
+  },
+  {
+   "t": "{count} more and you’re done",
+   "f": false
+  },
+  {
+   "t": "{count} left, one at a time",
+   "f": false
+  },
+  {
+   "t": "{count} to go, one by one",
+   "f": false
+  },
+  {
+   "t": "{count} things, one at a time",
+   "f": false
+  },
+  {
+   "t": "{count} left, no rush",
+   "f": false
+  },
+  {
+   "t": "{count} remaining today",
+   "f": false
+  },
+  {
+   "t": "There are {count} left",
+   "f": false
+  },
+  {
+   "t": "You have {count} left",
+   "f": false
+  },
+  {
+   "t": "You’ve got {count} left",
+   "f": false
+  },
+  {
+   "t": "{count} things waiting",
+   "f": false
+  },
+  {
+   "t": "{count} waiting for you",
+   "f": false
+  },
+  {
+   "t": "{count} more on the list",
+   "f": false
+  },
+  {
+   "t": "{count} left for you today",
+   "f": false
+  },
+  {
+   "t": "{count} more, then rest",
+   "f": false
+  },
+  {
+   "t": "The rest of today: {count}",
+   "f": false
+  },
+  {
+   "t": "What’s left: {count} things",
+   "f": false
+  },
+  {
+   "t": "What’s left today: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} left on the plan",
+   "f": false
+  },
+  {
+   "t": "{count} things left today",
+   "f": false
+  },
+  {
+   "t": "{count} still to get to",
+   "f": false
+  },
+  {
+   "t": "{count} to get to today",
+   "f": false
+  },
+  {
+   "t": "{count} more to get to",
+   "f": false
+  },
+  {
+   "t": "{count} left, take them slowly",
+   "f": false
+  },
+  {
+   "t": "{count} tasks left",
+   "f": false
+  },
+  {
+   "t": "{count} tasks to go",
+   "f": false
+  },
+  {
+   "t": "{count} tasks still today",
+   "f": false
+  },
+  {
+   "t": "Just {count} more things",
+   "f": false
+  },
+  {
+   "t": "{count} bits left",
+   "f": false
+  },
+  {
+   "t": "{count} bits to go",
+   "f": false
+  },
+  {
+   "t": "Left on the list: {count}",
+   "f": false
+  },
+  {
+   "t": "Still on today: {count}",
+   "f": false
+  },
+  {
+   "t": "{count} left, easy does it",
+   "f": false
+  },
+  {
+   "t": "Coming up: {count} more",
+   "f": false
+  },
+  {
+   "t": "{count} more for today",
+   "f": false
+  },
+  {
+   "t": "{count} still in play",
+   "f": false
+  },
+  {
+   "t": "{count} things. Not a mountain",
+   "f": true
+  },
+  {
+   "t": "{count} to go. Snacks in between",
+   "f": true
+  },
+  {
+   "t": "{count} left. Main quests only",
+   "f": true
+  },
+  {
+   "t": "{count} quests remaining",
+   "f": true
+  },
+  {
+   "t": "{count} left, then sofa time",
+   "f": true
+  },
+  {
+   "t": "{count} levels left",
+   "f": true
+  },
+  {
+   "t": "{count} left. Rabbit holes after",
+   "f": true
+  },
+  {
+   "t": "{count} left, then side quests",
+   "f": true
+  },
+  {
+   "t": "{count} left. Barely a pile",
+   "f": true
+  },
+  {
+   "t": "{count} left. Hardly a to-do list",
+   "f": true
+  },
+  {
+   "t": "{count} left, one tab at a time",
+   "f": true
+  },
+  {
+   "t": "{count} left. Fewer than your tabs",
+   "f": true
+  },
+  {
+   "t": "{count} left. Chaos is losing",
+   "f": true
+  },
+  {
+   "t": "{count} left. The list is nervous",
+   "f": true
+  },
+  {
+   "t": "{count} left. Snacks nearby",
+   "f": true
+  },
+  {
+   "t": "{count} left. Future you says hi",
+   "f": true
+  },
+  {
+   "t": "{count} left. Who’s counting? Us",
+   "f": true
+  },
+  {
+   "t": "{count} more before the fun bit",
+   "f": true
+  },
+  {
+   "t": "{count} left. Finish line’s waving",
+   "f": true
+  },
+  {
+   "t": "{count} left. Dopamine incoming",
+   "f": true
+  },
+  {
+   "t": "{count} left. Bring a podcast",
+   "f": true
+  },
+  {
+   "t": "{count} more ticks to collect",
+   "f": true
+  },
+  {
+   "t": "{count} boxes want ticks",
+   "f": true
+  },
+  {
+   "t": "{count} left. No hyperfocus needed",
+   "f": true
+  },
+  {
+   "t": "{count} left. Not forty. Phew",
+   "f": true
+  },
+  {
+   "t": "{count} to go. Tea break optional",
+   "f": true
+  },
+  {
+   "t": "{count} left. Body double optional",
+   "f": true
+  },
+  {
+   "t": "{count} more, then feet up",
+   "f": true
+  },
+  {
+   "t": "{count} left. Playlist on?",
+   "f": true
+  },
+  {
+   "t": "{count} left. No capes required",
+   "f": true
+  }
+ ],
+ "tinyWinsEmpty": [
+  {
+   "t": "Nothing ticked off yet. The day is young.",
+   "f": false
+  },
+  {
+   "t": "No wins logged yet. That’s completely fine.",
+   "f": false
+  },
+  {
+   "t": "Your wins will show up here.",
+   "f": false
+  },
+  {
+   "t": "Nothing here yet. Every day starts this way.",
+   "f": false
+  },
+  {
+   "t": "No ticks yet. Small ones count too.",
+   "f": false
+  },
+  {
+   "t": "Tiny wins will gather here.",
+   "f": false
+  },
+  {
+   "t": "Nothing crossed off yet. That’s fine.",
+   "f": false
+  },
+  {
+   "t": "Your first win will land here.",
+   "f": false
+  },
+  {
+   "t": "No wins yet today. One will come.",
+   "f": false
+  },
+  {
+   "t": "This space is waiting for your first tick.",
+   "f": false
+  },
+  {
+   "t": "Empty for now. It fills up as you go.",
+   "f": false
+  },
+  {
+   "t": "Nothing finished yet. No pressure.",
+   "f": false
+  },
+  {
+   "t": "Wins show up here as you go.",
+   "f": false
+  },
+  {
+   "t": "First tick of the day goes here.",
+   "f": false
+  },
+  {
+   "t": "Clean slate so far. Start anywhere.",
+   "f": false
+  },
+  {
+   "t": "Nothing yet. Any size of win counts here.",
+   "f": false
+  },
+  {
+   "t": "No wins yet. This is their waiting room.",
+   "f": false
+  },
+  {
+   "t": "It’s quiet here for now.",
+   "f": false
+  },
+  {
+   "t": "Nothing ticked yet. Pick something small to start.",
+   "f": false
+  },
+  {
+   "t": "A fresh page, ready for wins.",
+   "f": false
+  },
+  {
+   "t": "Nothing done yet. Plenty of room for wins.",
+   "f": false
+  },
+  {
+   "t": "No ticks yet. This list is all yours.",
+   "f": false
+  },
+  {
+   "t": "Your wins list is ready when you are.",
+   "f": false
+  },
+  {
+   "t": "Empty so far. That’s how days begin.",
+   "f": false
+  },
+  {
+   "t": "Nothing checked off yet. All good.",
+   "f": false
+  },
+  {
+   "t": "The wins will come. This is where they’ll live.",
+   "f": false
+  },
+  {
+   "t": "Nothing yet. Any small step counts.",
+   "f": false
+  },
+  {
+   "t": "No wins logged yet. The first is often the smallest.",
+   "f": false
+  },
+  {
+   "t": "Nothing here yet. Start small, it still counts.",
+   "f": false
+  },
+  {
+   "t": "Nothing finished yet. That’s perfectly normal.",
+   "f": false
+  },
+  {
+   "t": "Fresh start. Nothing ticked off so far.",
+   "f": false
+  },
+  {
+   "t": "Nothing to show yet. One tick changes that.",
+   "f": false
+  },
+  {
+   "t": "No ticks yet. One small one will do.",
+   "f": false
+  },
+  {
+   "t": "Your first win is waiting to happen.",
+   "f": false
+  },
+  {
+   "t": "All clear so far. Wins appear here.",
+   "f": false
+  },
+  {
+   "t": "Nothing done yet, and the day’s still open.",
+   "f": false
+  },
+  {
+   "t": "The wins shelf is empty. For now.",
+   "f": false
+  },
+  {
+   "t": "Nothing ticked. Nothing wrong.",
+   "f": false
+  },
+  {
+   "t": "Empty for now. No rush at all.",
+   "f": false
+  },
+  {
+   "t": "Tiny wins live here. None yet, and that’s fine.",
+   "f": false
+  },
+  {
+   "t": "Nothing ticked off yet. Warming up is a stage too.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Currently in the thinking-about-it phase.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. The kettle is technically progress.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. Making coffee counts in spirit.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. We’re counting opening the app. Don’t argue.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked. The five-minute task is still thinking.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. The list is patient. Very patient.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. The list is just enjoying the quiet.",
+   "f": true
+  },
+  {
+   "t": "Nothing finished. Some days start in second gear.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Just stretching before the race.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off yet. Consider this the trailer.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. Every hero starts at level one.",
+   "f": true
+  },
+  {
+   "t": "Nothing done. Loading screen energy. That’s fine.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Your brain is still choosing a radio station.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. First win, coming soon to this screen.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. This space is saving itself for something good.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The confetti is on standby.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. The tick box is holding its breath.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked. Doom pile: undisturbed. Peace: intact.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Side quests don’t show up here, sadly.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. Hyperfocus hasn’t picked a target yet.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The dopamine is still stuck in traffic.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Start with something tiny, like finding your phone.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Pro tip: the easiest task is also a task.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. You and the list are just making eye contact.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. Still circling the runway. Landing soon.",
+   "f": true
+  },
+  {
+   "t": "Nothing done. It’s a slow cooker kind of day so far.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Some brains are diesel engines. Warm up, then go.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. We’re not judging. We literally can’t, we’re an app.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. No judgement. We’re a list, not a parent.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked off. This screen won’t tell anyone.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Plot twist incoming.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked. Every great montage starts with a slow bit.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked. Pick the smallest thing and pretend it’s huge.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. A tiny win still gets the full fanfare here.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Our tick sound is very keen to be heard.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The browser in your head is still opening tabs.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. Wins are like buses. Nothing, then three at once.",
+   "f": true
+  },
+  {
+   "t": "Nothing ticked. That’s just the calm before the tick storm.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. Consider this an empty trophy shelf with ambition.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. The list is quietly rooting for you.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The first one’s usually hiding under something.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Tiny wins accepted. Microscopic, even.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The day’s still finding its groove.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. This is the calm part of the rollercoaster.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Five-minute tasks are notoriously shy.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. The easy ones are hiding in plain sight.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. The list isn’t keeping score. Nobody here is.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Even rockets sit on the pad for a while.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Lots of thinking happened, though. We could hear it.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Brain’s been busy. Just not on the list.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. The first tick is the hardest. Then it gets greedy.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Right now it’s all potential energy.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Technically, you’re still undefeated.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. The list is playing it cool. So can you.",
+   "f": true
+  },
+  {
+   "t": "Nothing yet. Every tick starts as a long stare at the list.",
+   "f": true
+  },
+  {
+   "t": "No ticks yet. Future you is already cheering for the first one.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. Nibble a corner of something. Tiny counts.",
+   "f": true
+  },
+  {
+   "t": "No wins yet. Done badly still counts as done, by the way.",
+   "f": true
+  },
+  {
+   "t": "Nothing done yet. The day’s in aeroplane mode. For now.",
+   "f": true
+  }
+ ],
+ "arrivalEvening": [
+  {
+   "t": "Good evening, {name}.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hello this evening, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Good evening.",
+   "f": false
+  },
+  {
+   "t": "Good evening to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Welcome back.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. It’s evening.",
+   "f": false
+  },
+  {
+   "t": "{name}, good evening.",
+   "f": false
+  },
+  {
+   "t": "A good evening to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Evening’s here.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Nice to see you.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Come in.",
+   "f": false
+  },
+  {
+   "t": "Hello {name}, and good evening.",
+   "f": false
+  },
+  {
+   "t": "Hi, {name}. A lovely evening to you.",
+   "f": false
+  },
+  {
+   "t": "Evening has arrived, {name}.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Welcome in.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Take a seat.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. A quiet evening to you.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Settle in.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Glad you’re here.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. A calm evening to you.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. How are you?",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. How’s it going?",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Ease on in.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Nice and easy now.",
+   "f": false
+  },
+  {
+   "t": "Hello again, {name}. It’s evening.",
+   "f": false
+  },
+  {
+   "t": "The evening’s here, {name}.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Welcome.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Good to see you.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. The evening’s yours.",
+   "f": false
+  },
+  {
+   "t": "{name}, hello. Good evening.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Hope today was kind.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Hope you’re well.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Let’s take it slow.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Deep breath.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. The day’s winding down.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Things are quieter now.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Softer pace now.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Slower hours now.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Evening has come round.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Here we are.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Good evening.",
+   "f": false
+  },
+  {
+   "t": "Hey there, {name}. Evening.",
+   "f": false
+  },
+  {
+   "t": "Hey {name}. Hope the evening’s kind.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Take it easy.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Easy does it.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. No rush tonight.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. All calm here.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Pull up a chair.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Come sit.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Welcome to the evening.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Glad you stopped by.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. Lovely to see you.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Hello again.",
+   "f": false
+  },
+  {
+   "t": "Well, good evening, {name}.",
+   "f": false
+  },
+  {
+   "t": "Oh, good evening, {name}.",
+   "f": false
+  },
+  {
+   "t": "And good evening to you, {name}.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Hope you’re doing okay.",
+   "f": false
+  },
+  {
+   "t": "Good evening, {name}. How are things?",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Home stretch.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. This is the quiet part.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Being here is enough.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Softly now.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Evening’s rolled in.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Nice and slow.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Let’s keep it gentle.",
+   "f": false
+  },
+  {
+   "t": "Hi {name}. Evening, gently.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. It’s a calm one here.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Kind of you to drop in.",
+   "f": false
+  },
+  {
+   "t": "Hello, {name}. Here’s to a calm evening.",
+   "f": false
+  },
+  {
+   "t": "Evening, {name}. Where did the day go?",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Yes, already.",
+   "f": true
+  },
+  {
+   "t": "Evening already, {name}? Time is wild.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Time flew, as it does.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Evening snuck up on us.",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Sofa’s calling.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Kettle on?",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Cosy socks time.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Pyjama o’clock soon?",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Tabs closing soon?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Brain on dimmer mode.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Low battery mode?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Hyperfocus ate the day?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Rabbit holes: closing.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. The doom pile sleeps.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. The list is yawning.",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Cup of tea energy.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Blanket burrito time?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Slippers on, brain off.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Wind-down mode: on.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Quiet hours, sort of.",
+   "f": true
+  },
+  {
+   "t": "Hi {name}. Day has left the building.",
+   "f": true
+  },
+  {
+   "t": "Good evening, {name}. Day: mostly done.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Night owl warming up?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Fancy seeing you here.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Time warp over?",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Lamps on, tabs off.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Snack and sofa hours.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Brain’s off the clock.",
+   "f": true
+  },
+  {
+   "t": "Evening, {name}. Allegedly.",
+   "f": true
+  }
+ ],
+ "rhythmTuneBody": [
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, task lengths, how busy days get and your meal times. Your plans update right away.",
+   "f": false
+  },
+  {
+   "t": "Tweak your focus window, how long tasks take, how packed days are and when you eat. Plans change to match at once.",
+   "f": false
+  },
+  {
+   "t": "Here you can change your focus window, task times, how full days get and meal times. Plans update instantly.",
+   "f": false
+  },
+  {
+   "t": "Set your focus window, how long things usually take, how full a day can be and when you eat. Plans catch up at once.",
+   "f": false
+  },
+  {
+   "t": "Move your focus window, adjust how long things take, set how full days get and choose when you eat. Plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, how long things take, how full days get, when you eat: change any of it and plans update at once.",
+   "f": false
+  },
+  {
+   "t": "Change when you focus best, how long things take, how full days get and your mealtimes. Your plans adjust straight away.",
+   "f": false
+  },
+  {
+   "t": "Fine-tune your focus window, task lengths, how much fits in a day and when you eat. Plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Edit your focus window, how long tasks take, how full your days get and when meals happen. Plans update immediately.",
+   "f": false
+  },
+  {
+   "t": "Shift your focus window, change how long things take, decide how full days get and when you eat. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "You can adjust your focus window, how long things take, how full days get and when you eat. Your plans follow in a moment.",
+   "f": false
+  },
+  {
+   "t": "Update your focus window, task lengths, day fullness and meal times here. Plans reflect it straight away.",
+   "f": false
+  },
+  {
+   "t": "Change how long things take, how full days get, when you eat and your focus window. Plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Meal times, focus window, how long things take, how full days get: adjust them here and plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Adjust how full your days get, how long things take, when you eat and your focus window. Plans update straight away.",
+   "f": false
+  },
+  {
+   "t": "From here you can change your focus window, how long tasks run, how full days get and when you eat. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Set when your focus window is, how long things take, how full days can get and when meals fit. Plans update right away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, your usual task lengths, how busy a day can get and when you eat. Plans adjust instantly.",
+   "f": false
+  },
+  {
+   "t": "Tweak how long things take, how full days get, when you eat and when your focus window sits. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, task lengths, day fullness and meal times all live here. Change one and plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Anything here can change: focus window, how long things take, how full days get, when you eat. Plans update instantly.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how packed days get and when you eat. The plan updates the moment you do.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Your plans reshape straight away.",
+   "f": false
+  },
+  {
+   "t": "Here’s where you change your focus window, task lengths, how full days get and meal times. Plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Move your focus window, adjust task lengths, set how full days get and change meal times. Your plans keep up at once.",
+   "f": false
+  },
+  {
+   "t": "Set your focus window, how long things take, how full days get and when you eat. Plans rearrange themselves right away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long tasks usually run, how full days get and when you eat. Plans update as you go.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, how long things take, how much goes in a day, when you eat. Change any of it and plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Tune your focus window, task lengths, day fullness and meal times. Every plan follows straight away.",
+   "f": false
+  },
+  {
+   "t": "Adjust when your focus window falls, how long things take, how full days get and when you eat. Plans update at once.",
+   "f": false
+  },
+  {
+   "t": "Edit your focus window, how long things take, how busy days get and when you have meals. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Change the focus window, task lengths, how full days get and meal times. Your plans shift to match right away.",
+   "f": false
+  },
+  {
+   "t": "Here you can move your focus window, change how long things take, set day fullness and meal times. Plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how full days get and when you eat. Your plans update in real time.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, task lengths, how full days are and when you eat can all change here. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Set how long things take, your focus window, how full days get and when you eat. Plans update straight away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how much fits in a day and your meal times. Plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, how long things really take, how full days get and when you eat. Plans change straight away.",
+   "f": false
+  },
+  {
+   "t": "Change any of these: focus window, task lengths, how full days get, meal times. Plans update the moment you do.",
+   "f": false
+  },
+  {
+   "t": "Update your focus window, how long things take, how full a day gets and when you eat. Your plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "You’re in charge of your focus window, how long things take, how full days get and when you eat. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Reset your focus window, how long things take, how full days get and when you eat. Plans update right away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you stop to eat. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Adjust the focus window, how long tasks take, how busy days get and meal times. Plans follow along instantly.",
+   "f": false
+  },
+  {
+   "t": "Set your focus window, task lengths, how full days get and meal breaks. Plans update straight away to match.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, how long things take, how full days get and meal times are all yours to change. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and mealtimes. Everything updates right away.",
+   "f": false
+  },
+  {
+   "t": "Move your focus window, change task lengths, set how full days get and when you eat. Your plans adjust at once.",
+   "f": false
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how full days can get and when meals happen. Plans update instantly.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how full days get and when you eat. No waiting: plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Change focus window, task lengths, how full days get and meal times whenever you like. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long jobs take, how full days get and when you eat. Plans catch up right away.",
+   "f": false
+  },
+  {
+   "t": "Set when you focus, how long things take, how full a day gets and when you eat. Your plans update in a moment.",
+   "f": false
+  },
+  {
+   "t": "Here you can tweak your focus window, task lengths, how packed days get and meal times. Plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, how long things take, how full days get, your meal times. Adjust any of them and plans update at once.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat, any time. Plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, your task lengths, how full days get and your meal times. Plans follow straight after.",
+   "f": false
+  },
+  {
+   "t": "Edit when your focus window sits, how long tasks take, how full days get and when you eat. Plans update immediately.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how busy days get and when you eat. Your plans follow instantly.",
+   "f": false
+  },
+  {
+   "t": "Rework your focus window, how long things take, how full days get and when you eat. Plans update straight away.",
+   "f": false
+  },
+  {
+   "t": "Adjust how long things take, your focus window, how full days get and meal times. Your plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "Set your focus window, how long tasks take, how full days get and when you like to eat. Plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, task lengths, how full days get and when you eat. Plans redraw themselves straight away.",
+   "f": false
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how much a day can hold and when you eat. Plans follow at once.",
+   "f": false
+  },
+  {
+   "t": "You can change your focus window, how long things take, how full days get and meal times. Plans update the same moment.",
+   "f": false
+  },
+  {
+   "t": "Adjust your focus window, how long tasks take, how full days get and when you eat. Plans follow without any wait.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans update to match instantly.",
+   "f": false
+  },
+  {
+   "t": "Your focus window, how long things take, how full days get and when you eat: adjust freely. Plans follow straight away.",
+   "f": false
+  },
+  {
+   "t": "Update your focus window, how long jobs take, how full days get and meal times. Your plans follow right away.",
+   "f": false
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans keep up instantly. Unlike us.",
+   "f": true
+  },
+  {
+   "t": "Focus window, task lengths, how full days get, meal times: tweak away. Plans follow at once, no sulking.",
+   "f": true
+  },
+  {
+   "t": "Tweak your focus window, how long things really take, how full days get and when you eat. Plans adjust at once. No paperwork.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, task times, how full days get and when you eat. Plans follow straight away, like a keen puppy.",
+   "f": true
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how packed days get and snack o’clock. Plans update at once.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things actually take, how full days get and when you eat. Plans update before you can wander off.",
+   "f": true
+  },
+  {
+   "t": "Tweak your focus window, task lengths, how full days get and meal times. Plans update faster than you can lose your keys.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans follow at once. No forms, no fuss.",
+   "f": true
+  },
+  {
+   "t": "Move your focus window, fix how long things take, set how full days get and when you eat. Plans follow before the kettle boils.",
+   "f": true
+  },
+  {
+   "t": "Your focus window, how long things take, how full days get, when you eat: all adjustable. Plans follow at once. Quicker than a new hobby.",
+   "f": true
+  },
+  {
+   "t": "Adjust your focus window, how long things take (honestly), how full days get and when you eat. Plans follow straight away.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans follow at once. No need to set a reminder.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, task lengths, how full days get and when you eat. Plans update instantly, zero admin.",
+   "f": true
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how full days get and when snacks become meals. Plans follow straight away.",
+   "f": true
+  },
+  {
+   "t": "Move your focus window, adjust task lengths, set how full days get and pick meal times. Plans follow like a loyal sidekick.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans catch up faster than you can say hyperfocus.",
+   "f": true
+  },
+  {
+   "t": "Focus window, task lengths, day fullness, meal times: fiddle to your heart’s content. Plans follow at once.",
+   "f": true
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how full days get and when you eat. Plans update instantly. It’s a bit magic.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans rearrange themselves. No drag and drop required.",
+   "f": true
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how full days get and when you eat. Plans follow at once, no sticky notes needed.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, task lengths, how full days get and when you eat. Plans update at once. Fiddle freely, nothing breaks.",
+   "f": true
+  },
+  {
+   "t": "Set your focus window, how long things take, how full days get and when you eat. Plans update instantly, like a friend who listens.",
+   "f": true
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how full days get and when you eat. Plans follow at once, no nagging needed.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans follow instantly. Tinkering encouraged.",
+   "f": true
+  },
+  {
+   "t": "Your focus window, task lengths, how full days get, meal times: change them on a whim. Plans follow at once, no questions asked.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans update before your tea goes cold.",
+   "f": true
+  },
+  {
+   "t": "Tweak your focus window, how long things take, how full days get and when you eat. Plans keep up, even on zoomy days.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans follow at once, like a well-trained shadow.",
+   "f": true
+  },
+  {
+   "t": "Adjust your focus window, how long things take, how full days get and when you eat. Plans follow straight away. No rewriting lists.",
+   "f": true
+  },
+  {
+   "t": "Change your focus window, how long things take, how full days get and when you eat. Plans update at once. No redoing the whole week.",
+   "f": true
+  }
+ ],
+ "detailEstimates": [
+  {
+   "t": "Your guess, then what it actually took. Plans now add the difference for you.",
+   "f": false
+  },
+  {
+   "t": "First your estimate, then the real time. Plans now build in the gap.",
+   "f": false
+  },
+  {
+   "t": "What you expected, then what it really took. Your plans now leave room for the difference.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, then the real time. Plans add a buffer to cover the gap.",
+   "f": false
+  },
+  {
+   "t": "Your guess first, then the actual time. Plans now add the extra for you.",
+   "f": false
+  },
+  {
+   "t": "How long you thought, then how long it took. Plans now add the gap automatically.",
+   "f": false
+  },
+  {
+   "t": "Your estimate next to the real time. Plans now include the difference.",
+   "f": false
+  },
+  {
+   "t": "What you guessed, then what it took. Plans now pad in the difference.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the actual time. Your plans now allow for the gap.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, then the reality. Plans now add a buffer to match.",
+   "f": false
+  },
+  {
+   "t": "The time you expected, then the time it took. Plans now make room for the gap.",
+   "f": false
+  },
+  {
+   "t": "Guessed time, then real time. Plans now add the difference on their own.",
+   "f": false
+  },
+  {
+   "t": "Your guess and then what it actually took. The gap is now built into your plans.",
+   "f": false
+  },
+  {
+   "t": "First the guess, then the real time. We add the gap to your plans for you.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, followed by the real time. Plans now add a buffer based on the gap.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then what really happened. Plans now allow extra time to match.",
+   "f": false
+  },
+  {
+   "t": "What you planned for, then what it took. Plans now add the gap as a buffer.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the true time. Plans now cover the difference for you.",
+   "f": false
+  },
+  {
+   "t": "The guess, then the actual. Your plans now add the gap between them.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, then what it took in real life. Plans now add that difference.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then how long it really took. The difference is now added to plans.",
+   "f": false
+  },
+  {
+   "t": "Estimated, then actual. Plans now add a buffer so there’s room.",
+   "f": false
+  },
+  {
+   "t": "What you thought it would take, then what it took. Plans now add the gap.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the real time taken. Plans now leave that extra room.",
+   "f": false
+  },
+  {
+   "t": "First what you guessed, then what it took. Plans now add the difference as padding.",
+   "f": false
+  },
+  {
+   "t": "Your time guess, then the real result. Plans now build in the gap for you.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the actual time. From now on, plans add the difference.",
+   "f": false
+  },
+  {
+   "t": "How long you guessed, then how long it was. Plans now add the extra time.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then what it actually took. We add the gap to your plans now.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, then the real time. Plans now give you that difference as a buffer.",
+   "f": false
+  },
+  {
+   "t": "What you guessed and what it really took. Plans now cover the gap automatically.",
+   "f": false
+  },
+  {
+   "t": "Your estimate first, then the real time. The gap now goes into your plans.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the real answer. Plans now add a buffer to fit.",
+   "f": false
+  },
+  {
+   "t": "First your guess, then what it took. Plans now quietly add the difference.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then what actually happened. Plans now make space for the gap.",
+   "f": false
+  },
+  {
+   "t": "The time you guessed, then the time it took. Plans add the difference from now on.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the actual time it took. Plans now build in a matching buffer.",
+   "f": false
+  },
+  {
+   "t": "Your estimate, then the time it really needed. Plans now add the gap for you.",
+   "f": false
+  },
+  {
+   "t": "Guess, then actual. Plans now add a buffer the size of the gap.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the real time. Plans now include a buffer for the difference.",
+   "f": false
+  },
+  {
+   "t": "Your guess, then the truth. Plans now pad the gap, so 5 minutes gets its real 20.",
+   "f": true
+  },
+  {
+   "t": "What you thought, then what time thought. Plans now add the difference.",
+   "f": true
+  },
+  {
+   "t": "Your guess versus reality. Reality won. Plans now add the gap for you.",
+   "f": true
+  },
+  {
+   "t": "The estimate, then the actual. Plans now add a buffer, because 5 minutes is never 5 minutes.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. We add the difference. No judgement, just maths.",
+   "f": true
+  },
+  {
+   "t": "Optimistic you, then the real clock. Plans now settle the argument for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took. Plans now add the gap. Time blindness, meet your new buffer.",
+   "f": true
+  },
+  {
+   "t": "What you guessed, then what really happened. Plans now quietly pad things out.",
+   "f": true
+  },
+  {
+   "t": "Guess, then reality. Plans now add the difference so future you isn’t rushed.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time, which is always a bit longer. Plans now add the gap.",
+   "f": true
+  },
+  {
+   "t": "Your guess next to the real time. The gap goes into your plans, like a time cushion.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Turns out quick has a range. Plans now cover it.",
+   "f": true
+  },
+  {
+   "t": "What you said, then what the clock said. Plans now side with the clock.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time. Plans now add the gap, because brains round down.",
+   "f": true
+  },
+  {
+   "t": "Your hopeful guess, then the real number. Plans now add the difference, no questions asked.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the truth. Plans now add a buffer. The clock thanks you.",
+   "f": true
+  },
+  {
+   "t": "Your estimate, then what actually happened. Plans now convert hopeful minutes to real ones.",
+   "f": true
+  },
+  {
+   "t": "Brain time, then clock time. Plans now add the difference for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then reality’s version. Plans now split the difference. Well, add it.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what actually happened. Plans now add padding, like bubble wrap for time.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. The gap goes in your plans. Your afternoon thanks you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add the difference. Past you did the research.",
+   "f": true
+  },
+  {
+   "t": "Your estimate, then the real thing. Plans now add wiggle room so nothing gets squished.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer. Like arriving early, but automatic.",
+   "f": true
+  },
+  {
+   "t": "What you hoped, then what happened. Plans now add the gap, gently.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time. Plans now add the extra, no lectures included.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now pad the difference. Rabbit holes included.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the director’s cut. Plans now add the extra runtime.",
+   "f": true
+  },
+  {
+   "t": "The guess, then the plot twist. Plans now add the difference for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time. Plans now add the gap for finding your keys first.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took, including the snack break. Plans now add the gap.",
+   "f": true
+  },
+  {
+   "t": "Your estimate, then the real one. Plans now budget for the bit where you look for a pen.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took. Plans now add the gap, because starting takes time too.",
+   "f": true
+  },
+  {
+   "t": "Guessed: quick. Actual: less quick. Plans now add the difference.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer, so there’s no sprint at the end.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer. Future you says cheers.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer, the grown-up version of five more minutes.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time. Plans now add the gap. It’s basically a time airbag.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add the gap, like a friend who knows you well.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual. Plans now add the difference, because ‘just a sec’ rarely is.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add the gap, so ‘quick email’ gets its full hour.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took. Plans now add the gap. Your calendar can breathe now.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add slack, so one long task doesn’t topple the day.",
+   "f": true
+  },
+  {
+   "t": "Your estimate, then the real time. Plans now add a buffer. Domino effect: cancelled.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now carry the difference so your brain doesn’t have to.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then how long it took with interruptions. Plans now add the gap. Real life, basically.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the stopwatch. The stopwatch was less hopeful. Plans now add the gap.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took. Plans now add the difference, no need to guess better.",
+   "f": true
+  },
+  {
+   "t": "Your hunch, then the clock’s verdict. Plans now add the gap for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real minutes. Plans now add the difference. Time is sneaky like that.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what it took. Plans now add the gap, because every task has a warm-up lap.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer for the one-more-thing moments.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the long version. Plans now add the gap automatically.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then what life added. Plans now add the same bit for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add a buffer. No more mental time maths.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the actual time. Plans now add a buffer so tasks stop spilling into each other.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the real time. Plans now add breathing room. The rushing can retire.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the full story. Plans now add the difference for you.",
+   "f": true
+  },
+  {
+   "t": "Your guess, then the stubborn reality. Plans now add the gap, no fuss.",
+   "f": true
+  },
+  {
+   "t": "What you pencilled in, then what it took. Plans now add the extra, pencil not required.",
+   "f": true
+  }
+ ],
+ "personaliseIntro": [
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like to do things, and your plan will follow.",
+   "f": false
+  },
+  {
+   "t": "Share when you prefer doing things. Your plan will bend to fit.",
+   "f": false
+  },
+  {
+   "t": "When do you like doing things? Tell us, and the plan leans that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us your favourite times for things. The plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Let us know when things suit you best. The plan will shape itself around that.",
+   "f": false
+  },
+  {
+   "t": "When do you prefer to do things? Say so here and your plan will follow.",
+   "f": false
+  },
+  {
+   "t": "Pick the times you like for things. Your plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you’d rather do things. The plan will take the hint.",
+   "f": false
+  },
+  {
+   "t": "Share your preferred times and the plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Tell us when things feel easiest for you. Your plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Let us know the times you like doing things. We’ll tilt the plan to match.",
+   "f": false
+  },
+  {
+   "t": "Say when you like doing things. Your plan will lean in that direction.",
+   "f": false
+  },
+  {
+   "t": "Tell us your preferred times. The plan will gently follow.",
+   "f": false
+  },
+  {
+   "t": "When suits you for what? Tell us, and the plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like to work, rest and everything between. The plan will follow.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you prefer to do things, and we’ll shape your plan around it.",
+   "f": false
+  },
+  {
+   "t": "Your preferences go here. Tell us when you like doing things and the plan leans that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us your rhythms. The plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Share when you like doing things. Plans will lean your way.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you enjoy doing things. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us what times work for you. The plan will lean to fit.",
+   "f": false
+  },
+  {
+   "t": "When do things go best for you? Tell us, and the plan will follow your lead.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. We’ll nudge the plan that way.",
+   "f": false
+  },
+  {
+   "t": "Let us in on your favourite times. The plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Say when you like doing what. The plan will bend your way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like to do things, and the plan will adjust to suit.",
+   "f": false
+  },
+  {
+   "t": "Share your favourite times for things. Your plan will follow them.",
+   "f": false
+  },
+  {
+   "t": "Tell us how you like your day to run. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like doing things. Your plan will lean in.",
+   "f": false
+  },
+  {
+   "t": "Tell us your preferred times for things, and the plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "When do you like to get things done? Tell us. The plan will follow.",
+   "f": false
+  },
+  {
+   "t": "Tell us when things work best for you. Your plan will tilt that way.",
+   "f": false
+  },
+  {
+   "t": "A few questions about when you like doing things. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. Your plan will lean towards those times.",
+   "f": false
+  },
+  {
+   "t": "Let us know your favourite times. We’ll lean the plan to match.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you’d like to do things. The plan will quietly lean that way.",
+   "f": false
+  },
+  {
+   "t": "Share when you like to do things, and your plan will lean towards it.",
+   "f": false
+  },
+  {
+   "t": "Tell us when feels right for things. The plan will follow your lead.",
+   "f": false
+  },
+  {
+   "t": "Say when you like doing things best. Your plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "When do you like doing things? Your answers help the plan lean your way.",
+   "f": false
+  },
+  {
+   "t": "Tell us your timing preferences. Your plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like doing things. The plan will bend around you.",
+   "f": false
+  },
+  {
+   "t": "Tell us the times that suit you. The plan will lean in that direction.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you prefer to do things. The plan will lean to match.",
+   "f": false
+  },
+  {
+   "t": "Share the times you like for things. We’ll shape the plan around them.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing each kind of thing. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you prefer doing things. We’ll tip the plan that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us your ideal times for things. The plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Say when you’d like things to happen. Your plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us what time of day suits what. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "When do you like to do things? Tell us here, and the plan follows.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you tend to like doing things. The plan will lean along.",
+   "f": false
+  },
+  {
+   "t": "Share your favourite times. Your plan will lean your way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things, and the plan will make room for that.",
+   "f": false
+  },
+  {
+   "t": "Let us know your preferred times. Your plan will follow along.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like to do things. We’ll steer the plan that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us your favourite times for different things. The plan will lean to them.",
+   "f": false
+  },
+  {
+   "t": "Tell us when things suit you. Your plan will lean around that.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like doing things, and the plan will lean with you.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. The plan listens and leans that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you prefer doing what. Your plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Share when things feel right for you. The plan will lean towards those times.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean your way from now on.",
+   "f": false
+  },
+  {
+   "t": "When do you like doing things? Let us know and the plan will lean to suit.",
+   "f": false
+  },
+  {
+   "t": "Tell us your preferences for when things happen. The plan will lean towards them.",
+   "f": false
+  },
+  {
+   "t": "Let us know when you like to do things. Your plan will gently lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. Your plan will start leaning that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like to do stuff. The plan will lean that way.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things best. The plan will follow that lead.",
+   "f": false
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, like a sunflower.",
+   "f": true
+  },
+  {
+   "t": "Emails at nine or at four? Tell us when you like doing things and the plan leans that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan takes the hint, no nagging.",
+   "f": true
+  },
+  {
+   "t": "Tell us your favourite times for things. The plan will lean in, like a good friend.",
+   "f": true
+  },
+  {
+   "t": "Night owl or early bird? Tell us when you like doing things and the plan will lean that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. It’s a very good listener.",
+   "f": true
+  },
+  {
+   "t": "Admin at dawn? Never? Tell us when you like doing things and the plan leans that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, no arm-twisting.",
+   "f": true
+  },
+  {
+   "t": "Tell us when your brain likes doing things. The plan will lean that way. Your brain has opinions.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. Politely, like a butler.",
+   "f": true
+  },
+  {
+   "t": "Some brains do email at 9am, some at 9pm. Tell us yours and the plan will lean that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. It’s surprisingly bendy.",
+   "f": true
+  },
+  {
+   "t": "When’s your brain in the mood for what? Tell us, and the plan will lean that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, no hard feelings about the rest.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, like it’s been listening. It has.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. Bossy planners need not apply.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. We’ll lean the plan that way, no colour-coding required.",
+   "f": true
+  },
+  {
+   "t": "Morning person, evening person, or it depends on the snack? Tell us. The plan will lean that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan leans that way. Unlike a to-do list, it listens.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. Mind reading is still in beta.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, no rules carved in stone.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, like a friend who remembers.",
+   "f": true
+  },
+  {
+   "t": "Your brain has favourite times. Tell us, and the plan will lean that way.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. No 5am club required.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, and quietly stop fighting you.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. Consider it trained.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan leans that way. Less fighting your brain, more flow.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, a bit like a good playlist.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way, not the other way round.",
+   "f": true
+  },
+  {
+   "t": "Tell us when you like doing things. The plan will lean that way. It aims to please.",
+   "f": true
+  }
+ ],
+ "focusDoneCheer": [
+  {
+   "t": "Done. Nicely handled.",
+   "f": false
+  },
+  {
+   "t": "Block done. Well done, you.",
+   "f": false
+  },
+  {
+   "t": "That’s done. Good work.",
+   "f": false
+  },
+  {
+   "t": "Finished. Take a breath.",
+   "f": false
+  },
+  {
+   "t": "Done. That one’s yours.",
+   "f": false
+  },
+  {
+   "t": "Focus block complete. Nice.",
+   "f": false
+  },
+  {
+   "t": "Done and dusted.",
+   "f": false
+  },
+  {
+   "t": "All done. Good going.",
+   "f": false
+  },
+  {
+   "t": "That’s one done.",
+   "f": false
+  },
+  {
+   "t": "Block finished. Lovely work.",
+   "f": false
+  },
+  {
+   "t": "Done. Nice focus.",
+   "f": false
+  },
+  {
+   "t": "Focus block done. Well played.",
+   "f": false
+  },
+  {
+   "t": "That’s a wrap on this one.",
+   "f": false
+  },
+  {
+   "t": "Done. You stuck with it.",
+   "f": false
+  },
+  {
+   "t": "Finished. Nicely done.",
+   "f": false
+  },
+  {
+   "t": "Block complete. Good stuff.",
+   "f": false
+  },
+  {
+   "t": "Done. That counts.",
+   "f": false
+  },
+  {
+   "t": "All wrapped up. Nice one.",
+   "f": false
+  },
+  {
+   "t": "Done. Take a moment.",
+   "f": false
+  },
+  {
+   "t": "That block’s done. Good job.",
+   "f": false
+  },
+  {
+   "t": "Finished. That was real focus.",
+   "f": false
+  },
+  {
+   "t": "Done. Proper work, that.",
+   "f": false
+  },
+  {
+   "t": "Complete. Well done.",
+   "f": false
+  },
+  {
+   "t": "Done. One block down.",
+   "f": false
+  },
+  {
+   "t": "Focus block: done.",
+   "f": false
+  },
+  {
+   "t": "Done. Enjoy that.",
+   "f": false
+  },
+  {
+   "t": "And that’s done. Lovely.",
+   "f": false
+  },
+  {
+   "t": "Done. Quietly brilliant.",
+   "f": false
+  },
+  {
+   "t": "Block done. You did that.",
+   "f": false
+  },
+  {
+   "t": "Finished. Stretch if you like.",
+   "f": false
+  },
+  {
+   "t": "Done. That’s progress.",
+   "f": false
+  },
+  {
+   "t": "Block ticked off. Nice.",
+   "f": false
+  },
+  {
+   "t": "Done. Good use of time.",
+   "f": false
+  },
+  {
+   "t": "That’s done. Take a pause.",
+   "f": false
+  },
+  {
+   "t": "Finished. Well handled.",
+   "f": false
+  },
+  {
+   "t": "Done. A solid block.",
+   "f": false
+  },
+  {
+   "t": "Nice work. Block done.",
+   "f": false
+  },
+  {
+   "t": "Done. Worth a small smile.",
+   "f": false
+  },
+  {
+   "t": "Finished. Good on you.",
+   "f": false
+  },
+  {
+   "t": "Done. Nice and steady.",
+   "f": false
+  },
+  {
+   "t": "Done. Brain one, chaos nil.",
+   "f": true
+  },
+  {
+   "t": "Done. The tabs bow to you.",
+   "f": true
+  },
+  {
+   "t": "Done. Hyperfocus, well aimed.",
+   "f": true
+  },
+  {
+   "t": "Done. The doom pile trembles.",
+   "f": true
+  },
+  {
+   "t": "Finished. Dopamine delivered.",
+   "f": true
+  },
+  {
+   "t": "Done. Squirrels nil, you one.",
+   "f": true
+  },
+  {
+   "t": "Done. Future you is doing a little dance.",
+   "f": true
+  },
+  {
+   "t": "Done. Time blindness couldn’t stop you.",
+   "f": true
+  },
+  {
+   "t": "Done. Somewhere, a to-do list weeps with joy.",
+   "f": true
+  },
+  {
+   "t": "Block done. Main quest progress: real.",
+   "f": true
+  },
+  {
+   "t": "Done. Achievement unlocked: focus.",
+   "f": true
+  },
+  {
+   "t": "Done. Not one side quest. Probably.",
+   "f": true
+  },
+  {
+   "t": "Done. That’s a win for team brain.",
+   "f": true
+  },
+  {
+   "t": "Done. The distraction gremlins lost.",
+   "f": true
+  },
+  {
+   "t": "Finished. Take a victory snack.",
+   "f": true
+  },
+  {
+   "t": "Done. Cue tiny confetti.",
+   "f": true
+  },
+  {
+   "t": "Done. Your brain’s tiny trophy is in the post.",
+   "f": true
+  },
+  {
+   "t": "Done. Level up.",
+   "f": true
+  },
+  {
+   "t": "Done. Chaos filed a complaint.",
+   "f": true
+  },
+  {
+   "t": "Done. The list felt that.",
+   "f": true
+  },
+  {
+   "t": "Done. Your brain showed up and stayed.",
+   "f": true
+  },
+  {
+   "t": "Done. Victory lap optional.",
+   "f": true
+  },
+  {
+   "t": "Done. Focus mode: nailed it.",
+   "f": true
+  },
+  {
+   "t": "Done. You and focus, a love story.",
+   "f": true
+  },
+  {
+   "t": "Done. The kettle can boil in your honour.",
+   "f": true
+  },
+  {
+   "t": "Done. The focus fairy approves.",
+   "f": true
+  },
+  {
+   "t": "Done. A tick has entered the chat.",
+   "f": true
+  },
+  {
+   "t": "Done. Gold star. Metaphorical, but shiny.",
+   "f": true
+  },
+  {
+   "t": "Done. That was some serious brain.",
+   "f": true
+  },
+  {
+   "t": "Done. Stand up, stretch, feel smug.",
+   "f": true
+  },
+  {
+   "t": "Done. You out-focused your phone.",
+   "f": true
+  },
+  {
+   "t": "Done. Rabbit holes avoided. Mostly.",
+   "f": true
+  },
+  {
+   "t": "Done. Tabs closed. Well, one.",
+   "f": true
+  },
+  {
+   "t": "Done. Pause for applause.",
+   "f": true
+  },
+  {
+   "t": "Done. The clock is impressed.",
+   "f": true
+  },
+  {
+   "t": "Done. Even the alarm is proud.",
+   "f": true
+  },
+  {
+   "t": "Done. Consider the chaos politely defeated.",
+   "f": true
+  },
+  {
+   "t": "Done. Focus came, focus stayed.",
+   "f": true
+  },
+  {
+   "t": "Done. Take a bow. A small one.",
+   "f": true
+  },
+  {
+   "t": "Done. High five from the list.",
+   "f": true
+  },
+  {
+   "t": "Done. That block never saw you coming.",
+   "f": true
+  },
+  {
+   "t": "Done. Momentum, meet you.",
+   "f": true
+  },
+  {
+   "t": "Done. You versus distraction: you.",
+   "f": true
+  },
+  {
+   "t": "Done. Ding. That’s the sound of done.",
+   "f": true
+  },
+  {
+   "t": "Done. Cue the tiny marching band.",
+   "f": true
+  },
+  {
+   "t": "Done. Main character energy.",
+   "f": true
+  },
+  {
+   "t": "Done. Somewhere a timer is clapping.",
+   "f": true
+  },
+  {
+   "t": "Done. Brain said yes. Brilliant.",
+   "f": true
+  },
+  {
+   "t": "Done. Put that on the fridge.",
+   "f": true
+  },
+  {
+   "t": "Done. That’s a cup of tea earned.",
+   "f": true
+  },
+  {
+   "t": "Done. Wrangled like a pro.",
+   "f": true
+  },
+  {
+   "t": "Done. Smooth like buttered toast.",
+   "f": true
+  },
+  {
+   "t": "Done. Chef’s kiss.",
+   "f": true
+  },
+  {
+   "t": "Done. That’s brain gym, sorted.",
+   "f": true
+  },
+  {
+   "t": "Done. Plot twist: you did the thing.",
+   "f": true
+  },
+  {
+   "t": "Done. The block is history. Good history.",
+   "f": true
+  },
+  {
+   "t": "Done. Nobody tell the distractions.",
+   "f": true
+  },
+  {
+   "t": "Done. Tick. Very satisfying.",
+   "f": true
+  },
+  {
+   "t": "Done. Winning looks like this.",
+   "f": true
+  },
+  {
+   "t": "Done. That’s one for the highlight reel.",
+   "f": true
+  }
+ ]
+}

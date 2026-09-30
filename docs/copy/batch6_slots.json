@@ -1,0 +1,76 @@
+{
+ "trialTitle": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 44,
+  "context": "Heading on the free-trial screen before the free plan. Must not state a trial length (Apple’s offer shows that).",
+  "example": "Try all of it, free, for a month."
+ },
+ "coachSetup": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "Coach mark suggesting they set up medication and day types in You.",
+  "example": "Set up your medication and day types in You. It takes about two minutes."
+ },
+ "medsNone": {
+  "tone": "serious",
+  "placeholders": [],
+  "maxCharacters": 80,
+  "context": "No medication set up yet; invites them to add it.",
+  "example": "No medication set up yet. Add it whenever you’re ready."
+ },
+ "dayLineAfter": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 50,
+  "context": "Status line: the focus window has ended for today.",
+  "example": "Focus window’s done for today. Go gently."
+ },
+ "changeFootnote": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 80,
+  "context": "Reassurance under Fix my day and Baseline buttons.",
+  "example": "Nothing moves until you say so. Undo is always one tap."
+ },
+ "arrivalMorning": {
+  "tone": "light",
+  "placeholders": [
+   "name"
+  ],
+  "maxCharacters": 40,
+  "context": "Morning greeting on the daily starting page.",
+  "example": "Good morning, {name}."
+ },
+ "rhythmIntro": {
+  "tone": "light",
+  "placeholders": [
+   "count"
+  ],
+  "maxCharacters": 60,
+  "context": "Under ‘Four weeks of you’: how many days counted this week.",
+  "example": "This week, {count} of 7 days counted."
+ },
+ "detailHours": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Explains the hour heatmap: each dot is an hour; brighter means more finished.",
+  "example": "Each dot is an hour. The brighter it is, the more you finished then."
+ },
+ "dayTypesLimit": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 110,
+  "context": "They hit the free plan’s three day types; Plus has unlimited. No pressure wording.",
+  "example": "The free plan holds three day types. Plus holds as many as your life has."
+ },
+ "customiseIntro": {
+  "tone": "light",
+  "placeholders": [],
+  "maxCharacters": 90,
+  "context": "Intro to Customise: make it yours; nothing here can break your plan.",
+  "example": "Make it yours. Nothing here can break your plan."
+ }
+}

@@ -1,0 +1,1111 @@
+@@ greetingTitle
+P|Hi. Welcome in.
+P|Hello. Come on in.
+P|Hi there. Welcome.
+P|Welcome in.
+P|Hello, and welcome.
+P|Hi. Glad you’re here.
+P|Oh, hello. Come in.
+P|Welcome. Make yourself at home.
+P|Hi. Nice to meet you.
+P|Hello. You made it.
+P|Hi. Pull up a chair.
+P|Welcome. Take a breath.
+P|Hello. Settle in.
+P|Hi. Come on in.
+P|Hey. Welcome in.
+P|Hi there. Come in.
+P|Hello there. Welcome.
+P|Hi. This is Focus.
+P|Welcome. Glad you came.
+P|Hello. Good to see you.
+P|Hi. Make yourself comfy.
+P|Hello. Come and sit.
+P|Hi. You’re very welcome.
+P|Welcome. Let’s begin.
+P|Hello. Let’s get started.
+P|Hi. Let’s ease in.
+P|Welcome. No rush.
+P|Hello. Take your time.
+P|Hi. Welcome aboard.
+P|Hello. Door’s open.
+P|Hi. Step right in.
+P|Welcome, friend.
+P|Hello, friend. Come in.
+P|Hi. Happy you’re here.
+P|Welcome. It’s calm in here.
+P|Hello. A quiet place to start.
+P|Welcome in. Slowly does it.
+P|Hello. Starting is the hard bit.
+P|Hi. Come in, sit down.
+P|Hello. Nice and easy.
+F|Hi. Found your phone, then.
+F|Hi. Welcome to tab 48.
+F|Hi. Snacks are allowed here.
+F|Hello, fellow side-questers.
+F|Hi. You came in for something.
+F|Welcome in. Forgot why? Same.
+F|Hi. Bring all 47 tabs in.
+F|Hi. The chaos can wait outside.
+F|Hi. Leave the doom pile there.
+F|Hi. Brain came too. Lovely.
+F|Welcome. Bring your hyperfocus.
+F|Hi. Laundry can wait. Come in.
+F|Hi. Step one done: you’re here.
+F|Welcome to the main quest.
+F|Hi. Leave your keys by the door.
+F|Hello. Snack in hand? Perfect.
+F|Hi. The squirrels stay outside.
+F|Hi. You’re here. Keys, unknown.
+F|Hello. Glasses are on your head.
+F|Hi. Coffee’s in the microwave.
+F|Welcome, fellow time traveller.
+F|Hi. Welcome, dopamine hunter.
+F|Hi. The doom pile can’t see you.
+F|Hello. Tabs open: several. Fine.
+F|Hello. Brain found the signal.
+F|Hi. Brain buffering? Same here.
+F|Hello. Loading brain. 99%.
+F|Hello, player one.
+F|Hi. Achievement: opened the app.
+F|Hi. Alarms for alarms? Us too.
+F|Hello. Your body double is here.
+F|Hello. Ready-ish? Perfect.
+F|Hi. Half ready counts.
+F|Welcome. Pyjamas are fine.
+F|Hi. Quick, before we forget.
+F|Hi. All 40 thoughts welcome.
+F|Hi. Let’s go before a tangent.
+F|Hello. Tangents welcome too.
+F|Hi. We’ll be quick. Mostly.
+F|Welcome. Now, where were we?
+F|Hi. Time is weird. Come in.
+F|Hi. Radio brain? Tune in here.
+F|Hi. No homework. Promise.
+F|Hello. A short hello. Probably.
+F|Hi. Kettle’s on. It’ll go cold.
+F|Hello. Odd socks welcome here.
+F|Hi. Brain’s warming up? Same.
+F|Hi. This counts as starting.
+F|Welcome. Late is a time too.
+F|Hi. Pause the podcast. Or don’t.
+F|Hi. You’re right on time. Ish.
+F|Hi. Rabbit holes are next door.
+F|Hi. Reading this once is enough.
+F|Hello. Short words. Promise.
+F|Hi. No fine print. Just hi.
+F|Hi. We’ll remember. You relax.
+F|Hi. Out of sight, now in mind.
+F|Hello. One tab. This one.
+F|Hi. Brain, meet plan.
+F|Hello. Welcome, busy brain.
+@@ welcomeHome
+P|You’re in. Have a wander.
+P|You’re in. Take a look around.
+P|Welcome home. Have a look around.
+P|This is home. Explore at your own pace.
+P|You’re in. Poke around as you like.
+P|All set. Have a look around.
+P|You’re in. Nothing to do yet, just look.
+P|This is your home page. Take your time.
+P|Welcome home. No rush at all.
+P|You’re in. Wander wherever you like.
+P|Here’s home. Have a gentle look around.
+P|You made it in. Explore when you’re ready.
+P|Home, sweet home. Have a wander.
+P|You’re in. Tap around, you can’t get it wrong.
+P|This is where your day lives. Look around.
+P|Welcome in. Everything’s here when you need it.
+P|You’re in. Settle in and have a look.
+P|All done. This is home now.
+P|You’re in. Look around, no pressure.
+P|Here you are. Have a slow look around.
+P|Home is ready. Take a wander.
+P|You’re in. Everything can wait while you look.
+P|This is home. Nothing needs doing yet.
+P|You’re in. Browse at your own pace.
+P|Welcome to your home page. Have a look.
+P|You’re all set. Feel free to explore.
+P|You’re in. Start wherever feels easy.
+P|Home, ready and waiting. Have a look.
+P|You’re in. Tap anything that looks interesting.
+P|Here’s your home. Make yourself comfortable.
+P|You’re in. Have a quiet look around.
+P|Welcome home. Explore whenever you like.
+P|This is your space now. Have a wander.
+P|You’re in. It’s all yours to explore.
+P|You’re home. Take a look at your day.
+P|Settled in? Have a look around.
+P|You’re in. Look around, then start small.
+P|Your home page is ready. Wander freely.
+P|Welcome home. There’s no wrong place to tap.
+P|You’re in. Have a look, no need to do anything.
+F|You’re in. Wander freely. Side quests encouraged.
+F|Welcome home. Nothing here is on fire.
+F|You’re in. Have a wander. Snacks optional but advised.
+F|Welcome home. Fewer tabs than your browser, promise.
+F|You’re in. No doom pile here. We checked.
+F|Welcome home. Wander off, we’ll still be here.
+F|You’re in. Get lost a bit. We’ll find you.
+F|You’re in. Have a wander. Rabbit holes are clearly marked.
+F|Welcome home. Quieter than a group chat.
+F|You’re in. Wander. Forgetting why you came in is allowed.
+F|You’re in. Explore at the speed of curiosity.
+F|You’re in. Tap things. Most things are tappable.
+F|You’re in. Please touch the exhibits.
+F|You’re in. Your phone’s in your hand, by the way.
+F|You’re in. Wander. No alarm will go off, promise.
+F|Have a wander. Five minutes, or fifty. We don’t judge.
+F|You’re in. Explore now. The laundry has waited this long.
+F|You’re in. Wander. The dishes won’t notice.
+F|Welcome home. Everything’s where you left it. Unlike your keys.
+F|You’re in. Explore. We saved your spot, like a good bookmark.
+F|Welcome home. The only tab you need open. Well, mostly.
+F|You’re in. Go on, have a nosy.
+F|You’re in. Snoop around. It’s all yours.
+F|You’re in. Poke things. Nothing bites.
+F|Welcome home. We tidied up before you came.
+F|You’re in. Take the scenic route. We know you will.
+F|You’re in. Explore in any order. Even the chaotic one.
+F|You’re in. Wander freely. No one’s timing you.
+F|Home at last. Well, at first. You know what we mean.
+F|You’re in. Explore now, or after one quick snack.
+F|You’re in. Look around. Tangents fully supported.
+F|You’re in. This is home base. Tag, you’re safe.
+F|You’re in. Take a wander. Leave the 47 tabs outside.
+F|You’re in. Wander like a cat in a new flat.
+F|You’re in. Explore. There’s no quiz later.
+F|You’re in. Browse like it’s a bookshop, not a to-do list.
+F|Welcome home. The chaos lives next door.
+F|You’re in. Have a wander. Hyperfocus not required.
+F|You’re in. Have a look. Getting distracted is part of the tour.
+F|You’re in. The tour is self-guided and very forgiving.
+F|You’re in. Explore. If you drift off, the page will wait.
+F|You’re in. Look around. It’s like a to-do list, but kind.
+F|You’re in. Look around. No one will ask you to sit still.
+F|Welcome home. This planner can’t fall behind the sofa.
+F|You’re in. Explore now. Organising the organiser can wait.
+F|You’re in. Look around. You don’t have to colour-code anything.
+F|You’re in. No bullet journal setup needed. Phew.
+F|You’re in. Explore at your own speed. Zoomy or slow.
+F|You’re in. Have a wander. Pause for daydreams as needed.
+F|You’re in. Tour starts now. Or in a minute. Or now.
+F|You’re in. Explore now. Reading the manual is optional.
+F|You’re in. Look around before something shiny appears.
+F|You’re in. Have a wander. Bring a body double if you like.
+F|You’re in. No setup marathon. Just a look around.
+F|You’re in. Have a look. Your tea will go cold anyway.
+F|You’re in. Look around. Nothing here gets lost. Not even you.
+F|Welcome home. Tidier than the junk drawer, promise.
+F|You’re in. Tap around. The back button is your friend.
+F|You’re in. Look around. Your 12 other apps can wait.
+F|You’re in. Look around. You’re allowed to start in the middle.
+@@ fiveThingsEyebrow
+P|Today, in five
+P|Five for today
+P|Today’s five
+P|Your five for today
+P|Five things today
+P|Today’s top five
+P|The five for today
+P|Five that matter today
+P|Today, five things
+P|Just five today
+P|Five for you today
+P|Your five today
+P|Today in five things
+P|Five picks for today
+P|Five for the day
+P|The day’s five
+P|Today’s five things
+P|Your day in five
+P|The day in five
+P|Five on today’s list
+P|Today’s shortlist
+P|Your shortlist
+P|Today’s five picks
+P|Five to focus on
+P|Five to do today
+P|Five worth doing
+P|Five for now
+P|Today’s main five
+P|This day, in five
+P|Five things that count
+P|Five to aim for
+P|The five that count
+P|Today’s five priorities
+P|Five priorities
+P|Your five priorities
+P|Only five today
+P|Today, just five
+P|The five for now
+P|Five things to do
+P|Top five today
+P|Today: five things
+P|Your top five
+P|Your top five today
+P|A five-thing day
+P|Five good things
+P|Five to get to
+P|The list of five
+P|Five in focus
+P|In focus: five
+P|Today, in focus
+P|Five that come first
+P|First, these five
+P|Five things first
+P|Five to start with
+P|What matters today
+P|What counts today
+P|Five picked for you
+P|Picked for today
+P|The main five
+P|Five things ahead
+P|Ahead today: five
+P|Up today: five
+P|Five lined up
+P|Five steady things
+P|Today’s priorities
+P|Your priorities today
+P|Five on the list
+P|Today’s chosen five
+P|Five chosen things
+P|Five, just for today
+F|Five, not fifty
+F|Five, and that’s plenty
+F|Just five. Promise
+F|Five. Not 47 tabs
+F|Five things, one brain
+F|Only five. Breathe
+F|Five, no side quests
+F|Main quests: five
+F|Today’s five main quests
+F|A handful. Literally
+F|One hand’s worth
+F|High five for today
+F|Today’s high five
+F|The fab five
+F|Today’s famous five
+F|Five, doom pile excluded
+F|Five, snack breaks extra
+F|Just five. Not a novel
+F|Five, brain-sized
+F|Five. Pocket-sized
+F|Five, bite-sized
+F|Five things. That’s it
+F|Five, not everything
+F|Five, and snacks
+F|Five before any tangent
+F|Five. Rabbit holes later
+F|Today’s handful
+F|Five. The rest can wait
+F|Five, hand-picked
+F|Five. No encore
+@@ nowThen
+P|Then {task} at {time}.
+P|Next up: {task} at {time}.
+P|After this, {task} at {time}.
+P|Next, {task} at {time}.
+P|Coming up: {task} at {time}.
+P|{task} is next, at {time}.
+P|At {time}, it’s {task}.
+P|Then at {time}: {task}.
+P|After that, {task} at {time}.
+P|Up next is {task}, at {time}.
+P|Later: {task} at {time}.
+P|Next on the list: {task} at {time}.
+P|Then it’s {task}, at {time}.
+P|{task} follows at {time}.
+P|At {time}, {task} is next.
+P|Once this is done, {task} at {time}.
+P|After this one: {task} at {time}.
+P|Then {task}, around {time}.
+P|{task} comes next, at {time}.
+P|Next stop: {task} at {time}.
+P|Later on, {task} at {time}.
+P|Following this, {task} at {time}.
+P|Next is {task} at {time}.
+P|{time} brings {task}.
+P|Coming next: {task}, {time}.
+P|{task} at {time} is next.
+P|What’s next: {task} at {time}.
+P|Next thing: {task} at {time}.
+P|Afterwards, {task} at {time}.
+P|Up at {time}: {task}.
+P|Waiting at {time}: {task}.
+P|Starting at {time}: {task}.
+P|At {time}, on to {task}.
+P|Then on to {task} at {time}.
+P|Next in line: {task} at {time}.
+P|Lined up for {time}: {task}.
+P|Set for {time}: {task}.
+P|Planned for {time}: {task}.
+P|The plan: {task} at {time}.
+P|Booked in for {time}: {task}.
+P|You’ve got {task} at {time} next.
+P|Next you have {task} at {time}.
+P|Then comes {task}, at {time}.
+P|And then {task} at {time}.
+P|Later today: {task} at {time}.
+P|Next up, at {time}: {task}.
+P|On deck: {task} at {time}.
+P|Heads up: {task} at {time}.
+P|Just so you know, {task} is at {time}.
+P|For later: {task} at {time}.
+P|Looking ahead: {task} at {time}.
+P|Coming after this: {task} at {time}.
+P|{task} is next on the plan, at {time}.
+P|At {time} you’ve got {task}.
+P|Then you’re on to {task} at {time}.
+P|Next on the plan: {task}, {time}.
+P|{task} comes after, at {time}.
+P|After this: {task}, {time}.
+P|Your next thing: {task} at {time}.
+P|What comes next: {task} at {time}.
+P|Then, {task}. That’s at {time}.
+P|Coming up at {time}: {task}.
+P|Then {task} at {time}. One thing at a time.
+P|Then {task} at {time}. No rush till then.
+P|After this, {task}. It’s at {time}.
+P|{time} is for {task}.
+P|{time}: {task}, next.
+P|Then {task}, which is at {time}.
+P|The next thing is {task}, at {time}.
+P|Next, at {time}, comes {task}.
+F|Then {task} at {time}. Park that thought till then.
+F|Then {task} at {time}. That’s future you’s bit.
+F|Then {task} at {time}. No waiting mode needed.
+F|Then {task} at {time}. It’s on the list, off your mind.
+F|Next: {task} at {time}. Consider it bookmarked.
+F|Then {task} at {time}. Real clock time, we checked.
+F|Next up: {task} at {time}. No need to hold it in your head.
+F|Then {task} at {time}. Side quests after, if you like.
+F|{task} at {time}. Until then, this is the main quest.
+F|Then {task} at {time}. It’s written down. Forget away.
+F|Then {task} at {time}. Sticky note not required.
+F|{task} at {time}. No need to write it on your hand.
+F|Then {task} at {time}. Present you, carry on.
+F|Then {task} at {time}. Rabbit holes can wait.
+F|{task} at {time}. Filed under later. We’ve got it.
+F|Then {task} at {time}. Enjoy not thinking about it.
+F|{task} at {time}. Your brain can close that tab.
+F|Then {task} at {time}. You can stop rehearsing it now.
+F|Then {task} at {time}. No alarm for the alarm needed.
+F|After this, {task} at {time}. The now is enough for now.
+F|Then {task} at {time}. Put it down, it’s safe here.
+F|Then {task} at {time}. The plan remembers for you.
+F|Then {task} at {time}. Hold the thought. Actually, don’t.
+F|Then {task} at {time}. We’ll keep it warm.
+F|Then {task} at {time}. Not now. Now is for this.
+F|Then {task} at {time}. One ball in the air is plenty.
+F|Later: {task} at {time}. Your brain’s off duty for that one.
+F|Then {task} at {time}. Until then, pretend it doesn’t exist.
+F|Then {task} at {time}. Nothing to juggle till then.
+F|Next: {task} at {time}. A tiny heads up, not a siren.
+@@ restHeadline
+P|{count} things left
+P|{count} left for today
+P|{count} things to go
+P|{count} more today
+P|Still to do: {count}
+P|{count} things still to do
+P|{count} to go today
+P|Just {count} left
+P|{count} left on the list
+P|{count} more to go
+P|{count} things remaining
+P|Left today: {count}
+P|{count} still waiting
+P|{count} still on the list
+P|{count} more things today
+P|Remaining: {count}
+P|{count} left to do
+P|Only {count} left
+P|{count} left, that’s all
+P|{count} more on today’s list
+P|Today, {count} to go
+P|{count} left in the day
+P|Still ahead: {count}
+P|Ahead of you: {count}
+P|{count} things ahead
+P|{count} things still ahead
+P|{count} to do today
+P|{count} left today
+P|{count} more things to do
+P|The rest: {count} things
+P|{count} left on today’s plan
+P|{count} on the plan still
+P|{count} still to come
+P|{count} things to come
+P|{count} more, then done
+P|{count} more and you’re done
+P|{count} left, one at a time
+P|{count} to go, one by one
+P|{count} things, one at a time
+P|{count} left, no rush
+P|{count} remaining today
+P|There are {count} left
+P|You have {count} left
+P|You’ve got {count} left
+P|{count} things waiting
+P|{count} waiting for you
+P|{count} more on the list
+P|{count} left for you today
+P|{count} more, then rest
+P|The rest of today: {count}
+P|What’s left: {count} things
+P|What’s left today: {count}
+P|{count} left on the plan
+P|{count} things left today
+P|{count} still to get to
+P|{count} to get to today
+P|{count} more to get to
+P|{count} left, take them slowly
+P|{count} tasks left
+P|{count} tasks to go
+P|{count} tasks still today
+P|Just {count} more things
+P|{count} bits left
+P|{count} bits to go
+P|Left on the list: {count}
+P|Still on today: {count}
+P|{count} left, easy does it
+P|Coming up: {count} more
+P|{count} more for today
+P|{count} still in play
+F|{count} things. Not a mountain
+F|{count} to go. Snacks in between
+F|{count} left. Main quests only
+F|{count} quests remaining
+F|{count} left, then sofa time
+F|{count} levels left
+F|{count} left. Rabbit holes after
+F|{count} left, then side quests
+F|{count} left. Barely a pile
+F|{count} left. Hardly a to-do list
+F|{count} left, one tab at a time
+F|{count} left. Fewer than your tabs
+F|{count} left. Chaos is losing
+F|{count} left. The list is nervous
+F|{count} left. Snacks nearby
+F|{count} left. Future you says hi
+F|{count} left. Who’s counting? Us
+F|{count} more before the fun bit
+F|{count} left. Finish line’s waving
+F|{count} left. Dopamine incoming
+F|{count} left. Bring a podcast
+F|{count} more ticks to collect
+F|{count} boxes want ticks
+F|{count} left. No hyperfocus needed
+F|{count} left. Not forty. Phew
+F|{count} to go. Tea break optional
+F|{count} left. Body double optional
+F|{count} more, then feet up
+F|{count} left. Playlist on?
+F|{count} left. No capes required
+@@ tinyWinsEmpty
+P|Nothing ticked off yet. The day is young.
+P|No wins logged yet. That’s completely fine.
+P|Your wins will show up here.
+P|Nothing here yet. Every day starts this way.
+P|No ticks yet. Small ones count too.
+P|Tiny wins will gather here.
+P|Nothing crossed off yet. That’s fine.
+P|Your first win will land here.
+P|No wins yet today. One will come.
+P|This space is waiting for your first tick.
+P|Empty for now. It fills up as you go.
+P|Nothing finished yet. No pressure.
+P|Wins show up here as you go.
+P|First tick of the day goes here.
+P|Clean slate so far. Start anywhere.
+P|Nothing yet. Any size of win counts here.
+P|No wins yet. This is their waiting room.
+P|It’s quiet here for now.
+P|Nothing ticked yet. Pick something small to start.
+P|A fresh page, ready for wins.
+P|Nothing done yet. Plenty of room for wins.
+P|No ticks yet. This list is all yours.
+P|Your wins list is ready when you are.
+P|Empty so far. That’s how days begin.
+P|Nothing checked off yet. All good.
+P|The wins will come. This is where they’ll live.
+P|Nothing yet. Any small step counts.
+P|No wins logged yet. The first is often the smallest.
+P|Nothing here yet. Start small, it still counts.
+P|Nothing finished yet. That’s perfectly normal.
+P|Fresh start. Nothing ticked off so far.
+P|Nothing to show yet. One tick changes that.
+P|No ticks yet. One small one will do.
+P|Your first win is waiting to happen.
+P|All clear so far. Wins appear here.
+P|Nothing done yet, and the day’s still open.
+P|The wins shelf is empty. For now.
+P|Nothing ticked. Nothing wrong.
+P|Empty for now. No rush at all.
+P|Tiny wins live here. None yet, and that’s fine.
+F|Nothing ticked off yet. Warming up is a stage too.
+F|No wins yet. Currently in the thinking-about-it phase.
+F|Nothing done yet. The kettle is technically progress.
+F|Nothing ticked off. Making coffee counts in spirit.
+F|Nothing yet. We’re counting opening the app. Don’t argue.
+F|Nothing ticked. The five-minute task is still thinking.
+F|Nothing ticked off. The list is patient. Very patient.
+F|No ticks yet. The list is just enjoying the quiet.
+F|Nothing finished. Some days start in second gear.
+F|No wins yet. Just stretching before the race.
+F|Nothing ticked off yet. Consider this the trailer.
+F|Nothing yet. Every hero starts at level one.
+F|Nothing done. Loading screen energy. That’s fine.
+F|No ticks yet. Your brain is still choosing a radio station.
+F|No wins yet. First win, coming soon to this screen.
+F|Nothing ticked off. This space is saving itself for something good.
+F|No wins yet. The confetti is on standby.
+F|Nothing done yet. The tick box is holding its breath.
+F|Nothing ticked. Doom pile: undisturbed. Peace: intact.
+F|No wins yet. Side quests don’t show up here, sadly.
+F|Nothing ticked off. Hyperfocus hasn’t picked a target yet.
+F|No wins yet. The dopamine is still stuck in traffic.
+F|Nothing done yet. Start with something tiny, like finding your phone.
+F|No ticks yet. Pro tip: the easiest task is also a task.
+F|Nothing yet. You and the list are just making eye contact.
+F|Nothing ticked off. Still circling the runway. Landing soon.
+F|Nothing done. It’s a slow cooker kind of day so far.
+F|No ticks yet. Some brains are diesel engines. Warm up, then go.
+F|Nothing yet. We’re not judging. We literally can’t, we’re an app.
+F|No wins yet. No judgement. We’re a list, not a parent.
+F|Nothing ticked off. This screen won’t tell anyone.
+F|Nothing done yet. Plot twist incoming.
+F|Nothing ticked. Every great montage starts with a slow bit.
+F|Nothing ticked. Pick the smallest thing and pretend it’s huge.
+F|No wins yet. A tiny win still gets the full fanfare here.
+F|No wins yet. Our tick sound is very keen to be heard.
+F|No wins yet. The browser in your head is still opening tabs.
+F|Nothing yet. Wins are like buses. Nothing, then three at once.
+F|Nothing ticked. That’s just the calm before the tick storm.
+F|Nothing yet. Consider this an empty trophy shelf with ambition.
+F|No ticks yet. The list is quietly rooting for you.
+F|No wins yet. The first one’s usually hiding under something.
+F|Nothing done yet. Tiny wins accepted. Microscopic, even.
+F|No wins yet. The day’s still finding its groove.
+F|Nothing yet. This is the calm part of the rollercoaster.
+F|Nothing done yet. Five-minute tasks are notoriously shy.
+F|No ticks yet. The easy ones are hiding in plain sight.
+F|Nothing yet. The list isn’t keeping score. Nobody here is.
+F|No wins yet. Even rockets sit on the pad for a while.
+F|No ticks yet. Lots of thinking happened, though. We could hear it.
+F|Nothing done yet. Brain’s been busy. Just not on the list.
+F|No wins yet. The first tick is the hardest. Then it gets greedy.
+F|No ticks yet. Right now it’s all potential energy.
+F|Nothing done yet. Technically, you’re still undefeated.
+F|Nothing yet. The list is playing it cool. So can you.
+F|Nothing yet. Every tick starts as a long stare at the list.
+F|No ticks yet. Future you is already cheering for the first one.
+F|Nothing done yet. Nibble a corner of something. Tiny counts.
+F|No wins yet. Done badly still counts as done, by the way.
+F|Nothing done yet. The day’s in aeroplane mode. For now.
+@@ arrivalEvening
+P|Good evening, {name}.
+P|Evening, {name}.
+P|Hello this evening, {name}.
+P|Hi {name}. Good evening.
+P|Good evening to you, {name}.
+P|Evening, {name}. Welcome back.
+P|Hello, {name}. It’s evening.
+P|{name}, good evening.
+P|A good evening to you, {name}.
+P|Hi {name}. Evening’s here.
+P|Evening, {name}. Nice to see you.
+P|Good evening, {name}. Come in.
+P|Hello {name}, and good evening.
+P|Hi, {name}. A lovely evening to you.
+P|Evening has arrived, {name}.
+P|Good evening, {name}. Welcome in.
+P|Evening, {name}. Take a seat.
+P|Hi {name}. A quiet evening to you.
+P|Good evening, {name}. Settle in.
+P|Evening, {name}. Glad you’re here.
+P|Hello, {name}. A calm evening to you.
+P|Good evening, {name}. How are you?
+P|Evening, {name}. How’s it going?
+P|Evening, {name}. Ease on in.
+P|Good evening, {name}. Nice and easy now.
+P|Hello again, {name}. It’s evening.
+P|The evening’s here, {name}.
+P|Evening, {name}. Welcome.
+P|Good evening, {name}. Good to see you.
+P|Hi {name}. The evening’s yours.
+P|{name}, hello. Good evening.
+P|Evening, {name}. Hope today was kind.
+P|Good evening, {name}. Hope you’re well.
+P|Evening, {name}. Let’s take it slow.
+P|Good evening, {name}. Deep breath.
+P|Evening, {name}. The day’s winding down.
+P|Evening, {name}. Things are quieter now.
+P|Evening, {name}. Softer pace now.
+P|Good evening, {name}. Slower hours now.
+P|Hi {name}. Evening has come round.
+P|Evening, {name}. Here we are.
+P|Hey {name}. Good evening.
+P|Hey there, {name}. Evening.
+P|Hey {name}. Hope the evening’s kind.
+P|Good evening, {name}. Take it easy.
+P|Evening, {name}. Easy does it.
+P|Good evening, {name}. No rush tonight.
+P|Evening, {name}. All calm here.
+P|Evening, {name}. Pull up a chair.
+P|Good evening, {name}. Come sit.
+P|Hi {name}. Welcome to the evening.
+P|Evening, {name}. Glad you stopped by.
+P|Good evening, {name}. Lovely to see you.
+P|Evening, {name}. Hello again.
+P|Well, good evening, {name}.
+P|Oh, good evening, {name}.
+P|And good evening to you, {name}.
+P|Evening, {name}. Hope you’re doing okay.
+P|Good evening, {name}. How are things?
+P|Evening, {name}. Home stretch.
+P|Evening, {name}. This is the quiet part.
+P|Evening, {name}. Being here is enough.
+P|Evening, {name}. Softly now.
+P|Hello, {name}. Evening’s rolled in.
+P|Evening, {name}. Nice and slow.
+P|Evening, {name}. Let’s keep it gentle.
+P|Hi {name}. Evening, gently.
+P|Evening, {name}. It’s a calm one here.
+P|Evening, {name}. Kind of you to drop in.
+P|Hello, {name}. Here’s to a calm evening.
+F|Evening, {name}. Where did the day go?
+F|Good evening, {name}. Yes, already.
+F|Evening already, {name}? Time is wild.
+F|Evening, {name}. Time flew, as it does.
+F|Hi {name}. Evening snuck up on us.
+F|Good evening, {name}. Sofa’s calling.
+F|Evening, {name}. Kettle on?
+F|Good evening, {name}. Cosy socks time.
+F|Evening, {name}. Pyjama o’clock soon?
+F|Good evening, {name}. Tabs closing soon?
+F|Evening, {name}. Brain on dimmer mode.
+F|Evening, {name}. Low battery mode?
+F|Evening, {name}. Hyperfocus ate the day?
+F|Evening, {name}. Rabbit holes: closing.
+F|Evening, {name}. The doom pile sleeps.
+F|Evening, {name}. The list is yawning.
+F|Good evening, {name}. Cup of tea energy.
+F|Evening, {name}. Blanket burrito time?
+F|Evening, {name}. Slippers on, brain off.
+F|Evening, {name}. Wind-down mode: on.
+F|Evening, {name}. Quiet hours, sort of.
+F|Hi {name}. Day has left the building.
+F|Good evening, {name}. Day: mostly done.
+F|Evening, {name}. Night owl warming up?
+F|Evening, {name}. Fancy seeing you here.
+F|Evening, {name}. Time warp over?
+F|Evening, {name}. Lamps on, tabs off.
+F|Evening, {name}. Snack and sofa hours.
+F|Evening, {name}. Brain’s off the clock.
+F|Evening, {name}. Allegedly.
+@@ rhythmTuneBody
+P|Change your focus window, how long things take, how full days get and when you eat. Plans follow straight away.
+P|Adjust your focus window, task lengths, how busy days get and your meal times. Your plans update right away.
+P|Tweak your focus window, how long tasks take, how packed days are and when you eat. Plans change to match at once.
+P|Here you can change your focus window, task times, how full days get and meal times. Plans update instantly.
+P|Set your focus window, how long things usually take, how full a day can be and when you eat. Plans catch up at once.
+P|Move your focus window, adjust how long things take, set how full days get and choose when you eat. Plans follow instantly.
+P|Your focus window, how long things take, how full days get, when you eat: change any of it and plans update at once.
+P|Change when you focus best, how long things take, how full days get and your mealtimes. Your plans adjust straight away.
+P|Fine-tune your focus window, task lengths, how much fits in a day and when you eat. Plans follow right away.
+P|Edit your focus window, how long tasks take, how full your days get and when meals happen. Plans update immediately.
+P|Shift your focus window, change how long things take, decide how full days get and when you eat. Plans follow at once.
+P|You can adjust your focus window, how long things take, how full days get and when you eat. Your plans follow in a moment.
+P|Update your focus window, task lengths, day fullness and meal times here. Plans reflect it straight away.
+P|Change how long things take, how full days get, when you eat and your focus window. Plans follow instantly.
+P|Meal times, focus window, how long things take, how full days get: adjust them here and plans follow at once.
+P|Adjust how full your days get, how long things take, when you eat and your focus window. Plans update straight away.
+P|From here you can change your focus window, how long tasks run, how full days get and when you eat. Plans follow at once.
+P|Set when your focus window is, how long things take, how full days can get and when meals fit. Plans update right away.
+P|Change your focus window, your usual task lengths, how busy a day can get and when you eat. Plans adjust instantly.
+P|Tweak how long things take, how full days get, when you eat and when your focus window sits. Plans follow straight away.
+P|Your focus window, task lengths, day fullness and meal times all live here. Change one and plans follow at once.
+P|Anything here can change: focus window, how long things take, how full days get, when you eat. Plans update instantly.
+P|Adjust your focus window, how long things take, how packed days get and when you eat. The plan updates the moment you do.
+P|Change your focus window, how long things take, how full days get and when you eat. Your plans reshape straight away.
+P|Here’s where you change your focus window, task lengths, how full days get and meal times. Plans follow right away.
+P|Move your focus window, adjust task lengths, set how full days get and change meal times. Your plans keep up at once.
+P|Set your focus window, how long things take, how full days get and when you eat. Plans rearrange themselves right away.
+P|Change your focus window, how long tasks usually run, how full days get and when you eat. Plans update as you go.
+P|Your focus window, how long things take, how much goes in a day, when you eat. Change any of it and plans follow instantly.
+P|Tune your focus window, task lengths, day fullness and meal times. Every plan follows straight away.
+P|Adjust when your focus window falls, how long things take, how full days get and when you eat. Plans update at once.
+P|Edit your focus window, how long things take, how busy days get and when you have meals. Plans follow straight away.
+P|Change the focus window, task lengths, how full days get and meal times. Your plans shift to match right away.
+P|Here you can move your focus window, change how long things take, set day fullness and meal times. Plans follow instantly.
+P|Tweak your focus window, how long things take, how full days get and when you eat. Your plans update in real time.
+P|Your focus window, task lengths, how full days are and when you eat can all change here. Plans follow at once.
+P|Set how long things take, your focus window, how full days get and when you eat. Plans update straight away.
+P|Change your focus window, how long things take, how much fits in a day and your meal times. Plans follow right away.
+P|Adjust your focus window, how long things really take, how full days get and when you eat. Plans change straight away.
+P|Change any of these: focus window, task lengths, how full days get, meal times. Plans update the moment you do.
+P|Update your focus window, how long things take, how full a day gets and when you eat. Your plans follow instantly.
+P|You’re in charge of your focus window, how long things take, how full days get and when you eat. Plans follow at once.
+P|Reset your focus window, how long things take, how full days get and when you eat. Plans update right away.
+P|Change your focus window, how long things take, how full days get and when you stop to eat. Plans follow straight away.
+P|Adjust the focus window, how long tasks take, how busy days get and meal times. Plans follow along instantly.
+P|Set your focus window, task lengths, how full days get and meal breaks. Plans update straight away to match.
+P|Your focus window, how long things take, how full days get and meal times are all yours to change. Plans follow at once.
+P|Change your focus window, how long things take, how full days get and mealtimes. Everything updates right away.
+P|Move your focus window, change task lengths, set how full days get and when you eat. Your plans adjust at once.
+P|Tweak your focus window, how long things take, how full days can get and when meals happen. Plans update instantly.
+P|Adjust your focus window, how long things take, how full days get and when you eat. No waiting: plans follow at once.
+P|Change focus window, task lengths, how full days get and meal times whenever you like. Plans follow straight away.
+P|Change your focus window, how long jobs take, how full days get and when you eat. Plans catch up right away.
+P|Set when you focus, how long things take, how full a day gets and when you eat. Your plans update in a moment.
+P|Here you can tweak your focus window, task lengths, how packed days get and meal times. Plans follow instantly.
+P|Your focus window, how long things take, how full days get, your meal times. Adjust any of them and plans update at once.
+P|Change your focus window, how long things take, how full days get and when you eat, any time. Plans follow right away.
+P|Adjust your focus window, your task lengths, how full days get and your meal times. Plans follow straight after.
+P|Edit when your focus window sits, how long tasks take, how full days get and when you eat. Plans update immediately.
+P|Change your focus window, how long things take, how busy days get and when you eat. Your plans follow instantly.
+P|Rework your focus window, how long things take, how full days get and when you eat. Plans update straight away.
+P|Adjust how long things take, your focus window, how full days get and meal times. Your plans follow at once.
+P|Set your focus window, how long tasks take, how full days get and when you like to eat. Plans follow right away.
+P|Change your focus window, task lengths, how full days get and when you eat. Plans redraw themselves straight away.
+P|Tweak your focus window, how long things take, how much a day can hold and when you eat. Plans follow at once.
+P|You can change your focus window, how long things take, how full days get and meal times. Plans update the same moment.
+P|Adjust your focus window, how long tasks take, how full days get and when you eat. Plans follow without any wait.
+P|Change your focus window, how long things take, how full days get and when you eat. Plans update to match instantly.
+P|Your focus window, how long things take, how full days get and when you eat: adjust freely. Plans follow straight away.
+P|Update your focus window, how long jobs take, how full days get and meal times. Your plans follow right away.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans keep up instantly. Unlike us.
+F|Focus window, task lengths, how full days get, meal times: tweak away. Plans follow at once, no sulking.
+F|Tweak your focus window, how long things really take, how full days get and when you eat. Plans adjust at once. No paperwork.
+F|Change your focus window, task times, how full days get and when you eat. Plans follow straight away, like a keen puppy.
+F|Adjust your focus window, how long things take, how packed days get and snack o’clock. Plans update at once.
+F|Change your focus window, how long things actually take, how full days get and when you eat. Plans update before you can wander off.
+F|Tweak your focus window, task lengths, how full days get and meal times. Plans update faster than you can lose your keys.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans follow at once. No forms, no fuss.
+F|Move your focus window, fix how long things take, set how full days get and when you eat. Plans follow before the kettle boils.
+F|Your focus window, how long things take, how full days get, when you eat: all adjustable. Plans follow at once. Quicker than a new hobby.
+F|Adjust your focus window, how long things take (honestly), how full days get and when you eat. Plans follow straight away.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans follow at once. No need to set a reminder.
+F|Change your focus window, task lengths, how full days get and when you eat. Plans update instantly, zero admin.
+F|Tweak your focus window, how long things take, how full days get and when snacks become meals. Plans follow straight away.
+F|Move your focus window, adjust task lengths, set how full days get and pick meal times. Plans follow like a loyal sidekick.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans catch up faster than you can say hyperfocus.
+F|Focus window, task lengths, day fullness, meal times: fiddle to your heart’s content. Plans follow at once.
+F|Adjust your focus window, how long things take, how full days get and when you eat. Plans update instantly. It’s a bit magic.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans rearrange themselves. No drag and drop required.
+F|Tweak your focus window, how long things take, how full days get and when you eat. Plans follow at once, no sticky notes needed.
+F|Change your focus window, task lengths, how full days get and when you eat. Plans update at once. Fiddle freely, nothing breaks.
+F|Set your focus window, how long things take, how full days get and when you eat. Plans update instantly, like a friend who listens.
+F|Adjust your focus window, how long things take, how full days get and when you eat. Plans follow at once, no nagging needed.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans follow instantly. Tinkering encouraged.
+F|Your focus window, task lengths, how full days get, meal times: change them on a whim. Plans follow at once, no questions asked.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans update before your tea goes cold.
+F|Tweak your focus window, how long things take, how full days get and when you eat. Plans keep up, even on zoomy days.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans follow at once, like a well-trained shadow.
+F|Adjust your focus window, how long things take, how full days get and when you eat. Plans follow straight away. No rewriting lists.
+F|Change your focus window, how long things take, how full days get and when you eat. Plans update at once. No redoing the whole week.
+@@ detailEstimates
+P|Your guess, then what it actually took. Plans now add the difference for you.
+P|First your estimate, then the real time. Plans now build in the gap.
+P|What you expected, then what it really took. Your plans now leave room for the difference.
+P|Your estimate, then the real time. Plans add a buffer to cover the gap.
+P|Your guess first, then the actual time. Plans now add the extra for you.
+P|How long you thought, then how long it took. Plans now add the gap automatically.
+P|Your estimate next to the real time. Plans now include the difference.
+P|What you guessed, then what it took. Plans now pad in the difference.
+P|Your guess, then the actual time. Your plans now allow for the gap.
+P|Your estimate, then the reality. Plans now add a buffer to match.
+P|The time you expected, then the time it took. Plans now make room for the gap.
+P|Guessed time, then real time. Plans now add the difference on their own.
+P|Your guess and then what it actually took. The gap is now built into your plans.
+P|First the guess, then the real time. We add the gap to your plans for you.
+P|Your estimate, followed by the real time. Plans now add a buffer based on the gap.
+P|Your guess, then what really happened. Plans now allow extra time to match.
+P|What you planned for, then what it took. Plans now add the gap as a buffer.
+P|Your guess, then the true time. Plans now cover the difference for you.
+P|The guess, then the actual. Your plans now add the gap between them.
+P|Your estimate, then what it took in real life. Plans now add that difference.
+P|Your guess, then how long it really took. The difference is now added to plans.
+P|Estimated, then actual. Plans now add a buffer so there’s room.
+P|What you thought it would take, then what it took. Plans now add the gap.
+P|Your guess, then the real time taken. Plans now leave that extra room.
+P|First what you guessed, then what it took. Plans now add the difference as padding.
+P|Your time guess, then the real result. Plans now build in the gap for you.
+P|Your guess, then the actual time. From now on, plans add the difference.
+P|How long you guessed, then how long it was. Plans now add the extra time.
+P|Your guess, then what it actually took. We add the gap to your plans now.
+P|Your estimate, then the real time. Plans now give you that difference as a buffer.
+P|What you guessed and what it really took. Plans now cover the gap automatically.
+P|Your estimate first, then the real time. The gap now goes into your plans.
+P|Your guess, then the real answer. Plans now add a buffer to fit.
+P|First your guess, then what it took. Plans now quietly add the difference.
+P|Your guess, then what actually happened. Plans now make space for the gap.
+P|The time you guessed, then the time it took. Plans add the difference from now on.
+P|Your guess, then the actual time it took. Plans now build in a matching buffer.
+P|Your estimate, then the time it really needed. Plans now add the gap for you.
+P|Guess, then actual. Plans now add a buffer the size of the gap.
+P|Your guess, then the real time. Plans now include a buffer for the difference.
+F|Your guess, then the truth. Plans now pad the gap, so 5 minutes gets its real 20.
+F|What you thought, then what time thought. Plans now add the difference.
+F|Your guess versus reality. Reality won. Plans now add the gap for you.
+F|The estimate, then the actual. Plans now add a buffer, because 5 minutes is never 5 minutes.
+F|Your guess, then the real time. We add the difference. No judgement, just maths.
+F|Optimistic you, then the real clock. Plans now settle the argument for you.
+F|Your guess, then what it took. Plans now add the gap. Time blindness, meet your new buffer.
+F|What you guessed, then what really happened. Plans now quietly pad things out.
+F|Guess, then reality. Plans now add the difference so future you isn’t rushed.
+F|Your guess, then the actual time, which is always a bit longer. Plans now add the gap.
+F|Your guess next to the real time. The gap goes into your plans, like a time cushion.
+F|Your guess, then the real time. Turns out quick has a range. Plans now cover it.
+F|What you said, then what the clock said. Plans now side with the clock.
+F|Your guess, then the actual time. Plans now add the gap, because brains round down.
+F|Your hopeful guess, then the real number. Plans now add the difference, no questions asked.
+F|Your guess, then the truth. Plans now add a buffer. The clock thanks you.
+F|Your estimate, then what actually happened. Plans now convert hopeful minutes to real ones.
+F|Brain time, then clock time. Plans now add the difference for you.
+F|Your guess, then reality’s version. Plans now split the difference. Well, add it.
+F|Your guess, then what actually happened. Plans now add padding, like bubble wrap for time.
+F|Your guess, then the real time. The gap goes in your plans. Your afternoon thanks you.
+F|Your guess, then the real time. Plans now add the difference. Past you did the research.
+F|Your estimate, then the real thing. Plans now add wiggle room so nothing gets squished.
+F|Your guess, then the real time. Plans now add a buffer. Like arriving early, but automatic.
+F|What you hoped, then what happened. Plans now add the gap, gently.
+F|Your guess, then the actual time. Plans now add the extra, no lectures included.
+F|Your guess, then the real time. Plans now pad the difference. Rabbit holes included.
+F|Your guess, then the director’s cut. Plans now add the extra runtime.
+F|The guess, then the plot twist. Plans now add the difference for you.
+F|Your guess, then the actual time. Plans now add the gap for finding your keys first.
+F|Your guess, then what it took, including the snack break. Plans now add the gap.
+F|Your estimate, then the real one. Plans now budget for the bit where you look for a pen.
+F|Your guess, then what it took. Plans now add the gap, because starting takes time too.
+F|Guessed: quick. Actual: less quick. Plans now add the difference.
+F|Your guess, then the real time. Plans now add a buffer, so there’s no sprint at the end.
+F|Your guess, then the real time. Plans now add a buffer. Future you says cheers.
+F|Your guess, then the real time. Plans now add a buffer, the grown-up version of five more minutes.
+F|Your guess, then the actual time. Plans now add the gap. It’s basically a time airbag.
+F|Your guess, then the real time. Plans now add the gap, like a friend who knows you well.
+F|Your guess, then the actual. Plans now add the difference, because ‘just a sec’ rarely is.
+F|Your guess, then the real time. Plans now add the gap, so ‘quick email’ gets its full hour.
+F|Your guess, then what it took. Plans now add the gap. Your calendar can breathe now.
+F|Your guess, then the real time. Plans now add slack, so one long task doesn’t topple the day.
+F|Your estimate, then the real time. Plans now add a buffer. Domino effect: cancelled.
+F|Your guess, then the real time. Plans now carry the difference so your brain doesn’t have to.
+F|Your guess, then how long it took with interruptions. Plans now add the gap. Real life, basically.
+F|Your guess, then the stopwatch. The stopwatch was less hopeful. Plans now add the gap.
+F|Your guess, then what it took. Plans now add the difference, no need to guess better.
+F|Your hunch, then the clock’s verdict. Plans now add the gap for you.
+F|Your guess, then the real minutes. Plans now add the difference. Time is sneaky like that.
+F|Your guess, then what it took. Plans now add the gap, because every task has a warm-up lap.
+F|Your guess, then the real time. Plans now add a buffer for the one-more-thing moments.
+F|Your guess, then the long version. Plans now add the gap automatically.
+F|Your guess, then what life added. Plans now add the same bit for you.
+F|Your guess, then the real time. Plans now add a buffer. No more mental time maths.
+F|Your guess, then the actual time. Plans now add a buffer so tasks stop spilling into each other.
+F|Your guess, then the real time. Plans now add breathing room. The rushing can retire.
+F|Your guess, then the full story. Plans now add the difference for you.
+F|Your guess, then the stubborn reality. Plans now add the gap, no fuss.
+F|What you pencilled in, then what it took. Plans now add the extra, pencil not required.
+@@ personaliseIntro
+P|Tell us when you like doing things. The plan will lean that way.
+P|Let us know when you like to do things, and your plan will follow.
+P|Share when you prefer doing things. Your plan will bend to fit.
+P|When do you like doing things? Tell us, and the plan leans that way.
+P|Tell us your favourite times for things. The plan will lean towards them.
+P|Let us know when things suit you best. The plan will shape itself around that.
+P|When do you prefer to do things? Say so here and your plan will follow.
+P|Pick the times you like for things. Your plan will lean that way.
+P|Tell us when you’d rather do things. The plan will take the hint.
+P|Share your preferred times and the plan will lean towards them.
+P|Tell us when things feel easiest for you. Your plan will lean that way.
+P|Let us know the times you like doing things. We’ll tilt the plan to match.
+P|Say when you like doing things. Your plan will lean in that direction.
+P|Tell us your preferred times. The plan will gently follow.
+P|When suits you for what? Tell us, and the plan will lean that way.
+P|Let us know when you like to work, rest and everything between. The plan will follow.
+P|Tell us when you prefer to do things, and we’ll shape your plan around it.
+P|Your preferences go here. Tell us when you like doing things and the plan leans that way.
+P|Tell us your rhythms. The plan will lean towards them.
+P|Share when you like doing things. Plans will lean your way.
+P|Let us know when you enjoy doing things. The plan will lean that way.
+P|Tell us what times work for you. The plan will lean to fit.
+P|When do things go best for you? Tell us, and the plan will follow your lead.
+P|Tell us when you like doing things. We’ll nudge the plan that way.
+P|Let us in on your favourite times. The plan will lean towards them.
+P|Say when you like doing what. The plan will bend your way.
+P|Tell us when you like to do things, and the plan will adjust to suit.
+P|Share your favourite times for things. Your plan will follow them.
+P|Tell us how you like your day to run. The plan will lean that way.
+P|Let us know when you like doing things. Your plan will lean in.
+P|Tell us your preferred times for things, and the plan will lean that way.
+P|When do you like to get things done? Tell us. The plan will follow.
+P|Tell us when things work best for you. Your plan will tilt that way.
+P|A few questions about when you like doing things. The plan will lean that way.
+P|Tell us when you like doing things. Your plan will lean towards those times.
+P|Let us know your favourite times. We’ll lean the plan to match.
+P|Tell us when you’d like to do things. The plan will quietly lean that way.
+P|Share when you like to do things, and your plan will lean towards it.
+P|Tell us when feels right for things. The plan will follow your lead.
+P|Say when you like doing things best. Your plan will lean that way.
+P|When do you like doing things? Your answers help the plan lean your way.
+P|Tell us your timing preferences. Your plan will lean towards them.
+P|Let us know when you like doing things. The plan will bend around you.
+P|Tell us the times that suit you. The plan will lean in that direction.
+P|Tell us when you prefer to do things. The plan will lean to match.
+P|Share the times you like for things. We’ll shape the plan around them.
+P|Tell us when you like doing each kind of thing. The plan will lean that way.
+P|Let us know when you prefer doing things. We’ll tip the plan that way.
+P|Tell us your ideal times for things. The plan will lean towards them.
+P|Say when you’d like things to happen. Your plan will lean that way.
+P|Tell us what time of day suits what. The plan will lean that way.
+P|When do you like to do things? Tell us here, and the plan follows.
+P|Tell us when you tend to like doing things. The plan will lean along.
+P|Share your favourite times. Your plan will lean your way.
+P|Tell us when you like doing things, and the plan will make room for that.
+P|Let us know your preferred times. Your plan will follow along.
+P|Tell us when you like to do things. We’ll steer the plan that way.
+P|Tell us your favourite times for different things. The plan will lean to them.
+P|Tell us when things suit you. Your plan will lean around that.
+P|Let us know when you like doing things, and the plan will lean with you.
+P|Tell us when you like doing things. The plan listens and leans that way.
+P|Tell us when you prefer doing what. Your plan will lean that way.
+P|Share when things feel right for you. The plan will lean towards those times.
+P|Tell us when you like doing things. The plan will lean your way from now on.
+P|When do you like doing things? Let us know and the plan will lean to suit.
+P|Tell us your preferences for when things happen. The plan will lean towards them.
+P|Let us know when you like to do things. Your plan will gently lean that way.
+P|Tell us when you like doing things. Your plan will start leaning that way.
+P|Tell us when you like to do stuff. The plan will lean that way.
+P|Tell us when you like doing things best. The plan will follow that lead.
+F|Tell us when you like doing things. The plan will lean that way, like a sunflower.
+F|Emails at nine or at four? Tell us when you like doing things and the plan leans that way.
+F|Tell us when you like doing things. The plan takes the hint, no nagging.
+F|Tell us your favourite times for things. The plan will lean in, like a good friend.
+F|Night owl or early bird? Tell us when you like doing things and the plan will lean that way.
+F|Tell us when you like doing things. The plan will lean that way. It’s a very good listener.
+F|Admin at dawn? Never? Tell us when you like doing things and the plan leans that way.
+F|Tell us when you like doing things. The plan will lean that way, no arm-twisting.
+F|Tell us when your brain likes doing things. The plan will lean that way. Your brain has opinions.
+F|Tell us when you like doing things. The plan will lean that way. Politely, like a butler.
+F|Some brains do email at 9am, some at 9pm. Tell us yours and the plan will lean that way.
+F|Tell us when you like doing things. The plan will lean that way. It’s surprisingly bendy.
+F|When’s your brain in the mood for what? Tell us, and the plan will lean that way.
+F|Tell us when you like doing things. The plan will lean that way, no hard feelings about the rest.
+F|Tell us when you like doing things. The plan will lean that way, like it’s been listening. It has.
+F|Tell us when you like doing things. The plan will lean that way. Bossy planners need not apply.
+F|Tell us when you like doing things. We’ll lean the plan that way, no colour-coding required.
+F|Morning person, evening person, or it depends on the snack? Tell us. The plan will lean that way.
+F|Tell us when you like doing things. The plan leans that way. Unlike a to-do list, it listens.
+F|Tell us when you like doing things. The plan will lean that way. Mind reading is still in beta.
+F|Tell us when you like doing things. The plan will lean that way, no rules carved in stone.
+F|Tell us when you like doing things. The plan will lean that way, like a friend who remembers.
+F|Your brain has favourite times. Tell us, and the plan will lean that way.
+F|Tell us when you like doing things. The plan will lean that way. No 5am club required.
+F|Tell us when you like doing things. The plan will lean that way, and quietly stop fighting you.
+F|Tell us when you like doing things. The plan will lean that way. Consider it trained.
+F|Tell us when you like doing things. The plan leans that way. Less fighting your brain, more flow.
+F|Tell us when you like doing things. The plan will lean that way, a bit like a good playlist.
+F|Tell us when you like doing things. The plan will lean that way, not the other way round.
+F|Tell us when you like doing things. The plan will lean that way. It aims to please.
+@@ focusDoneCheer
+P|Done. Nicely handled.
+P|Block done. Well done, you.
+P|That’s done. Good work.
+P|Finished. Take a breath.
+P|Done. That one’s yours.
+P|Focus block complete. Nice.
+P|Done and dusted.
+P|All done. Good going.
+P|That’s one done.
+P|Block finished. Lovely work.
+P|Done. Nice focus.
+P|Focus block done. Well played.
+P|That’s a wrap on this one.
+P|Done. You stuck with it.
+P|Finished. Nicely done.
+P|Block complete. Good stuff.
+P|Done. That counts.
+P|All wrapped up. Nice one.
+P|Done. Take a moment.
+P|That block’s done. Good job.
+P|Finished. That was real focus.
+P|Done. Proper work, that.
+P|Complete. Well done.
+P|Done. One block down.
+P|Focus block: done.
+P|Done. Enjoy that.
+P|And that’s done. Lovely.
+P|Done. Quietly brilliant.
+P|Block done. You did that.
+P|Finished. Stretch if you like.
+P|Done. That’s progress.
+P|Block ticked off. Nice.
+P|Done. Good use of time.
+P|That’s done. Take a pause.
+P|Finished. Well handled.
+P|Done. A solid block.
+P|Nice work. Block done.
+P|Done. Worth a small smile.
+P|Finished. Good on you.
+P|Done. Nice and steady.
+F|Done. Brain one, chaos nil.
+F|Done. The tabs bow to you.
+F|Done. Hyperfocus, well aimed.
+F|Done. The doom pile trembles.
+F|Finished. Dopamine delivered.
+F|Done. Squirrels nil, you one.
+F|Done. Future you is doing a little dance.
+F|Done. Time blindness couldn’t stop you.
+F|Done. Somewhere, a to-do list weeps with joy.
+F|Block done. Main quest progress: real.
+F|Done. Achievement unlocked: focus.
+F|Done. Not one side quest. Probably.
+F|Done. That’s a win for team brain.
+F|Done. The distraction gremlins lost.
+F|Finished. Take a victory snack.
+F|Done. Cue tiny confetti.
+F|Done. Your brain’s tiny trophy is in the post.
+F|Done. Level up.
+F|Done. Chaos filed a complaint.
+F|Done. The list felt that.
+F|Done. Your brain showed up and stayed.
+F|Done. Victory lap optional.
+F|Done. Focus mode: nailed it.
+F|Done. You and focus, a love story.
+F|Done. The kettle can boil in your honour.
+F|Done. The focus fairy approves.
+F|Done. A tick has entered the chat.
+F|Done. Gold star. Metaphorical, but shiny.
+F|Done. That was some serious brain.
+F|Done. Stand up, stretch, feel smug.
+F|Done. You out-focused your phone.
+F|Done. Rabbit holes avoided. Mostly.
+F|Done. Tabs closed. Well, one.
+F|Done. Pause for applause.
+F|Done. The clock is impressed.
+F|Done. Even the alarm is proud.
+F|Done. Consider the chaos politely defeated.
+F|Done. Focus came, focus stayed.
+F|Done. Take a bow. A small one.
+F|Done. High five from the list.
+F|Done. That block never saw you coming.
+F|Done. Momentum, meet you.
+F|Done. You versus distraction: you.
+F|Done. Ding. That’s the sound of done.
+F|Done. Cue the tiny marching band.
+F|Done. Main character energy.
+F|Done. Somewhere a timer is clapping.
+F|Done. Brain said yes. Brilliant.
+F|Done. Put that on the fridge.
+F|Done. That’s a cup of tea earned.
+F|Done. Wrangled like a pro.
+F|Done. Smooth like buttered toast.
+F|Done. Chef’s kiss.
+F|Done. That’s brain gym, sorted.
+F|Done. Plot twist: you did the thing.
+F|Done. The block is history. Good history.
+F|Done. Nobody tell the distractions.
+F|Done. Tick. Very satisfying.
+F|Done. Winning looks like this.
+F|Done. That’s one for the highlight reel.
