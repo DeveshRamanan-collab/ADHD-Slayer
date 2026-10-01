@@ -1,14 +1,14 @@
 # PROGRESS — Planner
 RUN_STATUS: RUNNING
 RUN_STARTED: 2026-10-01T13:47:23+1000
-UPDATED: 2026-10-01T16:22:20+1000
-CURRENT_PHASE: 0.16
-NEXT_ACTION: Run the independent G0 review (brief docs/agents/R-G0-1/brief.md) and write docs/gates/GATE-0.md; then the First report (0.17) and Phase 1.
+UPDATED: 2026-10-01T16:32:22+1000
+CURRENT_PHASE: 1
+NEXT_ACTION: Phase 1.1: write docs/figma/.intent, then get_metadata on section 83:2 (file gLuoHFbiiUGajAUpluWXOW) as the first T1 read; build nodes.json and the read plan.
 RETRY_AFTER: none
 LOCK_FINGERPRINT: none
 FIGMA_EPOCH_READS: 1/150
-LAST_GATE: G0 loop 1 FAIL (fixing)
-OPEN_BLOCKERS: 2
+LAST_GATE: G0 PASS (3 loops)
+OPEN_BLOCKERS: 3
 QUESTIONS_ASKED_TO_USER: 0
 TURNS_ENDED_WAITING: 0
 RUN-SURVIVAL: AT RISK (automatic continue unverified UA-005; disk 13 GB UA-001)
@@ -17,11 +17,12 @@ Run: PLANNING · Session: 2 · Model: claude-opus-5-5
 ## Status by phase / milestone
 | Phase or MS | Status (NOT STARTED / IN PROGRESS / DONE / DEFERRED / BLOCKED) | Started | Finished | Gate | Outputs (paths) | Evidence |
 |---|---|---|---|---|---|---|
-| 0 | IN PROGRESS | 2026-10-01T13:47:23+1000 | N/A (not finished yet) | G0 | CLAUDE.md, .claude/settings.json, scripts/ | docs/evidence/p00/ |
+| 0 | DONE | 2026-10-01T13:47:23+1000 | 2026-10-01T16:29:00+1000 | G0 PASS | CLAUDE.md, .claude/settings.json, scripts/ | docs/evidence/p00/ |
 
 ## Checkpoints (newest first; keep the last 30)
 | Timestamp | Phase/MS | Step | Note |
 |---|---|---|---|
+| 2026-10-01T16:32:22+1000 | 0 | G0 | PASS; First report |
 | 2026-10-01T16:15:33+1000 | 0 | 0.16 | Scripts merged; Phase 0 commit |
 | 2026-10-01T14:19:04+1000 | 0 | 0.16 | Resume recovery; script briefs dispatched |
 | 2026-10-01T14:09:31+1000 | 0 | 0.12 | Tool audit and strategy written |
@@ -34,6 +35,7 @@ Run: PLANNING · Session: 2 · Model: claude-opus-5-5
 | 2 | 2026-10-01T14:13:30+1000 | N/A (session still running) | N/A (session still running) | N/A (current session) |
 
 ## Log (newest first; API_ERROR and COMPACTION lines appended by hooks)
+- 2026-10-01T16:32:22+1000 G0 PASS at loop 3 (docs/gates/GATE-0.md); First report written (docs/FIRST_REPORT.md); Phase 1 begins.
 - 2026-10-01T16:22:20+1000 G0 loop 1 FAIL (R-G0-1: dirty tree, inventory rows, 5 evidence citations, FACT ids, agent-type names); loop 2 fixes applied: FACT_REGISTER started (20 facts, check_facts 0 mismatches), PREFLIGHT evidence re-cited, Guardian probe, inventory rows.
 - 2026-10-01T16:15:33+1000 Phase 0.16 complete: 11 scripts merged after spot-checks (D-017); hooks 29/29 [EV: docs/evidence/p00/hooks-orchestrator-20261001T161219.log]; validator 0 failures; Phase 2 parts 01-13 returned (not yet spot-checked).
 - 2026-10-01T16:11:25+1000 2026-10-01T16:11:25+1000 USAGE-LIMIT pause 14:3x→16:10 (session limit reset 4:10pm); 13 subagents cut mid-task; 11 resumed by SendMessage from their transcripts (OM-7.3).

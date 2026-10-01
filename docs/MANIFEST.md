@@ -3,11 +3,11 @@ Per-page analysis rows (`docs/figma/analysis/<page-slug>.md`) are added one per 
 
 | Path | Owning phase/MS | Status (NOT STARTED / IN PROGRESS / DONE) | Author brief | Reviewer | Validated at gate |
 |---|---|---|---|---|---|
-| docs/PREFLIGHT.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
-| docs/SOURCE_INVENTORY.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
-| docs/TOOL_CAPABILITY_AUDIT.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
-| docs/TOOL_STRATEGY.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
-| docs/AGENT_RULES.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
+| docs/PREFLIGHT.md | 0 | DONE | orchestrator | assigned at gate | G0 |
+| docs/SOURCE_INVENTORY.md | 0 | DONE | orchestrator | assigned at gate | G0 |
+| docs/TOOL_CAPABILITY_AUDIT.md | 0 | DONE | orchestrator | assigned at gate | G0 |
+| docs/TOOL_STRATEGY.md | 0 | DONE | orchestrator | assigned at gate | G0 |
+| docs/AGENT_RULES.md | 0 | DONE | orchestrator | assigned at gate | G0 |
 | docs/MANIFEST.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
 | docs/PROGRESS.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
 | docs/DECISION_LOG.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
@@ -15,8 +15,8 @@ Per-page analysis rows (`docs/figma/analysis/<page-slug>.md`) are added one per 
 | docs/USER_ACTIONS.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
 | docs/OPEN_QUESTIONS.md | 0 / 24 | IN PROGRESS | orchestrator | assigned at gate | G0 / G4 |
 | docs/WORK_QUEUE.md | 0 | IN PROGRESS | orchestrator | assigned at gate | G0 |
-| docs/FIRST_REPORT.md | 0.17 | NOT STARTED | orchestrator | assigned at gate | G0 |
-| docs/gates/GATE-0.md | G0 | NOT STARTED | orchestrator | assigned at gate | G0 |
+| docs/FIRST_REPORT.md | 0.17 | DONE | orchestrator | assigned at gate | G0 |
+| docs/gates/GATE-0.md | G0 | DONE | orchestrator | assigned at gate | G0 |
 | CLAUDE.md | 0 / 21 | IN PROGRESS | orchestrator | assigned at gate | G0 / G4 |
 | docs/FIGMA_VERSION_LOCK.md | 1 | NOT STARTED | orchestrator | assigned at gate | G1 |
 | docs/figma/FIGMA_STATE_REPORT.md | 1 | NOT STARTED | orchestrator | assigned at gate | G1 |
