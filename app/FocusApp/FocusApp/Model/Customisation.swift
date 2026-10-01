@@ -1,7 +1,6 @@
 import Foundation
 import SwiftUI
 import Observation
-import FocusGlance
 
 // MARK: - Pages and tabs
 
@@ -235,12 +234,6 @@ struct CustomSettings: Codable, Equatable {
     var ringStyle: RingStyle = .ring
     var showFirstStep = true
     var accessory: AccessoryContent = .doses
-    // Lock Screen and Dynamic Island (Live Activities)
-    var liveFocusMode = true
-    var liveDay = false
-    var liveDayShows: DayShows = .both
-    var liveLogButton = true
-    var liveHideTaskNames = false
 
     init() {}
 
@@ -260,8 +253,6 @@ struct CustomSettings: Codable, Equatable {
         take(.hapticStrength, &hapticStrength); take(.priorityCount, &priorityCount)
         take(.showPrioritySource, &showPrioritySource); take(.ringStyle, &ringStyle); take(.showFirstStep, &showFirstStep)
         take(.accessory, &accessory)
-        take(.liveFocusMode, &liveFocusMode); take(.liveDay, &liveDay); take(.liveDayShows, &liveDayShows)
-        take(.liveLogButton, &liveLogButton); take(.liveHideTaskNames, &liveHideTaskNames)
         // Pages saved by an older build may be missing ones that are now required.
         for tab in TabKind.allCases {
             let required = PageKind.defaults(for: tab).filter(\.locked)
@@ -275,15 +266,6 @@ struct CustomSettings: Codable, Equatable {
         case version, pages, tabOrder, hiddenTabs, tabNames, appearance, darkBackdrop, lightBackdrop, darkness, blur, frost
         case grain, accent, typeface, textSize, roundness, dots, humour, dailyVariety, nickname, celebrateLogging
         case sliderTicks, hapticStrength, priorityCount, showPrioritySource, ringStyle, showFirstStep, accessory
-        case liveFocusMode, liveDay, liveDayShows, liveLogButton, liveHideTaskNames
-    }
-
-    /// What's saved right now, for code that runs outside the view tree (the Live Activity
-    /// controller, and App Intents running in the background).
-    static var saved: CustomSettings {
-        guard let data = UserDefaults.standard.data(forKey: Customisation.storageKey),
-              let saved = try? JSONDecoder().decode(CustomSettings.self, from: data) else { return CustomSettings() }
-        return saved
     }
 
     func name(for tab: TabKind) -> String {
@@ -311,10 +293,8 @@ final class Customisation {
         }
     }
 
-    nonisolated static let storageKey = "customSettings"
-
     init() {
-        if let data = UserDefaults.standard.data(forKey: Self.storageKey),
+        if let data = UserDefaults.standard.data(forKey: "customSettings"),
            let saved = try? JSONDecoder().decode(CustomSettings.self, from: data) {
             settings = saved
         } else {
@@ -325,7 +305,7 @@ final class Customisation {
     func reset() { settings = CustomSettings() }
 
     private func save() {
-        if let data = try? JSONEncoder().encode(settings) { UserDefaults.standard.set(data, forKey: Self.storageKey) }
+        if let data = try? JSONEncoder().encode(settings) { UserDefaults.standard.set(data, forKey: "customSettings") }
     }
 
     // Page editing
@@ -395,3 +375,4 @@ extension ShapeStyle where Self == OnAccentStyle {
 extension ShapeStyle where Self == AccentFillStyle {
     static var accentFill: AccentFillStyle { AccentFillStyle() }
 }
+

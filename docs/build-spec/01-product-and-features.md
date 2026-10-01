@@ -215,7 +215,7 @@ Every screen and behaviour of the iPhone app. **Built** means it exists in the p
 
 ## Focus mode (Built)
 
-- Full screen from the Now card (zoom transition, no tab bar): "Close"; kind eyebrow; the task (34 pt, written in); "Then Case reading at 11:05"; a 150 pt ring, centred on the screen (the bar and number styles stay left aligned); rows Time, Session (High focus or Light focus), First step; "Done" and "Done for now".
+- Full screen from the Now card (zoom transition, no tab bar): "Close"; kind eyebrow; the task (34 pt, written in); "Then Case reading at 11:05"; a 150 pt ring, centred on the screen (the bar and number styles stay left aligned; To build: the app still left-aligns the ring); rows Time, Session (High focus or Light focus), First step; "Done" and "Done for now".
 - The minutes and "min left" inside the ring are centred optically as one block (cap height to baseline), not by their line boxes. The same rule holds for every label inside a circle.
 - Rules: updates every 15 s; nothing running → `nowGap`. Timer style from Customise: Ring, Bar or Just the number (Built); the first step row hides when switched off. Wrap-up ripples and a warning tap at 5 min.
 
@@ -303,7 +303,7 @@ Every screen and behaviour of the iPhone app. **Built** means it exists in the p
 
 ## Customise (Built; decided 30 Sep)
 
-- First screen: "Your app, your rules"; `customiseIntro`; `hyperfixationWarning` on a honey veil (`nudge`); eight quiet rows, each opening its own page (the list scrolls); "Put everything back how it was" (confirm: "Your plan, medication and history stay exactly as they are.").
+- First screen: "Your app, your rules"; `customiseIntro`; `hyperfixationWarning` on a honey veil (`nudge`); eight quiet rows (the eighth, Lock Screen and Dynamic Island, is To build), each opening its own page (the list scrolls); "Put everything back how it was" (confirm: "Your plan, medication and history stay exactly as they are.").
 - Stored as one versioned JSON blob, decoded key by key so new options never wipe old choices; missing locked pages are re-added.
 
 | Category | Option | Values | Default |
@@ -337,11 +337,11 @@ Every screen and behaviour of the iPhone app. **Built** means it exists in the p
 | Home page | Bottom bar shows | Medication, What’s next | Medication |
 | Focus mode | Timer | Ring, Bar, Just the number | Ring |
 | Focus mode | Show the first step | On, off | On |
-| Lock Screen and Dynamic Island | Focus mode | On, off | On |
-| Lock Screen and Dynamic Island | Your day | On, off | Off |
-| Lock Screen and Dynamic Island | Your day shows | Both, Stretch only, Next only (only while Your day is on) | Both |
-| Lock Screen and Dynamic Island | Log button | On, off | On |
-| Lock Screen and Dynamic Island | Hide task names on the Lock Screen | On, off | Off |
+| Lock Screen and Dynamic Island (To build) | Focus mode | On, off | On |
+| Lock Screen and Dynamic Island (To build) | Your day | On, off | Off |
+| Lock Screen and Dynamic Island (To build) | Your day shows | Both, Stretch only, Next only (only while Your day is on) | Both |
+| Lock Screen and Dynamic Island (To build) | Log button | On, off | On |
+| Lock Screen and Dynamic Island (To build) | Hide task names on the Lock Screen | On, off | Off |
 
 - Accept: nothing can hide Today, You, Now or The fiddly bits; every accent keeps button text at 4.5:1 or more in both themes.
 
@@ -349,28 +349,28 @@ Every screen and behaviour of the iPhone app. **Built** means it exists in the p
 
 - First screen: `settingsIntro`; the "Log with one press" card first, on purpose; a short list of categories, one quiet row each with a status line; "Focus 1.0, made in Australia".
 - Categories, each its own page:
-  - Account: signed in with, email, Backup and moving phones (last backup time; opens Figma 12.1), Sign out (To build: back to the account step, data stays), Delete my account (confirm: "This removes your account, your synced data and everything on this iPhone. It can’t be undone. A subscription keeps running until you cancel it in Settings, because Apple handles billing.").
+  - Account: signed in with, email, Backup and moving phones (To build: last backup time; opens Figma 12.1), Sign out (To build: back to the account step, data stays), Delete my account (confirm: "This removes your account, your synced data and everything on this iPhone. It can’t be undone. A subscription keeps running until you cancel it in Settings, because Apple handles billing.").
   - Focus Plus: plan ("Free trial until 30 Oct", "Plus, renews 12 Mar", "Free (Plus ended)"), See Plus (free only), Manage subscription, Restore purchases ("Checked with Apple."), Redeem a code; "Payments, trials and refunds are all handled by Apple."
   - Look: Light or dark; "Everything else in Customise".
   - Privacy: Discreet mode (on by default: "No medicine names on the Lock Screen, in notifications, widgets or calendar titles."; To build: persist it), What leaves this phone, Your own AI.
   - Permissions: Calendar and Notifications ("On" or "Allow"); "At most five nudges a day, never naming a condition or a medicine." To build: Health (sleep); "Open Settings" after a refusal.
   - Your data: Export everything (readable JSON, share sheet); Delete everything on this iPhone (confirm).
   - Safety and legal: Not a medical device (the honest bit), Terms, Privacy policy.
-  - Contact us: its own row on the Settings list ("A real person replies within 2 business days"), opening the form (Figma 12.11). Server Built; the app screen is To build.
+  - Contact us (To build): its own row on the Settings list ("A real person replies within 2 business days"), opening the form (Figma 12.11).
   - Support: Get support stays in Safety and legal.
   - Built today: Account and Plus share a page; Get support sits in Safety and legal.
 - What leaves this phone ("Almost nothing"): medication, doses, check-ins and the focus pattern stay on this iPhone; Health read only; calendar read here, never uploaded; Apple Intelligence on the phone; moving phones end-to-end encrypted; your own AI only what you allow; no ads or trackers.
 - Accept: account deletion is two taps from Settings; nothing destructive happens without a confirm.
 
-## Live Activities and the Dynamic Island
+## Live Activities and the Dynamic Island (To build)
 
 - Two optional Live Activities, local only: Focus mode (the task and time left; on by default) and Your day (the stretch you're in and what's next; off by default). Full spec: 10-live-activities.md. Figma 6.5 to 6.11, components 11.4, Customise page 10.13 and 10.14.
 - Today shows a one-time offer card after the first log of the first day: eyebrow "Quick one", "Want your day in the Dynamic Island?", "See which stretch you're in without opening Focus.", "Show it" and "Not now". Fixed wording (it appears once).
 - The Action button result appears as the expanded Dynamic Island ("Focus", "Logged two doses."), drawn in Figma 6.1.
 
-## Account, backup and moving phones
+## Account, backup and moving phones (To build)
 
-- Figma section 12 draws every screen the backend powers. Server: Built (backend/). iPhone client library: Built (app/FocusCore, FocusSync). App screens: the email code step is Built; the rest are To build and follow the Figma notes.
+- Figma section 12 draws every screen the backend powers. All To build: the server (02-backend.md, 11-backend-contract.md), the iPhone client and these screens. Follow the Figma notes.
 - Email sign-in (12.0): "Check your email." "We sent a link to {email}. Tap it on this iPhone and you're in." Six code boxes as the fallback; a new link after 60 seconds; "Use a different email".
 - Backup and moving phones (12.1): last backup, Back up now, recovery key, the iCloud Keychain copy switch, Devices (12.3), Scan a new iPhone, Restore an earlier backup, Delete my backup.
 - Recovery key (12.2): shown once, never stored; Copy and Save as PDF to Files; "I've saved it".

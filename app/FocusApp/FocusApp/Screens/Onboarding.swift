@@ -12,7 +12,6 @@ struct OnboardingFlow: View {
     let finish: () -> Void
     @State private var step: Step = .splash
     @Environment(\.motionIsCalm) private var calm
-    @Environment(AccountStore.self) private var accounts
 
     var body: some View {
         ZStack {
@@ -29,13 +28,6 @@ struct OnboardingFlow: View {
             .transition(.asymmetric(insertion: .opacity.combined(with: .offset(y: calm ? 0 : 24)),
                                     removal: .opacity.combined(with: .offset(y: calm ? 0 : -16))))
             .id(step)
-        }
-        // A sign-in link opened from Mail, even after the app was closed while the email arrived:
-        // once the honest bit has been accepted, go straight to the account step to finish.
-        .onOpenURL { url in
-            guard accounts.receive(url), step.rawValue < Step.account.rawValue,
-                  UserDefaults.standard.integer(forKey: "noticeAcceptedVersion") >= MedicalNoticeView.version else { return }
-            go(.account)
         }
     }
 
@@ -210,277 +202,116 @@ struct MedicalNoticeView: View {
 // MARK: - 4. Account
 
 struct AccountView: View {
-    /// Replaces the onboarding heading when signing in again from Settings.
-    var heading: String?
     let next: () -> Void
     @Environment(AccountStore.self) private var accounts
     @Environment(\.colorScheme) private var scheme
     @Environment(\.motionIsCalm) private var calm
     @AppStorage("confirmedAdult") private var adult = false
-    @AppStorage(AccountStore.adultConfirmedAtKey) private var adultConfirmedAt = 0.0
     @State private var email = ""
-    @State private var code = ""
     @State private var showEmail = false
     @State private var error: String?
-    @State private var offerNewLink = false
     @State private var working = false
 
     var body: some View {
         ScrollView {
-            Group {
-                if let sentTo = accounts.pendingEmail {
-                    checkEmail(sentTo)
-                } else {
-                    signInChoices
+            VStack(alignment: .leading, spacing: 16) {
+                Text("Your account").eyebrow()
+                HeroText(text: Copy.line(.accountTitle), size: 32)
+                Text(Copy.line(.accountBody))
+                    .font(.subheadline)
+                    .foregroundStyle(Color.inkSoft)
+                    .fixedSize(horizontal: false, vertical: true)
+
+                Toggle(isOn: $adult) {
+                    Text("I’m 18 or older").font(.subheadline).foregroundStyle(Color.ink)
                 }
+                .tint(Color.zoneBest)
+                .onChange(of: adult) { Haptics.shared.play(.toggle) }
+                .padding(.top, 8)
+
+                VStack(alignment: .leading, spacing: 10) {
+                    SignInWithAppleButton(.continue) { accounts.configure($0) } onCompletion: { result in
+                        Task { await run { try await accounts.completeApple(result) } }
+                    }
+                    .signInWithAppleButtonStyle(scheme == .dark ? .white : .black)
+                    .frame(height: 48)
+                    .clipShape(.capsule)
+
+                    Button { Task { await run { try await accounts.signInWithGoogle() } } } label: {
+                        Label("Continue with Google", systemImage: "g.circle").frame(maxWidth: .infinity, minHeight: 34)
+                    }
+                    .buttonStyle(.glass)
+
+                    Button { withAnimation(.gentle(calm)) { showEmail.toggle() }; Haptics.shared.play(.tap) } label: {
+                        Label("Continue with email", systemImage: "envelope").frame(maxWidth: .infinity, minHeight: 34)
+                    }
+                    .buttonStyle(.glass)
+
+                    if showEmail {
+                        emailForm.transition(.opacity.combined(with: .move(edge: .top)))
+                    }
+                }
+                .font(.subheadline)
+                .disabled(!adult || working)
+                .opacity(adult ? 1 : 0.45)
+                .padding(.top, 6)
+
+                if !adult {
+                    Text("Focus is for adults for now.").font(.footnote).foregroundStyle(Color.inkSoft)
+                }
+                if let error {
+                    Label(error, systemImage: "exclamationmark.circle").font(.footnote).foregroundStyle(Color.ink)
+                }
+                Text("By continuing you agree to the Terms and the Privacy Policy. You can delete your account any time in Settings.")
+                    .font(.caption)
+                    .foregroundStyle(Color.inkSoft)
+                    .padding(.top, 8)
             }
             .padding(.horizontal, 28)
             .padding(.vertical, 60)
         }
         .scrollIndicators(.hidden)
         .scrollDismissesKeyboard(.immediately)
-        .onOpenURL { accounts.receive($0) }
-        .task(id: accounts.pendingLinkToken) { await verifyOpenedLink() }
     }
 
-    // MARK: Choosing a way in
-
-    private var signInChoices: some View {
-        VStack(alignment: .leading, spacing: 16) {
-            Text("Your account").eyebrow()
-            HeroText(text: heading ?? Copy.line(.accountTitle), size: 32)
-            Text(heading == nil ? Copy.line(.accountBody) : "Use the same way you signed in before.")
-                .font(.subheadline)
-                .foregroundStyle(Color.inkSoft)
-                .fixedSize(horizontal: false, vertical: true)
-
-            Toggle(isOn: $adult) {
-                Text("I’m 18 or older").font(.subheadline).foregroundStyle(Color.ink)
-            }
-            .tint(Color.zoneBest)
-            .onChange(of: adult) {
-                Haptics.shared.play(.toggle)
-                // Only when it was confirmed, never a birth date. Sent with sign-up.
-                adultConfirmedAt = adult ? Date.now.timeIntervalSince1970 : 0
-                if adult { Task { await verifyOpenedLink() } }
-            }
-            .padding(.top, 8)
-
-            VStack(alignment: .leading, spacing: 10) {
-                SignInWithAppleButton(.continue) { accounts.configure($0) } onCompletion: { result in
-                    Task { await run { try await accounts.completeApple(result) } }
-                }
-                .signInWithAppleButtonStyle(scheme == .dark ? .white : .black)
-                .frame(height: 48)
-                .clipShape(.capsule)
-
-                Button { Task { await run { try await accounts.signInWithGoogle() } } } label: {
-                    Label("Continue with Google", systemImage: "g.circle").frame(maxWidth: .infinity, minHeight: 34)
-                }
-                .buttonStyle(.glass)
-
-                Button { withAnimation(.gentle(calm)) { showEmail.toggle() }; Haptics.shared.play(.tap) } label: {
-                    Label("Continue with email", systemImage: "envelope").frame(maxWidth: .infinity, minHeight: 34)
-                }
-                .buttonStyle(.glass)
-
-                if showEmail {
-                    emailForm.transition(.opacity.combined(with: .move(edge: .top)))
-                }
-            }
-            .font(.subheadline)
-            .disabled(!adult || working)
-            .opacity(adult ? 1 : 0.45)
-            .padding(.top, 6)
-
-            if !adult {
-                Text("Focus is for adults for now.").font(.footnote).foregroundStyle(Color.inkSoft)
-            }
-            errorLine
-            Text("By continuing you agree to the Terms and the Privacy Policy. You can delete your account any time in Settings.")
-                .font(.caption)
-                .foregroundStyle(Color.inkSoft)
-                .padding(.top, 8)
-        }
-    }
-
+    @ViewBuilder
     private var emailForm: some View {
-        HStack(spacing: 10) {
-            TextField(text: $email, prompt: Text(verbatim: "you@example.com").foregroundStyle(Color.inkSoft)) { Text("Email") }
-                .textContentType(.emailAddress)
-                .keyboardType(.emailAddress)
-                .textInputAutocapitalization(.never)
-                .autocorrectionDisabled()
-                .submitLabel(.send)
-                .onSubmit { sendLink() }
-                .padding(.horizontal, 18)
-                .frame(minHeight: 48)
-                .pill()
-            Button("Send link") { sendLink() }
-                .buttonStyle(.glassProminent)
-                .foregroundStyle(.onAccent)
-        }
-    }
-
-    // MARK: Check your email
-
-    private func checkEmail(_ address: String) -> some View {
-        VStack(alignment: .leading, spacing: 16) {
-            Text("Your account").eyebrow()
-            HeroText(text: "Check your email.", size: 32)
-            Text("We sent a link to \(address). Tap it on this iPhone and you’re in.")
-                .font(.subheadline)
-                .foregroundStyle(Color.inkSoft)
-                .fixedSize(horizontal: false, vertical: true)
-
-            VStack(alignment: .leading, spacing: 10) {
-                Text("Or type the 6-digit code from the email").font(.footnote).foregroundStyle(Color.inkSoft)
-                OneTimeCodeField(code: $code) { typed in
-                    Task { await run { try await accounts.finishEmail(code: typed) } }
-                }
-                .disabled(working)
-                if !accounts.usesServer {
-                    Text("This build has no server, so any six digits will do.").font(.caption).foregroundStyle(Color.inkSoft)
-                }
+        if accounts.pendingEmail == nil {
+            HStack(spacing: 10) {
+                TextField(text: $email, prompt: Text(verbatim: "you@example.com").foregroundStyle(Color.inkSoft)) { Text("Email") }
+                    .textContentType(.emailAddress)
+                    .keyboardType(.emailAddress)
+                    .textInputAutocapitalization(.never)
+                    .autocorrectionDisabled()
+                    .submitLabel(.send)
+                    .onSubmit { Task { await run { try await accounts.startEmail(email) } } }
+                    .padding(.horizontal, 18)
+                    .frame(minHeight: 48)
+                    .pill()
+                Button("Send link") { Task { await run { try await accounts.startEmail(email) } } }
+                    .buttonStyle(.glassProminent)
+                    .foregroundStyle(.onAccent)
             }
-            .padding(.top, 8)
-
-            errorLine
-            resendLine
-
-            Button("Use a different email") {
-                Haptics.shared.play(.tap)
-                error = nil
-                offerNewLink = false
-                code = ""
-                email = address
-                showEmail = true
-                accounts.useDifferentEmail()
-            }
-            .buttonStyle(.plain)
-            .font(.subheadline)
-            .foregroundStyle(Color.ink)
-        }
-    }
-
-    /// "You can ask for a new link in 0:42." becomes a button once 60 seconds have passed, or straight
-    /// away when the last link can't be used any more.
-    private var resendLine: some View {
-        TimelineView(.periodic(from: .now, by: 1)) { context in
-            let waited = accounts.emailSentAt.map { context.date.timeIntervalSince($0) } ?? .infinity
-            let left = Int((accounts.resendAfter - waited).rounded(.up))
-            if left > 0 && !offerNewLink {
-                Text("You can ask for a new link in \(left / 60):\(String(format: "%02d", left % 60)).")
-                    .font(.footnote)
-                    .foregroundStyle(Color.inkSoft)
-                    .monospacedDigit()
-            } else {
-                Button("Send a new link") {
-                    Task {
-                        await run(signsIn: false) { try await accounts.resendEmail() }
-                        if error == nil { code = ""; offerNewLink = false }
-                    }
-                }
-                .buttonStyle(.glass)
-                .font(.subheadline)
-                .disabled(working)
+        } else {
+            VStack(alignment: .leading, spacing: 8) {
+                Text("Check your inbox. The link signs you straight in.").font(.footnote).foregroundStyle(Color.inkSoft)
+                Button("I’ve tapped the link") { Task { await run { try await accounts.finishEmail() } } }
+                    .buttonStyle(.glass)
             }
         }
     }
 
-    @ViewBuilder private var errorLine: some View {
-        if let error {
-            Label(error, systemImage: "exclamationmark.circle").font(.footnote).foregroundStyle(Color.ink)
-        }
-    }
-
-    // MARK: Actions
-
-    private func sendLink() {
-        Task {
-            await run(signsIn: false) { try await accounts.startEmail(email) }
-            if accounts.pendingEmail != nil { Haptics.shared.play(.land) }
-        }
-    }
-
-    /// A link opened from Mail finishes here, once "I'm 18 or older" is on.
-    private func verifyOpenedLink() async {
-        guard accounts.pendingLinkToken != nil, adult, !working else { return }
-        await run { try await accounts.finishEmailLink() }
-    }
-
-    /// `signsIn` is false for sending a link, which never finishes a sign-in on its own.
-    private func run(signsIn: Bool = true, _ action: () async throws -> Void) async {
+    private func run(_ action: () async throws -> Void) async {
         working = true
         defer { working = false }
         do {
             try await action()
             error = nil
-            offerNewLink = false
-            if signsIn, accounts.isSignedIn { Haptics.shared.play(.success); next() }
+            if accounts.isSignedIn { Haptics.shared.play(.success); next() }
         } catch let e as AccountStore.AuthError {
-            switch e {
-            case .cancelled:
-                break
-            case .adultConfirmationNeeded:
-                // Back to the toggle: it shows "Focus is for adults for now." until it's on again.
-                adult = false
-                error = nil
-                Haptics.shared.play(.caution)
-            default:
-                error = e.errorDescription
-                offerNewLink = e.offersNewLink
-                if e == .codeMismatch || e == .tooManyCodes { code = "" }
-                Haptics.shared.play(.caution)
-            }
+            if e != .cancelled { error = e.errorDescription; Haptics.shared.play(.caution) }
         } catch {
             self.error = "That didn’t work. Try again?"
-            Haptics.shared.play(.caution)
-        }
-    }
-}
-
-/// Six single-digit boxes over one invisible field, so the keyboard's one-time code suggestion,
-/// paste and VoiceOver all work on the whole code at once.
-struct OneTimeCodeField: View {
-    @Binding var code: String
-    let complete: (String) -> Void
-    @FocusState private var focused: Bool
-
-    var body: some View {
-        let digits = Array(code)
-        HStack(spacing: 8) {
-            ForEach(0..<6, id: \.self) { index in
-                let isNext = focused && index == min(digits.count, 5)
-                Text(index < digits.count ? String(digits[index]) : " ")
-                    .figureFont(22)
-                    .foregroundStyle(Color.ink)
-                    .frame(width: 44, height: 54)
-                    .background(RoundedRectangle(cornerRadius: 12, style: .continuous).fill(Color.veil))
-                    .overlay(RoundedRectangle(cornerRadius: 12, style: .continuous)
-                        .strokeBorder(isNext ? Color.zoneBest : Color.veilStroke, lineWidth: isNext ? 1.5 : 0.5))
-            }
-        }
-        .accessibilityHidden(true)
-        .overlay {
-            TextField("", text: $code)
-                .keyboardType(.numberPad)
-                .textContentType(.oneTimeCode)
-                .focused($focused)
-                .foregroundStyle(.clear)
-                .tint(.clear)
-                .accessibilityLabel("Six-digit code")
-                .accessibilityValue(code)
-        }
-        .contentShape(.rect)
-        .onTapGesture { focused = true }
-        .onChange(of: code) { old, new in
-            let cleaned = String(new.filter(\.isNumber).prefix(6))
-            if cleaned != new { code = cleaned; return }
-            if cleaned.count == 6, old.count < 6 {
-                focused = false
-                complete(cleaned)
-            }
         }
     }
 }
@@ -713,3 +544,4 @@ struct DeviceGateView: View {
         .padding(.bottom, 48)
     }
 }
+

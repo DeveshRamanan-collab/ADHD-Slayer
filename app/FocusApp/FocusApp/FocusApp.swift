@@ -15,9 +15,6 @@ struct FocusApp: App {
         _model = State(initialValue: model)
         // App Intents (Action button, Siri, Shortcuts) log through the same model as the app.
         AppDependencyManager.shared.add(dependency: model)
-        // Live Activities: pick up the ones already running, end duplicates, and let their buttons
-        // (which run in this process) reach the same model.
-        LiveActivityController.shared.launch(model: model)
     }
 
     var body: some Scene {
@@ -207,3 +204,4 @@ struct DoseAccessory: View {
         .accessibilityElement(children: .contain)
     }
 }
+

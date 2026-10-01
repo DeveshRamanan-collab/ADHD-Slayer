@@ -28,9 +28,7 @@ final class AppModel {
     var actionButtonSuggested: Bool { didSet { persistMedication() } }
     /// Every dose logged today, oldest first.
     private(set) var todaysDoses: [DoseEvent] = []
-    var discreetMode = true {
-        didSet { if discreetMode != oldValue { LiveActivityController.shared.modelDidChange() } }
-    }
+    var discreetMode = true
     /// Bumped whenever a dose is logged, so animations can replay.
     private(set) var doseLoggedSequence = 0
     /// The medications logged by the most recent Log all, for the celebration.
@@ -444,7 +442,6 @@ final class AppModel {
         guard let id = block.taskID else { return }
         completed.insert(id)
         Haptics.shared.play(.complete)
-        LiveActivityController.shared.modelDidChange()
     }
 
     func markDoneForNow(_ block: Block) {
@@ -476,7 +473,6 @@ final class AppModel {
         guard let undoPlan else { return }
         plan = undoPlan
         self.undoPlan = nil
-        LiveActivityController.shared.modelDidChange()
     }
 
     /// Task names and times only: the most your own AI is ever sent, and only if you allowed it.
@@ -645,8 +641,6 @@ final class AppModel {
         plan = result.plan
         fillPercent = result.fillPercent
         unplaced = result.changes.compactMap { if case .unplaced(let id, _) = $0 { id } else { nil } }
-        // Every replan and every log lands here: keep Your day and Focus mode on the Lock Screen in step.
-        LiveActivityController.shared.modelDidChange()
     }
 
     private func seedDay(start: Date) {
@@ -692,3 +686,4 @@ final class AppModel {
         return (model, points)
     }
 }
+

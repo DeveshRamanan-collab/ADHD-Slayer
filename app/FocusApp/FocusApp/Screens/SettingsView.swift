@@ -122,8 +122,6 @@ struct SettingsPage: View {
     @State private var redeem = false
     @State private var upgrade = false
     @State private var confirmDelete = false
-    @State private var confirmSignOut = false
-    @State private var signInToDelete = false
     @State private var confirmWipe = false
     @State private var notificationsOn = false
     @State private var note: String?
@@ -154,30 +152,10 @@ struct SettingsPage: View {
         .confirmationDialog("Delete your account?", isPresented: $confirmDelete, titleVisibility: .visible) {
             Button("Delete account and data", role: .destructive) {
                 Haptics.shared.play(.acknowledge)
-                Task { await deleteAccount() }
+                Task { await accounts.deleteAccount(); DataExport.wipe(); note = "Your account is gone. Close and reopen Focus to start fresh." }
             }
         } message: {
             Text("This removes your account, your synced data and everything on this iPhone. It can’t be undone. A subscription keeps running until you cancel it in Settings, because Apple handles billing.")
-        }
-        .confirmationDialog("Sign out?", isPresented: $confirmSignOut, titleVisibility: .visible) {
-            Button("Keep this iPhone’s data") {
-                Haptics.shared.play(.acknowledge)
-                Task { await accounts.signOut(keepingData: true); note = "Signed out. Everything is still on this iPhone." }
-            }
-            Button("Remove it", role: .destructive) {
-                Haptics.shared.play(.acknowledge)
-                Task { await accounts.signOut(keepingData: false); note = "Done. Close and reopen Focus to start fresh." }
-            }
-        } message: {
-            Text("Your account stays as it is. Keep this iPhone’s data, or remove it?")
-        }
-        // Deleting needs the server to know it's you. If the session ended, sign in once more first.
-        .sheet(isPresented: $signInToDelete) {
-            AccountView(heading: "Sign in to delete your account.") {
-                signInToDelete = false
-                Task { await deleteAccount() }
-            }
-            .background { SkyBackground(phase: model.skyPhase) }
         }
         .confirmationDialog("Delete everything on this iPhone?", isPresented: $confirmWipe, titleVisibility: .visible) {
             Button("Delete everything", role: .destructive) {
@@ -205,7 +183,7 @@ struct SettingsPage: View {
                 if let account = accounts.account {
                     info("Signed in with", value: account.method.rawValue.capitalized)
                     if let email = account.email { info("Email", value: email) }
-                    action("Sign out", symbol: "rectangle.portrait.and.arrow.right") { confirmSignOut = true }
+                    action("Sign out", symbol: "rectangle.portrait.and.arrow.right") { accounts.signOut() }
                     action("Delete my account", symbol: "trash", role: .destructive) { confirmDelete = true }
                 } else {
                     Text("Not signed in. Your plan stays on this phone only.").font(.subheadline).foregroundStyle(Color.inkSoft)
@@ -288,14 +266,6 @@ struct SettingsPage: View {
                 Link(destination: URL(string: "https://focus.adhdslayer.au/terms")!) { linkRow("Terms", symbol: "doc.text") }
                 Link(destination: URL(string: "https://focus.adhdslayer.au/privacy")!) { linkRow("Privacy policy", symbol: "hand.raised") }
             }
-        }
-    }
-
-    private func deleteAccount() async {
-        switch await accounts.deleteAccount() {
-        case .deleted: note = "Your account is gone. Close and reopen Focus to start fresh."
-        case .pending: note = "Deletion will finish when you’re back online."
-        case .needsSignIn: signInToDelete = true
         }
     }
 
@@ -651,3 +621,4 @@ enum DataExport {
         Keychain.set(nil, for: "externalAIKey")
     }
 }
+

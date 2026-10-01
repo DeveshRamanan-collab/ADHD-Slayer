@@ -1,4 +1,4 @@
-# Live Activities and the Dynamic Island
+# Live Activities and the Dynamic Island (To build)
 
 ## Summary
 
@@ -8,11 +8,12 @@
 - They show in the Dynamic Island (compact, minimal, expanded), on the Lock Screen, in StandBy and in the Apple Watch Smart Stack. On iPhone 16e (a notch, no Dynamic Island) they show on the Lock Screen and as banners only.
 - Words follow the compliance rules: never name a medicine in discreet mode, never say what, how much or when to take anything, and never use "due", "onset", "wear off", "booster", "predicts" or "optimal".
 
-## Where the code lives
+## Where the code will live (To build)
 
 - Shared types: `app/FocusCore/Sources/FocusGlance` (`FocusActivityAttributes`), linked by the app and the widget extension.
 - Extension: `app/FocusApp/FocusWidgets` target `FocusWidgets`, bundle id `au.adhdslayer.focus.widgets`, `ActivityConfiguration(for: FocusActivityAttributes.self)`.
 - App: `Model/LiveActivities.swift` (`LiveActivityController`: start, update, end, restore on launch) and the Customise page.
+- The button intents (`EndFocusSessionIntent`, `ExtendFocusSessionIntent`, `LogMedicationIntent`) live in `FocusGlance`, because the extension needs them for its buttons. As `LiveActivityIntent`s they still run in the app's process.
 - Info.plist: `NSSupportsLiveActivities` YES on the app. No `NSSupportsLiveActivitiesFrequentUpdates` (updates come from the app, not push).
 
 ## Data
@@ -35,12 +36,15 @@ FocusActivityAttributes: ActivityAttributes
     stretch       best | lighter | lowFocus | windDown | open   shown as "Best focus", "Lighter focus",
                                                            "Low-focus stretch", "Winding down", "Open time"
     stretchEndsAt Date?
+    stretchLine   String?                               the copy slot line, "Best focus until 1:40."
+    dayShows      stretch | next | both                 Customise, "Your day shows"
     nextTitle     String?                               the next plan item
     nextAt        Date?
     segments      [Segment] (at most 8)                  start, end, stretch: the next 8 hours
     showLog       Bool                                   Customise, and something set for about now
 ```
 
+- `stretchLine` and `dayShows` are sent by the app because the extension can't read the copy deck or Customise.
 - `staleDate`: the session end plus 1 minute for Focus mode; `stretchEndsAt` for Your day. When stale, the views read "Open Focus to catch up" instead of a stretch.
 - `relevanceScore`: Focus mode 100, Your day 50, so Focus mode takes the Dynamic Island when both run.
 - Discreet mode never shows medicine names; there are none in the data at all, only stretch names and task titles.
@@ -73,6 +77,7 @@ FocusActivityAttributes: ActivityAttributes
 | Expanded, bottom | the first step (if on), then "Done" (glass prominent) and "+5 min" (glass) |
 | Lock Screen | ring 40 pt, title, first step, time left 28 pt on the right, a hairline progress bar, then Done and +5 min; under 160 pt tall |
 
+- Done and +5 min are 34 pt capsules the extension draws in the Figma colours (Done solid, +5 min a light film), so they match the tokens on every surface.
 - Paused: the ring dims and the time shows the minutes left, still, with "Paused".
 - Time up: shown when the activity goes stale (staleDate is the session end plus 1 minute), so it works with the app closed: "Time's up." and the day's rotating `focusDoneCheer` line (passed in as `cheer`), for 15 minutes, then it ends.
 - Discreet mode doesn't change Focus mode (tasks aren't health data), unless "Hide task names on the Lock Screen" is on, which shows "Focus" as the title.
@@ -90,6 +95,7 @@ FocusActivityAttributes: ActivityAttributes
 | Lock Screen | the same, with the stretch line in serif 20 pt from the copy slot: "Best focus until 1:40." |
 
 - Stretch lines come from the rotating copy slots already used on Today (`dayLineBest`, `dayLineLighter`, `dayLineWarming`, `dayLineAfter`), picked once when the stretch starts.
+- A low-focus stretch has no slot yet, so it reads "Low-focus stretch until 1:40." A line with a word from the compliance list (06), such as "peak", gives way to the slot's plain first line, because the Lock Screen is the most public place the app writes. The same check covers the `cheer`.
 - The Log button reads "Log" with a checkmark, never a pill icon or a medicine name, and only shows when something is set for about now. It records a log; it never suggests taking anything.
 
 ## Customise, Lock Screen and Dynamic Island
@@ -105,7 +111,8 @@ A category on the Customise list, "Lock Screen and Dynamic Island" (symbol `plat
 | Hide task names on the Lock Screen | off | shows "Focus" instead of the task |
 
 - Stored in `CustomSettings` as `liveFocusMode`, `liveDay`, `liveDayShows`, `liveLogButton`, `liveHideTaskNames`, with tolerant decoding.
-- One-time offer after the first log of the first day: a quiet card on Today, "Want your day in the Dynamic Island? You can see what stretch you're in without opening Focus." with "Show it" and "Not now". "Not now" never asks again.
+- "Your day shows" appears only while Your day is on, and the page ends with a quiet footnote, "Live Activities never name a medicine." (Figma 10.13).
+- One-time offer after the first log of the first day: a quiet card on Today under the medication row, eyebrow "Quick one", "Want your day in the Dynamic Island?", then "See which stretch you're in without opening Focus." with "Show it" and "Not now". "Not now" never asks again. The words follow Figma 6.11.
 
 ## Acceptance
 

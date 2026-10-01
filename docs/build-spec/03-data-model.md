@@ -248,11 +248,11 @@
 | `showPrioritySource`, `showFirstStep` | Bool | true | |
 | `ringStyle` | ring, bar, number | ring | |
 | `accessory` | doses, nextThing | doses | |
-| `liveFocusMode` | Bool | true | Focus mode Live Activity |
-| `liveDay` | Bool | false | Your day Live Activity |
-| `liveDayShows` | both, stretch, next | both | only read while `liveDay` is on |
-| `liveLogButton` | Bool | true | Log button in Your day |
-| `liveHideTaskNames` | Bool | false | "Focus" instead of the task on the Lock Screen |
+| `liveFocusMode` | Bool | true | To build: Focus mode Live Activity |
+| `liveDay` | Bool | false | To build: Your day Live Activity |
+| `liveDayShows` | both, stretch, next | both | To build: only read while `liveDay` is on |
+| `liveLogButton` | Bool | true | To build: Log button in Your day |
+| `liveHideTaskNames` | Bool | false | To build: "Focus" instead of the task on the Lock Screen |
 
 - Decoding starts from today's defaults and takes each saved key that decodes, so a new option never wipes old choices (Built). Saved page lists missing a required page get it back (Built).
 - To build: decode page lists element by element, so one unknown page (for example the old `youPrivacy`, now `youMore`) can't reset a whole layout; map `youPrivacy` to `youMore`.

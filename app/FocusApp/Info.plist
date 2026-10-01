@@ -7,16 +7,5 @@
 		<key>UIColorName</key>
 		<string>LaunchBackground</string>
 	</dict>
-	<key>FocusAPIBaseURL</key>
-	<string>$(FOCUS_API_BASE_URL)</string>
-	<key>FocusCDNBaseURL</key>
-	<string>$(FOCUS_CDN_BASE_URL)</string>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsLocalNetworking</key>
-		<true/>
-	</dict>
-	<key>NSSupportsLiveActivities</key>
-	<true/>
 </dict>
 </plist>

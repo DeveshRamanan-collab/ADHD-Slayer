@@ -10,63 +10,16 @@
 		F1A000000000000000000001 /* FocusModel in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000001 /* FocusModel */; };
 		F1A000000000000000000002 /* FocusMedication in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000002 /* FocusMedication */; };
 		F1A000000000000000000003 /* FocusPlanning in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000003 /* FocusPlanning */; };
-		F1A000000000000000000004 /* FocusSync in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000004 /* FocusSync */; };
-		F1A000000000000000000005 /* FocusGlance in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000005 /* FocusGlance */; };
-		F1A000000000000000000006 /* FocusGlance in Frameworks */ = {isa = PBXBuildFile; productRef = F2A000000000000000000006 /* FocusGlance */; };
-		F1A000000000000000000007 /* FocusWidgets.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F3A000000000000000000002 /* FocusWidgets.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		FEA000000000000000000001 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = FAA000000000000000000001 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F7A000000000000000000002;
-			remoteInfo = FocusWidgets;
-		};
-/* End PBXContainerItemProxy section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		FDA000000000000000000001 /* Embed Foundation Extensions */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 13;
-			files = (
-				F1A000000000000000000007 /* FocusWidgets.appex in Embed Foundation Extensions */,
-			);
-			name = "Embed Foundation Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		F3A000000000000000000001 /* FocusApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FocusApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3A000000000000000000002 /* FocusWidgets.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = FocusWidgets.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F0A000000000000000000001 /* Exceptions for "FocusWidgets" folder in "FocusWidgets" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = F7A000000000000000000002 /* FocusWidgets */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F4A000000000000000000001 /* FocusApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FocusApp;
-			sourceTree = "<group>";
-		};
-		F4A000000000000000000002 /* FocusWidgets */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				F0A000000000000000000001 /* Exceptions for "FocusWidgets" folder in "FocusWidgets" target */,
-			);
-			path = FocusWidgets;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -79,16 +32,6 @@
 				F1A000000000000000000001 /* FocusModel in Frameworks */,
 				F1A000000000000000000002 /* FocusMedication in Frameworks */,
 				F1A000000000000000000003 /* FocusPlanning in Frameworks */,
-				F1A000000000000000000004 /* FocusSync in Frameworks */,
-				F1A000000000000000000005 /* FocusGlance in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F5A000000000000000000002 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1A000000000000000000006 /* FocusGlance in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,7 +42,6 @@
 			isa = PBXGroup;
 			children = (
 				F4A000000000000000000001 /* FocusApp */,
-				F4A000000000000000000002 /* FocusWidgets */,
 				F6A000000000000000000002 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,7 +50,6 @@
 			isa = PBXGroup;
 			children = (
 				F3A000000000000000000001 /* FocusApp.app */,
-				F3A000000000000000000002 /* FocusWidgets.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,12 +64,10 @@
 				F9A000000000000000000001 /* Sources */,
 				F5A000000000000000000001 /* Frameworks */,
 				F9A000000000000000000002 /* Resources */,
-				FDA000000000000000000001 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FFA000000000000000000001 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				F4A000000000000000000001 /* FocusApp */,
@@ -138,35 +77,10 @@
 				F2A000000000000000000001 /* FocusModel */,
 				F2A000000000000000000002 /* FocusMedication */,
 				F2A000000000000000000003 /* FocusPlanning */,
-				F2A000000000000000000004 /* FocusSync */,
-				F2A000000000000000000005 /* FocusGlance */,
 			);
 			productName = FocusApp;
 			productReference = F3A000000000000000000001 /* FocusApp.app */;
 			productType = "com.apple.product-type.application";
-		};
-		F7A000000000000000000002 /* FocusWidgets */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F8A000000000000000000003 /* Build configuration list for PBXNativeTarget "FocusWidgets" */;
-			buildPhases = (
-				F9A000000000000000000003 /* Sources */,
-				F5A000000000000000000002 /* Frameworks */,
-				F9A000000000000000000004 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				F4A000000000000000000002 /* FocusWidgets */,
-			);
-			name = FocusWidgets;
-			packageProductDependencies = (
-				F2A000000000000000000006 /* FocusGlance */,
-			);
-			productName = FocusWidgets;
-			productReference = F3A000000000000000000002 /* FocusWidgets.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -179,9 +93,6 @@
 				LastUpgradeCheck = 2700;
 				TargetAttributes = {
 					F7A000000000000000000001 = {
-						CreatedOnToolsVersion = 27.0;
-					};
-					F7A000000000000000000002 = {
 						CreatedOnToolsVersion = 27.0;
 					};
 				};
@@ -204,20 +115,12 @@
 			projectRoot = "";
 			targets = (
 				F7A000000000000000000001 /* FocusApp */,
-				F7A000000000000000000002 /* FocusWidgets */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		F9A000000000000000000002 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F9A000000000000000000004 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -234,22 +137,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F9A000000000000000000003 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		FFA000000000000000000001 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F7A000000000000000000002 /* FocusWidgets */;
-			targetProxy = FEA000000000000000000001 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		FCA000000000000000000001 /* Debug */ = {
@@ -301,12 +189,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
-				FOCUS_API_BASE_URL = "";
-				FOCUS_CDN_BASE_URL = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Focus;
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Focus reads today’s events so your plan fits around them, and spots plans with other people. Nothing is uploaded.";
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -333,12 +219,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
-				FOCUS_API_BASE_URL = "https://api.focus.adhdslayer.au/v1";
-				FOCUS_CDN_BASE_URL = "https://cdn.focus.adhdslayer.au/v1";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Focus;
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Focus reads today’s events so your plan fits around them, and spots plans with other people. Nothing is uploaded.";
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -350,60 +234,6 @@
 				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = au.adhdslayer.focus;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 6.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
-		FCA000000000000000000005 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FocusWidgets/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Focus;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = au.adhdslayer.focus.widgets;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 6.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		FCA000000000000000000006 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FocusWidgets/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Focus;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = au.adhdslayer.focus.widgets;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -433,15 +263,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8A000000000000000000003 /* Build configuration list for PBXNativeTarget "FocusWidgets" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				FCA000000000000000000005 /* Debug */,
-				FCA000000000000000000006 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
@@ -466,21 +287,6 @@
 			isa = XCSwiftPackageProductDependency;
 			package = FBA000000000000000000001 /* XCLocalSwiftPackageReference "../FocusCore" */;
 			productName = FocusPlanning;
-		};
-		F2A000000000000000000004 /* FocusSync */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = FBA000000000000000000001 /* XCLocalSwiftPackageReference "../FocusCore" */;
-			productName = FocusSync;
-		};
-		F2A000000000000000000005 /* FocusGlance */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = FBA000000000000000000001 /* XCLocalSwiftPackageReference "../FocusCore" */;
-			productName = FocusGlance;
-		};
-		F2A000000000000000000006 /* FocusGlance */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = FBA000000000000000000001 /* XCLocalSwiftPackageReference "../FocusCore" */;
-			productName = FocusGlance;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

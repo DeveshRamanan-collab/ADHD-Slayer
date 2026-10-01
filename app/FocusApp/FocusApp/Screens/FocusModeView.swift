@@ -3,19 +3,12 @@ import FocusModel
 
 /// The focus room: one task, one ring, one first step. Opened full screen from the Now card with a
 /// zoom transition, so no tab bar or other chrome competes for attention.
-///
-/// The session it runs is shared with the Lock Screen and the Dynamic Island
-/// (`LiveActivityController`): opening the room starts Focus mode's Live Activity, closing it ends
-/// it, and Done or +5 min pressed there shows up here. Tap the timer to pause or resume; press and
-/// hold it for five more minutes.
 struct FocusModeView: View {
     @Environment(AppModel.self) private var model
     @Environment(Customisation.self) private var custom
     @Environment(\.motionIsCalm) private var calm
     @Environment(\.dismiss) private var dismiss
     @State private var titleShown = 0.0
-
-    private var live: LiveActivityController { .shared }
 
     var body: some View {
         NavigationStack {
@@ -26,18 +19,13 @@ struct FocusModeView: View {
                     }
                 }
         }
-        // Done on the Lock Screen or in the Dynamic Island closes the room as well.
-        .onChange(of: live.focusEndedOutside) { dismiss() }
-        // However the room closes, Focus mode leaves the Lock Screen (after Done this does nothing).
-        .onDisappear { live.focusClosed() }
     }
 
     private var room: some View {
         TimelineView(.periodic(from: .now, by: 15)) { _ in
             let now = model.now
-            let block = live.focusBlock(in: model)
             Group {
-                if let block {
+                if let block = model.nowBlock {
                     content(block, now: now)
                 } else {
                     VStack(alignment: .leading, spacing: 6) {
@@ -48,9 +36,6 @@ struct FocusModeView: View {
                     .padding(24)
                 }
             }
-            .task(id: block?.id) {
-                if let block { live.focusOpened(on: block) }
-            }
         }
         .background { SkyBackground(phase: model.skyPhase) }
         .navigationBarTitleDisplayMode(.inline)
@@ -60,14 +45,9 @@ struct FocusModeView: View {
     }
 
     private func content(_ block: Block, now: Date) -> some View {
-        // The session can differ from the plan: paused, or with a few more minutes added.
-        let session = live.focusSession.flatMap { $0.blockID == block.id ? $0 : nil }
-        let remaining = session?.remaining(at: now) ?? max(0, block.interval.end.timeIntervalSince(now))
-        let length = session?.length ?? block.interval.duration
-        let end = session?.endsAt ?? block.interval.end
-        let paused = session?.isPaused ?? false
+        let remaining = max(0, block.interval.end.timeIntervalSince(now))
         let minutesLeft = Int((remaining / 60).rounded(.up))
-        let wrapUp = minutesLeft <= 5 && !paused
+        let wrapUp = minutesLeft <= 5
         return ScrollView {
             VStack(alignment: .leading, spacing: 0) {
                 Text(Explainer.demandWord(for: block)).eyebrow()
@@ -80,11 +60,11 @@ struct FocusModeView: View {
                         .padding(.top, 6)
                 }
 
-                timer(fraction: remaining / length, minutesLeft: minutesLeft, wrapUp: wrapUp, paused: paused)
+                timer(fraction: remaining / block.interval.duration, minutesLeft: minutesLeft, wrapUp: wrapUp)
                     .padding(.vertical, 48)
 
                 RowGroup {
-                    InfoRow(label: "Time", title: "\(block.interval.start.formatted(.compactTime)) to \(end.formatted(.compactTime))")
+                    InfoRow(label: "Time", title: "\(block.interval.start.formatted(.compactTime)) to \(block.interval.end.formatted(.compactTime))")
                     InfoRow(label: "Session", title: block.demand == .deep ? "High focus" : "Light focus")
                     if custom.settings.showFirstStep {
                         InfoRow(label: "First step", title: Explainer.firstStep(for: block))
@@ -95,7 +75,6 @@ struct FocusModeView: View {
                     Button("Done", systemImage: "checkmark") {
                         Haptics.shared.play(.complete)
                         withAnimation(.gentle(calm, .bouncy)) { model.markDone(block) }
-                        live.focusDone()
                         dismiss()
                     }
                     .buttonStyle(.glassProminent)
@@ -117,41 +96,9 @@ struct FocusModeView: View {
         .scrollIndicators(.hidden)
     }
 
-    /// Ring, bar or just the number, from Customise, Focus mode. The ring sits in the middle; the bar
-    /// and the number stay on the left with everything else. Paused, it dims and says so.
-    private func timer(fraction: Double, minutesLeft: Int, wrapUp: Bool, paused: Bool) -> some View {
-        let centred = custom.settings.ringStyle == .ring
-        return VStack(alignment: centred ? .center : .leading, spacing: 10) {
-            timerFace(fraction: fraction, minutesLeft: minutesLeft, wrapUp: wrapUp)
-                .opacity(paused ? 0.45 : 1)
-            if paused {
-                Text("Paused").eyebrow()
-                    .transition(.opacity)
-            }
-        }
-        .frame(maxWidth: .infinity, alignment: centred ? .center : .leading)
-        .contentShape(.rect)
-        .onTapGesture { togglePause(paused) }
-        .contextMenu {
-            Button(paused ? "Resume" : "Pause", systemImage: paused ? "play" : "pause") { togglePause(paused) }
-            Button("Five more minutes", systemImage: "plus") {
-                Haptics.shared.play(.tap)
-                live.extendFocus()
-            }
-        }
-        .animation(.gentle(calm), value: paused)
-        .accessibilityElement(children: .combine)
-        .accessibilityAction(named: paused ? "Resume" : "Pause") { togglePause(paused) }
-        .accessibilityAction(named: "Five more minutes") { live.extendFocus() }
-    }
-
-    private func togglePause(_ paused: Bool) {
-        Haptics.shared.play(.toggle)
-        if paused { live.resumeFocus() } else { live.pauseFocus() }
-    }
-
+    /// Ring, bar or just the number, from Customise, Focus mode.
     @ViewBuilder
-    private func timerFace(fraction: Double, minutesLeft: Int, wrapUp: Bool) -> some View {
+    private func timer(fraction: Double, minutesLeft: Int, wrapUp: Bool) -> some View {
         switch custom.settings.ringStyle {
         case .ring:
             TimeRing(remaining: fraction, minutesLeft: minutesLeft, isWrapUp: wrapUp, diameter: 150, lineWidth: 3)

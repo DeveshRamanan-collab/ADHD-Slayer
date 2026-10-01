@@ -42,14 +42,10 @@ final class Store {
     func canAddCategory(existing: Int) -> Bool { isPlus || existing < Self.freeCategories }
 
     /// Starts listening for renewals, refunds and purchases made on other devices, then loads.
-    /// Each change is also sent to the server (when signed in) so it can mirror the subscription.
     func start() {
         Task { [weak self] in
             for await update in Transaction.updates {
-                if case .verified(let transaction) = update {
-                    await transaction.finish()
-                    Self.report(update)
-                }
+                if case .verified(let transaction) = update { await transaction.finish() }
                 await self?.refresh()
             }
         }
@@ -91,7 +87,6 @@ final class Store {
             case .success(let verification):
                 guard case .verified(let transaction) = verification else { return .failed("Apple couldn’t verify that purchase.") }
                 await transaction.finish()
-                Self.report(verification)
                 await refresh()
                 return .purchased
             case .pending: return .pending
@@ -105,17 +100,7 @@ final class Store {
 
     func restore() async {
         try? await AppStore.sync()
-        for await result in Transaction.currentEntitlements {
-            if case .verified(let transaction) = result, Self.productIDs.contains(transaction.productID) { Self.report(result) }
-        }
         await refresh()
-    }
-
-    /// Posts `jwsRepresentation` to `POST /entitlements/transactions` when signed in, so the server can
-    /// link the purchase to the account. Fire and forget: nothing waits on it, and StoreKit on this
-    /// phone stays the truth whatever the server says.
-    private static func report(_ result: VerificationResult<Transaction>) {
-        Backend.shared.reportTransaction(result.jwsRepresentation)
     }
 
     /// "1 month", "1 week": straight from Apple, so the copy can never promise the wrong trial length.
@@ -132,3 +117,4 @@ final class Store {
         return "\(p.value) \(unit)"
     }
 }
+

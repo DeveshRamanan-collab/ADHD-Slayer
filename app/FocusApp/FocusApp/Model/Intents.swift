@@ -1,16 +1,22 @@
 import AppIntents
 import Foundation
-import FocusGlance
 
-// The intents the Live Activity buttons run live in FocusGlance, so the widget extension can put them
-// on buttons as well: `LogMedicationIntent` ("Log my medication": Face ID first, then the same
-// double-dose check as Log all), `EndFocusSessionIntent` (Done) and `ExtendFocusSessionIntent`
-// (+5 min). All three conform to `LiveActivityIntent`, so iOS runs them in this app's process, where
-// `LiveActivityController` (set as `GlanceActions.handler` at launch) carries them out with `AppModel`.
+/// One press, everything due gets logged. Works from the Action button, Siri, Shortcuts, Spotlight and
+/// the Lock Screen, and goes through exactly the same double-dose check as the Log all button.
+struct LogMedicationIntent: AppIntent {
+    static let title: LocalizedStringResource = "Log my medication"
+    static let description = IntentDescription("Logs every dose you’ve set for about now, with the same double-dose check as the app.")
+    static let openAppWhenRun = false
+    /// Medication data is fully protected while the phone is locked, so logging asks for Face ID first
+    /// (it also means nobody else can log on a locked phone).
+    static let authenticationPolicy: IntentAuthenticationPolicy = .requiresAuthentication
 
-/// Brings FocusGlance's intents into the app's App Intents metadata.
-nonisolated struct FocusAppIntents: AppIntentsPackage {
-    static var includedPackages: [any AppIntentsPackage.Type] { [FocusGlanceIntents.self] }
+    @Dependency private var model: AppModel
+
+    func perform() async throws -> some IntentResult & ProvidesDialog {
+        let spoken = await model.logAllDue(origin: .actionButton).spoken
+        return .result(dialog: IntentDialog(stringLiteral: spoken))
+    }
 }
 
 struct OpenMedicationIntent: AppIntent {

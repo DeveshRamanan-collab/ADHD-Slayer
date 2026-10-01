@@ -116,9 +116,6 @@ struct TodayView: View {
             .padding(.top, 14)
             .coachTarget(.meds)
             .reveal(delay: 0.35)
-        LiveDayOffer()
-            .padding(.top, 16)
-            .reveal(delay: 0.4)
     }
 
     // MARK: Now
@@ -432,60 +429,6 @@ extension PlanResult: @retroactive Identifiable {
     public var id: Int { plan.hashValue }
 }
 
-// MARK: - Your day in the Dynamic Island, offered once
-
-/// Once something's been logged, a quiet offer to show Your day as a Live Activity. "Show it" turns
-/// it on (Customise, Lock Screen and Dynamic Island); "Not now" never asks again.
-struct LiveDayOffer: View {
-    @Environment(AppModel.self) private var model
-    @Environment(Customisation.self) private var custom
-    @Environment(\.motionIsCalm) private var calm
-    @AppStorage("liveDayOfferAnswered") private var answered = false
-
-    private var shows: Bool {
-        let live = LiveActivityController.shared
-        return !answered && !custom.settings.liveDay && !model.todaysDoses.isEmpty
-            && live.areActivitiesEnabled && !live.isShowingDay
-    }
-
-    var body: some View {
-        if shows {
-            VStack(alignment: .leading, spacing: 8) {
-                Text("Quick one").eyebrow()
-                Text("Want your day in the Dynamic Island?")
-                    .headingFont(.title3)
-                    .foregroundStyle(Color.ink)
-                    .fixedSize(horizontal: false, vertical: true)
-                Text("See which stretch you’re in without opening Focus.")
-                    .font(.footnote)
-                    .foregroundStyle(Color.inkSoft)
-                    .fixedSize(horizontal: false, vertical: true)
-                ActionRow {
-                    Button("Show it") {
-                        Haptics.shared.play(.success)
-                        withAnimation(.gentle(calm)) {
-                            answered = true
-                            custom.settings.liveDay = true
-                        }
-                    }
-                    .buttonStyle(.glassProminent)
-                    .foregroundStyle(.onAccent)
-                    Button("Not now") {
-                        Haptics.shared.play(.tap)
-                        withAnimation(.gentle(calm)) { answered = true }
-                    }
-                    .buttonStyle(.glass)
-                }
-                .font(.subheadline)
-                .padding(.top, 6)
-            }
-            .frame(maxWidth: .infinity, alignment: .leading)
-            .veil(padding: 18)
-            .transition(.opacity)
-        }
-    }
-}
-
 // MARK: - Today's medication on the home page
 
 /// Today's medication on the home page, kept to one slim row: two buttons and a more button.
@@ -784,3 +727,4 @@ struct BreathePage: View {
         }
     }
 }
+

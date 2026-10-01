@@ -7,7 +7,7 @@ Every Apple integration with its exact requirements. **Built** means it exists i
 - App target `FocusApp`: bundle id `au.adhdslayer.focus`, display name "Focus", iOS 26.0 minimum, iPhone only, portrait only, SwiftUI, Swift 6 language mode with default `MainActor` isolation. iOS 27 features only behind `if #available(iOS 27, *)` with a working iOS 26 path.
 - Local package `FocusCore` (iOS 26, macOS 26, watchOS 26): `FocusModel` (shared types), `FocusMedication` (the only code that can write doses), `FocusPlanning` (learning, scheduler, safety gate; cannot import `FocusMedication`). 31 tests pass.
 - Device floor: Apple Intelligence (iPhone 15 Pro or newer). There is no App Store device key for it, so the launch check (`04-intelligence.md`) is the control; the listing states the requirement.
-- Built: the widget extension `FocusWidgets` (bundle id `au.adhdslayer.focus.widgets`) with the Live Activities. To build in the same extension: widgets and the Control Center control; later a watchOS app.
+- To build: a widget extension `FocusWidgets` (bundle id `au.adhdslayer.focus.widgets`) for the Live Activities, widgets and the Control Center control; later a watchOS app.
 
 ## StoreKit 2
 
@@ -108,10 +108,10 @@ Every Apple integration with its exact requirements. **Built** means it exists i
 - The snapshot uses `completeUntilFirstUserAuthentication` so the Lock Screen can read it; medication data itself stays under complete protection.
 - Reloads: `WidgetCenter.shared.reloadAllTimelines()` only after a log or replan; timeline entries at block edges; countdowns with `Text(timerInterval:)`, never minute-by-minute reloads (the daily budget is about 40 to 70). Higher `TimelineEntryRelevance` around planned dose times and block starts.
 
-## Live Activities (Built; spec in 10-live-activities.md)
+## Live Activities (To build; spec in 10-live-activities.md)
 
 - Two local Live Activities from the `FocusWidgets` extension: Focus mode (task, time left, Done and +5 min) and Your day (the stretch you're in, the next 8 hours as one bar, what's next, an optional Log button).
-- Shared types in `FocusGlance` (`FocusActivityAttributes`, `ContentState`, the stretch palette); started, updated and ended by `LiveActivityController` in the app; buttons are `LiveActivityIntent`s.
+- Suggested shape: shared types in a `FocusGlance` package target (`FocusActivityAttributes`, `ContentState`, the stretch palette); a `LiveActivityController` in the app starts, updates and ends them; buttons are `LiveActivityIntent`s.
 - Presentations: Lock Screen, Dynamic Island compact, minimal and expanded, StandBy, and `.supplementalActivityFamilies([.small, .medium])` for the Watch Smart Stack and CarPlay (buttons are hidden there).
 - Info.plist `NSSupportsLiveActivities` YES; no push updates. If the person turns Live Activities off in iOS Settings, the Customise page says so and the bottom bar carries the same glance.
 
@@ -119,7 +119,7 @@ Every Apple integration with its exact requirements. **Built** means it exists i
 
 - A watchOS 26 app and complication: one Log button with `.handGestureShortcut(.primaryAction)` (double tap), the day's glance, wrap-up taps.
 - Logs are written on the Watch first (source `watch`, which `DoseEvent` already has) with its own guard over a 36 h copy of dose events and re-log intervals; sent with WatchConnectivity `transferUserInfo`, de-duplicated by event id on the phone; the day snapshot comes back with `updateApplicationContext`. No login on the Watch.
-- The Live Activities appear in the Watch Smart Stack automatically (Built on the iPhone side).
+- The Live Activities appear in the Watch Smart Stack automatically once they are built.
 
 ## EventKit (Built: read today)
 

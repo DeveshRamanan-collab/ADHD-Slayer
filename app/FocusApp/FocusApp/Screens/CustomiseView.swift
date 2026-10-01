@@ -1,9 +1,8 @@
 import SwiftUI
-import FocusGlance
 
 /// The categories people can change, each on its own page so the first screen stays calm.
 enum CustomiseSection: String, CaseIterable, Identifiable, Hashable {
-    case pages, tabs, look, voice, feel, home, focus, live
+    case pages, tabs, look, voice, feel, home, focus
     var id: Self { self }
 
     var title: String {
@@ -15,7 +14,6 @@ enum CustomiseSection: String, CaseIterable, Identifiable, Hashable {
         case .feel: "Feel"
         case .home: "Home page"
         case .focus: "Focus mode"
-        case .live: "Lock Screen and Dynamic Island"
         }
     }
 
@@ -28,7 +26,6 @@ enum CustomiseSection: String, CaseIterable, Identifiable, Hashable {
         case .feel: "Vibrations and motion"
         case .home: "Priorities and what they show"
         case .focus: "Timer and first step"
-        case .live: "Live Activities for Focus mode and your day"
         }
     }
 
@@ -41,7 +38,6 @@ enum CustomiseSection: String, CaseIterable, Identifiable, Hashable {
         case .feel: "hand.tap"
         case .home: "sun.horizon"
         case .focus: "timer"
-        case .live: "platter.filled.top.iphone"
         }
     }
 }
@@ -110,8 +106,6 @@ struct CustomisePage: View {
     let section: CustomiseSection
     @Environment(Customisation.self) private var custom
     @Environment(AppModel.self) private var model
-    @Environment(\.motionIsCalm) private var calm
-    @Environment(\.openURL) private var openURL
     @AppStorage("hapticsEnabled") private var haptics = true
     @AppStorage("stillMotion") private var stillMotion = false
     @State private var editingTab: TabKind?
@@ -123,12 +117,8 @@ struct CustomisePage: View {
                     Text("Customise").eyebrow()
                     HeroText(text: section.title, size: 30)
                 }
-                if section == .live {
-                    liveControls
-                } else {
-                    VStack(alignment: .leading, spacing: 4) { controls }
-                        .veil(padding: 16)
-                }
+                VStack(alignment: .leading, spacing: 4) { controls }
+                    .veil(padding: 16)
                 if section == .voice {
                     Text("Anything about medication, safety or money stays plain, whatever you pick.").font(.caption).foregroundStyle(Color.inkSoft)
                 }
@@ -218,57 +208,7 @@ struct CustomisePage: View {
         case .focus:
             picker("Timer", selection: $custom.settings.ringStyle, options: RingStyle.allCases) { $0.label }
             toggle("Show the first step", detail: nil, isOn: $custom.settings.showFirstStep)
-        case .live:
-            EmptyView()
         }
-    }
-
-    /// Lock Screen and Dynamic Island: two quiet cards, and a note with a way to iOS Settings when
-    /// Live Activities are switched off there (the switches dim until they're back on).
-    @ViewBuilder private var liveControls: some View {
-        @Bindable var custom = custom
-        let enabled = LiveActivityController.shared.areActivitiesEnabled
-        if !enabled {
-            VStack(alignment: .leading, spacing: 12) {
-                HStack(alignment: .top, spacing: 12) {
-                    Image(systemName: "exclamationmark.circle").foregroundStyle(Color.honey)
-                    Text("Live Activities are off for Focus in iOS Settings.")
-                        .font(.subheadline)
-                        .foregroundStyle(Color.ink)
-                        .fixedSize(horizontal: false, vertical: true)
-                }
-                Button("Open Settings") {
-                    Haptics.shared.play(.tap)
-                    if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
-                }
-                .buttonStyle(.glass)
-                .font(.subheadline)
-            }
-            .frame(maxWidth: .infinity, alignment: .leading)
-            .veil(tint: .honey, padding: 16)
-        }
-        VStack(alignment: .leading, spacing: 4) {
-            toggle("Focus mode", detail: "Shows the task and the time left while you’re in Focus mode.", isOn: $custom.settings.liveFocusMode)
-            toggle("Your day", detail: "Shows the stretch you’re in and what’s next.", isOn: $custom.settings.liveDay)
-            if custom.settings.liveDay {
-                picker("Your day shows", selection: $custom.settings.liveDayShows, options: DayShows.allCases) { $0.label }
-                    .transition(.opacity)
-            }
-        }
-        .disabled(!enabled)
-        .opacity(enabled ? 1 : 0.45)
-        .animation(.gentle(calm), value: custom.settings.liveDay)
-        .veil(padding: 16)
-        VStack(alignment: .leading, spacing: 4) {
-            toggle("Log button", detail: "Adds Log when something’s set for about now. Asks for Face ID first.", isOn: $custom.settings.liveLogButton)
-            toggle("Hide task names on the Lock Screen", detail: "Shows “Focus” instead of the task.", isOn: $custom.settings.liveHideTaskNames)
-        }
-        .disabled(!enabled)
-        .opacity(enabled ? 1 : 0.45)
-        .veil(padding: 16)
-        Text("Live Activities never name a medicine.")
-            .font(.caption)
-            .foregroundStyle(Color.inkSoft)
     }
 
     private var accentRow: some View {
@@ -439,3 +379,4 @@ struct PageEditor: View {
         }
     }
 }
+
