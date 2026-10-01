@@ -608,7 +608,12 @@ def g0_6(ctx):
     if code != 0:
         it.fail(".git", 0, "G0.6", f"git status failed: {err.strip()[:160]}")
     else:
-        dirty = [l for l in out.splitlines() if l.strip()]
+        def _inflight(l):  # the run_logged log of this very gate run (untracked, no footer yet) is not a dirty tree
+            path = l[3:].strip()
+            if not (l.startswith("??") and path.startswith("docs/evidence/") and path.endswith(".log")): return False
+            try: return "# exit:" not in (ctx.root / path).read_text(encoding="utf-8", errors="replace")[-400:]
+            except Exception: return False
+        dirty = [l for l in out.splitlines() if l.strip() and not _inflight(l)]
         for l in dirty[:40]:
             it.fail(l[3:].strip() or ".", 0, "G0.6", f"uncommitted change ({l[:2].strip()})")
         if len(dirty) > 40:
