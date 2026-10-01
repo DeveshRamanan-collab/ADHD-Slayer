@@ -1,0 +1,49 @@
+{
+  "permissions": {
+    "deny": [
+      "AskUserQuestion",
+      "Bash(sudo:*)", "Bash(sudo *)",
+      "Bash(su:*)", "Bash(su *)",
+      "Bash(git push --force:*)", "Bash(git push --force *)", "Bash(git push -f:*)", "Bash(git push -f *)",
+      "Bash(git push --delete:*)", "Bash(git push --delete *)",
+      "Bash(git reset --hard:*)", "Bash(git reset --hard *)",
+      "Bash(git filter-branch:*)", "Bash(git filter-branch *)",
+      "Bash(git branch -D:*)", "Bash(git branch -D *)",
+      "Bash(git tag -d:*)", "Bash(git tag -d *)",
+      "Bash(xcrun altool:*)", "Bash(xcrun altool *)",
+      "Bash(xcodebuild -exportArchive:*)", "Bash(xcodebuild -exportArchive *)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      { "matcher": "startup|resume|compact", "hooks": [ { "type": "command", "command": "bash scripts/hooks/session_start.sh" } ] }
+    ],
+    "PreCompact": [
+      { "hooks": [ { "type": "command", "command": "bash scripts/hooks/pre_compact.sh" } ] }
+    ],
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "bash scripts/hooks/stop_guard.sh" } ] }
+    ],
+    "StopFailure": [
+      { "hooks": [ { "type": "command", "command": "bash scripts/hooks/stop_failure.sh" } ] }
+    ],
+    "SubagentStop": [
+      { "hooks": [ { "type": "command", "command": "bash scripts/hooks/subagent_stop.sh" } ] }
+    ],
+    "Elicitation": [
+      { "hooks": [ { "type": "command", "command": "bash scripts/hooks/decline_elicitation.sh" } ] }
+    ],
+    "PreToolUse": [
+      { "matcher": "Bash", "hooks": [ { "type": "command", "command": "bash scripts/hooks/guard_bash.sh" } ] },
+      { "matcher": "Write|Edit|MultiEdit|NotebookEdit", "hooks": [ { "type": "command", "command": "bash scripts/hooks/guard_write.sh" } ] },
+      { "matcher": "^mcp__.*__(get_metadata|get_design_context|get_screenshot|get_variable_defs|get_figjam|get_motion_context|get_libraries|search_design_system|get_code_connect_map|get_figma_skill|use_figma|create_new_file|upload_assets|download_assets|generate_diagram|create_shader|update_shader|add_code_connect_map|send_code_connect_mappings|create_generative_plugin|update_generative_plugin|export_video|weave_.*)$", "hooks": [ { "type": "command", "command": "bash scripts/hooks/figma_pre.sh" } ] },
+      { "matcher": ".*", "hooks": [ { "type": "command", "command": "bash scripts/hooks/progress_nag.sh" } ] }
+    ],
+    "PostToolUse": [
+      { "matcher": "^mcp__.*__(get_metadata|get_design_context|get_screenshot|get_variable_defs|get_figjam|get_motion_context|get_libraries|search_design_system|get_code_connect_map)$", "hooks": [ { "type": "command", "command": "bash scripts/hooks/figma_post.sh" } ] }
+    ],
+    "PostToolUseFailure": [
+      { "matcher": "^mcp__.*__(get_metadata|get_design_context|get_screenshot|get_variable_defs|get_figjam|get_motion_context|get_libraries|search_design_system|get_code_connect_map)$", "hooks": [ { "type": "command", "command": "bash scripts/hooks/figma_fail.sh" } ] }
+    ]
+  }
+}

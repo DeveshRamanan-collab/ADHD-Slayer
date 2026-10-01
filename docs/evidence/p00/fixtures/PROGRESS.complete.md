@@ -1,0 +1,40 @@
+# PROGRESS — Planner
+RUN_STATUS: COMPLETE
+RUN_STARTED: 2026-10-01T13:47:23+1000
+UPDATED: 2026-10-01T13:47:23+1000
+CURRENT_PHASE: 0.0
+NEXT_ACTION: Finish Phase 0.0 (state files, hook tests in docs/evidence/p00/hooks-*.log), then Phase 0.1 preflight into docs/PREFLIGHT.md.
+RETRY_AFTER: none
+LOCK_FINGERPRINT: none
+FIGMA_EPOCH_READS: 0/150
+LAST_GATE: none
+OPEN_BLOCKERS: 0
+QUESTIONS_ASKED_TO_USER: 0
+TURNS_ENDED_WAITING: 0
+RUN-SURVIVAL: AT RISK (not yet assessed; Phase 0.1 item 15)
+Run: PLANNING · Session: 1 · Model: claude-opus-5-5
+
+## Status by phase / milestone
+| Phase or MS | Status (NOT STARTED / IN PROGRESS / DONE / DEFERRED / BLOCKED) | Started | Finished | Gate | Outputs (paths) | Evidence |
+|---|---|---|---|---|---|---|
+| 0 | IN PROGRESS | 2026-10-01T13:47:23+1000 | N/A (not finished yet) | G0 | CLAUDE.md, .claude/settings.json, scripts/ | docs/evidence/p00/ |
+
+## Checkpoints (newest first; keep the last 30)
+| Timestamp | Phase/MS | Step | Note |
+|---|---|---|---|
+| 2026-10-01T13:47:23+1000 | 0 | 0.0e | State files initialised |
+
+## Sessions
+| Session | Started | Ended | Reason (finished / usage limit / crash / read cap / compaction / Devesh closed) | Resumed by |
+|---|---|---|---|---|
+| 1 | 2026-10-01T13:47:23+1000 | N/A (session still running) | N/A (session still running) | N/A (first session) |
+
+## Log (newest first; API_ERROR and COMPACTION lines appended by hooks)
+- 2026-10-01T13:47:23+1000 Phase 0.0 started; bootstrap CLAUDE.md, .claude/settings.json and hook scripts written.
+
+## Deferred work (C-14 / E6)
+| Item | Waiting on | Since | Return condition |
+|---|---|---|---|
+| none | N/A (nothing deferred) | 2026-10-01T13:47:23+1000 | N/A (nothing deferred) |
+
+<!-- END OF FILE -->

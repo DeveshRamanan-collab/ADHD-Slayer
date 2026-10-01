@@ -1,0 +1,15 @@
+# cmd: claude mcp get xcode
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:53:07+1000
+xcode:
+  Scope: Local config (private to you in this project)
+  Status: ✔ Connected
+  Type: stdio
+  Command: xcrun
+  Args: mcpbridge
+  Environment:
+
+To remove this server, run: claude mcp remove xcode -s local
+# exit: 0
+# end: 2026-10-01T13:53:14+1000

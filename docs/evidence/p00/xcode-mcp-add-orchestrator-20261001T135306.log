@@ -1,0 +1,8 @@
+# cmd: claude mcp add --transport stdio xcode -- xcrun mcpbridge
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:53:06+1000
+Added stdio MCP server xcode with command: xcrun mcpbridge to local config
+File modified: /Users/deveshramanan/.claude.json [project: /Users/deveshramanan/ADHD Slayer]
+# exit: 0
+# end: 2026-10-01T13:53:07+1000

@@ -1,0 +1,38 @@
+# cmd: bash scripts/preflight_probe.sh env
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:50:00+1000
+
+## pwd
+/Users/deveshramanan/ADHD Slayer
+LOCATION: not under Desktop/Documents/Downloads/iCloud Drive
+
+## presence
+missing: docs/design
+present: research
+present: prompts
+missing: SPEC_CHECKLIST.md
+present: prompts/figma_urls.md
+present: .git
+xcode projects:
+./app/FocusApp/FocusApp.xcodeproj
+swift packages:
+./app/FocusCore/Package.swift
+
+## claude
+/Users/deveshramanan/.local/bin/claude
+2.1.286 (Claude Code)
+
+## env-vars
+ANTHROPIC_API_KEY: unset
+CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS: unset
+FIGMA_TOKEN: unset
+CLAUDECODE=1
+CLAUDE_CODE_ENTRYPOINT=cli
+
+## date
+2026-10-01T13:50:00+1000
+2026-10-01T03:50:00Z
+Australia/Sydney
+# exit: 0
+# end: 2026-10-01T13:50:00+1000

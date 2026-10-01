@@ -1,0 +1,14 @@
+# cmd: bash scripts/preflight_probe.sh swupdate
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:51:04+1000
+
+## softwareupdate
+Software Update Tool
+
+Finding available software
+Software Update found the following new or updated software:
+* Label: ProVideoFormats-3.2
+	Title: Pro Video Formats, Version: 3.2, Size: 8971KiB, Recommended: YES, 
+# exit: 0
+# end: 2026-10-01T13:51:10+1000

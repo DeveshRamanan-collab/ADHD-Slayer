@@ -1,0 +1,287 @@
+# cmd: python3 scripts/discover_capabilities.py
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:56:56+1000
+# plugins discovered: 84
+ITEM plugin 10x-Team | version 0.1.0 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks yes | 10x-Team plugin for Cursor
+ITEM plugin adobe-for-creativity | version 3.0.0 | skills 15 | agents 0 | commands 0 | mcp 1 | hooks no | Brings together Adobe Creative Cloud tools for images, vectors, design, and video. Edit multiple assets at once, adapt for different platfor
+    skills: adobe, adobe-anydocx, adobe-anyexcel, adobe-anypdf, adobe-anypptx, adobe-batch-edit-photos, adobe-create-pdfs-from-data, adobe-create-social-variations, adobe-design-from-template, adobe-design-to-pdf, adobe-document-review, adobe-edit-quick-cut, adobe-fonts, adobe-resize-photos-and-videos, adobe-retouch-portraits
+    mcp: Adobe for creativity
+ITEM plugin adversarial-review | version 1.1.0 | skills 1 | agents 0 | commands 2 | mcp 0 | hooks no | Adversarial planning and code review workflow between Claude Code and OpenAI Codex CLI. Enables iterative convergence loops where Claude cre
+    skills: adversarial-workflow
+    commands: adversarial-plan, adversarial-review
+ITEM plugin agent-handoff | version 0.4.2 | skills 4 | agents 0 | commands 0 | mcp 0 | hooks yes | Strict 3-stage handoff workflow (plan → execute → verify) for coding agents. Disk-backed state enables fresh-context code review and multi-s
+    skills: execute, plan, setup-handoff, verify
+ITEM plugin agent-protocols | version 1.0.0 | skills 25 | agents 8 | commands 0 | mcp 0 | hooks yes | Structured engineering protocols for AI coding agents, covering the full software development lifecycle from spec to ship.
+    skills: api-and-interface-design, browser-testing-with-devtools, ci-cd-and-automation, code-review-and-quality, code-simplification, context-engineering, debugging-and-error-recovery, deprecation-and-migration, documentation-and-adrs, frontend-ui-engineering, git-workflow-and-versioning, idea-refine, incident-response-and-postmortems, incremental-implementation, internationalization-and-localization, karpathy-guidelines, performance-optimization, planning-and-task-breakdown, research-spike-and-poc, security-and-hardening, shipping-and-launch, source-driven-development, spec-driven-development, test-driven-development, using-agent-skills
+    agents: accessibility-specialist, code-reviewer, documentation-specialist, performance-engineer, release-engineer, security-auditor, spec-analyst, test-engineer
+ITEM plugin agent-sdk-dev | version unversioned | skills 0 | agents 2 | commands 1 | mcp 0 | hooks no | Claude Agent SDK Development Plugin
+    agents: agent-sdk-verifier-py, agent-sdk-verifier-ts
+    commands: new-sdk-app
+ITEM plugin agentic-council | version 1.4.0 | skills 66 | agents 38 | commands 9 | mcp 0 | hooks no | Convene 20 agentic specialists on your hardest engineering problems. Distinct perspectives, unified design, actionable plans, every decision
+    skills: advocate-a11y-audit, advocate-i18n-review, advocate-interaction-design, advocate-journey-mapping, alchemist-ml-workflow, alchemist-pipeline-design, alchemist-schema-evaluation, architect-api-design, architect-codebase-context, architect-distributed-patterns, architect-schema-design, artisan-design-system-architecture, artisan-motion-design, artisan-visual-audit, chronicler-adr-template, chronicler-changelog-design, chronicler-documentation-plan, cipher-crypto-review, cipher-pqc-readiness, cipher-protocol-analysis, craftsman-e2e-testing, craftsman-pattern-analysis, craftsman-testing-strategy, finance-close-checklist, finance-controls-audit, finance-journal-entries, finance-reconciliation, finance-tax-research, finance-variance-analysis, guardian-audit-trail-design, guardian-compliance-review, guardian-data-classification, herald-growth-engineering, herald-messaging-strategy, herald-monetization-design, operator-cost-analysis, operator-deployment-plan, operator-finops-analysis, operator-observability-design, oracle-ai-evaluation, oracle-prompt-engineering, oracle-rag-architecture, pathfinder-device-integration, pathfinder-navigation-design, pathfinder-platform-audit, prover-formal-spec, prover-invariant-analysis, scout-competitive-analysis, scout-enterprise-search-strategy, scout-library-evaluation, scout-technology-radar, sentinel-embedded-architecture, sentinel-fleet-management, sentinel-protocol-design, skeptic-edge-case-enumeration, skeptic-failure-mode-analysis, skeptic-threat-model, strategist-analytics-design, strategist-impact-estimation, strategist-mvp-scoping, tuner-caching-strategy, tuner-load-modeling, tuner-performance-audit, warden-hw-sw-boundary, warden-isolation-review, warden-kernel-hardening
+    agents: council-advocate, council-alchemist, council-architect, council-artisan, council-chronicler, council-cipher, council-craftsman, council-guardian, council-herald, council-operator, council-oracle, council-pathfinder, council-prover, council-scout, council-sentinel, council-skeptic, council-steward, council-strategist, council-tuner, council-warden, finance-auditor, finance-capital, finance-comptroller, finance-controller, finance-fpa, finance-regrep, finance-tax, finance-treasurer, people-chair, people-dei, people-learndev, people-peopleops, people-peoplepartner, people-talent, people-totalrewards, revenue-ae, revenue-quartermaster, revenue-sdr
+    commands: _council-engine, brainstorm, council, deepen, finance-council, handover, people-council, revenue-council, ship
+ITEM plugin agentic-sdlc | version 0.4.1 | skills 2 | agents 35 | commands 1 | mcp 0 | hooks yes | A standards-anchored, agent-driven Software Development Lifecycle for Claude Code. One /sdlc wizard detects your project state and drives se
+    skills: sdlc-conventions, sdlc-feature-intake
+    agents: sdlc-define-fr-author, sdlc-define-nfr-analyst, sdlc-define-nfr-author, sdlc-define-requirement-reviewer, sdlc-define-source-analyst, sdlc-define-test-analyst, sdlc-define-us-author, sdlc-design-adr-traceability-author, sdlc-design-architecture-author, sdlc-design-architecture-explorer, sdlc-design-component-spec-author, sdlc-design-decisions-explorer, sdlc-design-reviewer, sdlc-develop-architect-clarifier, sdlc-develop-architect-planner, sdlc-develop-code-author, sdlc-develop-code-reviewer, sdlc-develop-implementer, sdlc-develop-reqs-sync, sdlc-develop-test-author, sdlc-operate-dependency-monitor, sdlc-operate-feedback-loop, sdlc-operate-incident-responder, sdlc-operate-issue-triager, sdlc-operate-telemetry-monitor, sdlc-prepare-claude-md, sdlc-prepare-explorer, sdlc-release-author, sdlc-release-planner, sdlc-release-reviewer, sdlc-verify-coverage-analyst, sdlc-verify-independent-code-reviewer, sdlc-verify-regression-tester, sdlc-verify-static-dynamic-analyzer, sdlc-verify-validation-reviewer
+    commands: sdlc
+ITEM plugin ai-firstify | version 1.1.0 | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | AI-first project auditor and re-engineer based on the 9 design principles and 7 design patterns from the TechWolf AI-First Bootcamp
+    skills: ai-firstify
+ITEM plugin ai-governance-legal | version 1.0.2 | skills 10 | agents 0 | commands 0 | mcp 2 | hooks no | Triages proposed AI use cases against your registry, runs impact assessments across the regimes in scope, reviews vendor AI terms for traini
+    skills: ai-inventory, aia-generation, cold-start-interview, customize, matter-workspace, policy-monitor, policy-starter, reg-gap-analysis, use-case-triage, vendor-ai-review
+    mcp: Google Drive, Slack
+ITEM plugin ai-mentor | version 1.2.0 | skills 2 | agents 0 | commands 0 | mcp 0 | hooks no | Learn the Claude Code capabilities you didn't know existed. A discovery mentor that reads your setup, remembers what you already use, and te
+    skills: ai-mentor-update, mentor
+ITEM plugin ansight | version 0.1.1 | skills 27 | agents 1 | commands 0 | mcp 0 | hooks yes | Let your agent build, test, and prove your app works: 27 Ansight CLI skills, a verifier subagent, and a session-start readiness check for mo
+    skills: ansight-annotate-session, ansight-app-inspection, ansight-app-inspection-android, ansight-app-inspection-cordova, ansight-app-inspection-dotnet, ansight-app-inspection-flutter, ansight-app-inspection-ios, ansight-app-inspection-react-native, ansight-assess-automation-readiness, ansight-cli-setup, ansight-create-remote-tool-android, ansight-create-remote-tool-cordova, ansight-create-remote-tool-dotnet, ansight-create-remote-tool-flutter, ansight-create-remote-tool-ios, ansight-create-remote-tool-react-native, ansight-install, ansight-install-android, ansight-install-cordova, ansight-install-dotnet, ansight-install-flutter, ansight-install-ios, ansight-install-react-native, ansight-investigate-session, ansight-operate-live-app, ansight-ui-testing, ansight-use-remote-app-tools
+    agents: ansight-verifier
+ITEM plugin asana | version unversioned | skills 0 | agents 0 | commands 1 | mcp 0 | hooks no | Asana project management integration. Connects Claude Code to Asana's V2 MCP server (https://mcp.asana.com/v2/mcp) to create and manage task
+    commands: asana-setup
+ITEM plugin atlan | version 0.1.0 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Atlan is the context layer for enterprise AI. Connect Codex to your organization's context repos — the knowledge, data, and semantics your A
+ITEM plugin backend-design | version 0.2.0 | skills 13 | agents 6 | commands 5 | mcp 0 | hooks yes | Teaches Claude the reflexes of a senior backend engineer. Workflows, disciplines, and opinionated defaults for data modeling, migrations, qu
+    skills: auth-and-authorization, boring-by-default, data-modeling-discipline, debugging-discipline, error-handling-as-design, idempotency-and-side-effects, migration-safety, observability-by-default, performance-and-scaling, query-discipline, security-discipline, testing-with-discernment, think-before-coding
+    agents: boring-tech-advisor, component-architect, incident-investigator, incident-thinker, schema-reviewer, security-reviewer
+    commands: audit, design, explain-this-query, hunt-n-plus-one, review-migration
+ITEM plugin base44 | version 1.0.0-beta.1 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills
+ITEM plugin base44-sandbox | version 1.0.0-beta.1 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Develop a Base44 app remotely in Base44's cloud sandbox; conventions only, no deploy/push.
+ITEM plugin claude-code-setup | version 1.0.0 | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Analyze codebases and recommend tailored Claude Code automations such as hooks, skills, MCP servers, and subagents.
+    skills: claude-automation-recommender
+ITEM plugin claude-md-management | version 1.0.0 | skills 1 | agents 0 | commands 1 | mcp 0 | hooks no | Tools to maintain and improve CLAUDE.md files - audit quality, capture session learnings, and keep project memory current.
+    skills: claude-md-improver
+    commands: revise-claude-md
+ITEM plugin claude-security | version 0.12.0 | skills 1 | agents 9 | commands 0 | mcp 0 | hooks yes | Deep vulnerability scanning of your own code, run entirely inside your Claude Code session at a chosen effort tier, with every finding chall
+    skills: claude-security
+    agents: claude-security, explore, patch-generator, patch-verifier, scan-inventory, scan-loader, scan-redactor, scan-researcher, scan-verifier
+ITEM plugin code-modernization | version 1.0.0 | skills 0 | agents 8 | commands 13 | mcp 0 | hooks yes | Guided modernization for any legacy codebase: start with /modernize, get an assessment, an interactive map, the business rules mined from th
+    agents: architecture-critic, business-rules-extractor, legacy-analyst, scaffolder, security-auditor, test-engineer, uplift-migrator, version-delta-analyst
+    commands: modernize, modernize-assess, modernize-brief, modernize-extract-rules, modernize-harden, modernize-map, modernize-preflight, modernize-reimagine, modernize-review, modernize-status, modernize-transform, modernize-uplift, modernize-verify
+ITEM plugin code-review | version unversioned | skills 0 | agents 0 | commands 1 | mcp 0 | hooks no | Automated code review for pull requests using multiple specialized agents with confidence-based scoring
+    commands: code-review
+ITEM plugin code-simplifier | version 1.0.0 | skills 0 | agents 1 | commands 0 | mcp 0 | hooks no | Agent that simplifies and refines code for clarity, consistency, and maintainability while preserving functionality
+    agents: code-simplifier
+ITEM plugin commit-commands | version unversioned | skills 0 | agents 0 | commands 3 | mcp 0 | hooks no | Streamline your git workflow with simple commands for committing, pushing, and creating pull requests
+    commands: clean_gone, commit, commit-push-pr
+ITEM plugin context7 | version unversioned | skills 0 | agents 0 | commands 0 | mcp 1 | hooks no | Upstash Context7 MCP server for up-to-date documentation lookup. Connects to Context7's hosted remote MCP server (https://mcp.context7.com/m
+    mcp: context7
+ITEM plugin cowork-plugin-management | version 0.2.2 | skills 2 | agents 0 | commands 0 | mcp 0 | hooks no | Create, customize, and manage plugins tailored to your organization's tools and workflows. Configure MCP servers, adjust plugin behavior, an
+    skills: cowork-plugin-customizer, create-cowork-plugin
+ITEM plugin cwc-makers | version 1.0.0 | skills 2 | agents 0 | commands 1 | mcp 0 | hooks no | Seamless onboarding for the Code-with-Claude Makers Cardputer: one /maker-setup command clones the build-with-claude repo, flashes UIFlow fi
+    skills: cardputer-buddy, m5-onboard
+    commands: maker-setup
+ITEM plugin data | version 1.1.0 | skills 10 | agents 0 | commands 0 | mcp 8 | hooks no | Write SQL, explore datasets, and generate insights faster. Build visualizations and dashboards, and turn raw data into clear stories for sta
+    skills: analyze, build-dashboard, create-viz, data-context-extractor, data-visualization, explore-data, sql-queries, statistical-analysis, validate-data, write-query
+    mcp: amplitude, amplitude-eu, atlassian, bigquery, databricks, definite, hex, snowflake
+ITEM plugin datadog | version 0.7.17 | skills 5 | agents 0 | commands 0 | mcp 0 | hooks yes | Use Datadog directly in Claude Code through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through na
+    skills: datadog-app, ddconfig, ddsetup, ddtoolsets, ddviz
+ITEM plugin design | version 1.2.0 | skills 7 | agents 0 | commands 0 | mcp 9 | hooks no | Accelerate design workflows — critique, design system management, UX writing, accessibility audits, research synthesis, and dev handoff. Fro
+    skills: accessibility-review, design-critique, design-handoff, design-system, research-synthesis, user-research, ux-copy
+    mcp: asana, atlassian, figma, gmail, google calendar, intercom, linear, notion, slack
+ITEM plugin discord | version 0.0.4 | skills 2 | agents 0 | commands 0 | mcp 1 | hooks no | Discord channel for Claude Code — messaging bridge with built-in access control. Manage pairing, allowlists, and policy via /discord:access.
+    skills: access, configure
+    mcp: discord
+ITEM plugin engineering | version 1.2.0 | skills 10 | agents 0 | commands 0 | mcp 10 | hooks no | Streamline engineering workflows — standups, code review, architecture decisions, incident response, and technical documentation. Works with
+    skills: architecture, code-review, debug, deploy-checklist, documentation, incident-response, standup, system-design, tech-debt, testing-strategy
+    mcp: asana, atlassian, datadog, github, gmail, google calendar, linear, notion, pagerduty, slack
+ITEM plugin enterprise-search | version 1.3.0 | skills 5 | agents 0 | commands 0 | mcp 7 | hooks no | Search across all of your company's tools in one place. Find anything across email, chat, documents, and wikis without switching between app
+    skills: digest, knowledge-synthesis, search, search-strategy, source-management
+    mcp: asana, atlassian, gmail, google calendar, guru, notion, slack
+ITEM plugin example-plugin | version unversioned | skills 2 | agents 0 | commands 1 | mcp 0 | hooks no | A comprehensive example plugin demonstrating all Claude Code extension options including commands, agents, skills, hooks, and MCP servers
+    skills: example-command, example-skill
+    commands: example-command
+ITEM plugin explanatory-output-style | version 1.0.0 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks yes | Adds educational insights about implementation choices and codebase patterns (mimics the deprecated Explanatory output style)
+ITEM plugin fakechat | version 0.0.1 | skills 0 | agents 0 | commands 0 | mcp 1 | hooks no | Localhost iMessage-style web chat for Claude Code — test surface with file upload and edits. No tokens, no access control.
+    mcp: fakechat
+ITEM plugin feature-dev | version unversioned | skills 0 | agents 3 | commands 1 | mcp 0 | hooks no | Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review
+    agents: code-architect, code-explorer, code-reviewer
+    commands: feature-dev
+ITEM plugin figma | version 2.2.118 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Plugin that includes the Figma MCP server and Skills for common workflows
+ITEM plugin finance | version 1.3.0 | skills 8 | agents 0 | commands 0 | mcp 6 | hooks no | Streamline finance and accounting workflows, from journal entries and reconciliation to financial statements and variance analysis. Speed up
+    skills: audit-support, close-management, financial-statements, journal-entry, journal-entry-prep, reconciliation, sox-testing, variance-analysis
+    mcp: bigquery, databricks, gmail, google calendar, slack, snowflake
+ITEM plugin firebase | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Google Firebase MCP integration. Manage Firestore databases, authentication, cloud functions, hosting, and storage. Build and manage your Fi
+ITEM plugin frontend-design | version unversioned | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Frontend design skill for UI/UX implementation
+    skills: frontend-design
+ITEM plugin github | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact wi
+ITEM plugin gitlab | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | GitLab DevOps platform integration. Manage repositories, merge requests, CI/CD pipelines, issues, and wikis. Full access to GitLab's compreh
+ITEM plugin hookify | version unversioned | skills 1 | agents 1 | commands 4 | mcp 0 | hooks yes | Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns
+    skills: writing-rules
+    agents: conversation-analyzer
+    commands: configure, help, hookify, list
+ITEM plugin imessage | version 0.2.0 | skills 2 | agents 0 | commands 0 | mcp 1 | hooks no | iMessage channel for Claude Code — reads chat.db directly, sends via AppleScript. Built-in access control; manage pairing, allowlists, and p
+    skills: access, configure
+    mcp: imessage
+ITEM plugin laravel-boost | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Laravel development toolkit MCP server. Provides intelligent assistance for Laravel applications including Artisan commands, Eloquent querie
+ITEM plugin learning-output-style | version 1.0.0 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks yes | Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style)
+ITEM plugin legal | version 1.3.0 | skills 9 | agents 0 | commands 0 | mcp 7 | hooks no | Speed up contract review, NDA triage, and compliance workflows for in-house legal teams. Draft legal briefs, organize precedent research, an
+    skills: brief, compliance-check, legal-response, legal-risk-assessment, meeting-briefing, review-contract, signature-request, triage-nda, vendor-check
+    mcp: atlassian, box, docusign, egnyte, gmail, google calendar, slack
+ITEM plugin linear | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software d
+ITEM plugin liquid-glass | version 1.0.0 | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Comprehensive iOS 26 Liquid Glass design system for SwiftUI. Provides API reference, HIG principles, design tokens, motion patterns, accessi
+    skills: liquid-glass
+ITEM plugin math-olympiad | version unversioned | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Solve competition math (IMO, Putnam, USAMO) with adversarial verification that catches what self-verification misses. Fresh-context verifier
+    skills: math-olympiad
+ITEM plugin math-proof | version unversioned | skills 2 | agents 3 | commands 0 | mcp 0 | hooks no | Two skills for hard mathematics problems, each ending in a self-contained proof.md: /math-proof:solo has the session work the problem itself
+    skills: siege, solo
+    agents: math-proof-judge, math-proof-worker, math-proof-worker-deep
+ITEM plugin mcp-server-dev | version unversioned | skills 3 | agents 0 | commands 0 | mcp 0 | hooks no | Skills for designing and building MCP servers that work seamlessly with Claude — guides you through deployment models (remote HTTP, MCPB, lo
+    skills: build-mcp-app, build-mcp-server, build-mcpb
+ITEM plugin mcp-tunnels | version unversioned | skills 0 | agents 0 | commands 1 | mcp 0 | hooks no | Connect Claude to a private MCP server through an Anthropic MCP tunnel. Drives the Docker Compose quickstart end to end: certificates, proxy
+    commands: create-docker-mcp-tunnel
+ITEM plugin pdf-viewer | version 0.2.0 | skills 1 | agents 0 | commands 4 | mcp 1 | hooks no | View, annotate, and sign PDFs in a live interactive viewer. Mark up contracts, fill forms with visual feedback, stamp approvals, and place s
+    skills: view-pdf
+    commands: annotate, fill-form, open, sign
+    mcp: pdf
+ITEM plugin pixeltable | version 2.8.3 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Build multimodal AI applications with Pixeltable : RAG, agents, and multimodal workflows.
+ITEM plugin playground | version unversioned | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Creates interactive HTML playgrounds — self-contained single-file explorers with visual controls, live preview, and prompt output with copy 
+    skills: playground
+ITEM plugin playwright | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, 
+ITEM plugin plugin-dev | version unversioned | skills 7 | agents 3 | commands 1 | mcp 0 | hooks no | Plugin development toolkit with skills for creating agents, commands, hooks, MCP integrations, and comprehensive plugin structure guidance
+    skills: agent-development, command-development, hook-development, mcp-integration, plugin-settings, plugin-structure, skill-development
+    agents: agent-creator, plugin-validator, skill-reviewer
+    commands: create-plugin
+ITEM plugin pr-review-toolkit | version unversioned | skills 0 | agents 6 | commands 1 | mcp 0 | hooks no | Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification
+    agents: code-reviewer, code-simplifier, comment-analyzer, pr-test-analyzer, silent-failure-hunter, type-design-analyzer
+    commands: review-pr
+ITEM plugin privacy-legal | version 1.0.2 | skills 9 | agents 0 | commands 0 | mcp 2 | hooks yes | Triages processing activities, generates PIAs, reviews DPAs as controller or processor, drafts DSAR responses within statutory timelines, an
+    skills: cold-start-interview, customize, dpa-review, dsar-response, matter-workspace, pia-generation, policy-monitor, reg-gap-analysis, use-case-triage
+    mcp: Google Drive, Slack
+ITEM plugin product-legal | version 1.0.2 | skills 7 | agents 1 | commands 0 | mcp 5 | hooks yes | Reviews product launches against your risk calibration, answers 'is this a problem?' questions in minutes, checks marketing copy for claims 
+    skills: cold-start-interview, customize, feature-risk-assessment, is-this-a-problem, launch-review, marketing-claims-review, matter-workspace
+    agents: launch-watcher
+    mcp: Asana, Atlassian, Google Drive, Linear, Slack
+ITEM plugin product-management | version 1.2.0 | skills 8 | agents 0 | commands 1 | mcp 16 | hooks no | Write feature specs, plan roadmaps, and synthesize user research faster. Keep stakeholders updated and stay ahead of the competitive landsca
+    skills: competitive-brief, metrics-review, product-brainstorming, roadmap-update, sprint-planning, stakeholder-update, synthesize-research, write-spec
+    commands: brainstorm
+    mcp: amplitude, amplitude-eu, asana, atlassian, clickup, figma, fireflies, gmail, google calendar, intercom, linear, monday, notion, pendo, similarweb, slack
+ITEM plugin productivity | version 1.3.1 | skills 4 | agents 0 | commands 0 | mcp 9 | hooks no | Manage tasks, plan your day, and build up memory of important context about your work. Syncs with your calendar, email, and chat to keep eve
+    skills: memory-management, start, task-management, update
+    mcp: asana, atlassian, clickup, gmail, google calendar, linear, monday, notion, slack
+ITEM plugin project-artifact | version unversioned | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Generate and publish a project status artifact — an opinionated, tabbed status page (overview & success criteria, the workstream sequence, n
+    skills: project-artifact
+ITEM plugin ralph-loop | version 1.0.0 | skills 0 | agents 0 | commands 3 | mcp 0 | hooks yes | Continuous self-referential AI loops for interactive iterative development, implementing the Ralph Wiggum technique. Run Claude in a while-t
+    commands: cancel-ralph, help, ralph-loop
+ITEM plugin review-council | version 0.2.4 | skills 1 | agents 6 | commands 0 | mcp 0 | hooks yes | Six-specialist code review orchestrator (correctness, security, policy/trust-boundary, test-evidence, architecture, interface) for a working
+    skills: review-council
+    agents: architecture-reviewer, correctness-reviewer, interface-reviewer, policy-boundary-reviewer, security-reviewer, test-evidence-reviewer
+ITEM plugin security-guidance | version 2.0.8 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks yes | Security review for Claude-generated code. Pattern-based warnings on edits, LLM-powered diff review on Stop, and an agentic commit reviewer 
+ITEM plugin securitymaxxing | version 0.2.1 | skills 3 | agents 0 | commands 17 | mcp 0 | hooks no | Evidence-based application security for Claude Code. Slash commands that audit your codebase for real, exploitable vulnerabilities (OWASP To
+    skills: llm-app-security, secure-coding, security-review-method
+    commands: api, audit, authn, authz, crypto, deps, diff, explain, fix, harden, injection, llm, redteam, secrets, ship-check, threat-model, vibe-check
+ITEM plugin serena | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | Semantic code analysis MCP server providing intelligent code understanding, refactoring suggestions, and codebase navigation through languag
+ITEM plugin skill-creator | version unversioned | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Create new skills, improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, update or opt
+    skills: skill-creator
+ITEM plugin spec-drift | version 1.0.0 | skills 2 | agents 0 | commands 5 | mcp 0 | hooks yes | Detects drift between a session's initial requirements and the final implementation. Extracts a requirement checklist at the start of a task
+    skills: drift-detection, requirement-extraction
+    commands: check, init, list, report, switch
+ITEM plugin superpowers | version 6.4.1 | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | An agentic skills framework and software development methodology.
+ITEM plugin swift-lsp | version 1.0.0 | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Real-time Swift code intelligence for Claude — instant diagnostics, go-to-definition, find references, and type info via SourceKit-LSP.
+    skills: swift-lsp
+ITEM plugin swiftui-macos-skill | version 1.0.0 | skills 1 | agents 0 | commands 0 | mcp 0 | hooks no | Expert SwiftUI guidance for macOS apps — runtime-level understanding of observation, concurrency, view identity, and platform integration. B
+    skills: swiftui-macos
+ITEM plugin telegram | version 0.0.7 | skills 2 | agents 0 | commands 0 | mcp 1 | hooks no | Telegram channel for Claude Code — messaging bridge with built-in access control. Manage pairing, allowlists, and policy via /telegram:acces
+    skills: access, configure
+    mcp: telegram
+ITEM plugin terraform | version unversioned | skills 0 | agents 0 | commands 0 | mcp 0 | hooks no | The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities f
+ITEM plugin tooljet-app-builder | version 0.5.1 | skills 2 | agents 0 | commands 0 | mcp 1 | hooks no | Build ToolJet apps end-to-end via governed MCP tools and an app-builder skill.
+    skills: skill, tooljet-app-builder
+    mcp: tooljet
+ITEM plugin twelvelabs | version 1.3.0 | skills 10 | agents 0 | commands 11 | mcp 1 | hooks yes | TwelveLabs video AI integration. Index, search, and analyze videos using TwelveLabs' multimodal AI platform.
+    skills: assets, async-analyze, embed, entity-search, image-search, index, list, search, status, sync-analyze
+    commands: analyze, assets, async-analyze, embed, entities, help, index-video, indexes, search, sync-analyze, videos
+    mcp: twelvelabs-mcp
+ITEM plugin upstash | version 1.2.5 | skills 14 | agents 0 | commands 0 | mcp 0 | hooks no | The Upstash MCP server plus agent skills for every Upstash SDK and CLI — Redis, QStash, Workflow, Box, Blob, Ratelimit, Vector, and Search.
+    skills: upstash, upstash-blob-js, upstash-box-cli, upstash-box-js, upstash-box-py, upstash-box-remote-work, upstash-cli, upstash-qstash-js, upstash-ratelimit-js, upstash-redis-js, upstash-redis-start, upstash-search-js, upstash-vector-js, upstash-workflow-js
+ITEM plugin ux-superpowers | version 1.0.0 | skills 8 | agents 0 | commands 0 | mcp 0 | hooks yes | User-centered design methodology for coding agents. Grounds all development in personas, user journeys, jobs-to-be-done, telemetry, and real
+    skills: insight-synthesizer, jobs-to-be-done, persona-builder, research-intake, telemetry-designer, user-journey, ux-discover, ux-validate
+ITEM plugin voicenter-bot-builder | version 1.22.0 | skills 3 | agents 1 | commands 3 | mcp 0 | hooks no | Design, detail and assemble deployable Voicenter voice/chat bot JSON through a three-skill authoring pipeline.
+    skills: voicenter-bot-intent-detail-author, voicenter-bot-json-assembler, voicenter-bot-spec-designer
+    agents: spec-verifier
+    commands: bot-assemble, bot-detail, bot-spec
+ITEM plugin voicenter-mcp | version 1.1.8 | skills 1 | agents 0 | commands 0 | mcp 1 | hooks no | Live Voicenter telephony API access from Claude via the OAuth-protected MCP server at mcp01.voicenter.co — calls, CDR, extensions, dialer an
+    skills: setup
+    mcp: voicenter
+ITEM plugin wai-suite | version 0.4.0 | skills 13 | agents 0 | commands 0 | mcp 0 | hooks no | Sustainable software product development with Claude Code: 13 skills for the engineering lifecycle — plan, build, test, review, audit — buil
+    skills: wai, wai-architecture-audit, wai-cicd, wai-implementation, wai-init, wai-learning-gap, wai-mobile-release, wai-pr-review, wai-requirements-planning, wai-retro, wai-security-audit, wai-team, wai-testing
+# user skills: 1
+ITEM user-skill cherri
+ITEM mcp-server claude.ai Claude Docs | https://api.anthropic.com/v1/pages/mcp | ✔ Connected
+ITEM mcp-server claude.ai Google Cloud BigQuery | https://bigquery.googleapis.com/mcp | ✔ Connected
+ITEM mcp-server claude.ai Figma | https://mcp.figma.com/mcp | ✔ Connected
+ITEM mcp-server claude.ai ElevenLabs | https://api.elevenlabs.io/v1/mcp | ! Needs authentication
+ITEM mcp-server claude.ai Lawve AI | https://mcp.lawve.ai/mcp | ! Needs authentication
+ITEM mcp-server claude.ai AccuWeather® | https://mcp.accuweather.com/v0/mcp/claude | ✔ Connected
+ITEM mcp-server claude.ai Canva | https://mcp.canva.com/mcp | ! Needs authentication
+ITEM mcp-server claude.ai Indeed | https://mcp.indeed.com/claude/mcp | ! Needs authentication
+ITEM mcp-server claude.ai Google Calendar | https://calendarmcp.googleapis.com/mcp/v1 | ✔ Connected
+ITEM mcp-server claude.ai Gmail | https://gmailmcp.googleapis.com/mcp/v1 | ✔ Connected
+ITEM mcp-server claude.ai Notion | https://mcp.notion.com/mcp | ✔ Connected
+ITEM mcp-server plugin:voicenter-mcp:voicenter | https://mcp01.voicenter.co/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:twelvelabs:twelvelabs-mcp | npx -y --package twelvelabs-mcp twelvelabs-mcp-stdio | ✔ Connected
+ITEM mcp-server plugin:upstash:upstash | https://mcp.upstash.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:tooljet-app-builder:tooljet | node /Users/deveshramanan/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb | ✔ Connected
+ITEM mcp-server plugin:engineering:slack | https://mcp.slack.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:engineering:linear | https://mcp.linear.app/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:engineering:atlassian | https://mcp.atlassian.com/v1/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:engineering:notion | https://mcp.notion.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:engineering:datadog | https://mcp.datadoghq.com/api/unstable/mcp-server/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:engineering:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:engineering:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:product-management:asana | https://mcp.asana.com/v2/mcp (HTTP) | ✘ Failed to connect — Incompatible auth server: does not support dynamic client 
+ITEM mcp-server plugin:product-management:monday | https://mcp.monday.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:clickup | https://mcp.clickup.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:figma | https://mcp.figma.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:amplitude | https://mcp.amplitude.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:amplitude-eu | https://mcp.eu.amplitude.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:pendo | https://app.pendo.io/mcp/v0/shttp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:intercom | https://mcp.intercom.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:fireflies | https://api.fireflies.ai/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-management:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:product-management:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:product-management:similarweb | https://mcp.similarweb.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:github:github | https://api.githubcopilot.com/mcp/ (HTTP) | ✘ Failed to connect — HTTP 400: Error POSTing to endpoint: bad request: Authoriz
+ITEM mcp-server plugin:context7:context7 | https://mcp.context7.com/mcp?<masked> (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-legal:Google Drive | https://drivemcp.googleapis.com/mcp/v1 (HTTP) | ✔ Connected
+ITEM mcp-server plugin:product-legal:Atlassian | https://mcp.atlassian.com/v1/sse (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:product-legal:Asana | https://mcp.asana.com/sse (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:datadog:mcp | https://not-setup/v1/mcp?<masked> (HTTP) | ✘ Failed to connect — ENOTFOUND: TypeError dialing https://not-setup[redacted]?[
+ITEM mcp-server plugin:pdf-viewer:pdf | npx -y @modelcontextprotocol/server-pdf --stdio | ✔ Connected
+ITEM mcp-server plugin:adobe-for-creativity:Adobe for creativity | https://adobe-creativity.adobe.io/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:atlan:atlan | https://mcp.atlan.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:design:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:design:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:legal:egnyte | https://mcp-server.egnyte.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:legal:docusign | https://mcp.docusign.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:legal:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:legal:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:data:snowflake |  (HTTP) | - Not configured
+ITEM mcp-server plugin:data:databricks |  (HTTP) | - Not configured
+ITEM mcp-server plugin:data:hex | https://app.hex.tech/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:data:definite | https://api.definite.app/v3/mcp/http (HTTP) | ✘ Failed to connect — MCP endpoint not found at https://api.definite.app. Check 
+ITEM mcp-server plugin:productivity:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:productivity:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:enterprise-search:guru | https://mcp.api.getguru.com/mcp (HTTP) | ! Needs authentication
+ITEM mcp-server plugin:enterprise-search:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:enterprise-search:gmail |  (HTTP) | - Not configured
+ITEM mcp-server plugin:finance:snowflake |  (HTTP) | - Not configured
+ITEM mcp-server plugin:finance:databricks |  (HTTP) | - Not configured
+ITEM mcp-server plugin:finance:google calendar |  (HTTP) | - Not configured
+ITEM mcp-server plugin:finance:gmail |  (HTTP) | - Not configured
+ITEM mcp-server xcode | xcrun mcpbridge | ✔ Connected
+# mcp servers: 63
+# built-in agent types (from the Agent tool description in this session): claude, claude-code-guide, Explore, general-purpose, Plan, statusline-setup
+ITEM builtin-agent claude
+ITEM builtin-agent claude-code-guide
+ITEM builtin-agent Explore
+ITEM builtin-agent general-purpose
+ITEM builtin-agent Plan
+ITEM builtin-agent statusline-setup
+# built-in tools relevant here: Bash, Read, Write, Edit, Agent, Workflow, WebFetch, WebSearch, Skill, ToolSearch, Artifact, SendMessage, ScheduleWakeup, Monitor, LSP
+ITEM builtin-tool Workflow
+ITEM builtin-tool WebFetch
+ITEM builtin-tool WebSearch
+ITEM builtin-tool Artifact
+ITEM builtin-tool LSP
+ITEM builtin-tool Monitor
+# exit: 0
+# end: 2026-10-01T13:57:14+1000

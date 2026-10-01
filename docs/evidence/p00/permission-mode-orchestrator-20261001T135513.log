@@ -1,0 +1,7 @@
+# cmd: bash -c grep -oE '"permissionMode":"[A-Za-z]+"' '/Users/deveshramanan/.claude/projects/-Users-deveshramanan-ADHD-Slayer/4b0c1e82-46ba-48c5-9aac-143e89032106.jsonl' | sort | uniq -c
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:55:13+1000
+  34 "permissionMode":"bypassPermissions"
+# exit: 0
+# end: 2026-10-01T13:55:13+1000

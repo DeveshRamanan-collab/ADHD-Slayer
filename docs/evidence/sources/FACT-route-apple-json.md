@@ -1,0 +1,10 @@
+# FACT-route-apple-json
+url: https://developer.apple.com/tutorials/data/documentation/healthkit.json
+retrieved: 2026-10-01T13:51:35+1000
+http: 200
+sha256: 8cd7c4b158506932d92368f2909b84986128435e78f6cfd37a922f4809339958
+phrase: HealthKit
+found: True
+
+## Excerpt
+{"abstract":[{"text":"Access and share health and fitness data while maintaining the user’s privacy and control.","type":"text"}],"hierarchy":{"paths":[["doc:\/\/com.apple.documentation\/documentation\/technologies"]]},"identifier":{"interfaceLanguage":"swift","url":"doc:\/\/com.apple.healthkit\/documentation\/HealthKit"},"kind":"symbol","legalNotices":{"copyright":"Copyright © 2026 Apple Inc. All rights reserved.","privacyPolicy":"https:\/\/www.apple.com\/privacy\/privacy-policy","termsOfUse":"https:\/\/www.apple.com\/legal\/internet-services\/terms\/site.html"},"metadata":{"availableLanguages":["de-DE","en-US","es-419","fr-FR","it-IT","ja-JP","ko-KR","pt-BR","zh-CN"],"externalID":"HealthKit","modules":[{"name":"HealthKit"}],"platforms":[{"beta":false,"introducedAt":"8.0","name":"iOS"},{"beta":false,"introducedAt":"8.0","name":"iPadOS"},{"beta":false,"introducedAt":"17.0","name":"Mac Catalyst"},{"beta":false,"introducedAt":"14.0","name":"macOS"},{"beta":false,"introducedAt":"1.0","name":"visionOS"},{"beta":false,"introducedAt":"2.0","name":"watchOS"}],"role":"collection","roleHeading":"Framework","symbolKind":"module","title":"HealthKit"},"primaryContentSections":[{"content":[{"anchor":"overview","level":2,"text":"Overview","type":"heading"},{"inlineContent":[{"text":"HealthKit provides a central repository for health and fitness data on iPhone and Apple Watch. With the user’s permission, apps communicate with the HealthKit store to access and share this data.","type":"text"}],"type":"paragraph"},{"inlineContent":[{"identifier":"health-summary","metadata":{"deviceFrame":"iPhone14Pro"},"type":"image"}],"type":"paragraph"},{"inlineContent":[{"text":"Creating a complete, personalized health and fitness experience includes a variety of tasks:","type":"text"}],"type":"paragraph"},{"items":[{"content":[{"inlineContent":[{"text":"Collecting

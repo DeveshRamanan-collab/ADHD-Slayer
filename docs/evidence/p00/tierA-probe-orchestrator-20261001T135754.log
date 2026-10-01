@@ -1,0 +1,202 @@
+# cmd: python3 scripts/probe_capabilities.py figma:figma-swiftui figma:figma-design-to-code figma:figma-implement-motion figma:figma-use-motion figma:figma-code-connect swift-lsp:swift-lsp liquid-glass:liquid-glass swiftui-macos-skill:swiftui-macos superpowers:subagent-driven-development superpowers:using-git-worktrees superpowers:test-driven-development superpowers:verification-before-completion superpowers:executing-plans superpowers:dispatching-parallel-agents superpowers:systematic-debugging superpowers:writing-plans superpowers:brainstorming agentic-sdlc:sdlc agentic-sdlc:sdlc-design-reviewer agent-protocols:spec agent-protocols:test-engineer agent-protocols:security-auditor agent-protocols:accessibility-specialist agent-protocols:spec-analyst agent-protocols:release-engineer agent-protocols:code-reviewer review-council:correctness-reviewer review-council:security-reviewer review-council:architecture-reviewer review-council:interface-reviewer review-council:test-evidence-reviewer review-council:policy-boundary-reviewer pr-review-toolkit:code-reviewer pr-review-toolkit:silent-failure-hunter pr-review-toolkit:pr-test-analyzer pr-review-toolkit:type-design-analyzer feature-dev:code-reviewer feature-dev:code-architect adversarial-review:adversarial-review spec-drift:init spec-drift:report spec-drift:check securitymaxxing:threat-model securitymaxxing:secrets securitymaxxing:ship-check backend-design:boring-tech-advisor backend-design:incident-thinker backend-design:schema-reviewer hookify:hookify claude-md-management:claude-md-improver agentic-council:Skeptic agentic-council:Guardian agentic-council:Pathfinder agentic-council:Artisan agentic-council:Architect design:accessibility-review design:design-handoff design:design-system product-legal:feature-risk-assessment product-legal:marketing-claims-review privacy-legal:pia-generation privacy-legal:reg-gap-analysis ansight:ansight-verifier wai-suite:wai-mobile-release wai-suite:wai-testing ux-superpowers:ux-validate engineering:testing-strategy claude-security:claude-security security-guidance:security-guidance code-simplifier:code-simplifier
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:57:54+1000
+PRESENT figma:figma-swiftui | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/figma/skills/figma-swiftui/SKILL.md
+        name: figma-swiftui | tools: inherited
+        description: "SwiftUI ↔ Figma translation. Use whenever the user mentions Swift, SwiftUI, iOS, iPhone, or iPad — in EITHER direction — translating a Figma design into SwiftUI (design → code), or pushing SwiftUI views / screens / toke
+PRESENT figma:figma-design-to-code | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/figma/skills/figma-design-to-code/SKILL.md
+        name: figma-design-to-code | tools: inherited
+        description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE calling the `get_design_context` Figma MCP tool. You MUST trigger this skill whenever the user wants to implement, build, port, or code up a Figma design as
+PRESENT figma:figma-implement-motion | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/figma/skills/figma-implement-motion/SKILL.md
+        name: figma-implement-motion | tools: inherited
+        description: Translates Figma motion and animations into production-ready application code. Use when implementing animation/motion from a Figma design — user mentions "implement this motion", "add animation from Figma", "animate this
+PRESENT figma:figma-use-motion | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/figma/skills/figma-use-motion/SKILL.md
+        name: figma-use-motion | tools: inherited
+        description: "Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual keyframes, animation styles, easing, and timeline duration. Load alongside figma-use whenever a task involves adding, editing, o
+PRESENT figma:figma-code-connect | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/figma/skills/figma-code-connect/SKILL.md
+        name: figma-code-connect | tools: inherited
+        description: Creates and maintains Figma Code Connect template files that map Figma components to code snippets. Use when the user mentions Code Connect, Figma component mapping, design-to-code translation, or asks to create/update .
+PRESENT swift-lsp:swift-lsp | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/252bd15b-74cc-4bf3-9db3-fa330de33fa7/skills/swift-lsp/SKILL.md
+        name: swift-lsp | tools: inherited
+        description: "Real-time Swift code intelligence via SourceKit-LSP. Gives Claude instant error detection, go-to-definition, find-references, and type info for .swift files. Trigger on: \"swift lsp\", \"enable swift diagnostics\", \"sw
+PRESENT liquid-glass:liquid-glass | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/b4df58c1-7a52-4173-87e0-b39edf51c636/skills/liquid-glass/SKILL.md
+        name: liquid-glass | tools: inherited
+        description: Build iOS 26+ SwiftUI interfaces with Apple's Liquid Glass design language. Use when writing SwiftUI for iOS 26 / iPadOS 26 / macOS Tahoe (26) / watchOS 26 / tvOS 26 / visionOS 26, when the user mentions Liquid Glass, `.
+PRESENT swiftui-macos-skill:swiftui-macos | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/4be1f46e-29ae-427e-a70d-8946543fd64a/skills/swiftui-macos/SKILL.md
+        name: swiftui-macos | tools: inherited
+        description: Expert SwiftUI guidance for macOS apps — covers writing and reviewing code with runtime-level understanding of observation, concurrency, performance, and platform integration. Use when user asks to "build a SwiftUI view"
+PRESENT superpowers:subagent-driven-development | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/subagent-driven-development/SKILL.md
+        name: subagent-driven-development | tools: inherited
+        description: Use when executing implementation plans with independent tasks in the current session
+PRESENT superpowers:using-git-worktrees | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/using-git-worktrees/SKILL.md
+        name: using-git-worktrees | tools: inherited
+        description: Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback
+PRESENT superpowers:test-driven-development | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/test-driven-development/SKILL.md
+        name: test-driven-development | tools: inherited
+        description: Use when implementing any feature or bugfix, before writing implementation code
+PRESENT superpowers:verification-before-completion | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/verification-before-completion/SKILL.md
+        name: verification-before-completion | tools: inherited
+        description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions a
+PRESENT superpowers:executing-plans | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/executing-plans/SKILL.md
+        name: executing-plans | tools: inherited
+        description: Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available
+PRESENT superpowers:dispatching-parallel-agents | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/dispatching-parallel-agents/SKILL.md
+        name: dispatching-parallel-agents | tools: inherited
+        description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+PRESENT superpowers:systematic-debugging | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/systematic-debugging/SKILL.md
+        name: systematic-debugging | tools: inherited
+        description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+PRESENT superpowers:writing-plans | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/writing-plans/SKILL.md
+        name: writing-plans | tools: inherited
+        description: Use when you have a spec or requirements for a multi-step task, before touching code
+PRESENT superpowers:brainstorming | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6ba53849-2ee0-4cf0-957e-31c122ea1dd1/skills/brainstorming/SKILL.md
+        name: brainstorming | tools: inherited
+        description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+PRESENT agentic-sdlc:sdlc | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/272528d5-7ed1-4ebb-90de-4216870007ab/commands/sdlc.md
+        name: N/A (no name field) | tools: inherited
+        description: Agentic SDLC wizard — detect project state and drive the seven-phase lifecycle (Prepare to Operate).
+PRESENT agentic-sdlc:sdlc-design-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/272528d5-7ed1-4ebb-90de-4216870007ab/agents/sdlc-design-reviewer.md
+        name: sdlc-design-reviewer | tools: Read Grep Glob Bash
+        description: Phase 3 Design — 9-point PASS/FAIL gate over all design docs. Reviewer ≠ author.
+ABSENT  agent-protocols:spec
+PRESENT agent-protocols:test-engineer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/test-engineer.md
+        name: test-engineer | tools: inherited
+        description: QA engineer specialized in test strategy, test writing, and coverage analysis. Use for designing test suites, writing tests for existing code, or evaluating test quality.
+PRESENT agent-protocols:security-auditor | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/security-auditor.md
+        name: security-auditor | tools: inherited
+        description: Security engineer focused on vulnerability detection, threat modeling, and secure coding practices. Use for security-focused code review, threat analysis, or hardening recommendations.
+PRESENT agent-protocols:accessibility-specialist | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/accessibility-specialist.md
+        name: accessibility-specialist | tools: inherited
+        description: Accessibility engineer focused on WCAG-oriented review, keyboard and screen reader flows, and inclusive UI. Use when auditing components, fixing a11y bugs, or defining acceptance criteria for accessible features.
+PRESENT agent-protocols:spec-analyst | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/spec-analyst.md
+        name: spec-analyst | tools: inherited
+        description: Product-minded analyst focused on PRD quality, scope boundaries, and testable acceptance criteria. Use when refining a vague idea, reviewing a spec before build, or de-risking unclear requirements.
+PRESENT agent-protocols:release-engineer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/release-engineer.md
+        name: release-engineer | tools: inherited
+        description: Release and platform engineer focused on CI/CD pipelines, deployment safety, and launch readiness. Use when designing pipelines, staging rollouts, rollbacks, or pre-launch checklists.
+PRESENT agent-protocols:code-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/agents/code-reviewer.md
+        name: code-reviewer | tools: inherited
+        description: Senior code reviewer that evaluates changes across five dimensions -- correctness, readability, architecture, security, and performance. Use for thorough code review before merge.
+PRESENT review-council:correctness-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/correctness-reviewer.md
+        name: correctness-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to review a git diff or working tree for logic errors, edge-case bugs, and incorrect control flow. Invoke as part of the review-council orchestration when auditing changes for functional correctness rather
+PRESENT review-council:security-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/security-reviewer.md
+        name: security-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to review a git diff or working tree for security vulnerabilities such as injection, authentication/authorization gaps, credential exposure, and unsafe handling of untrusted input. Invoke as part of the re
+PRESENT review-council:architecture-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/architecture-reviewer.md
+        name: architecture-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to review a git diff or working tree for structural issues — coupling, layering violations, duplicated logic, and abstraction leaks — rather than functional correctness, security, or test coverage. Invoke 
+PRESENT review-council:interface-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/interface-reviewer.md
+        name: interface-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to review a git diff or working tree for changes to public-facing surfaces — CLI flags, HTTP/API endpoints, output formats, schemas, and error messages — rather than internal correctness or architecture. I
+PRESENT review-council:test-evidence-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/test-evidence-reviewer.md
+        name: test-evidence-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to check whether a git diff or working tree has adequate test coverage for its behavioral changes, and to verify that any claims of passing checks are backed by actual run evidence rather than assumption. 
+PRESENT review-council:policy-boundary-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/00380f92-59fe-466a-a552-f13ae7c78ed6/agents/policy-boundary-reviewer.md
+        name: policy-boundary-reviewer | tools: Read, Glob, Grep
+        description: Use this agent to check a git diff or working tree against the target repository's own trusted policy documents (CLAUDE.md, AGENTS.md, CONTRIBUTING.md, or similar), and to flag any content in the reviewed branch that att
+PRESENT pr-review-toolkit:code-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/882b4d6f-72d6-44ec-a340-16aae54c673d/agents/code-reviewer.md
+        name: code-reviewer | tools: inherited
+        description: Use this agent when you need to review code for adherence to project guidelines, style guides, and best practices. This agent should be used proactively after writing or modifying code, especially before committing chang
+PRESENT pr-review-toolkit:silent-failure-hunter | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/882b4d6f-72d6-44ec-a340-16aae54c673d/agents/silent-failure-hunter.md
+        name: silent-failure-hunter | tools: inherited
+        description: "Use this agent when reviewing code changes in a pull request to identify silent failures, inadequate error handling, and inappropriate fallback behavior. This agent should be invoked proactively after completing a logic
+PRESENT pr-review-toolkit:pr-test-analyzer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/882b4d6f-72d6-44ec-a340-16aae54c673d/agents/pr-test-analyzer.md
+        name: pr-test-analyzer | tools: inherited
+        description: Use this agent when you need to review a pull request for test coverage quality and completeness. This agent should be invoked after a PR is created or updated to ensure tests adequately cover new functionality and edge 
+PRESENT pr-review-toolkit:type-design-analyzer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/882b4d6f-72d6-44ec-a340-16aae54c673d/agents/type-design-analyzer.md
+        name: type-design-analyzer | tools: inherited
+        description: Use this agent when you need expert analysis of type design in your codebase. Specifically use it (1) when introducing a new type to ensure it follows best practices for encapsulation and invariant expression, (2) during
+PRESENT feature-dev:code-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/81caeb93-9dc4-426d-b730-d7cc4697571e/agents/code-reviewer.md
+        name: code-reviewer | tools: Glob, Grep, LS, Read, NotebookRead, WebFetch, TodoWrite, WebSearch, KillShell, B
+        description: Reviews code for bugs, logic errors, security vulnerabilities, code quality issues, and adherence to project conventions, using confidence-based filtering to report only high-priority issues that truly matter
+PRESENT feature-dev:code-architect | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/81caeb93-9dc4-426d-b730-d7cc4697571e/agents/code-architect.md
+        name: code-architect | tools: Glob, Grep, LS, Read, NotebookRead, WebFetch, TodoWrite, WebSearch, KillShell, B
+        description: Designs feature architectures by analyzing existing codebase patterns and conventions, then providing comprehensive implementation blueprints with specific files to create/modify, component designs, data flows, and build
+PRESENT adversarial-review:adversarial-review | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/f0038350-92ec-4bd2-8d2b-019037b505b8/commands/adversarial-review.md
+        name: adversarial-review | tools: inherited
+        description: Run adversarial code review by Codex on current changes. Codex reviews the diff, Claude fixes issues autonomously, iterating until convergence.
+PRESENT spec-drift:init | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/f3bd4ce7-26a3-4148-b632-75e2a2a893bc/commands/init.md
+        name: N/A (no name field) | tools: inherited
+        description: Start a requirement checklist for the current task. Reads the most recent task request, extracts an explicit checklist, and writes SPEC_CHECKLIST.md. Run this at the beginning of a feature or before implementation starts
+PRESENT spec-drift:report | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/f3bd4ce7-26a3-4148-b632-75e2a2a893bc/commands/report.md
+        name: N/A (no name field) | tools: inherited
+        description: Generate a full drift report comparing SPEC_CHECKLIST.md against the actual files, then feed the result back as corrective guidance. Run this when a completion is claimed or when you want to audit whether the implementat
+PRESENT spec-drift:check | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/f3bd4ce7-26a3-4148-b632-75e2a2a893bc/commands/check.md
+        name: N/A (no name field) | tools: inherited
+        description: Show mid-task progress against SPEC_CHECKLIST.md. Runs a fast presence scan of the working directory to estimate how many requirement items are implemented, lists what is still unimplemented, and highlights the ones most
+PRESENT securitymaxxing:threat-model | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/aea665da-d0c8-4c7e-8efb-100f642c7433/commands/threat-model.md
+        name: N/A (no name field) | tools: inherited
+        description: STRIDE threat model of the system's design — trust boundaries, attacker goals, and the controls that are missing.
+PRESENT securitymaxxing:secrets | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/aea665da-d0c8-4c7e-8efb-100f642c7433/commands/secrets.md
+        name: N/A (no name field) | tools: inherited
+        description: Find leaked credentials in code, config, and git history — and tell you which ones must be rotated, not just deleted.
+PRESENT securitymaxxing:ship-check | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/aea665da-d0c8-4c7e-8efb-100f642c7433/commands/ship-check.md
+        name: N/A (no name field) | tools: inherited
+        description: Pre-launch security gate — is this actually safe to put on the internet? Blocking issues vs. things you can fix next week.
+PRESENT backend-design:boring-tech-advisor | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/ef408ccc-a774-4e6a-bb53-7f61db8ac483/agents/boring-tech-advisor.md
+        name: boring-tech-advisor | tools: Read, Grep, Glob, WebFetch
+        description: Challenges proposed adoption of new tech (database, queue, framework, language, architecture pattern). Forces a defense of the proposal against the boring alternative. Use when a user, a PR, or another agent proposes int
+PRESENT backend-design:incident-thinker | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/ef408ccc-a774-4e6a-bb53-7f61db8ac483/agents/incident-thinker.md
+        name: incident-thinker | tools: Read, Grep, Glob
+        description: Takes a design or a piece of backend code (endpoint, worker, consumer, CLI, integration) and produces the list of likely incident scenarios, with detection and recovery for each. Use this BEFORE shipping a non-trivial co
+PRESENT backend-design:schema-reviewer | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/ef408ccc-a774-4e6a-bb53-7f61db8ac483/agents/schema-reviewer.md
+        name: schema-reviewer | tools: Read, Grep, Glob
+        description: Reviews a database schema (CREATE TABLE, ALTER TABLE, ORM model, migration file) against senior backend discipline. Flags missing constraints, weak types, soft-delete reflexes, unindexed FKs, and migration safety risks. 
+PRESENT hookify:hookify | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/6459f953-4d1a-44e8-b5af-ae0562830e94/commands/hookify.md
+        name: N/A (no name field) | tools: inherited
+        description: Create hooks to prevent unwanted behaviors from conversation analysis or explicit instructions
+PRESENT claude-md-management:claude-md-improver | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/8bc81ed2-6da5-4ace-a605-037ef9a43c4c/skills/claude-md-improver/SKILL.md
+        name: claude-md-improver | tools: Read, Glob, Grep, Bash, Edit
+        description: Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files. Scans for all CLAUDE.md files, evaluates quality against templates, outputs quality report, 
+ABSENT  agentic-council:Skeptic
+ABSENT  agentic-council:Guardian
+ABSENT  agentic-council:Pathfinder
+ABSENT  agentic-council:Artisan
+ABSENT  agentic-council:Architect
+PRESENT design:accessibility-review | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/design/skills/accessibility-review/SKILL.md
+        name: accessibility-review | tools: inherited
+        description: Run a WCAG 2.1 AA accessibility audit on a design or page. Trigger with "audit accessibility", "check a11y", "is this accessible?", or when reviewing a design for color contrast, keyboard navigation, touch target size, o
+PRESENT design:design-handoff | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/design/skills/design-handoff/SKILL.md
+        name: design-handoff | tools: inherited
+        description: Generate developer handoff specs from a design. Use when a design is ready for engineering and needs a spec sheet covering layout, design tokens, component props, interaction states, responsive breakpoints, edge cases, a
+PRESENT design:design-system | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/design/skills/design-system/SKILL.md
+        name: design-system | tools: inherited
+        description: Audit, document, or extend your design system. Use when checking for naming inconsistencies or hardcoded values across components, writing documentation for a component's variants, states, and accessibility notes, or des
+PRESENT product-legal:feature-risk-assessment | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a3c5e503-e627-4c00-b6d9-048d54ef6eb2/skills/feature-risk-assessment/SKILL.md
+        name: feature-risk-assessment | tools: inherited
+        description: "Deeper risk assessment for a single feature or product area when the launch review found something that needs more than a line item. Structured analysis: what could go wrong, how likely, how bad, what mitigates it. Use 
+PRESENT product-legal:marketing-claims-review | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a3c5e503-e627-4c00-b6d9-048d54ef6eb2/skills/marketing-claims-review/SKILL.md
+        name: marketing-claims-review | tools: inherited
+        description: "Review marketing copy for claims that need substantiation, reframing, or cutting. Use when the user says \"review this marketing copy\", \"check these claims\", \"can we say this\", \"is this puffery or a problem\", or 
+PRESENT privacy-legal:pia-generation | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/4d394073-b7d5-46a0-ae1d-95cbd9db12c2/skills/pia-generation/SKILL.md
+        name: pia-generation | tools: inherited
+        description: "Generate a Privacy Impact Assessment in house format for a new feature, product, or processing activity, using the structure learned from your seed PIA. Use when the user says \"write a PIA\", \"privacy impact assessmen
+PRESENT privacy-legal:reg-gap-analysis | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/4d394073-b7d5-46a0-ae1d-95cbd9db12c2/skills/reg-gap-analysis/SKILL.md
+        name: reg-gap-analysis | tools: inherited
+        description: "Diff a new or changed regulation against current privacy policy and practice — outputs a gap list and a remediation plan with owners and dates. Use when a new reg drops, the user asks \"does [regulation] affect us\", \"
+PRESENT ansight:ansight-verifier | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/595cb172-8a0c-4012-93e1-6cef45e1b4cf/agents/ansight-verifier.md
+        name: ansight-verifier | tools: inherited
+        description: Verifies a code change against the running Ansight-connected mobile app and returns a verdict with reviewable runtime evidence (session id, UTC window, screenshots, failed requests, error logs). Use after implementing or
+PRESENT wai-suite:wai-mobile-release | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/855ec3c6-549e-4456-a85c-ed3e7f40c1cc/.claude/skills/wai-mobile-release/SKILL.md
+        name: wai-mobile-release | tools: inherited
+        description: 'One-time setup of build, code signing and store delivery for a native iOS or Android repo (TestFlight/App Store Connect, or Play Console tracks) — and owner of the mobile merge gate. Creates Fastlane lanes or the Gradle
+PRESENT wai-suite:wai-testing | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/855ec3c6-549e-4456-a85c-ed3e7f40c1cc/.claude/skills/wai-testing/SKILL.md
+        name: wai-testing | tools: inherited
+        description: 'Writes deterministic tests and owns the testing strategy. Mandatory targets are security, billing, GDPR and idempotency; tests never call a real model or real billing. Runs after wai-implementation on the same branch, s
+PRESENT ux-superpowers:ux-validate | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/91734699-25ba-4d1d-a0e8-4dac0faab73b/skills/ux-validate/SKILL.md
+        name: ux-validate | tools: inherited
+        description: "Trigger whenever reviewing a PR, code change, or feature for shipping readiness and a UX Discovery Document exists at docs/ux-discovery/ — always invoke on phrases like \"review this PR before we ship\", \"is this featu
+PRESENT engineering:testing-strategy | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/2da0c8d9-1e96-4394-b0f4-3249613186f8/skills/testing-strategy/SKILL.md
+        name: testing-strategy | tools: inherited
+        description: Design test strategies and test plans. Trigger with "how should we test", "test strategy for", "write tests for", "test plan", "what tests do we need", or when the user needs help with testing approaches, coverage, or te
+PRESENT claude-security:claude-security | ~/.claude/plugins/marketplaces/claude-plugins-official/plugins/claude-security/skills/claude-security/SKILL.md
+        name: claude-security | tools: inherited
+        description: "Claude Security: scan the codebase (the whole repository or a scoped part of it), scan changes (this branch's or a pull request's diff, or one commit), or suggest patches (findings turned into targeted patch files, each
+ABSENT  security-guidance:security-guidance
+PRESENT code-simplifier:code-simplifier | ~/.claude/plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/agents/code-simplifier.md
+        name: code-simplifier | tools: inherited
+        description: Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Focuses on recently modified code unless instructed otherwise.
+# exit: 1
+# end: 2026-10-01T13:57:57+1000

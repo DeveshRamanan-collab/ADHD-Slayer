@@ -1,0 +1,10 @@
+# cmd: python3 -c import json,os;d=json.load(open(os.path.expanduser("~/.claude.json")));o=d.get("oauthAccount") or {};print("oauthAccount present:",bool(o));print("oauthAccount keys:",sorted(o.keys()));print("billingType:",o.get("billingType","absent"));print("autoContinue-like keys in ~/.claude.json:",[k for k in d if "ontinue" in k or "usage" in k.lower()])
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:55:18+1000
+oauthAccount present: True
+oauthAccount keys: ['accountCreatedAt', 'accountUuid', 'billingType', 'ccOnboardingFlags', 'claudeCodeTrialDurationDays', 'claudeCodeTrialEndsAt', 'displayName', 'emailAddress', 'fullName', 'hasExtraUsageEnabled', 'organizationName', 'organizationRateLimitTier', 'organizationRole', 'organizationType', 'organizationUuid', 'profileFetchedAt', 'seatTier', 'subscriptionCreatedAt', 'userRateLimitTier', 'workspaceRole']
+billingType: stripe_subscription
+autoContinue-like keys in ~/.claude.json: ['pluginUsage', 'cachedExtraUsageDisabledReason', 'skillUsage', 'pluginUsageLspGraceAppliedIds']
+# exit: 0
+# end: 2026-10-01T13:55:18+1000

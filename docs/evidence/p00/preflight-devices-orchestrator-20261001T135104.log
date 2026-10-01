@@ -1,0 +1,31 @@
+# cmd: bash scripts/preflight_probe.sh devices
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:51:04+1000
+
+## devicectl
+Name            Hostname   Identifier                                    State      Model                        Reality  
+-------------   --------   -------------------------------------------   --------   --------------------------   ---------
+iPhone 17 Pro              1B8F9C0A-B61B-4975-8BE7-62443178E70D (UDID)   shutdown   iPhone 17 Pro (iPhone18,1)   simulated
+iPhone 18 Pro              D905324A-837C-42FC-B778-F9F2B5841EF5 (UDID)   shutdown   iPhone 18 Pro (iPhone19,2)   simulated
+
+## xcode-mcp
+STDIO Bridge for Xcode MCP Tools
+
+USAGE: mcpbridge <command> [options]
+
+COMMANDS:
+  run-agent  Launch a coding agent with Xcode-provided configuration
+
+OPTIONS:
+  -h, --help  Show this help message
+
+DESCRIPTION:
+    Without a subcommand, acts as a STDIO bridge between MCP (Model Context
+    Protocol) clients and Xcode's MCP tool service. Reads JSON-RPC 2.0
+    messages from stdin and forwards responses to stdout.
+
+Permission: enabled
+mcp-server: not running
+# exit: 0
+# end: 2026-10-01T13:51:11+1000

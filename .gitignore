@@ -60,3 +60,14 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Planning run (Phase 0.16 item 4)
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.cer
+logs/
+DerivedData/
+.claude/hookstate/
+.claude/settings.local.json

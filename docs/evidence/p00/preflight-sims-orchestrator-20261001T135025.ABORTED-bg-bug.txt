@@ -1,0 +1,4 @@
+# cmd: bash scripts/preflight_probe.sh sims
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:50:25+1000

@@ -1,0 +1,33 @@
+# cmd: python3 scripts/probe_capabilities.py agentic-council:council-skeptic agentic-council:council-guardian agentic-council:council-pathfinder agentic-council:council-artisan agentic-council:council-architect agentic-council:skeptic-failure-mode-analysis agent-protocols:spec-driven-development agent-protocols:test-driven-development agent-protocols:code-review-and-quality
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:58:09+1000
+PRESENT agentic-council:council-skeptic | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/agents/council-skeptic.md
+        name: "Skeptic" | tools: inherited
+        description: "Council Red Lens — risk assessment, devil's advocate, security"
+PRESENT agentic-council:council-guardian | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/agents/council-guardian.md
+        name: "Guardian" | tools: inherited
+        description: "Council Silver Lens — compliance, governance, privacy"
+PRESENT agentic-council:council-pathfinder | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/agents/council-pathfinder.md
+        name: "Pathfinder" | tools: inherited
+        description: "Council Coral Lens — mobile, cross-platform, native apps"
+PRESENT agentic-council:council-artisan | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/agents/council-artisan.md
+        name: "Artisan" | tools: inherited
+        description: "Council Rose Lens — visual design, design systems, motion"
+PRESENT agentic-council:council-architect | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/agents/council-architect.md
+        name: "Architect" | tools: inherited
+        description: "Council Blue Lens — system design, data models, APIs, integration patterns"
+PRESENT agentic-council:skeptic-failure-mode-analysis | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/5e2cbecc-5a6a-4e40-8286-f0ffe260c3ff/skills/skeptic-failure-mode-analysis/SKILL.md
+        name: failure-mode-analysis | tools: inherited
+        description: "Use when systematically identifying failure scenarios for proposed features and infrastructure changes. Covers component enumeration, failure mode discovery, cascade analysis, mitigation design, monitoring signals, and 
+PRESENT agent-protocols:spec-driven-development | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/skills/spec-driven-development/SKILL.md
+        name: spec-driven-development | tools: inherited
+        description: Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.
+PRESENT agent-protocols:test-driven-development | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/skills/test-driven-development/SKILL.md
+        name: test-driven-development | tools: inherited
+        description: Drives development with tests. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing fun
+PRESENT agent-protocols:code-review-and-quality | ~/.claude/plugins/synced/bb56d071-d5dc-40b6-8f9a-5b04965ae499_98eb0e27-fb39-40bb-bb78-b02e9f4f544c/a6190374-55ce-4171-a8be-e5528fcdd517/skills/code-review-and-quality/SKILL.md
+        name: code-review-and-quality | tools: inherited
+        description: Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters
+# exit: 0
+# end: 2026-10-01T13:58:09+1000

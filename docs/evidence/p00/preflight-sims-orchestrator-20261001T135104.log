@@ -1,0 +1,57 @@
+# cmd: bash scripts/preflight_probe.sh sims
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:51:04+1000
+
+## runtimes
+== Runtimes ==
+iOS 26.5 (26.5 - 23F77) - com.apple.CoreSimulator.SimRuntime.iOS-26-5
+iOS 27.0 (27.0 - 24A434) - com.apple.CoreSimulator.SimRuntime.iOS-27-0
+watchOS 27.0 (27.0 - 24R362) - com.apple.CoreSimulator.SimRuntime.watchOS-27-0
+
+## devices-available
+== Devices ==
+-- iOS 26.5 --
+    iPhone 17 Pro (1B8F9C0A-B61B-4975-8BE7-62443178E70D) (Shutdown) 
+    iPhone 17 Pro Max (0683935B-D4B5-4D0B-A6B2-FD3797FE8E4F) (Shutdown) 
+    iPhone 17e (E825F5E1-1502-492F-965E-828E88DBDD2C) (Shutdown) 
+    iPhone Air (30331ABC-3DFE-449D-AC7A-D3967C9364EE) (Shutdown) 
+    iPhone 17 (4B380D2B-5AA1-453C-900A-8E0724A87E6D) (Shutdown) 
+    iPad Pro 13-inch (M5) (175DACE1-F104-4245-A913-64859D23E398) (Shutdown) 
+    iPad Pro 11-inch (M5) (E065270B-D080-410F-A04A-F2145F7B05B0) (Shutdown) 
+    iPad mini (A17 Pro) (ADE4B247-6EC9-4F70-8DA6-64B7CE06109E) (Shutdown) 
+    iPad Air 13-inch (M4) (F71A6212-7798-4EE4-A7B2-6E2BE00F3D74) (Shutdown) 
+    iPad Air 11-inch (M4) (05238460-FFB3-4A72-8D54-333B83D8CB9E) (Shutdown) 
+    iPad (A16) (7D552934-DECA-4F1F-B019-D477D6F26133) (Shutdown) 
+-- iOS 27.0 --
+    iPhone 18 Pro (D905324A-837C-42FC-B778-F9F2B5841EF5) (Shutdown) 
+    iPhone 18 Pro Max (9F3747D2-2E8B-48EA-BAF3-34B5BB0515D7) (Shutdown) 
+    iPhone 17e (6ECAB7AB-DA7A-4055-8F64-B9449696D247) (Shutdown) 
+    iPhone Air (99E68CDD-EC9E-4741-B4E4-F5AFD0B9C12F) (Shutdown) 
+    iPhone 17 (274946AB-E2F1-4B16-B6A7-24772C85A2DB) (Shutdown) 
+    iPad Pro 13-inch (M5) (18D73402-3EEC-483F-8E5A-ED15EF80612D) (Shutdown) 
+    iPad Pro 11-inch (M5) (7C12102C-D101-4E3B-80CF-B7A0595D9C9C) (Shutdown) 
+    iPad mini (A17 Pro) (5E579D08-81B3-430E-AC01-7336950DB00D) (Shutdown) 
+    iPad Air 13-inch (M4) (C503E1B2-5D9B-41A1-AC90-E624B3E65238) (Shutdown) 
+    iPad Air 11-inch (M4) (29DAF46C-33C2-44B8-B3BE-DD36C7F1B6A5) (Shutdown) 
+    iPad (A16) (AB74EA2B-8A0F-46CB-9D35-42F132498898) (Shutdown) 
+-- watchOS 27.0 --
+    Apple Watch Series 12 (46mm) (07307777-CE7D-43DD-B0A8-B65A2C16B8AF) (Shutdown) 
+    Apple Watch Series 12 (42mm) (EF146B5A-9E1A-4AD1-84D1-C2DD280AC3E2) (Shutdown) 
+    Apple Watch Ultra 4 (49mm) (63F58A03-1701-4A85-9DA3-C580E9B5D564) (Shutdown) 
+    Apple Watch SE 3 (44mm) (99576D74-2561-40A6-AC38-FB68243DF760) (Shutdown) 
+    Apple Watch SE 3 (40mm) (B781D0B4-D71E-4512-B229-9EF3376B6052) (Shutdown) 
+
+## pairs
+== Device Pairs ==
+F4F921A8-609A-40C8-8FD2-A0CB73FFC2E5 (active, disconnected)
+    Watch: Apple Watch Series 12 (46mm) (07307777-CE7D-43DD-B0A8-B65A2C16B8AF) (Shutdown)
+    Phone: iPhone 18 Pro Max (9F3747D2-2E8B-48EA-BAF3-34B5BB0515D7) (Shutdown)
+3A53747C-689E-4687-B831-5637C4E1F409 (active, disconnected)
+    Watch: Apple Watch Series 12 (42mm) (EF146B5A-9E1A-4AD1-84D1-C2DD280AC3E2) (Shutdown)
+    Phone: iPhone Air (99E68CDD-EC9E-4741-B4E4-F5AFD0B9C12F) (Shutdown)
+16029F88-F181-41AD-A746-CAA08A7FF03E (active, disconnected)
+    Watch: Apple Watch Ultra 4 (49mm) (63F58A03-1701-4A85-9DA3-C580E9B5D564) (Shutdown)
+    Phone: iPhone 17 (274946AB-E2F1-4B16-B6A7-24772C85A2DB) (Shutdown)
+# exit: 0
+# end: 2026-10-01T13:51:05+1000

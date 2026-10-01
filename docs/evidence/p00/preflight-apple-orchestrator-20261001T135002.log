@@ -1,0 +1,80 @@
+# cmd: bash scripts/preflight_probe.sh apple
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:50:02+1000
+
+## xcode-select
+/Applications/Xcode.app/Contents/Developer
+
+## xcodebuild-version
+Xcode 27.0
+Build version 27A266a
+
+## checkFirstLaunch
+checkFirstLaunchStatus exit: 0
+
+## sdks
+DriverKit SDKs:
+	DriverKit 27.0                	-sdk driverkit27.0
+
+iOS SDKs:
+	iOS 27.0                      	-sdk iphoneos27.0
+
+iOS Simulator SDKs:
+	Simulator - iOS 27.0          	-sdk iphonesimulator27.0
+
+macOS SDKs:
+	macOS 27.0                    	-sdk macosx27.0
+	macOS 27.0                    	-sdk macosx27.0
+
+tvOS SDKs:
+	tvOS 27.0                     	-sdk appletvos27.0
+
+tvOS Simulator SDKs:
+	Simulator - tvOS 27.0         	-sdk appletvsimulator27.0
+
+visionOS SDKs:
+	visionOS 27.0                 	-sdk xros27.0
+
+visionOS Simulator SDKs:
+	Simulator - visionOS 27.0     	-sdk xrsimulator27.0
+
+watchOS SDKs:
+	watchOS 27.0                  	-sdk watchos27.0
+
+watchOS Simulator SDKs:
+	Simulator - watchOS 27.0      	-sdk watchsimulator27.0
+
+
+## swift
+swift-driver version: 1.168.6 Apple Swift version 6.4 (swiftlang-6.4.0.34.1 clang-2100.3.34.1)
+Target: arm64-apple-macosx27.2.0
+
+## sw_vers
+ProductName:		macOS
+ProductVersion:		27.2
+BuildVersion:		26B5091g
+
+## disk
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi    13Gi    51%    486k  132M    0%   /
+
+## power
+Now drawing from 'AC Power'
+ -InternalBattery-0 (id=23396451)	99%; finishing charge; 0:12 remaining present: true
+   PreventSystemSleep             1
+   PreventSystemSleepSecurityIndicator 0
+   PreventUserIdleSystemSleep     1
+   pid 357(powerd): [0x000000170001800b] 00:31:15 PreventUserIdleSystemSleep named: "Powerd - Prevent sleep while display is on"  
+   pid 7619(caffeinate): [0x000007470001881e] 00:00:34 PreventUserIdleSystemSleep named: "caffeinate command-line tool"  
+	Details: caffeinate asserting for 300 secs
+   pid 4806(caffeinate): [0x00000586000187c5] 00:08:03 PreventUserIdleSystemSleep named: "caffeinate command-line tool"  
+	Details: caffeinate asserting on behalf of 'claude' (pid 4707)
+   pid 4806(caffeinate): [0x00000586000787c6] 00:08:03 PreventSystemSleep named: "caffeinate command-line tool"  
+	Details: caffeinate asserting on behalf of 'claude' (pid 4707)
+
+## signing
+  1) <sha1> "Apple Development: deveshramanan@icloud.com (W8V95U7AXJ)"
+     1 valid identities found
+# exit: 0
+# end: 2026-10-01T13:50:05+1000

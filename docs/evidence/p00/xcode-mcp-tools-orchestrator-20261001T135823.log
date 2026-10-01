@@ -1,0 +1,62 @@
+# cmd: python3 scripts/mcp_list_tools.py xcrun mcpbridge
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:58:23+1000
+initialize: {"name": "xcode-tools", "version": "25317"}
+tools: 54
+ - AddEntitlement | Add a new entitlement to the project's entitlements file.  Most Apple APIs do NOT require an entitlement. Only use this 
+ - AddInfoPlist | Add or update an Info.plist key in the project.  Use this tool for app configuration metadata such as: - Privacy usage d
+ - BuildProject | Builds an Xcode project and waits until the build completes.
+ - DeviceInteractionEndSession | Closes previous device session created in DeviceInteractionStartSession or DeviceInteractionStartWorkspaceSession.      
+ - DeviceInteractionInstallAndRun | Builds, installs, and starts the current application on the currently targeted device.  Call this action to install the 
+ - DeviceInteractionStartSession | Prepares a runtime for device interaction WITHOUT a workspace. This should be called as early as possible if device inte
+ - DeviceInteractionStartWorkspaceSession | Prepares a runtime for device interaction WITH a workspace. This should be called as early as possible if device interac
+ - DeviceInteractionSynthesize | Synthesizes device events (tap, swipe, type, etc.) on a physical device or simulator and captures the resulting state.  
+ - DocumentationSearch | Searches Apple Developer Documentation using semantic matching.
+ - GetBuildLog | Gets the log of the current or most recently finished build. You can choose which build log entries to include by specif
+ - GetConsoleOutput | Retrieves console output (stdout, stderr, OSLog) from a running or completed app launch session. Supports regex filterin
+ - GetCrashIssueLogs |     Get detailed crash logs, expert triage knowledge, and actionable recommendations for a specific crash signature.    
+ - GetFieldPerformanceIssueLogs | Get detailed logs, performance data, expert triage knowledge, and actionable recommendations for specific field performa
+ - GetFileCompilerFlags | Gets the additional per-file compiler flags for a single source file in a specific Xcode target — the same value shown i
+ - GetTargetBuildSettings | Get all the Xcode build setting for a specified Xcode project target. Always use this tool to get the build settings for
+ - GetTestList | Gets all available tests from the active scheme's active test plan. Results are limited to 100 tests. The complete list 
+ - GetTopCrashIssues |     Retrieve the top crash signatures for an app from Apple's crash reporting service.     Returns crash signatures sort
+ - GetTopFieldPerformanceIssues |     Analyze app performance and identify performance regressions across different diagnostic types.     Use this tool to
+ - InvokeDebuggerCommand | Sends an lldb command to Xcode's active debugging session and returns the output. The process must already be running wi
+ - LocalizationPlanner | Ensures the project is in a state where translations can be added. **Call this tool each time you are tasked with adding
+ - RenderPreview | Builds and renders a Preview and waits until a snapshot of the resulting UI is available.
+ - RunAllTests | Runs all tests from the active scheme's active test plan
+ - RunCodeSnippet | Builds and runs a snippet of code in the context of a specific file and waits until results are available. This tool is 
+ - RunProject | Builds and runs the current scheme in Xcode, equivalent to pressing the Run button (Cmd+R). Returns when the app has lau
+ - RunSomeTests | Runs specific tests using the active scheme's active test plan
+ - StopProject | Stops the currently running app in Xcode, equivalent to pressing the Stop button (Cmd+.). If no app is currently running
+ - StringCatalogContext | Returns context and the source language value for a given string in the String Catalog. The sourceValues field contains 
+ - StringCatalogEdit | Inserts a translation for a given locale into a String Catalog. Before calling this tool, you MUST activate the `xcode-i
+ - StringCatalogRead | Returns string keys grouped by translation state for the requested locale. Before calling this tool, you MUST activate t
+ - UpdateFileCompilerFlags | Updates, appends or deletes the additional per-file compiler flags for a single source file in a specific Xcode target —
+ - UpdateTargetBuildSetting | Updates, appends or deletes the named build setting for the specified Xcode project target. Always use this tool to upda
+ - XcodeCloseWorkspace | Closes a workspace that was opened with XcodeOpenWorkspace, identified by its workspace identifier.
+ - XcodeGlob | Finds files in the Xcode project structure matching wildcard patterns. Works on Xcode project organization, not filesyst
+ - XcodeGrep | Searches for text patterns in files within the Xcode project structure using regex. Works on Xcode project organization,
+ - XcodeLS | Lists files and directories in the Xcode project structure at the specified path. Works on Xcode project organization, n
+ - XcodeListRunDestinations | Lists run destinations available for the currently active scheme, grouped the same way the Xcode picker groups them (Dev
+ - XcodeListSchemes | Lists all schemes available in the current Xcode workspace and identifies which one is currently active. Each entry incl
+ - XcodeListTargets | Lists targets in the current Xcode workspace, optionally scoped to a single project. Each entry includes the target's na
+ - XcodeListTemplates | Lists Xcode templates available in this Xcode install. Use this to discover the templateIdentifier and option keys to pa
+ - XcodeListTestPlans | Lists the test plans associated with the currently active scheme and identifies which one is active. The testing tools (
+ - XcodeListWorkspaces | Lists the workspaces currently open in Xcode, with the identifier and path of each. Use a workspace identifier (or absol
+ - XcodeMV | Moves or renames files and directories in the project navigator with support for filesystem operations.
+ - XcodeMakeDir | Creates directories and groups in the Xcode project structure.
+ - XcodeNewProject | Creates a new Xcode project from a template. The project is written to disk at the specified directory.  Use XcodeListTe
+ - XcodeNewTarget | Adds a new target to a project in the current Xcode workspace using a target template. Discover valid templateIdentifier
+ - XcodeOpenWorkspace | Opens an Xcode workspace or project at the given path and returns its workspace identifier, which other tools can use to
+ - XcodeRM | Removes files and directories from the Xcode project structure and optionally deletes the underlying files from the file
+ - XcodeRead | Reads the contents of a file within the Xcode project organization. Returns content in cat -n format with line numbers. 
+ - XcodeRefreshCodeIssuesInFile | Retrieves current compiler diagnostics (errors, warnings, notes) for a file in the Xcode project. Returns formatted diag
+ - XcodeSwitchRunDestination | Changes the active run destination for the currently active scheme. The active scheme is left unchanged. Pass the destin
+ - XcodeSwitchScheme | Changes the active scheme in the current Xcode workspace to the specified scheme. Accepts either a scheme's name or its 
+ - XcodeSwitchTestPlan | Changes the active test plan for the currently active scheme. The testing tools (GetTestList, RunAllTests, RunSomeTests)
+ - XcodeUpdate | Edits files in the Xcode project by replacing text content. Works on Xcode project structure paths, not filesystem paths
+ - XcodeWrite | Creates or overwrites files with content in the Xcode project. Works on Xcode project structure paths, not filesystem pa
+# exit: 0
+# end: 2026-10-01T13:58:23+1000

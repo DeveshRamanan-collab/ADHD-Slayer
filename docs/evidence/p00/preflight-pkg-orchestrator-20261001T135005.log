@@ -1,0 +1,17 @@
+# cmd: bash scripts/preflight_probe.sh pkg
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:50:05+1000
+
+## tools
+brew: Homebrew 7.0.7
+npm: 11.13.0
+node: v24.16.0
+python3: Python 3.9.6
+jq: jq-1.7.1-apple
+xcodegen: not installed
+swiftlint: not installed
+swiftformat: not installed
+gh: gh version 2.102.0 (2026-09-30)
+# exit: 0
+# end: 2026-10-01T13:50:05+1000

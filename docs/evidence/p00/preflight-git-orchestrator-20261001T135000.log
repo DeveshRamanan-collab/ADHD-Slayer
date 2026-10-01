@@ -1,0 +1,47 @@
+# cmd: bash scripts/preflight_probe.sh git
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T13:50:00+1000
+
+## git
+git version 2.54.0 (Apple Git-157)
+ M .DS_Store
+ M app/.DS_Store
+ M tools/check_mac.sh
+?? .claude/
+?? CLAUDE.md
+?? docs/.DS_Store
+?? docs/BLOCKERS.md
+?? docs/DECISION_LOG.md
+?? docs/MANIFEST.md
+?? docs/OPEN_QUESTIONS.md
+?? docs/PROGRESS.md
+?? docs/USER_ACTIONS.md
+?? docs/WORK_QUEUE.md
+?? docs/evidence/
+?? docs/figma/
+?? scripts/
+?? tools/start_planning.command
+user.name: DeveshRamanan-collab
+user.email set: yes
+origin	https://github.com/DeveshRamanan-collab/ADHD-Slayer.git (fetch)
+origin	https://github.com/DeveshRamanan-collab/ADHD-Slayer.git (push)
+828a14f Undo unfinished backend and Live Activity code; add planning package and research
+1261b39 Initial commit
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+## gh
+gh version 2.102.0 (2026-09-30)
+https://github.com/cli/cli/releases/tag/v2.102.0
+github.com
+  ✓ Logged in to github.com account DeveshRamanan-collab (keyring)
+  - Active account: true
+  - Git operations protocol: https
+  - Token: gho_************************************
+  - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
+login: DeveshRamanan-collab
+{"name":"ADHD-Slayer","url":"https://github.com/DeveshRamanan-collab/ADHD-Slayer","visibility":"PRIVATE"}
+# exit: 0
+# end: 2026-10-01T13:50:02+1000
