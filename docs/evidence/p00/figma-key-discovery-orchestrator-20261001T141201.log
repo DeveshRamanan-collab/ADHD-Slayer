@@ -1,0 +1,14 @@
+# cmd: bash scripts/figma_key_discovery.sh
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:12:01+1000
+## files
+   1 ./README.md:figma.com/design/gLuoHFbiiUGajAUpluWXOW
+   1 design/figma/README.md:figma.com/design/gLuoHFbiiUGajAUpluWXOW
+   4 prompts/figma_urls.md:figma.com/design/gLuoHFbiiUGajAUpluWXOW
+## git log -p
+   7 figma.com/design/gLuoHFbiiUGajAUpluWXOW
+## distinct keys
+  14 gLuoHFbiiUGajAUpluWXOW
+# exit: 0
+# end: 2026-10-01T14:12:05+1000

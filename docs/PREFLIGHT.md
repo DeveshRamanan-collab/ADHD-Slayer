@@ -51,7 +51,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 |---|---|---|---|
 | `git version 2.54.0 (Apple Git-157)`; `user.name` and `user.email` already set | OK | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
 | `gh version 2.102.0`; logged in as `DeveshRamanan-collab`; token scopes include `repo` (token masked) | OK | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
-| `git push --dry-run` after the Phase 0 commit | OK | [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T140000.log] | N/A (nothing to fix) |
+| `git push --dry-run` after the Phase 0 commit | OK | [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T141127.log] | N/A (nothing to fix) |
 
 ## 6. Apple toolchain
 | Capability | Status | Evidence | Fix in plain English |
