@@ -12,10 +12,10 @@ File key in scope: `gLuoHFbiiUGajAUpluWXOW` (prompts/figma_urls.md; key discover
 | Second Figma endpoint | `plugin:product-management:figma` exists but is never used (single reader, C-9) | docs/TOOL_CAPABILITY_AUDIT.md § plugin:product-management:figma |
 
 ## Rate limits (FACT, dated 2026-10-01)
-Education plans: up to 200 tool calls per day and 10 per minute for tools that read data from Figma; exempt tools include `add_code_connect_map`, `create_new_file`, `whoami` (https://developers.figma.com/docs/figma-mcp-server/rate-limits-access/, verified 2026-10-01, [EV: docs/evidence/sources/FACT-figma-rate-limits.md]). Run caps (C-9): 150 counted calls per rolling 24 h, at most 8 per rolling 60 s, at least 7 s apart.
+Education plans: up to 200 tool calls per day and 10 per minute for tools that read data from Figma; exempt tools include `add_code_connect_map`, `create_new_file`, `whoami` (https://developers.figma.com/docs/figma-mcp-server/rate-limits-access/, verified 2026-10-01, [EV: docs/evidence/sources/FACT-figma-rate-limits.md] (FACT-001)). Run caps (C-9): 150 counted calls per rolling 24 h, at most 8 per rolling 60 s, at least 7 s apart.
 
 ## Read tools present and how this run treats them
-Tool names come from the session tool list (docs/evidence/p00/figma-tools/tool-list-orchestrator-20261001T141727.md); one-line purposes come from Figma's tool index (https://developers.figma.com/docs/figma-mcp-server/tools-and-prompts/, verified 2026-10-01, [EV: docs/evidence/sources/FACT-figma-tools.md] and the per-tool excerpts named below).
+Tool names come from the session tool list (docs/evidence/p00/figma-tools/tool-list-orchestrator-20261001T141727.md); one-line purposes come from Figma's tool index (https://developers.figma.com/docs/figma-mcp-server/tools-and-prompts/, verified 2026-10-01, [EV: docs/evidence/sources/FACT-figma-tools.md] (FACT-006) and the per-tool excerpts named below).
 
 | Tool | Figma's description | Counted against the limit | Used in this run | Hook coverage | Excerpt |
 |---|---|---|---|---|---|

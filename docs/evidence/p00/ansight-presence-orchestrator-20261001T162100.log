@@ -1,0 +1,8 @@
+# cmd: bash -c command -v ansight || echo "ansight: not on PATH"; echo "PATH dirs searched: $(echo $PATH | tr : " " | wc -w)"
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T16:21:00+1000
+ansight: not on PATH
+PATH dirs searched:       20
+# exit: 0
+# end: 2026-10-01T16:21:00+1000

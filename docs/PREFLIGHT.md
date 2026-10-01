@@ -22,9 +22,9 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | Permission mode `bypassPermissions` (34 transcript entries, no other mode) | OK | [EV: docs/evidence/p00/permission-mode-orchestrator-20261001T135513.log] | N/A (nothing to fix) |
 | `ANTHROPIC_API_KEY` unset | OK | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
 | Login: claude.ai account with `billingType` `stripe_subscription` (no credentials recorded) | OK | [EV: docs/evidence/p00/login-type-orchestrator-20261001T135518.log] | N/A (nothing to fix) |
-| Automatic wait-and-continue at usage limit exists from v2.1.234 (installed 2.1.286), per code.claude.com costs page, verified 2026-10-01 | OK | [EV: docs/evidence/sources/FACT-cc-autocontinue.md] | N/A (nothing to fix) |
+| Automatic wait-and-continue at usage limit exists from v2.1.234 (installed 2.1.286), per code.claude.com costs page, verified 2026-10-01 | OK | [EV: docs/evidence/sources/FACT-cc-autocontinue.md] (FACT-008) | N/A (nothing to fix) |
 | Whether automatic continue is switched on for this account | UNVERIFIABLE | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | UA-005: check `/config` |
-| `AskUserQuestion` absent from the tool list after `.claude/settings.json` was written (deny rule picked up by the file watcher) | OK | [EV: docs/evidence/p00/hooks-orchestrator-20261001T134902.log] | N/A (nothing to fix) |
+| `AskUserQuestion` absent from the tool list after `.claude/settings.json` was written (deny rule picked up by the file watcher) | OK | [EV: docs/evidence/p00/session-tool-list-orchestrator-20261001T162108.md] (tool list); deny rule count [EV: docs/evidence/p00/hooks-orchestrator-20261001T134902.log] | N/A (nothing to fix) |
 | Agent teams (`CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS`) unset — ordinary subagents are used | OK | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | N/A (not required) |
 | Model in use `claude-opus-5-5` (session header; not changed) | OK | [EV: docs/evidence/p00/permission-mode-orchestrator-20261001T135513.log] | N/A (nothing to fix) |
 
@@ -34,7 +34,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | User settings keys: `agentPushNotifEnabled`, `enableWorkflows`, `inputNeededNotifEnabled`, `skipDangerousModePermissionPrompt`, `theme`, `tui`; no user hooks | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | Project settings `.claude/settings.json`: 23 deny rules, 9 hook events | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | MCP servers listed by `claude mcp list` (connected, needs-auth and failed states recorded) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
-| Hooks installed and every hook script exercised with fixtures (24 checks, 0 failures) | OK | [EV: docs/evidence/p00/hooks-orchestrator-20261001T134902.log] | N/A (nothing to fix) |
+| Hooks installed and every hook script exercised with fixtures (28 checks, 0 failures; re-run after D-017) | OK | [EV: docs/evidence/p00/hooks-orchestrator-20261001T161219.log] | N/A (nothing to fix) |
 
 ## 4. Figma MCP
 | Capability | Status | Evidence | Fix in plain English |
@@ -42,7 +42,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | `whoami`: handle Devesh, team `team::1686304428269511457` "ramanan.devesh's team", seat View, tier student (expected per K.1) | OK | [EV: docs/evidence/p00/figma-tools/whoami-orchestrator-20261001T135040.md] | N/A (nothing to fix) |
 | Transport: claude.ai connector, remote `https://mcp.figma.com/mcp` (no desktop app needed) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | Provisional design file key `gLuoHFbiiUGajAUpluWXOW` (prompts/figma_urls.md); one root `get_metadata` read tagged lock-check, ledgered (row 1) and cached by the hooks | OK | [EV: docs/evidence/p00/figma-tools/get_metadata-root-orchestrator-20261001T135045.md] | N/A (nothing to fix) |
-| Rate limits page: Education plans 200 tool calls per day, 10 per minute; exempt `add_code_connect_map`, `create_new_file`, `whoami`, verified 2026-10-01 | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] | N/A (nothing to fix) |
+| Rate limits page: Education plans 200 tool calls per day, 10 per minute; exempt `add_code_connect_map`, `create_new_file`, `whoami`, verified 2026-10-01 | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] (FACT-001) | N/A (nothing to fix) |
 | REST route (`FIGMA_TOKEN`) | MISSING | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | Optional — UA-007; B-005 |
 | FigJam flows board | MISSING | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | None needed (B-004) |
 
@@ -84,16 +84,16 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 ## 9. Web research routes (one fetch each, saved with scripts/fetch_excerpt.py)
 | Route | Status | Evidence | Fix in plain English |
 |---|---|---|---|
-| developer.apple.com HTML page (JavaScript-rendered; no body text) — JSON route `developer.apple.com/tutorials/data/documentation/<path>.json` returns the text | OK | [EV: docs/evidence/sources/FACT-route-apple-json.md] | N/A (JSON route adopted) |
-| App Store Review Guidelines (text contains `1.4.2`) | OK | [EV: docs/evidence/sources/FACT-route-asrg.md] | N/A (nothing to fix) |
-| legislation.gov.au (HTTP 200; page chrome only through urllib — WebFetch or the austlii fallback used for section text in Phase 11) | OK | [EV: docs/evidence/sources/FACT-route-legislation.md] | N/A (nothing to fix) |
-| austlii.edu.au (HTTP 403 to scripted fetch) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-austlii.md] | None (B-003) |
-| oaic.gov.au (HTTP 200, phrase found) | OK | [EV: docs/evidence/sources/FACT-route-oaic.md] | N/A (nothing to fix) |
-| tga.gov.au (HTTP 404 for the guessed path; WebFetch timeout) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-tga.md] | None (B-003) |
-| accc.gov.au (HTTP 403) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-accc.md] | None (B-003) |
-| code.claude.com docs (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-route-claude-docs.md] | N/A (nothing to fix) |
-| developers.figma.com (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] | N/A (nothing to fix) |
-| Claude in Chrome / built-in browser: not connected in this session (no browser tools in the tool list) | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed; B-008 |
+| developer.apple.com HTML page (JavaScript-rendered; no body text) — JSON route `developer.apple.com/tutorials/data/documentation/<path>.json` returns the text | OK | [EV: docs/evidence/sources/FACT-route-apple-json.md] (FACT-015) | N/A (JSON route adopted) |
+| App Store Review Guidelines (text contains `1.4.2`) | OK | [EV: docs/evidence/sources/FACT-route-asrg.md] (FACT-016) | N/A (nothing to fix) |
+| legislation.gov.au (HTTP 200; page chrome only through urllib — WebFetch or the austlii fallback used for section text in Phase 11) | OK | [EV: docs/evidence/sources/FACT-route-legislation.md] (FACT-010) | N/A (nothing to fix) |
+| austlii.edu.au (HTTP 403 to scripted fetch) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-austlii.md] (FACT-014) | None (B-003) |
+| oaic.gov.au (HTTP 200, phrase found) | OK | [EV: docs/evidence/sources/FACT-route-oaic.md] (FACT-011) | N/A (nothing to fix) |
+| tga.gov.au (HTTP 404 for the guessed path; WebFetch timeout) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-tga.md] (FACT-012) | None (B-003) |
+| accc.gov.au (HTTP 403) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-accc.md] (FACT-013) | None (B-003) |
+| code.claude.com docs (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-route-claude-docs.md] (FACT-017) | N/A (nothing to fix) |
+| developers.figma.com (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] (FACT-001) | N/A (nothing to fix) |
+| Claude in Chrome and the browser tool: not connected in this session (no browser tools in the tool list) | MISSING | [EV: docs/evidence/p00/session-tool-list-orchestrator-20261001T162108.md] | None needed; B-008 |
 
 ## 10. Subagents, connectors and one-time prompts
 | Capability | Status | Evidence | Fix in plain English |
@@ -101,8 +101,8 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | One trivial subagent spawned and returned `SUBAGENT-OK` | OK | [EV: docs/evidence/p00/subagent-probe-orchestrator-20261001T135318.md] | N/A (nothing to fix) |
 | Claude Docs connector "claude.ai Claude Docs" connected (main design document read attempted in Phase 2) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | GitHub MCP (`plugin:engineering:github`) failed to connect; `gh` CLI is the GitHub route | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed; B-009 |
-| iOS runtime verification tool `ansight`: CLI not on PATH | MISSING | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | None needed (Xcode MCP and XCUITest are primary); B-010 |
-| One-time prompts deliberately triggered (read of `~/.claude/settings.json` keys, WebFetch of new domains, subagent spawn, Figma `whoami`, `git push --dry-run`): no dialog appeared | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
+| iOS runtime verification tool `ansight`: CLI not on PATH | MISSING | [EV: docs/evidence/p00/ansight-presence-orchestrator-20261001T162100.log] | None needed (Xcode MCP and XCUITest are primary); B-010 |
+| One-time prompts deliberately triggered (read of `~/.claude/settings.json` keys, WebFetch of new domains, subagent spawn, Figma `whoami`, `git push --dry-run`): no dialog appeared (each call returned its result in bypassPermissions mode) | OK | settings keys [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log]; WebSearch/WebFetch [EV: docs/evidence/p00/websearch-probe-orchestrator-20261001T140000.md]; subagent [EV: docs/evidence/p00/subagent-probe-orchestrator-20261001T135318.md]; whoami [EV: docs/evidence/p00/figma-tools/whoami-orchestrator-20261001T135040.md]; push dry run [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T161534.log]; mode [EV: docs/evidence/p00/permission-mode-orchestrator-20261001T135513.log] | N/A (nothing to fix) |
 
 ## 11. Things only Devesh can do (status as observed)
 | Item | Status | Evidence | Fix in plain English |

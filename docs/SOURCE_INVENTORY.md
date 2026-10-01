@@ -10,7 +10,8 @@ Generated: 2026-10-01T13:53:39+1000 by scripts/source_inventory.py · Inputs are
 | docs/design/handoff.md | MISSING | N/A (file absent) | docs/build-spec/01–11, docs/copy/, docs/system-design.md, docs/api-design.md, docs/design-critique.md, design/figma/README.md (B-001) |
 | docs/design/metrics.md | MISSING | N/A (file absent) | docs/build-spec/01–11, docs/copy/, docs/system-design.md, docs/api-design.md, docs/design-critique.md, design/figma/README.md (B-001) |
 | docs/design/usability-test-plan.md | MISSING | N/A (file absent) | docs/build-spec/01–11, docs/copy/, docs/system-design.md, docs/api-design.md, docs/design-critique.md, design/figma/README.md (B-001) |
-| SPEC_CHECKLIST.md | MISSING | N/A (file absent) | N/A (no substitute; spec-drift init writes a new one, D-nnn in Phase 0.16) (B-001) |
+| SPEC_CHECKLIST.md | MISSING (design-session original never existed, B-001) | N/A (original absent) | Planning-run checklist written by spec-drift at 2026-10-01T14:10:02+1000 (D-011): 311 lines, SHA-256 b54b08ad90c8f7c2 — a planning artefact, not an input |
+| Main design document, Claude Docs artefact https://claude.ai/code/artifact/3b1b63f2-fca1-45ca-b096-209254c7e970 (K.2 bullet 4) | PRESENT (reachable: Claude Docs connector answered a harmless call [EV: docs/evidence/p00/claude-docs-guide-orchestrator-20261001T135900.md]; content read in Phase 2) | N/A (remote document; no file to hash) | Local PDF export of 28 Sep 2026: research/ADHD planner product design and research.pdf (prompts/SOURCE_MAP.md) |
 | research/adhd_struggles.md | present | bf5002e71387ccf5 | N/A (present, no substitute needed) |
 | research/interventions_evidence.md | present | a9bbe0d8b3a28c5b | N/A (present, no substitute needed) |
 | research/medication_pharmacology.md | present | 33e59451ba787f09 | N/A (present, no substitute needed) |

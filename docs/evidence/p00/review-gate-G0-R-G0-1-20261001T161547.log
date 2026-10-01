@@ -1,0 +1,27 @@
+# cmd: python3 scripts/gate.py G0
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: R-G0-1
+# start: 2026-10-01T16:15:47+1000
+# gate.py G0 · loop 1 of 3 · run 2026-10-01T16:15:47+1000 · root /Users/deveshramanan/ADHD Slayer
+Mechanical items only; the reviewer completes the 04-T3 report (evidence = this run's run_logged log).
+
+## Checklist
+| # | Check (from the master prompt's gate row / milestone plan) | Method (scripts/gate.py item / reviewer id / command) | Result | Evidence |
+|---|---|---|---|---|
+| 1 | PREFLIGHT: every row's status in {OK, MISSING, UNVERIFIABLE} with an existing [EV:] path; RUN-SURVIVAL line | gate.py G0.1: parse docs/PREFLIGHT.md tables | PASS | docs/PREFLIGHT.md (68 rows) |
+| 2 | TOOL_CAPABILITY_AUDIT: Tier A entries + Tier B rows = discovery items; PRIMARY/SECONDARY/REVIEW entries have harmless-call [EV:] | gate.py G0.2: count ### entries, Tier B rows, unique ITEM lines in docs/evidence/p00/discovery-*.log | PASS | docs/TOOL_CAPABILITY_AUDIT.md: Tier A 60, Tier B 100; discovery items 160 in 1 log(s) |
+| 3 | TOOL_STRATEGY: >=1 capability for every 0.4 stage; multi-agent plan; file-ownership map covers every MANIFEST path | gate.py G0.3: stage rows, plan heading, ownership-map first cells vs docs/MANIFEST.md | PASS | docs/TOOL_STRATEGY.md: 16 stages checked; ownership map 95 paths; MANIFEST 61 paths |
+| 4 | Every hook script in prompts/05_SETTINGS_AND_HOOKS.md has a passing test in docs/evidence/p00/hooks-*.log | gate.py G0.4: [PASS]/[FAIL] lines per hook in the newest log that tests it | PASS | 12 hooks from prompts/05; 5 hooks log(s), newest docs/evidence/p00/hooks-orchestrator-20261001T161219.log |
+| 5 | scripts/validate_docs.py --manifest exits 0 | scripts/validate_docs.py --manifest | PASS | scripts/validate_docs.py exit 0: validate_docs: 14 files, 0 failures |
+| 6 | git log shows the Phase 0 commit; git status --porcelain empty | gate.py G0.6: read-only `git log --format=%h %s`, `git status --porcelain` | FAIL | Phase 0 commit 558feb3 Phase 0: bootstrap, preflight, tool audit, enforceme; git status --porcelain: 2 entries |
+| 7 | Every PREFLIGHT MISSING row has a B-nnn (on the row, or a docs/BLOCKERS.md entry naming it) | gate.py G0.7: B- ids on MISSING rows resolved against docs/BLOCKERS.md headings; else token match | PASS | docs/PREFLIGHT.md: 11 MISSING rows; docs/BLOCKERS.md: 10 B- entries |
+| 8 | SOURCE_INVENTORY lists every expected input (K.2) as present (SHA-256) or missing | gate.py G0.8: expected-inputs table vs K.2 list; SHA-256 prefix recomputed | PASS | docs/SOURCE_INVENTORY.md: 22 expected inputs checked; SPEC_CHECKLIST.md listed missing; a file of that name was created after the inventory |
+| C | PROGRESS header counters: 13 keys present; QUESTIONS_ASKED_TO_USER 0; TURNS_ENDED_WAITING 0; RUN_STATUS valid; UPDATED with seconds and offset | gate.py C: parse docs/PROGRESS.md header | PASS | docs/PROGRESS.md header |
+
+## Failures (file:line:RULE: message)
+docs/evidence/p00/push-dry-run-orchestrator-20261001T161534.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/review-gate-G0-R-G0-1-20261001T161547.log:0:G0.6: [item 6] uncommitted change (??)
+
+gate.py G0: 8 PASS, 1 FAIL, 2 failure lines; hard-fail classes in items: none
+# exit: 1
+# end: 2026-10-01T16:15:47+1000

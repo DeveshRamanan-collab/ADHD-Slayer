@@ -1,0 +1,12 @@
+# cmd: python3 scripts/validate_parts.py SOURCE_NOTES
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-research-apple
+# start: 2026-10-01T16:16:05+1000
+docs/parts/SOURCE_NOTES/03-spec-backend.md:38:EV: verification verb without [EV: docs/evidence/...]
+docs/parts/SOURCE_NOTES/03-spec-backend.md:220:EV: verification verb without [EV: docs/evidence/...]
+docs/parts/SOURCE_NOTES/03-spec-backend.md:255:EV: verification verb without [EV: docs/evidence/...]
+docs/parts/SOURCE_NOTES/03-spec-backend.md:256:EV: verification verb without [EV: docs/evidence/...]
+docs/parts/SOURCE_NOTES/03-spec-backend.md:262:EV: verification verb without [EV: docs/evidence/...]
+validate_parts: 13 parts, 5 failures
+# exit: 1
+# end: 2026-10-01T16:16:05+1000

@@ -46,7 +46,7 @@ Per-page analysis rows (`docs/figma/analysis/<page-slug>.md`) are added one per 
 | docs/APPLE_PLATFORM_PLAN.md | 12 | NOT STARTED | orchestrator | assigned at gate | G3 |
 | docs/FIGMA_IMPLEMENTATION_MAP.md | 13 | NOT STARTED | orchestrator | assigned at gate | G3 |
 | docs/DESIGN_SYSTEM.md | 13 | NOT STARTED | orchestrator | assigned at gate | G3 |
-| docs/FACT_REGISTER.md | 13 (started 0) | NOT STARTED | orchestrator | assigned at gate | G3 |
+| docs/FACT_REGISTER.md | 13 (started 0) | IN PROGRESS | orchestrator | assigned at gate | G3 |
 | docs/POC_REGISTER.md | 8-13 | NOT STARTED | orchestrator | assigned at gate | G3 |
 | docs/gates/GATE-3.md | G3 | NOT STARTED | orchestrator | assigned at gate | G3 |
 | docs/TESTING_STRATEGY.md | 14 | NOT STARTED | orchestrator | assigned at gate | G4 |

@@ -167,13 +167,13 @@ Harmless-call evidence for skills and agents = the installed definition file res
 
 ### agentic-council
 - Name: `agentic-council` (discovery item `plugin agentic-council`)
-- Type: plugin (38 lens agents incl. council-skeptic, council-guardian, council-pathfinder, council-artisan, council-architect; 66 skills)
+- Type: plugin (38 lens agents incl. agentic-council:Skeptic, agentic-council:Guardian, agentic-council:Pathfinder, agentic-council:Artisan, agentic-council:Architect; 66 skills)
 - What it can do for this project: Multi-lens critique: risk (Skeptic), compliance (Guardian), mobile (Pathfinder), visual design (Artisan), architecture (Architect).
 - When it is used: Phase 19 (Skeptic failure-mode lens), Phase 11 (Guardian), Phase 12 (Pathfinder), Phase 13 (Artisan)
 - What it must not be trusted to do automatically: Final decisions — lenses advise; the orchestrator decides.
 - Permissions/consequences: agents have all tools; briefs restrict them
 - Classification: REVIEW — Independent lenses for pre-mortem and compliance.
-- Evidence: [EV: docs/evidence/p00/tierA-probe2-orchestrator-20261001T135809.log]
+- Evidence: [EV: docs/evidence/p00/agent-type-probe-guardian-orchestrator-20261001T162124.md] (harmless spawn of agentic-council:Guardian); definition read [EV: docs/evidence/p00/tierA-probe2-orchestrator-20261001T135809.log]
 
 ### backend-design
 - Name: `backend-design` (discovery item `plugin backend-design`)
@@ -724,7 +724,7 @@ Harmless-call evidence for skills and agents = the installed definition file res
 | Git operations | `git` and `gh` CLI (orchestrator only) | none |
 | Review diffs | review-council (6 read-only reviewers) | pr-review-toolkit, feature-dev:code-reviewer |
 | Security audit | securitymaxxing (threat-model, secrets, ship-check) | agent-protocols:security-auditor, review-council:security-reviewer |
-| Privacy/legal research | scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback | privacy-legal, product-legal, agentic-council:council-guardian |
+| Privacy/legal research | scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback | privacy-legal, product-legal, agentic-council:Guardian |
 | Accessibility review | design:accessibility-review | agent-protocols:accessibility-specialist |
 | Drift detection | spec-drift (init, check, report) | scripts/validate_docs.py, scripts/trace.py |
 | TestFlight preparation | Devesh in App Store Connect (UA-004) with docs/RELEASE_CHECKLIST.md | agent-protocols:release-engineer, wai-suite:wai-mobile-release |

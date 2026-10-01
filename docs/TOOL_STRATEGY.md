@@ -10,7 +10,7 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | Git | Orchestrator only (`git`, `gh` CLI) | none | review-council reviews each milestone diff before merge (build) |
 | Independent code review (build) | review-council (correctness, security, architecture, interface, test-evidence, policy-boundary) | pr-review-toolkit (silent-failure-hunter, type-design-analyzer), feature-dev:code-reviewer | Orchestrator spot-check |
 | Runtime verification (build) | Xcode MCP (BuildProject, RunAllTests, RenderPreview, DeviceInteraction tools) | XCUITest + `xcrun simctl` with explicit UDIDs | Verifier subagent, never the implementer |
-| Legal and privacy research | general-purpose researchers per topic using scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback saved with `--text-file`; WebSearch only to locate primary sources | privacy-legal (PIA structure), product-legal (feature risk, marketing claims) | agentic-council:council-guardian lens plus fresh reviewer with claim sampling |
+| Legal and privacy research | general-purpose researchers per topic using scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback saved with `--text-file`; WebSearch only to locate primary sources | privacy-legal (PIA structure), product-legal (feature risk, marketing claims) | agentic-council:Guardian lens plus fresh reviewer with claim sampling |
 | Apple platform research | general-purpose researchers per framework using the Apple documentation JSON route | Xcode MCP DocumentationSearch cross-check | Fresh reviewer opens every `IOS-` excerpt (G3 item 4) |
 | Drift detection | spec-drift (init in Phase 0.16, report at G4 and Phase 25) | scripts/validate_docs.py, scripts/trace.py, scripts/check_facts.py | Phase 25 fresh auditors |
 
@@ -29,7 +29,7 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | Git operations | `git` and `gh` CLI (orchestrator only) | none |
 | Review diffs | review-council (6 read-only reviewers) | pr-review-toolkit, feature-dev:code-reviewer |
 | Security audit | securitymaxxing (threat-model, secrets, ship-check) | agent-protocols:security-auditor, review-council:security-reviewer |
-| Privacy/legal research | scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback | privacy-legal, product-legal, agentic-council:council-guardian |
+| Privacy/legal research | scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback | privacy-legal, product-legal, agentic-council:Guardian |
 | Accessibility review | design:accessibility-review | agent-protocols:accessibility-specialist |
 | Drift detection | spec-drift (init, check, report) | scripts/validate_docs.py, scripts/trace.py |
 | TestFlight preparation | Devesh in App Store Connect (UA-004) with docs/RELEASE_CHECKLIST.md | agent-protocols:release-engineer, wai-suite:wai-mobile-release |
@@ -52,14 +52,14 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | docs/PRODUCT_SPEC.md | agent-protocols:spec-analyst |
 | docs/DATA_MODEL.md, docs/RESERVED_NAMES.md | backend-design:schema-reviewer and pr-review-toolkit:type-design-analyzer |
 | docs/ARCHITECTURE.md | backend-design:boring-tech-advisor (CHALLENGED lines) and agent-protocols:security-auditor |
-| docs/ENGINE_SPEC.md, docs/PERSONALISATION_DESIGN.md | Fresh general-purpose reviewer with the red-line construction attempt (RL-1) and agentic-council:council-skeptic |
+| docs/ENGINE_SPEC.md, docs/PERSONALISATION_DESIGN.md | Fresh general-purpose reviewer with the red-line construction attempt (RL-1) and agentic-council:Skeptic |
 | docs/ENGINE_TEST_PLAN.md, docs/TESTING_STRATEGY.md, docs/FEATURE_VERIFICATION_CHECKLIST.md | agent-protocols:test-engineer |
-| docs/LEGAL_PRIVACY_SAFETY.md | Fresh general-purpose reviewer (claim sampling on every LEGAL- line) and agentic-council:council-guardian |
+| docs/LEGAL_PRIVACY_SAFETY.md | Fresh general-purpose reviewer (claim sampling on every LEGAL- line) and agentic-council:Guardian |
 | docs/COPY_REVIEW.md | design:ux-copy lens via a fresh reviewer plus scripts/copy_scan.py --replacements |
-| docs/APPLE_PLATFORM_PLAN.md | Fresh general-purpose reviewer opening every IOS- excerpt; agentic-council:council-pathfinder lens |
-| docs/FIGMA_IMPLEMENTATION_MAP.md, docs/DESIGN_SYSTEM.md | agent-protocols:accessibility-specialist and agentic-council:council-artisan |
+| docs/APPLE_PLATFORM_PLAN.md | Fresh general-purpose reviewer opening every IOS- excerpt; agentic-council:Pathfinder lens |
+| docs/FIGMA_IMPLEMENTATION_MAP.md, docs/DESIGN_SYSTEM.md | agent-protocols:accessibility-specialist and agentic-council:Artisan |
 | docs/GIT_WORKFLOW.md, docs/IMPLEMENTATION_PLAN.md, docs/TASKS.md, docs/TRACEABILITY_MATRIX.md | Plan agent (read-only) plus scripts/check_tasks.py and scripts/trace.py |
-| docs/FAILURE_MODES.md | agentic-council:council-skeptic and backend-design:incident-thinker |
+| docs/FAILURE_MODES.md | agentic-council:Skeptic and backend-design:incident-thinker |
 | docs/CLAUDE_CODE_INSTRUCTIONS.md, CLAUDE.md | review-council:policy-boundary-reviewer and claude-md-management:claude-md-improver (report only) |
 | docs/DEVESH_BUILD_GUIDE.md | Fresh beginner-test agent (Phase 25.9) |
 | docs/RELEASE_CHECKLIST.md | agent-protocols:release-engineer |
@@ -104,14 +104,14 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | docs/DATA_MODEL.md | Phase 7 author subagent | backend-design:schema-reviewer |
 | docs/RESERVED_NAMES.md | Phase 7 author subagent | scripts/check_names.py |
 | docs/ARCHITECTURE.md | Phase 8 author subagent | backend-design:boring-tech-advisor |
-| docs/ENGINE_SPEC.md | Phase 9 author subagents (one part per engine EN-1–EN-7) | fresh reviewer + council-skeptic |
+| docs/ENGINE_SPEC.md | Phase 9 author subagents (one part per engine EN-1–EN-7) | fresh reviewer + agentic-council:Skeptic |
 | docs/PERSONALISATION_DESIGN.md | Phase 9 author subagent | fresh reviewer |
 | docs/ENGINE_TEST_PLAN.md | Phase 10 author subagents (parts per engine) | agent-protocols:test-engineer |
-| docs/LEGAL_PRIVACY_SAFETY.md | Phase 11 researcher subagents (parts per topic) | fresh reviewer + council-guardian |
+| docs/LEGAL_PRIVACY_SAFETY.md | Phase 11 researcher subagents (parts per topic) | fresh reviewer + agentic-council:Guardian |
 | docs/COPY_REVIEW.md | Phase 11 copy author subagent | fresh reviewer + copy_scan.py --replacements |
-| docs/APPLE_PLATFORM_PLAN.md | Phase 12 researcher subagents (parts per framework group) | fresh reviewer + council-pathfinder |
+| docs/APPLE_PLATFORM_PLAN.md | Phase 12 researcher subagents (parts per framework group) | fresh reviewer + agentic-council:Pathfinder |
 | docs/FIGMA_IMPLEMENTATION_MAP.md | Phase 13 author subagent | agent-protocols:accessibility-specialist |
-| docs/DESIGN_SYSTEM.md | Phase 13 author subagent | council-artisan |
+| docs/DESIGN_SYSTEM.md | Phase 13 author subagent | agentic-council:Artisan |
 | docs/FACT_REGISTER.md | orchestrator | scripts/check_facts.py |
 | docs/POC_REGISTER.md | orchestrator | G3 gate reviewer |
 | docs/gates/GATE-3.md | orchestrator | none (review record) |
@@ -121,7 +121,7 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | docs/IMPLEMENTATION_PLAN.md | Phase 16 author subagent | Plan agent |
 | docs/TASKS.md | Phase 17 author subagents (parts per milestone) | scripts/check_tasks.py + Plan agent |
 | docs/TRACEABILITY_MATRIX.md | Phase 18 author subagent | scripts/trace.py |
-| docs/FAILURE_MODES.md | Phase 19 author subagent | council-skeptic + incident-thinker |
+| docs/FAILURE_MODES.md | Phase 19 author subagent | agentic-council:Skeptic + incident-thinker |
 | docs/CLAUDE_CODE_INSTRUCTIONS.md | Phase 20 author subagent | review-council:policy-boundary-reviewer |
 | docs/DEVESH_BUILD_GUIDE.md | Phase 22 author subagent | beginner-test agent |
 | docs/RELEASE_CHECKLIST.md | Phase 23 author subagent | agent-protocols:release-engineer |
