@@ -13,8 +13,6 @@ warn() { printf '  %s! %s%s\n      %s\n' "$Y" "$1" "$N" "$2"; WARNINGS=$((WARNIN
 have() { command -v "$1" >/dev/null 2>&1; }
 head1() { head -n 1 | tr -d '\r'; }
 
-# Claude Code's native installer puts the command here; add it for this check only.
-case ":$PATH:" in *":$HOME/.local/bin:"*) ;; *) PATH="$PATH:$HOME/.local/bin" ;; esac
 
 echo
 echo "${B}Mac readiness check for the planning run${N}  ($(date '+%a %d %b %Y, %H:%M'))"
@@ -40,8 +38,9 @@ elif [ "$auto" = "0" ]; then ok "Automatic macOS installs are off"
 else warn "Couldn't tell whether automatic macOS updates are on" "Check: System Settings → General → Software Update → ⓘ next to Automatic Updates → \"Install macOS updates\" should be off"; fi
 
 free=$(df -g / 2>/dev/null | awk 'NR==2{print $4}')
-if [ -n "$free" ] && [ "$free" -ge 50 ] 2>/dev/null; then ok "${free} GB free"
-else bad "Only ${free:-?} GB free (needs 50 GB)" "Free up space (Apple menu → System Settings → General → Storage)"; fi
+if [ -n "$free" ] && [ "$free" -ge 30 ] 2>/dev/null; then ok "${free} GB free"
+elif [ -n "$free" ] && [ "$free" -ge 15 ] 2>/dev/null; then warn "${free} GB free: enough for planning" "Aim for about 30 GB before the build starts (days from now)"
+else bad "Only ${free:-?} GB free (planning needs at least 15 GB)" "Free up space (Apple menu → System Settings → General → Storage)"; fi
 
 if curl -sI --max-time 10 https://developer.apple.com >/dev/null 2>&1; then ok "Internet works"
 else bad "Can't reach developer.apple.com" "Check Wi-Fi; avoid a phone hotspot"; fi
@@ -95,6 +94,8 @@ if have claude; then
   else bad "Figma not connected in Claude Code" "Run:  claude mcp add --scope user --transport http figma https://mcp.figma.com/mcp   then  claude , type  /mcp , pick figma → Authenticate → Allow, then  /exit"; fi
   if echo "$ml" | grep -i "xcode" | grep -qiE "connected|✔"; then ok "Xcode connected in Claude Code"
   else warn "Xcode not connected in Claude Code (optional for planning, needed for the build)" "See section 2, item 11 of prompts/00_README_DEVESH.md"; fi
+elif [ -x "$HOME/.local/bin/claude" ]; then
+  bad "Claude Code is installed, but Terminal can't find the 'claude' command" "Run:  echo 'export PATH=\"\$HOME/.local/bin:\$PATH\"' >> ~/.zshrc   then close this window and open a new Terminal window"
 else
   bad "Claude Code (the 'claude' command) isn't installed" "Run:  curl -fsSL https://claude.ai/install.sh | bash   then open a new Terminal window, run  claude  once and log in with your Claude account in the browser"
 fi
