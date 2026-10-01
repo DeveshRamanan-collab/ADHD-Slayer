@@ -1,0 +1,6 @@
+scripts/figma_fingerprint.py
+scripts/figma_reconcile.py
+scripts/figma_read_plan.py
+scripts/extract_text.py
+scripts/validate_analysis.py
+docs/agents/P00-scripts-figma/notes.md

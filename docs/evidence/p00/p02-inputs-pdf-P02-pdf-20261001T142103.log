@@ -1,0 +1,12 @@
+# cmd: wc -l research/ADHD planner product design and research.pdf docs/research-notes/pdf_01_20.md docs/research-notes/pdf_21_40.md docs/research-notes/pdf_41_60.md docs/research-notes/pdf_61_80.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-pdf
+# start: 2026-10-01T14:21:03+1000
+   82363 research/ADHD planner product design and research.pdf
+     456 docs/research-notes/pdf_01_20.md
+     535 docs/research-notes/pdf_21_40.md
+     529 docs/research-notes/pdf_41_60.md
+     422 docs/research-notes/pdf_61_80.md
+   84305 total
+# exit: 0
+# end: 2026-10-01T14:21:03+1000

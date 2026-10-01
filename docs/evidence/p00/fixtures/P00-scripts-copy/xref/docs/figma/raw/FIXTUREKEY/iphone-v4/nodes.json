@@ -1,0 +1,6 @@
+{"page": "iPhone v4", "pageId": "83:2", "nodes": [
+ {"id": "83:100", "name": "Today", "type": "FRAME", "parentId": "83:2", "depth": 1, "width": 393, "height": 852},
+ {"id": "83:101", "name": "TaskCard / Default", "type": "COMPONENT", "parentId": "83:100", "depth": 2, "width": 361, "height": 96},
+ {"id": "83:102", "name": "focusring", "type": "INSTANCE", "parentId": "83:100", "depth": 2, "width": 48, "height": 48},
+ {"id": "83:103", "name": "State=Empty", "type": "COMPONENT", "parentId": "83:100", "depth": 2, "width": 361, "height": 96}
+]}

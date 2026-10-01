@@ -1,0 +1,8 @@
+# cmd: python3 scripts/figma_read_plan.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:27+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/read-ledger.md:11:TIME: timestamp '2026-10-01T13:52' lacks seconds or offset
+figma_read_plan: wrote docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/read-plan.md: 18 lines · planned 11 · done 5 · failed 1 · skipped-variant 1 · ledger problems 1
+# exit: 1
+# end: 2026-10-01T16:12:27+1000

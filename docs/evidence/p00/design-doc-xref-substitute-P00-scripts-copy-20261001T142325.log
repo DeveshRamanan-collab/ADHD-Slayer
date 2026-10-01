@@ -1,0 +1,17 @@
+# cmd: python3 scripts/design_doc_xref.py --root docs/evidence/p00/fixtures/P00-scripts-copy/xref/sub
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:25+1000
+docs/build-spec/01-product-and-features.md:4:XREF-UNFOUND: component 'TaskCard' not found in nodes.json names, the variables cache or text-layers.csv
+design/figma/README.md:4:XREF-UNFOUND: token 'color.bg.primary' not found in nodes.json names, the variables cache or text-layers.csv
+SOURCES (substitute for docs/design/handoff.md and docs/design/DESIGN_SPEC.md (D-005, B-001)): docs/build-spec/01-product-and-features.md, design/figma/README.md
+LOOK-UP: none cached yet (every item is unfound)
+
+| # | Name | Kind | Defined at | Found | Where | Match |
+|---|---|---|---|---|---|---|
+| 1 | TaskCard | component | docs/build-spec/01-product-and-features.md:4 | no | not found | none |
+| 2 | color.bg.primary | token | design/figma/README.md:4 | no | not found | none |
+
+UNFOUND: 2 of 2 (component 1, token 1)
+# exit: 0
+# end: 2026-10-01T14:23:25+1000

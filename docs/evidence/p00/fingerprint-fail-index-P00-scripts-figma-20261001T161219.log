@@ -1,0 +1,10 @@
+# cmd: python3 scripts/figma_fingerprint.py BROKENKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:19+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/BROKENKEY/broken/nodes.json:1:NODES: missing key 'nodes'
+| Scope | Page | Page id | Nodes | Fingerprint (SHA-256) |
+|---|---|---|---|---|
+figma_fingerprint: 1 failures; root fingerprint withheld
+# exit: 1
+# end: 2026-10-01T16:12:19+1000

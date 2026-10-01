@@ -1,0 +1,14 @@
+# cmd: python3 scripts/trace.py --root docs/evidence/p00/fixtures/P00-scripts-copy
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:19+1000
+docs/TRACEABILITY_MATRIX.md:0:MISSING: document not found
+docs/PRODUCT_SPEC.md:0:MISSING: document not found
+docs/TASKS.md:0:MISSING: document not found
+docs/ENGINE_TEST_PLAN.md:0:MISSING: document not found
+docs/TESTING_STRATEGY.md:0:MISSING: document not found
+docs/FIGMA_AUDIT.md:0:MISSING: document not found
+docs/FIGMA_IMPLEMENTATION_MAP.md:0:MISSING: document not found
+trace: 7 documents missing
+# exit: 2
+# end: 2026-10-01T14:23:19+1000

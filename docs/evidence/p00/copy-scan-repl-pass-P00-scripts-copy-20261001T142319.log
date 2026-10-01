@@ -1,0 +1,10 @@
+# cmd: python3 scripts/copy_scan.py --root docs/evidence/p00/fixtures/P00-scripts-copy --replacements docs/COPY_REVIEW.md --output docs/figma/copy-scan-repl.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:19+1000
+NOTE: 14 Don't-say phrases from prompts/figma_design_prompt.md (project root)
+NOTE: scripts/copy_rules.json absent; scanning with RL2, DONTSAY, DRUG and SHAME rules only (C1-C20 not applied)
+NOTE: 4 drug names from docs/figma/drug-names.md
+copy_scan: 3 rows scanned, 3 frames, 0 frames not extracted, 0 hits; report docs/figma/copy-scan-repl.md
+# exit: 0
+# end: 2026-10-01T14:23:19+1000

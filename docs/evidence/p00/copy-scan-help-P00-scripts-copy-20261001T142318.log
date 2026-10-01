@@ -1,0 +1,64 @@
+# cmd: python3 scripts/copy_scan.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+usage: copy_scan.py [-h] [--root ROOT] [--input INPUT] [--strings STRINGS]
+                    [--replacements REPLACEMENTS]
+                    [--discreet-frames DISCREET_FRAMES] [--wording WORDING]
+                    [--drug-names DRUG_NAMES] [--rules RULES]
+                    [--output OUTPUT]
+
+copy_scan.py [--root DIR] [--input CSV | --strings DIR] [--replacements COPY_REVIEW.md]
+               [--discreet-frames LIST] [--wording PATH] [--drug-names PATH] [--rules PATH] [--output PATH]
+
+Copy red-line scan (spec: prompts/06_SCRIPT_SPECS.md "copy_scan.py"; red lines RL-2, RL-3, RL-4, RL-5;
+prompts/01 Phase 11.6 categories C1-C20).  Every row/string is scanned against:
+  RL2       the RL-2 pharmacology list: onset, peak, wear-off / wears off / wearing off, kicks in, half-life,
+            crash, rebound, effective, levels, predicts, optimal
+  DONTSAY   every quoted phrase in the "Don't say" column of the wording table in
+            prompts/figma_design_prompt.md (section "Wording rules"), case-insensitive, apostrophes normalised
+  C1..C20   Phase 11.6 category patterns from scripts/copy_rules.json (written by the orchestrator in
+            Phase 11.6).  Format: {"categories": {"C3": {"rule": "RL-1", "patterns": ["regex", ...],
+            "glanceable_only": false}}}.  When the file is absent a NOTE line is printed and the scan runs
+            with RL2, DONTSAY, DRUG and SHAME only.
+  DRUG      the drug-name list (docs/figma/drug-names.md: bullet items or table first cells; a built-in
+            list of ADHD medicines and classes is used, with a NOTE, when the file is absent) - applied to
+            Discreet-variant frames (frame name contains "Discreet", or listed in --discreet-frames) and to
+            every glanceable/notification/intent surface (page, frame, file or key naming Lock Screen,
+            notification, widget, Live Activity, Dynamic Island, Control Center/Centre, Siri, intent,
+            complication, calendar/EventKit, StandBy, Smart Stack, glanceable)
+  SHAME     the RL-4 shame/streak list: missed, overdue, streak(s), skipped, you forgot, don't break,
+            falling behind
+With --replacements, the proposed replacement column of docs/COPY_REVIEW.md (rows whose first cell is a
+COPY-nnnn id; columns located by the header names "original" and "replacement") is re-scanned with all of
+the above and additionally fails on:
+  EXCLAIM   an exclamation mark
+  PRAISE    great | awesome | amazing | well done | congrat
+  CLINICAL  adherence | compliance | non-compliant | regimen | dosage optimisation | symptom
+  AUSPELL   a US spelling (scripts/au_spelling.py list)
+  LENGTH    replacement longer than the original + 20 %
+Inputs: --input (default docs/figma/text-layers.csv; header columns id/node id, page, frame id, frame name,
+text) or --strings DIR (.strings "key" = "value"; .json/.xcstrings "key": "value"; .txt/.md one string per
+line outside fenced code and backticks).  Every input set is UI-facing.
+Writes --output (default docs/figma/copy-scan.md): rows scanned, frames, frames not extracted (from
+docs/figma/text-layers.NOT-EXTRACTED.md when present), hits with node id and category.
+Prints file:line:RULE: message per hit.  Exit 1 on any hit; 2 when an input file is missing; 0 clean.
+All relative paths resolve against --root (default: .); --wording also falls back to the project root.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --root ROOT           project or fixture root (default: .)
+  --input INPUT         text-layers CSV (default docs/figma/text-layers.csv)
+  --strings STRINGS     directory of UI string files
+  --replacements REPLACEMENTS
+                        COPY_REVIEW.md whose replacement column is re-scanned
+  --discreet-frames DISCREET_FRAMES
+                        comma-separated frame ids or names treated as Discreet
+                        variants
+  --wording WORDING     file holding the Say / Don't say table
+  --drug-names DRUG_NAMES
+                        drug-name list
+  --rules RULES         Phase 11.6 C1-C20 patterns
+  --output OUTPUT       report path
+# exit: 0
+# end: 2026-10-01T14:23:18+1000

@@ -1,0 +1,11 @@
+# cmd: wc -l research/medication_pharmacology.md research/regulation_privacy_safety.md docs/research-notes/pharmacology.md docs/research-notes/regulation.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-research-medreg
+# start: 2026-10-01T14:21:23+1000
+     570 research/medication_pharmacology.md
+     534 research/regulation_privacy_safety.md
+     396 docs/research-notes/pharmacology.md
+     557 docs/research-notes/regulation.md
+    2057 total
+# exit: 0
+# end: 2026-10-01T14:21:23+1000

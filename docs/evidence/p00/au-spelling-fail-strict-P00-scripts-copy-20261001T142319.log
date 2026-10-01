@@ -1,0 +1,9 @@
+# cmd: python3 scripts/au_spelling.py --root docs/evidence/p00/fixtures/P00-scripts-copy --strict au/docs/notes.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:19+1000
+au/docs/notes.md:3:AUSPELL: 'color' -> 'colour'
+au/docs/notes.md:3:AUSPELL: 'organize' -> 'organise'
+au_spelling: 1 files, 2 failures, 0 warnings
+# exit: 1
+# end: 2026-10-01T14:23:19+1000

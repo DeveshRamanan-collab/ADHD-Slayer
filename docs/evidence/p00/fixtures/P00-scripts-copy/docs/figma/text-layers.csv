@@ -1,0 +1,6 @@
+id,page,frame id,frame name,text,style token,is_placeholder_guess
+83:101,iPhone v4: complete build,83:100,Today,"Your focus pattern, from what you've logged",type.body,false
+83:102,iPhone v4: complete build,83:100,Today,Plan your day around when you usually feel most focused,type.body,false
+83:103,iPhone v4: complete build,83:110,Dose log,Logged at 08:02,type.caption,false
+83:104,iPhone v4: complete build,83:120,Lock Screen widget,Logged 08:02 · 3 h ago,type.caption,false
+83:105,iPhone v4: complete build,83:130,Check-in,5 of the last 7 days,type.caption,false

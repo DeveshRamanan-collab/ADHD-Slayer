@@ -1,0 +1,11 @@
+# cmd: wc -l research/interventions_evidence.md research/learning_and_lifestyles.md docs/research-notes/interventions.md docs/research-notes/learning.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-research-interventions
+# start: 2026-10-01T14:21:19+1000
+     693 research/interventions_evidence.md
+     498 research/learning_and_lifestyles.md
+     396 docs/research-notes/interventions.md
+     397 docs/research-notes/learning.md
+    1984 total
+# exit: 0
+# end: 2026-10-01T14:21:19+1000

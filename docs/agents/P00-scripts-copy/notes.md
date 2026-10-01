@@ -1,0 +1,39 @@
+# P00-scripts-copy — notes (Phase 0.16 item 2)
+
+Agent: P00-scripts-copy. Four Python 3 standard-library scripts written to the specifications in prompts/06_SCRIPT_SPECS.md. Every script has `--help`, `--root DIR`, `file:line:RULE: message` output and a non-zero exit on failure, and ends with `# <!-- END OF FILE -->`. Fixtures live under docs/evidence/p00/fixtures/P00-scripts-copy/. Every case below ran twice through scripts/run_logged.sh; the evidence path cited is the second run. `--help` ran once per script.
+
+## scripts/copy_scan.py
+
+What it does: scans UI copy against RL2 (the RL-2 pharmacology list), DONTSAY (every quoted phrase in the "Don't say" column under "Wording rules" in prompts/figma_design_prompt.md, 14 phrases), C1–C20 (from scripts/copy_rules.json), DRUG (drug-name list, applied only to Discreet frames and glanceable, notification and intent surfaces) and SHAME (RL-4 shame and streak words). Inputs are `--input` (text-layers CSV, the default), `--strings DIR` and `--replacements COPY_REVIEW.md`. Replacement rows also fail on EXCLAIM, PRAISE, CLINICAL, AUSPELL (au_spelling.py list) and LENGTH (over the original + 20 %). It writes the report (default docs/figma/copy-scan.md) with rows scanned, frames, frames not extracted (from docs/figma/text-layers.NOT-EXTRACTED.md) and each hit with its node id and category. Exit codes: 1 on any hit, 2 when an input is missing.
+- When scripts/copy_rules.json is absent, it prints a NOTE and runs RL2, DONTSAY, DRUG and SHAME only. This agent did not create that file. Its expected format is in `--help`, and the fixture copy_rules.fixture.json shows it.
+- When docs/figma/drug-names.md is absent, it uses a built-in list of 19 ADHD medicine names and classes and prints a NOTE.
+- If the wording table is not under `--root`, it is read from the project root.
+- Fixture commands: `--root <fixtures>` (clean CSV, exit 0); `--input docs/figma/text-layers-bad.csv --discreet-frames 83:240` (exit 1); `--replacements docs/COPY_REVIEW.md` (exit 0); `--replacements docs/COPY_REVIEW-bad.md` (exit 1); `--strings strings-bad --rules copy_rules.fixture.json` (exit 1, shows C3).
+- Evidence: [EV: docs/evidence/p00/copy-scan-pass-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/copy-scan-fail-layers-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/copy-scan-repl-pass-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/copy-scan-fail-repl-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/copy-scan-fail-strings-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/copy-scan-help-P00-scripts-copy-20261001T142318.log]
+- Clauses not implemented: none. Interpretation: RL2 also matches inflected forms ("peaks", "wears off", "crashes") so variants cannot slip through.
+
+## scripts/au_spelling.py
+
+What it does: scans prose for the 19 US spellings in the spec, including inflections. It skips every fenced code region, inline backticks and code identifiers (camelCase, snake_case, dotted names, words containing digits, URLs and paths). "license" is flagged only as a noun, "program" only when it means a schedule and "meter" only as a unit, each by a context rule described in `--help`. "Discrete mode" or "Discrete variant" always fails (rule DISCREET), even inside code or backticks. It exports `find_us()` and `mask_lines()`, which copy_scan.py uses.
+- Severity: UI string files (.strings, .stringsdict, .xcstrings, .csv, .json, or a name containing copy, strings or localizable) always fail (AUSPELL). Documents give AUSPELL-WARN, which becomes AUSPELL with `--strict`. Exit codes: 1 on any failure, 2 when a path is missing.
+- Fixture commands: `--root <fixtures> au/docs/clean.md au/ui/Copy-clean.json au/docs/notes.md` (exit 0, two warnings); `--root <fixtures> au` (exit 1: DISCREET plus AUSPELL in Copy.json); `--strict au/docs/notes.md` (exit 1).
+- Evidence: [EV: docs/evidence/p00/au-spelling-pass-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/au-spelling-fail-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/au-spelling-fail-strict-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/au-spelling-help-P00-scripts-copy-20261001T142318.log]
+- Clauses not implemented: none. The masking follows validate_docs.exempt_mask but exempts every fence, because the spec says "fenced code" without restricting the info string.
+
+## scripts/trace.py
+
+What it does: parses the seven Phase 18 documents under `--root`. Rules: ORPHAN-TEST, FEAT-NOTASK, TASK-NOTEST (the "verified by" column needs a TEST- id or `N/A (<at least three words>)`), SCR-NOUI (matched by SCR id or by the SCR's node ids in a UI- row, or a matrix row that pairs the SCR with a UI-) and MATRIX-CELL (empty cells as defined in the shared conventions, naming the column). It also reports TEST-UNDEF, a cited TEST- id that is not defined; this is part of the "task without TEST-" clause. Definitions are headings or table first cells; fenced regions are skipped. Exit codes: 1 on any hit, 2 when a document is missing (`--allow-missing` treats missing documents as empty).
+- Fixture commands: `--root <fixtures>/trace-clean` (exit 0); `--root <fixtures>/trace-bad` (exit 1, seven hits covering every rule); `--root <fixtures>` (exit 2, MISSING).
+- Evidence: [EV: docs/evidence/p00/trace-pass-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/trace-fail-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/trace-missing-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/trace-help-P00-scripts-copy-20261001T142318.log]
+- Clauses not implemented: none. Limitation: node ids are matched with the pattern `n:n`, so a time such as 08:02 inside a SCR definition could create a false SCR→UI link.
+
+## scripts/design_doc_xref.py
+
+What it does: extracts token, component and state names from headings, table first cells and backticked identifiers, skipping fenced code. Each name gets a kind from its shape or from the enclosing headings; "other" names are listed only with `--all`. It looks each name up in docs/figma/raw/**/nodes.json names, the variables cache (docs/figma/raw/**/get_variable_defs/* and variables*.json, MCP text wrapper included) and docs/figma/text-layers.csv. It prints a Markdown table to stdout (Found, Where, and Match: exact, case-insensitive or normalised) and the unfound count. Each unfound item also goes to stderr as `file:line:XREF-UNFOUND`.
+- Sources (D-005, B-001): uses docs/design/handoff.md and docs/design/DESIGN_SPEC.md when they exist. Otherwise it reads docs/build-spec/*.md and design/figma/README.md. `--sources` overrides both, and the first output line says which sources were used and why.
+- Exit codes: 2 when no source exists; 1 with `--strict` and any unfound item; otherwise 0.
+- Fixture commands: `--root <fixtures>/xref` (exit 0, 3 of 9 unfound); the same with `--strict` (exit 1); `--root <fixtures>/xref/sub` (substitute sources, exit 0); `--root <fixtures>/xref/sub/docs` (exit 2).
+- Evidence: [EV: docs/evidence/p00/design-doc-xref-pass-P00-scripts-copy-20261001T142319.log] [EV: docs/evidence/p00/design-doc-xref-fail-strict-P00-scripts-copy-20261001T142325.log] [EV: docs/evidence/p00/design-doc-xref-substitute-P00-scripts-copy-20261001T142325.log] [EV: docs/evidence/p00/design-doc-xref-missing-P00-scripts-copy-20261001T142325.log] [EV: docs/evidence/p00/design-doc-xref-help-P00-scripts-copy-20261001T142318.log]
+- Clauses not implemented: none. The "normalised" match (separators . / - _ and space treated as one) goes beyond the spec's exact and case-insensitive matches; it is labelled so the reader can discount it. A read-only run against the real project root found 297 names from the substitutes, all unfound because no Figma cache exists yet. That run wrote nothing and has no evidence log.
+
+<!-- END OF FILE -->

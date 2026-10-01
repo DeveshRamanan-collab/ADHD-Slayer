@@ -1,0 +1,56 @@
+# cmd: python3 scripts/figma_reconcile.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+usage: figma_reconcile.py [-h] [--candidates PAGE_SLUG] [--strict]
+                          [--root ROOT]
+                          fileKey
+
+Reconcile nodes.json with SCR/FRM/CMP/INT rows.
+
+positional arguments:
+  fileKey
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --candidates PAGE_SLUG
+                        print one page's candidates in 04-T11 block order
+  --strict              exit 1 on any missing id or violation
+  --root ROOT           project root (default: current directory)
+
+figma_reconcile.py <fileKey> [--candidates <page-slug>] [--strict] [--root DIR]
+
+Reconciles the Figma structural index with the analysis rows (Phase 3/4, G1).
+
+Figma side, from every docs/figma/raw/<fileKey>/<page-slug>/nodes.json:
+  top-level frames  FRAME/COMPONENT/COMPONENT_SET/INSTANCE whose parent is the page (CANVAS)
+                    or a SECTION on the page (a chain of SECTIONs up to the page)
+  sections          SECTION nodes on the page (each gets a Kind=section FRM- row, so the
+                    section-1 inventory can equal the depth-1 count; see validate_analysis.py)
+  component sets    every COMPONENT_SET
+  components        every COMPONENT; one whose parent is a COMPONENT_SET is a variant covered
+                    by its set's row and needs no row of its own
+  interactive-element candidates  any node that (a) carries a prototype reaction ("reactions"
+                    in the index), (b) is an INSTANCE whose mainComponentName matches the Phase 3
+                    regex, or (c) has a name matching it:
+                    (?i)button|toggle|switch|chip|tab|segment|picker|field|input|slider|stepper|link|control|row|card|sheet|menu|fab|cta
+Row side, from docs/FIGMA_AUDIT.md (or docs/figma/analysis/*.md when the audit is not yet
+assembled): node ids in SCR-/FRM-/CMP- rows (### headings and table rows whose first cell is
+the id), INT- rows (#### headings and table rows) and NON-INTERACTIVE lines (the node id must
+be on the same line). Fenced code blocks are skipped.
+
+Prints per page: candidates found vs rows present, ids missing on each side, Platform-column
+violations (Watch page rows must be `Watch`; Glanceables rows one of Home-widget, Lock-widget,
+Live-Activity, Control-Center).
+--candidates <slug>  prints the candidate list for one page in 04-T11 block order (one ###
+    block per top-level frame/section/component set in document order, each followed by the
+    #### candidates inside it) and exits.
+--strict  exit 1 on any missing id or violation (without it, problems are printed, exit 0).
+Exit 2 with a message if a page folder has raw text but no nodes.json, or nodes.json is malformed.
+
+Rules: MISSING-ROW (Figma node without a row), MISSING-NODE (row whose node id is not in the
+page's nodes.json), MISSING-INT (candidate without INT-/NON-INTERACTIVE), DUP-ROW (one node under
+two different SCR/FRM/CMP ids), PLATFORM, NOPAGE (analysis file without a nodes.json page),
+NONODES (page folder with raw text but no nodes.json).
+# exit: 0
+# end: 2026-10-01T16:12:35+1000

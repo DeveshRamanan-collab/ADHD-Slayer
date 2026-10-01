@@ -1,0 +1,13 @@
+# cmd: python3 scripts/copy_scan.py --root docs/evidence/p00/fixtures/P00-scripts-copy --strings strings-bad --rules copy_rules.fixture.json --output docs/figma/copy-scan-strings-bad.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+NOTE: 14 Don't-say phrases from prompts/figma_design_prompt.md (project root)
+NOTE: 2 C1-C20 categories from copy_rules.fixture.json
+NOTE: 4 drug names from docs/figma/drug-names.md
+strings-bad/Localizable.strings:1:RL2: pharmacology term 'kicks in' (RL-2) [node strings-bad/Localizable.strings#today.focus]
+strings-bad/Localizable.strings:2:C3: 'Time to take' (RL-1) [node strings-bad/Localizable.strings#notification.reminder.body]
+strings-bad/Localizable.strings:2:DRUG: drug name 'Ritalin' on a Discreet/glanceable surface (RL-3) [node strings-bad/Localizable.strings#notification.reminder.body]
+copy_scan: 2 rows scanned, 1 frames, 0 frames not extracted, 3 hits; report docs/figma/copy-scan-strings-bad.md
+# exit: 1
+# end: 2026-10-01T14:23:18+1000

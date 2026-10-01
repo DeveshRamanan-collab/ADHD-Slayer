@@ -1,0 +1,53 @@
+# cmd: python3 scripts/figma_fingerprint.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+usage: figma_fingerprint.py [-h] [--page PAGE] [--build SLUG=PAGEID] [--check]
+                            [--root ROOT]
+                            fileKey
+
+Canonical structural fingerprints of a Figma file (Phase 1.3, prompts/06_SCRIPT_SPECS.md).
+
+positional arguments:
+  fileKey
+
+optional arguments:
+  -h, --help           show this help message and exit
+  --page PAGE          one page slug only (no root fingerprint is printed)
+  --build SLUG=PAGEID  write <slug>/nodes.json from the cached get_metadata
+                       response first (repeatable)
+  --check              compare with stored fingerprints; write nothing
+  --root ROOT          project root (default: current directory)
+
+figma_fingerprint.py <fileKey> [--page <slug>] [--build <slug>=<pageNodeId> ...] [--check] [--root DIR]
+
+Canonical structural fingerprints of a Figma file (Phase 1.3, prompts/06_SCRIPT_SPECS.md).
+
+Reads docs/figma/raw/<fileKey>/<page-slug>/nodes.json (all pages, or one with --page).
+Per page: the sorted list of (id, name, type, parentId, width, height) tuples, with any
+field whose name contains url/time/date/thumbnail/version/expires removed first, is
+serialised as canonical JSON (sort_keys=True, separators without spaces, UTF-8) and hashed
+with SHA-256. Root fingerprint = SHA-256 over the page fingerprints (hex) joined with "\n"
+in page order. Page order = order of the pages in the cached root get_metadata response
+(docs/figma/raw/<fileKey>/get_metadata/root.txt); pages it does not list follow in slug order.
+
+Writes/updates the "fingerprint" field inside each nodes.json (only when it changed) and
+prints a Markdown table for docs/FIGMA_VERSION_LOCK.md.
+
+--build <slug>=<pageNodeId>  first writes docs/figma/raw/<fileKey>/<slug>/nodes.json from the
+    cached get_metadata response docs/figma/raw/<fileKey>/get_metadata/<id with : as _>.txt.
+    Accepted formats: the MCP content wrapper [{"type":"text","text":...}] around either
+    JSON (a node tree with id/name/type/children, REST-style "document"/"nodes", or a flat
+    normalised list) or the XML/text node list (tags with id/name attributes; the tag or a
+    "type" attribute gives the type), and the root page listing ("- <id>: <name>").
+    An unrecognised format exits 2 (UNRECOGNISED): write nodes.json by hand once and log D-nnn.
+    Nodes are never guessed: only nodes present in the response are written.
+--check  compute only; exit 1 (DRIFT) if a stored fingerprint differs; writes nothing.
+--root DIR  project root (default: current directory); used for fixtures.
+
+Output lines on failure: file:line:RULE: message. Rules: NODES (nodes.json unreadable or
+malformed), PAGE (--page slug absent), CACHE (cached response missing or TRUNCATED),
+UNRECOGNISED (response format), DRIFT (--check mismatch).
+Exit: 0 ok; 1 malformed index or drift; 2 missing input or unrecognised format.
+# exit: 0
+# end: 2026-10-01T16:12:35+1000

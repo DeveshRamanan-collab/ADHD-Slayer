@@ -1,0 +1,1 @@
+[{"type": "text", "text": "export default function WatchFace() {\n  return (\n    <div data-node-id=\"20:2\"><div data-node-id=\"20:3\"><p>9:41</p>

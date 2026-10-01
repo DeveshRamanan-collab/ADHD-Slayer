@@ -1,0 +1,7 @@
+# cmd: python3 scripts/design_doc_xref.py --root docs/evidence/p00/fixtures/P00-scripts-copy/xref/sub/docs
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:25+1000
+design_doc_xref: no source document found
+# exit: 2
+# end: 2026-10-01T14:23:25+1000

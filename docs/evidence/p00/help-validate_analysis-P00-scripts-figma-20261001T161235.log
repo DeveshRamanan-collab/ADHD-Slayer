@@ -1,0 +1,48 @@
+# cmd: python3 scripts/validate_analysis.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+usage: validate_analysis.py [-h] [--key KEY] [--root ROOT] page-slug
+
+Validate one per-page Figma analysis file.
+
+positional arguments:
+  page-slug
+
+optional arguments:
+  -h, --help   show this help message and exit
+  --key KEY    file key (needed only when several file keys have this page
+               slug)
+  --root ROOT  project root (default: current directory)
+
+validate_analysis.py <page-slug> [--key <fileKey>] [--root DIR]
+
+Validates docs/figma/analysis/<page-slug>.md (template 04-T11) against the page's
+docs/figma/raw/<fileKey>/<page-slug>/nodes.json. Run by the analysis subagent before it reports
+and by the orchestrator before accepting. Rules (file:line:RULE: message):
+ COUNT     section 1 row count (table rows whose first cell is an SCR-/FRM-/CMP- id) equals the
+           nodes.json depth-1 count; frames placed inside a SECTION (top-level frames by the
+           figma_reconcile.py definition) are added, so every row-needing node is counted once
+ CAND      every candidate from figma_reconcile.py --candidates has an `#### INT-` block or a
+           NON-INTERACTIVE line carrying its node id
+ BLOCK     every `### SCR-/FRM-/CMP-` block whose design context is cached (non-TRUNCATED cache
+           file for its node, or `yes` in section 1's "Design context cached?" column) has the
+           sub-headings **A.** to **E.** each with >= 1 non-empty row (a table row without empty
+           cells, or text after the label)
+ INTBLOCK  every `#### INT-` block has **B.** to **E.** each with >= 1 non-empty row
+ REDLINE   every text layer of this page in docs/figma/text-layers.csv appears as the first cell
+           of a row in a red-line scan table (header containing "Text layer node id")
+ COUNTS    section 3 counts are present, numeric, and consistent: frames = section 1 rows =
+           expected; components / component sets / variants / instances = nodes.json; text layers
+           scanned = red-line rows; interaction candidates = candidates; INT rows = INT blocks;
+           NON-INTERACTIVE rows = NON-INTERACTIVE lines; INT + NON-INTERACTIVE >= candidates;
+           metadata-only-variant rows = section 1 rows so tagged; section 1's "Frames in
+           nodes.json" / "Rows above" / "Interaction candidates" line agrees
+ RANGE     every SCR/FRM/CMP/INT id defined in the file lies in a range allocated to this page in
+           docs/figma/id-ranges.md (a line naming the page or slug with nnnn–nnnn ranges)
+ END       the file ends with <!-- END OF FILE -->
+ PHRASE / PLACE  truncation phrases and placeholder markers outside ```figma-copy / ```quote /
+           ```output fences and backticks (validate_docs.py masks and patterns)
+Exit 0 pass; 1 any failure; 2 page or index not found.
+# exit: 0
+# end: 2026-10-01T16:12:35+1000

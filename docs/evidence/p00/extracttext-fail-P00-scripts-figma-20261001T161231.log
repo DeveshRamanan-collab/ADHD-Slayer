@@ -1,0 +1,9 @@
+# cmd: python3 scripts/extract_text.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:31+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/FIXTUREFILEKEY/get_design_context/10_12.txt:1:FORMAT: response holds neither data-node-id markup nor a JSON node tree
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/FIXTUREFILEKEY/get_design_context/99_9.txt:1:ORPHAN: cached node 99:9 is in no nodes.json of FIXTUREFILEKEY
+extract_text: 2 responses parsed, 1 TRUNCATED, 5 text rows -> docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/text-layers.csv; 7 frames not extracted -> docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/text-layers.NOT-EXTRACTED.md; problems 2
+# exit: 1
+# end: 2026-10-01T16:12:31+1000

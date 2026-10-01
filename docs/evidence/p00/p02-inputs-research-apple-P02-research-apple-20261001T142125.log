@@ -1,0 +1,9 @@
+# cmd: wc -l research/apple_platform.md docs/research-notes/apple.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-research-apple
+# start: 2026-10-01T14:21:25+1000
+     758 research/apple_platform.md
+     371 docs/research-notes/apple.md
+    1129 total
+# exit: 0
+# end: 2026-10-01T14:21:25+1000

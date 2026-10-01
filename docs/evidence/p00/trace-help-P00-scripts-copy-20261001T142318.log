@@ -1,0 +1,41 @@
+# cmd: python3 scripts/trace.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+usage: trace.py [-h] [--root ROOT] [--allow-missing]
+
+trace.py [--root DIR] [--allow-missing]
+
+Traceability check (spec: prompts/06_SCRIPT_SPECS.md "trace.py"; prompts/01 Phase 18 and Phase 17).
+Parses docs/TRACEABILITY_MATRIX.md, docs/PRODUCT_SPEC.md, docs/TASKS.md, docs/ENGINE_TEST_PLAN.md,
+docs/TESTING_STRATEGY.md, docs/FIGMA_AUDIT.md and docs/FIGMA_IMPLEMENTATION_MAP.md under --root.
+
+Definitions follow the shared convention: a heading `### <ID>` (levels 2-4, optionally followed by text)
+or a table row whose first cell is `**<ID>**` (a bare `<ID>` first cell is also accepted in the owning
+document).  A heading definition's block runs to the next heading of the same or a higher level.
+Owning documents: FEAT- PRODUCT_SPEC; TASK- TASKS; TEST- ENGINE_TEST_PLAN and TESTING_STRATEGY;
+SCR- FIGMA_AUDIT; UI- FIGMA_IMPLEMENTATION_MAP.  Every fenced region is skipped (fence marker from
+scripts/validate_docs.py); inline backticks are kept so a backticked cell is not read as empty.
+
+Rules (file:line:RULE: message)
+  ORPHAN-TEST  a TEST- definition maps to no requirement: it is in no matrix row that carries a FEAT-,
+               and its own row/block cites no FEAT-/ENG-/DATA-/IOS-/UI-/ARCH-/LEGAL-/INT-/SCR-/COPY- id,
+               RL-n or INV-RLn
+  FEAT-NOTASK  a FEAT- definition has no TASK-: no TASKS.md row cites it and no matrix row pairs it with a
+               TASK-
+  TASK-NOTEST  a TASK- row's "verified by" cell (whole row when the table has no such column) has no TEST-
+               id and no reasoned N/A ("N/A (<reason of at least three words>)")
+  TEST-UNDEF   a TEST- id cited in a TASK "verified by" cell or in the matrix is not defined
+  SCR-NOUI     a SCR- definition has no UI- row: no FIGMA_IMPLEMENTATION_MAP UI- row cites the SCR- id or
+               one of the node ids (n:n) in the SCR- definition, and no matrix row pairs it with a UI-
+  MATRIX-CELL  a matrix data row has an empty cell (whitespace, '-', '—', '–', 'n/a', 'N/A', 'TBC', '?',
+               or 'N/A (...)' with a reason under three words); the column header is named
+  MISSING      an input document does not exist (exit 2; --allow-missing treats it as empty instead)
+Exit 1 on any rule hit; 2 when an input is missing (without --allow-missing); 0 clean.
+
+optional arguments:
+  -h, --help       show this help message and exit
+  --root ROOT      project or fixture root (default: .)
+  --allow-missing  treat absent documents as empty instead of exit 2
+# exit: 0
+# end: 2026-10-01T14:23:18+1000

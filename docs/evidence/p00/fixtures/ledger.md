@@ -6,5 +6,5 @@ EPOCH 1 | started 2026-10-01T13:47:23+1000 | cap 150 | reads 0 | first_limit_err
 | # | Timestamp | Session/agent | Tool | File key | Node id | Intent (plan line / lock-check / retry / delta-audit) | Cache path | Result (pending / ok / truncated / error <class>: <text>) | Response bytes | Reads in last 24 h after this | Reads in this minute |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2026-10-01T13:50:45+1000 | orchestrator | get_metadata | gLuoHFbiiUGajAUpluWXOW | root | lock-check | /Users/deveshramanan/ADHD Slayer/docs/figma/raw/gLuoHFbiiUGajAUpluWXOW/get_metadata/root.txt | ok | 273 | 1 | 1 |
-| 2 | 2026-10-01T14:07:30+1000 | orchestrator | get_metadata | FIXTUREKEY | 9:9 | plan | /Users/deveshramanan/ADHD Slayer/docs/figma/raw/FIXTUREKEY/get_metadata/9_9.txt | error rate-limit: 429 too many requests | 0 | 2 | 1 |
-LIMIT-HIT 2026-10-01T14:07:30+1000 rate-limit
+| 2 | 2026-10-01T16:12:21+1000 | orchestrator | get_metadata | FIXTUREKEY | 9:9 | plan | /Users/deveshramanan/ADHD Slayer/docs/figma/raw/FIXTUREKEY/get_metadata/9_9.txt | error rate-limit: 429 too many requests | 32 | 2 | 1 |
+LIMIT-HIT 2026-10-01T16:12:21+1000 rate-limit

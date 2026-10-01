@@ -1,0 +1,9 @@
+# cmd: python3 scripts/figma_reconcile.py BROKENKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:26+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/BROKENKEY/orphan-page/nodes.json:0:NONODES: page folder 'orphan-page' has raw text (raw.txt) but no nodes.json; build it with figma_fingerprint.py --build orphan-page=<pageNodeId>
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/BROKENKEY/broken/nodes.json:1:NODES: missing key 'nodes'
+figma_reconcile: stopped (exit 2): fix the index problems above first
+# exit: 2
+# end: 2026-10-01T16:12:26+1000

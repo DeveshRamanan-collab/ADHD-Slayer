@@ -1,0 +1,18 @@
+# cmd: python3 scripts/figma_reconcile.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad --strict
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:24+1000
+figma_reconcile: rows from docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md, docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/watch.md
+== page "Today & Tasks" (today-and-tasks, node 10:1) ==
+  frames/sections/components needing rows: 7 · rows present: 7 · missing rows: 0 · rows without Figma node: 0
+  interaction candidates: 4 · INT rows: 2 · NON-INTERACTIVE lines: 1 · candidates missing: 1
+  components: 2 · component sets: 1 · platform violations: 0
+== page "Watch" (watch, node 20:1) ==
+  frames/sections/components needing rows: 2 · rows present: 2 · missing rows: 0 · rows without Figma node: 0
+  interaction candidates: 1 · INT rows: 1 · NON-INTERACTIVE lines: 0 · candidates missing: 0
+  components: 0 · component sets: 0 · platform violations: 1
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/FIXTUREFILEKEY/today-and-tasks/nodes.json:90:MISSING-INT: candidate 10:11 "Primary button" (INSTANCE; name) has no INT- row or NON-INTERACTIVE line
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/watch.md:9:PLATFORM: SCR-6001 on the Watch page has Platform 'iPhone' (must be Watch)
+figma_reconcile: 2 pages, 2 problems
+# exit: 1
+# end: 2026-10-01T16:12:24+1000

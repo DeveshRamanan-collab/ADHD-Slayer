@@ -1,0 +1,7 @@
+# cmd: python3 scripts/validate_analysis.py today-and-tasks --root docs/evidence/p00/fixtures/P00-scripts-figma
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:31+1000
+validate_analysis: today-and-tasks: 7 frame rows, 4 candidates, 3 INT, 1 NON-INTERACTIVE, 5 red-line rows; 0 failures
+# exit: 0
+# end: 2026-10-01T16:12:31+1000

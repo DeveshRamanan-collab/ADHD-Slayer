@@ -53,7 +53,7 @@ Harmless-call evidence for skills and agents = the installed definition file res
 - What it must not be trusted to do automatically: Writing anything (it cannot).
 - Permissions/consequences: read-only
 - Classification: SECONDARY — Cheap fan-out searches.
-- Evidence: [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
+- Evidence: [EV: docs/evidence/p00/agent-type-probes-orchestrator-20261001T161309.md] (harmless call); discovery [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
 
 ### claude-code-guide
 - Name: `claude-code-guide` (discovery item `builtin-agent claude-code-guide`)
@@ -63,7 +63,7 @@ Harmless-call evidence for skills and agents = the installed definition file res
 - What it must not be trusted to do automatically: Facts without a fetched excerpt (F9).
 - Permissions/consequences: read and web
 - Classification: SECONDARY — Claude Code feature check.
-- Evidence: [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
+- Evidence: [EV: docs/evidence/p00/agent-type-probes-orchestrator-20261001T161309.md] (harmless call); discovery [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
 
 ### WebFetch
 - Name: `WebFetch` (discovery item `builtin-tool WebFetch`)
@@ -153,7 +153,7 @@ Harmless-call evidence for skills and agents = the installed definition file res
 - What it must not be trusted to do automatically: Writing files (it cannot).
 - Permissions/consequences: read-only
 - Classification: REVIEW — Independent plan check.
-- Evidence: [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
+- Evidence: [EV: docs/evidence/p00/agent-type-probes-orchestrator-20261001T161309.md] (harmless call); discovery [EV: docs/evidence/p00/discovery-orchestrator-20261001T135656.log]
 
 ### agent-protocols
 - Name: `agent-protocols` (discovery item `plugin agent-protocols`)

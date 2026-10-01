@@ -1,6 +1,6 @@
 # FIGMA TOOL COVERAGE — Phase 0.7
 Read `docs/AGENT_RULES.md` before any work; its rules bind you.
-Written: 2026-10-01T14:18:00+1000 · Author: orchestrator · Session 2 (resume)
+Written: 2026-10-01T14:18:13+1000 · Author: orchestrator · Session 2 (resume)
 File key in scope: `gLuoHFbiiUGajAUpluWXOW` (prompts/figma_urls.md; key discovery [EV: docs/evidence/p00/figma-key-discovery-orchestrator-20261001T141201.log])
 
 ## Transport and routes

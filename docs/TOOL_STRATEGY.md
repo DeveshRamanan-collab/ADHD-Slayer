@@ -14,6 +14,26 @@ Written: 2026-10-01T14:08:00+1000 · Source of capabilities: docs/TOOL_CAPABILIT
 | Apple platform research | general-purpose researchers per framework using the Apple documentation JSON route | Xcode MCP DocumentationSearch cross-check | Fresh reviewer opens every `IOS-` excerpt (G3 item 4) |
 | Drift detection | spec-drift (init in Phase 0.16, report at G4 and Phase 25) | scripts/validate_docs.py, scripts/trace.py, scripts/check_facts.py | Phase 25 fresh auditors |
 
+## 1a. Stage table (0.4; same rows as docs/TOOL_CAPABILITY_AUDIT.md § 0.4, every row names at least one capability classified in the audit)
+| Stage | Primary capability | Supporting / reviewer |
+|---|---|---|
+| Inspect Figma | claude.ai Figma MCP read tools (orchestrator as single reader) | general-purpose analysts working from the cache |
+| Extract design system | Figma `get_variable_defs` and `get_design_context` cache | figma plugin (figma-swiftui), liquid-glass; design:design-system as reviewer |
+| Audit interactions | Figma metadata and design-context cache; `get_motion_context` | general-purpose analysts; Phase 3 inferred-route rules |
+| Research Apple API feasibility | Apple documentation JSON route (scripts/fetch_excerpt.py) | Xcode MCP DocumentationSearch; WebSearch as locator |
+| Define architecture | orchestrator reasoning plus general-purpose authors | backend-design:boring-tech-advisor, feature-dev:code-architect, agent-protocols:security-auditor |
+| Write Swift | general-purpose implementers under the superpowers spine (build phase) | swift-lsp, liquid-glass, figma-swiftui |
+| Build engine tests | `swift test` (Swift Testing) via scripts/run_logged.sh | agent-protocols:test-engineer as reviewer |
+| Run Xcode builds | Xcode MCP BuildProject / RunAllTests | `xcodebuild` + `xcrun xcresulttool` (Route B) |
+| Runtime verification on Simulator/device | Xcode MCP DeviceInteraction and RenderPreview | XCUITest + `xcrun simctl` |
+| Git operations | `git` and `gh` CLI (orchestrator only) | none |
+| Review diffs | review-council (6 read-only reviewers) | pr-review-toolkit, feature-dev:code-reviewer |
+| Security audit | securitymaxxing (threat-model, secrets, ship-check) | agent-protocols:security-auditor, review-council:security-reviewer |
+| Privacy/legal research | scripts/fetch_excerpt.py on legislation.gov.au and oaic.gov.au; WebFetch fallback | privacy-legal, product-legal, agentic-council:council-guardian |
+| Accessibility review | design:accessibility-review | agent-protocols:accessibility-specialist |
+| Drift detection | spec-drift (init, check, report) | scripts/validate_docs.py, scripts/trace.py |
+| TestFlight preparation | Devesh in App Store Connect (UA-004) with docs/RELEASE_CHECKLIST.md | agent-protocols:release-engineer, wai-suite:wai-mobile-release |
+
 ## 2. Multi-agent operating plan
 - **Orchestrator** (main session): owns the plan, docs/MANIFEST.md, docs/figma/.intent, every shared state file, merges (scripts/assemble_docs.py or file moves only), gates and Git. Writes briefs from 04-T1 and reviews from 04-T2.
 - **Designated Figma reader:** the orchestrator. No subagent calls a Figma tool (C-9). Analysts receive cache paths.

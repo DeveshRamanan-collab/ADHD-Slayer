@@ -42,6 +42,8 @@ t "stop_failure logs API_ERROR" 0 bash -c "echo '{\"error\":{\"type\":\"rate_lim
 echo "  stop_failure side effect: $(grep -c API_ERROR "$FX/PROGRESS.pc.md") API_ERROR line(s) in fixture"
 t "decline_elicitation blocks and records" 2 bash -c "echo '{\"mcp_server\":\"fixture\",\"request\":{}}' | ELICIT_OVERRIDE=$FX/elicit.md bash scripts/hooks/decline_elicitation.sh"
 echo "  elicitation side effect: $(grep -c Elicitation "$FX/elicit.md") record(s) in fixture"
+hj Bash command "bash scripts/run_planning.sh" > "$FX/b6.json"; t "guard_bash blocks the optional runner" 2 bash -c "bash scripts/hooks/guard_bash.sh < $FX/b6.json"
+hj Bash command "bash -n scripts/run_planning.sh" > "$FX/b7.json"; t "guard_bash blocks run_planning.sh even for syntax checks (run those as bash -n via a copy)" 2 bash -c "bash scripts/hooks/guard_bash.sh < $FX/b7.json"
 t "progress_nag never blocks" 0 bash -c "echo '{}' | PROGRESS_OVERRIDE=$FX/PROGRESS.pc.md bash scripts/hooks/progress_nag.sh"
 mkdir -p "$FX/agent"; printf 'docs/evidence/p00/fixtures/agent/missing.md\n' > "$FX/agent/outputs.txt"
 t "subagent_stop blocks a missing output" 2 bash -c "echo '{\"agent_id\":\"fx1\"}' | OUTPUTS_OVERRIDE=$FX/agent/outputs.txt bash scripts/hooks/subagent_stop.sh"
@@ -51,6 +53,11 @@ hj mcp__claude_ai_Figma__use_figma code x > "$FX/f1.json"; t "figma_pre blocks u
 [ -f .claude/hookstate/figma_last ] && cp .claude/hookstate/figma_last "$FX/figma_last.bak"
 printf '{"tool_name":"mcp__claude_ai_Figma__get_metadata","tool_input":{"fileKey":"FIXTUREKEY","nodeId":"9-9"}}' > "$FX/f2.json"
 t "figma_pre ledgers a fixture read (pending row)" 0 bash -c "LEDGER_OVERRIDE=$FX/ledger.md bash scripts/hooks/figma_pre.sh < $FX/f2.json"
+cp docs/figma/.intent "$FX/intent.bak" 2>/dev/null || : > "$FX/intent.bak"
+printf '{"tool_name":"mcp__claude_ai_Figma__get_metadata","tool_input":{"fileKey":"FIXTUREKEY","nodeId":"9-9"},"tool_response":"<frame id=\\"9:9\\" name=\\"Fixture\\"/>"}' > "$FX/f3.json"
+t "figma_post caches a fixture response and completes the row" 0 bash -c "LEDGER_OVERRIDE=$FX/ledger.md bash scripts/hooks/figma_post.sh < $FX/f3.json"
+echo "  figma_post side effect: $(grep -c '| ok |' "$FX/ledger.md") ok row(s) in fixture ledger; cache files: $(ls docs/figma/raw/FIXTUREKEY/*/* 2>/dev/null | tr '\n' ' ')"
+cp "$FX/intent.bak" docs/figma/.intent
 t "figma_fail classifies a 429 as rate-limit" 0 bash -c "echo '{\"tool_name\":\"mcp__claude_ai_Figma__get_metadata\",\"error\":\"429 Too Many Requests\"}' | LEDGER_OVERRIDE=$FX/ledger.md bash scripts/hooks/figma_fail.sh"
 echo "  figma_fail side effect: $(grep -c 'error rate-limit' "$FX/ledger.md") error row(s), $(grep -c LIMIT-HIT "$FX/ledger.md") LIMIT-HIT line(s) in fixture ledger"
 rm -rf docs/figma/raw/FIXTUREKEY; rm -f .claude/hookstate/figma_last

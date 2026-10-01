@@ -1,0 +1,49 @@
+# cmd: python3 scripts/design_doc_xref.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+usage: design_doc_xref.py [-h] [--root ROOT] [--sources SOURCES [SOURCES ...]]
+                          [--all] [--strict]
+
+design_doc_xref.py [--root DIR] [--sources PATH_OR_GLOB ...] [--all] [--strict]
+
+Design-document cross-reference (spec: prompts/06_SCRIPT_SPECS.md "design_doc_xref.py"; used for
+docs/RECONCILIATION.md, docs/DESIGN_SYSTEM.md and gate G2 item 6).
+
+Sources: docs/design/handoff.md and docs/design/DESIGN_SPEC.md (whichever exist).  When neither exists
+(B-001), the D-005 substitutes are read instead: docs/build-spec/*.md and design/figma/README.md.
+--sources overrides both (paths or globs relative to --root).  The sources used are always printed.
+
+Extraction (every fenced code region skipped): heading text, table first cells (header rows skipped) and
+backticked identifiers.  Each name gets a Kind (a heading's kind comes from its shape or its parent
+headings, never from its own words; a heading made only of category words, such as "Colour tokens" or "States",
+is a section title, not a name):
+  token      shape like color.bg.primary / spacing/4 / --radius / $accent, or under a heading about tokens,
+             colour, palette, spacing, typography, font, radius, corner, shadow, elevation, motion,
+             animation, duration, easing, opacity or variables
+  component  PascalCase shape (TaskCard), or under a heading about components, views, controls, buttons,
+             cards, sheets, cells, rows, widgets, toolbars, tab bars, navigation, chips or rings
+  state      a state word (default, empty, loading, error, pressed, disabled, selected, focused, active,
+             offline, denied, on, off, expanded, collapsed), or under a heading about states, variants
+             or modes
+  other      anything else; listed only with --all
+Look-up (all under --root): every docs/figma/raw/**/nodes.json (node names), the variables cache
+(docs/figma/raw/**/get_variable_defs/* and docs/figma/raw/**/variables*.json: JSON keys and "name"
+values, including JSON held in an MCP {"type":"text","text":...} wrapper) and docs/figma/text-layers.csv
+(text column).  Match: exact (case-sensitive, whole name or a separator-bounded part of one),
+case-insensitive, or normalised (case-insensitive with . / - _ and spaces treated as one separator).
+
+Output: a Markdown table on stdout (# | Name | Kind | Defined at | Found | Where | Match) followed by
+the unfound count; one line per unfound item on stderr as file:line:XREF-UNFOUND: message.
+Rules: XREF-UNFOUND (unfound item; a failure only with --strict), MISSING (no source document; exit 2).
+Exit 2 when no source document exists; 1 with --strict and any unfound item; 0 otherwise.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --root ROOT           project or fixture root (default: .)
+  --sources SOURCES [SOURCES ...]
+                        design documents (paths or globs relative to --root)
+  --all                 also list names whose kind is 'other'
+  --strict              exit 1 when any item is unfound
+# exit: 0
+# end: 2026-10-01T14:23:18+1000

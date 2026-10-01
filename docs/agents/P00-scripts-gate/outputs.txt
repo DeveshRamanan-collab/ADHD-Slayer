@@ -1,0 +1,3 @@
+scripts/gate.py
+scripts/run_planning.sh
+docs/agents/P00-scripts-gate/notes.md

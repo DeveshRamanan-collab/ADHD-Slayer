@@ -1,0 +1,7 @@
+# cmd: python3 scripts/validate_docs.py docs/parts/SOURCE_NOTES/10-research-medreg.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P02-research-medreg
+# start: 2026-10-01T16:11:32+1000
+validate_docs: 1 files, 0 failures
+# exit: 0
+# end: 2026-10-01T16:11:32+1000

@@ -1,0 +1,5 @@
+scripts/copy_scan.py
+scripts/au_spelling.py
+scripts/trace.py
+scripts/design_doc_xref.py
+docs/agents/P00-scripts-copy/notes.md

@@ -1,0 +1,13 @@
+# cmd: python3 scripts/figma_fingerprint.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma --build today-and-tasks=10:1 --build watch=20:1
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:19+1000
+unchanged docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/raw/FIXTUREFILEKEY/today-and-tasks/nodes.json: 441 nodes
+unchanged docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/raw/FIXTUREFILEKEY/watch/nodes.json: 4 nodes
+| Scope | Page | Page id | Nodes | Fingerprint (SHA-256) |
+|---|---|---|---|---|
+| page | Today & Tasks | 10:1 | 441 | `0f513ca16bc0117e81f63f499042f0d1ca8018a8ef2978537c2ed8c6408531d5` |
+| page | Watch | 20:1 | 4 | `af2d828c1fef61dc4b385a35d5fedda3152222d5622cc67ed873ff8c4c1812e8` |
+| root | all 2 pages, in page order | root | 445 | `df824b03739197015ed12b67f94145b59bc32d8f2ec2caff54e8c0291ff525ae` |
+# exit: 0
+# end: 2026-10-01T16:12:19+1000

@@ -1,0 +1,7 @@
+# cmd: python3 scripts/extract_text.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:30+1000
+extract_text: 2 responses parsed, 1 TRUNCATED, 5 text rows -> docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/text-layers.csv; 7 frames not extracted -> docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/text-layers.NOT-EXTRACTED.md; problems 0
+# exit: 0
+# end: 2026-10-01T16:12:30+1000

@@ -1,0 +1,19 @@
+# cmd: python3 scripts/figma_reconcile.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma --candidates today-and-tasks
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:22+1000
+# Interaction candidates — page "Today & Tasks" (today-and-tasks, node 10:1) — 04-T11 block order
+### SECTION | Core loop | 10:2 | 1200×1000 | descendants 6
+### FRAME | Today | 10:3 | 393×852 | descendants 5
+#### candidate | Primary button | 10:5 | INSTANCE | name
+#### candidate | Task row | 10:7 | FRAME | name
+### FRAME | Today / Dark | 10:9 | 393×852 | descendants 2
+#### candidate | Primary button | 10:11 | INSTANCE | name
+### FRAME | Today / Dark / Pro Max | 10:14 | 440×956 | descendants 1
+### FRAME | Annotation | 10:12 | 600×400 | descendants 1
+### COMPONENT_SET | Chip | 10:20 | 200×100 | descendants 2
+#### candidate | Chip | 10:20 | COMPONENT_SET | name
+### FRAME | Calendar month | 10:30 | 393×852 | descendants 423
+candidates: 4
+# exit: 0
+# end: 2026-10-01T16:12:22+1000

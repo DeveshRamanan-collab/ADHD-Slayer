@@ -1,0 +1,20 @@
+# cmd: python3 scripts/validate_analysis.py today-and-tasks --root docs/evidence/p00/fixtures/P00-scripts-figma/bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:1:CAND: candidate 10:11 "Primary button" (name) has no #### INT- block or NON-INTERACTIVE line
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:20:BLOCK: SCR-2002 (node 10:3, design context cached) lacks sub-heading E
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:26:INTBLOCK: INT-3001 lacks sub-heading E
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:26:RANGE: INT-3001 outside the range(s) 2000–2999 allocated to this page
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:30:INTBLOCK: INT-2002 lacks sub-heading E
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:45:REDLINE: text layer 10:33 of frame 10:30 ("September") has no red-line scan row
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:50:COUNTS: INT rows 2 + NON-INTERACTIVE rows 1 < interaction candidates 4
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:51:COUNTS: count 'frames' is not numeric: 'seven'
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:51:COUNTS: 'text layers scanned: 5' but the file/index gives 4
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:51:COUNTS: 'INT rows: 3' but the file/index gives 2
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:57:PHRASE: etc.
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:58:PLACE: TODO
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/analysis/today-and-tasks.md:60:END: missing <!-- END OF FILE -->
+validate_analysis: today-and-tasks: 7 frame rows, 4 candidates, 2 INT, 1 NON-INTERACTIVE, 4 red-line rows; 13 failures
+# exit: 1
+# end: 2026-10-01T16:12:35+1000

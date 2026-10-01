@@ -53,4 +53,76 @@ Fix in plain English (for Devesh if applicable): none — success looks like: N/
 Retry log: none
 Effect on downstream work if never resolved: Navigation routes are "inferred" where the design file carries no prototype reactions.
 
+## B-005 — Figma REST route absent (no FIGMA_TOKEN)
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 5 · Status: USER ACTION REQUIRED (UA-007, optional)
+Attempted (exact): environment presence check in `bash scripts/preflight_probe.sh env`
+Result (verbatim, first 10 lines, indented):
+    FIGMA_TOKEN: unset
+Error class (Figma): n/a
+Why it blocks: Nothing; the lock records structural fingerprints only (Phase 1.3 known limitation).
+Work continued without it: The version lock uses node fingerprints from cached metadata [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log].
+Fix in plain English (for Devesh if applicable): see UA-007 — success looks like: PREFLIGHT says "REST route available".
+Retry log: none (not retryable by the orchestrator)
+Effect on downstream work if never resolved: Edits inside a frame between sessions go undetected by the lock.
+
+## B-006 — No physical iPhone or Apple Watch visible to Xcode
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 13 · Status: USER ACTION REQUIRED (UA-003)
+Attempted (exact): `xcrun devicectl list devices`
+Result (verbatim, first 10 lines, indented):
+    No devices found.
+Error class (Figma): n/a
+Why it blocks: Nothing in planning; on-device checks in MS-05 onward.
+Work continued without it: Simulator-only planning [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log].
+Fix in plain English (for Devesh if applicable): see UA-003 — success looks like: both devices listed in Xcode without a warning.
+Retry log: none yet
+Effect on downstream work if never resolved: Device-only checks (alarms, Lock Screen, Watch haptics) stay unverified.
+
+## B-007 — xcodegen, swiftlint, swiftformat not installed
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 9 · Status: WONTFIX (by design: build-phase tasks, not installed in planning)
+Attempted (exact): presence check in `bash scripts/preflight_probe.sh pkg`
+Result (verbatim, first 10 lines, indented):
+    xcodegen: absent; swiftlint: absent; swiftformat: absent
+Error class (Figma): n/a
+Why it blocks: Nothing in planning.
+Work continued without it: MS-00 tasks install them [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log].
+Fix in plain English (for Devesh if applicable): none needed — success looks like: N/A (installed by the build).
+Retry log: none (not retryable)
+Effect on downstream work if never resolved: none; MS-00 owns it.
+
+## B-008 — Claude in Chrome and the browser tool not connected
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 10 · Status: WONTFIX (not needed: WebFetch and fetch_excerpt.py are the research routes)
+Attempted (exact): tool-list inspection in `bash scripts/preflight_probe.sh config`
+Result (verbatim, first 10 lines, indented):
+    no browser tools in the tool list
+Error class (Figma): n/a
+Why it blocks: Only sites that need JavaScript rendering (see B-003).
+Work continued without it: WebFetch, WebSearch and scripts/fetch_excerpt.py [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log].
+Fix in plain English (for Devesh if applicable): none needed — success looks like: N/A.
+Retry log: none (not retryable)
+Effect on downstream work if never resolved: TGA pages may stay [UNVERIFIED] (B-003).
+
+## B-009 — GitHub MCP server failed to connect
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 12 · Status: WONTFIX (gh CLI is the GitHub route)
+Attempted (exact): MCP connection status in `bash scripts/preflight_probe.sh config`
+Result (verbatim, first 10 lines, indented):
+    plugin:github:github — failed to connect (Authorization header is badly formatted)
+Error class (Figma): n/a
+Why it blocks: Nothing; gh is authenticated with repo scope.
+Work continued without it: gh CLI for every GitHub operation [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log].
+Fix in plain English (for Devesh if applicable): none needed — success looks like: N/A.
+Retry log: none
+Effect on downstream work if never resolved: none.
+
+## B-010 — ansight runtime-verification CLI not on PATH
+Opened: 2026-10-01T16:12:51+1000 · Phase/MS/step: 0.1 item 12 · Status: WONTFIX (Xcode MCP and XCUITest are the primary runtime verifiers)
+Attempted (exact): `command -v ansight` in `bash scripts/preflight_probe.sh pkg`
+Result (verbatim, first 10 lines, indented):
+    ansight: absent
+Error class (Figma): n/a
+Why it blocks: Nothing.
+Work continued without it: Xcode MCP simulator tools and XCUITest in the build [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log].
+Fix in plain English (for Devesh if applicable): none needed — success looks like: N/A.
+Retry log: none
+Effect on downstream work if never resolved: none.
+
 <!-- END OF FILE -->

@@ -1,0 +1,7 @@
+# cmd: python3 scripts/figma_fingerprint.py BROKENKEY --root docs/evidence/p00/fixtures/P00-scripts-figma/bad --build broken=30:1
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:20+1000
+docs/evidence/p00/fixtures/P00-scripts-figma/bad/docs/figma/raw/BROKENKEY/get_metadata/30_1.txt:1:UNRECOGNISED: response format not recognised (neither JSON node tree nor XML node list); write nodes.json by hand from this response once and log D-nnn
+# exit: 2
+# end: 2026-10-01T16:12:20+1000

@@ -1,0 +1,21 @@
+# cmd: bash scripts/run_planning.sh --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-gate
+# start: 2026-10-01T14:27:10+1000
+run_planning.sh — optional unattended runner (spec: prompts/05_SETTINGS_AND_HOOKS.md "Optional runner").
+Devesh may launch it from a Terminal in the project folder; the orchestrator never launches it.
+
+Usage: bash scripts/run_planning.sh [--help]
+
+Loop: start
+  claude --dangerously-skip-permissions --continue -p "Read prompts/03_RESUME_PROMPT.md and follow Variant B."
+with output appended to logs/run-<YYYY-MM-DD>.log; when it exits, read RUN_STATUS from docs/PROGRESS.md:
+  COMPLETE | COMPLETE_WITH_RESIDUALS | HALTED_USER_ACTION_REQUIRED | HALTED_HARD_FAIL  -> exit 0 (terminal)
+  WAITING_FOR_FIGMA_RESET -> sleep until RETRY_AFTER (ISO 8601 with offset), then relaunch
+  STALLED                 -> relaunch once; if STALLED again, exit 3 with a message
+  anything else           -> sleep 15 minutes and relaunch
+At most 96 launches (exit 4 when reached). `-p` runs do not auto-wait at usage limits; the 15-minute
+back-off covers that. Exit codes: 0 terminal status reached, 2 usage error, 3 stalled twice,
+4 launch limit reached, 127 `claude` not on PATH.
+# exit: 0
+# end: 2026-10-01T14:27:10+1000

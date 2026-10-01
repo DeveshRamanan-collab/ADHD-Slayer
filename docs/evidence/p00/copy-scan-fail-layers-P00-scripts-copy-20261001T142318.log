@@ -1,0 +1,17 @@
+# cmd: python3 scripts/copy_scan.py --root docs/evidence/p00/fixtures/P00-scripts-copy --input docs/figma/text-layers-bad.csv --discreet-frames 83:240 --output docs/figma/copy-scan-bad.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+NOTE: 14 Don't-say phrases from prompts/figma_design_prompt.md (project root)
+NOTE: scripts/copy_rules.json absent; scanning with RL2, DONTSAY, DRUG and SHAME rules only (C1-C20 not applied)
+NOTE: 4 drug names from docs/figma/drug-names.md
+docs/figma/text-layers-bad.csv:2:RL2: pharmacology term 'peaks' (RL-2) [node 83:201]
+docs/figma/text-layers-bad.csv:3:DONTSAY: Don't-say phrase 'Know exactly when to take your booster' [node 83:202]
+docs/figma/text-layers-bad.csv:4:DRUG: drug name 'Vyvanse' on a Discreet/glanceable surface (RL-3) [node 83:203]
+docs/figma/text-layers-bad.csv:5:DRUG: drug name 'Ritalin' on a Discreet/glanceable surface (RL-3) [node 83:204]
+docs/figma/text-layers-bad.csv:6:SHAME: shame/streak word 'missed' (RL-4) [node 83:205]
+docs/figma/text-layers-bad.csv:6:SHAME: shame/streak word 'streak' (RL-4) [node 83:205]
+docs/figma/text-layers-bad.csv:7:DRUG: drug name 'Concerta' on a Discreet/glanceable surface (RL-3) [node 83:206]
+copy_scan: 6 rows scanned, 5 frames, 1 frames not extracted, 7 hits; report docs/figma/copy-scan-bad.md
+# exit: 1
+# end: 2026-10-01T14:23:18+1000

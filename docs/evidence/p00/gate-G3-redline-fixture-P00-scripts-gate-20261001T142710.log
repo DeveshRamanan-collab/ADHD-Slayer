@@ -1,0 +1,18 @@
+# cmd: python3 scripts/gate.py G3 --root docs/evidence/p00/fixtures/P00-scripts-gate/redline --items REDLINE
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-gate
+# start: 2026-10-01T14:27:10+1000
+# gate.py G3 · loop 1 of 3 · run 2026-10-01T14:27:10+1000 · root /Users/deveshramanan/ADHD Slayer/docs/evidence/p00/fixtures/P00-scripts-gate/redline
+Mechanical items only; the reviewer completes the 04-T3 report (evidence = this run's run_logged log).
+
+## Checklist
+| # | Check (from the master prompt's gate row / milestone plan) | Method (scripts/gate.py item / reviewer id / command) | Result | Evidence |
+|---|---|---|---|---|
+| REDLINE | RL-1..RL-9 table byte-identical (SHA-256) in every carrying document present at this gate (K.4: PRODUCT_SPEC, ENGINE_SPEC, COPY_REVIEW, LEGAL_PRIVACY_SAFETY, CLAUDE_CODE_INSTRUCTIONS, CLAUDE.md, AGENT_RULES) | gate.py REDLINE: extract the lines from the RL-1 row to the RL-9 row, sha256, compare with docs/AGENT_RULES.md | FAIL | docs/AGENT_RULES.md:7 sha256 252d4b868e00cf83; docs/ENGINE_SPEC.md:7 sha256 0dc3cc0b42fa14a0; docs/PRODUCT_SPEC.md:7 sha256 252d4b868e00cf83; docs/COPY_REVIEW.md absent and not in docs/MANIFEST.md; docs/LEGAL_PRIVACY_SAFETY.md absent and not in docs/MANIFEST.md; docs/CLAUDE_CODE_INSTRUCTIONS.md absent and not in docs/MANIFEST.md; CLAUDE.md absent and not in docs/MANIFEST.md |
+
+## Failures (file:line:RULE: message)
+docs/ENGINE_SPEC.md:10:REDLINE: [item REDLINE] differs from docs/AGENT_RULES.md:10 (sha256 0dc3cc0b42fa14a0 vs 252d4b868e00cf83)
+
+gate.py G3: 0 PASS, 1 FAIL, 1 failure lines; hard-fail classes in items: none
+# exit: 1
+# end: 2026-10-01T14:27:10+1000

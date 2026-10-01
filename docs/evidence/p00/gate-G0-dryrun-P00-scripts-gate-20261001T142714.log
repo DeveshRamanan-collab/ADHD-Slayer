@@ -1,0 +1,98 @@
+# cmd: python3 scripts/gate.py G0 --loop 1
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-gate
+# start: 2026-10-01T14:27:14+1000
+# gate.py G0 · loop 1 of 3 · run 2026-10-01T14:27:14+1000 · root /Users/deveshramanan/ADHD Slayer
+Mechanical items only; the reviewer completes the 04-T3 report (evidence = this run's run_logged log).
+
+## Checklist
+| # | Check (from the master prompt's gate row / milestone plan) | Method (scripts/gate.py item / reviewer id / command) | Result | Evidence |
+|---|---|---|---|---|
+| 1 | PREFLIGHT: every row's status in {OK, MISSING, UNVERIFIABLE} with an existing [EV:] path; RUN-SURVIVAL line | gate.py G0.1: parse docs/PREFLIGHT.md tables | PASS | docs/PREFLIGHT.md (68 rows) |
+| 2 | TOOL_CAPABILITY_AUDIT: Tier A entries + Tier B rows = discovery items; PRIMARY/SECONDARY/REVIEW entries have harmless-call [EV:] | gate.py G0.2: count ### entries, Tier B rows, unique ITEM lines in docs/evidence/p00/discovery-*.log | FAIL | docs/TOOL_CAPABILITY_AUDIT.md: Tier A 60, Tier B 100; discovery items 160 in 1 log(s) |
+| 3 | TOOL_STRATEGY: >=1 capability for every 0.4 stage; multi-agent plan; file-ownership map covers every MANIFEST path | gate.py G0.3: stage rows, plan heading, ownership-map first cells vs docs/MANIFEST.md | FAIL | docs/TOOL_STRATEGY.md: 16 stages checked; ownership map 80 paths; MANIFEST 61 paths |
+| 4 | Every hook script in prompts/05_SETTINGS_AND_HOOKS.md has a passing test in docs/evidence/p00/hooks-*.log | gate.py G0.4: [PASS]/[FAIL] lines per hook in the newest log that tests it | FAIL | 12 hooks from prompts/05; 3 hooks log(s), newest docs/evidence/p00/hooks-orchestrator-20261001T140728.log |
+| 5 | scripts/validate_docs.py --manifest exits 0 | scripts/validate_docs.py --manifest | FAIL (HARD-FAIL class) | scripts/validate_docs.py exit 1: validate_docs: 14 files, 5 failures |
+| 6 | git log shows the Phase 0 commit; git status --porcelain empty | gate.py G0.6: read-only `git log --format=%h %s`, `git status --porcelain` | FAIL | git status --porcelain: 76 entries |
+| 7 | Every PREFLIGHT MISSING row has a B-nnn (on the row, or a docs/BLOCKERS.md entry naming it) | gate.py G0.7: B- ids on MISSING rows resolved against docs/BLOCKERS.md headings; else token match | FAIL | docs/PREFLIGHT.md: 11 MISSING rows; docs/BLOCKERS.md: 4 B- entries |
+| 8 | SOURCE_INVENTORY lists every expected input (K.2) as present (SHA-256) or missing | gate.py G0.8: expected-inputs table vs K.2 list; SHA-256 prefix recomputed | PASS | docs/SOURCE_INVENTORY.md: 22 expected inputs checked; SPEC_CHECKLIST.md listed missing; a file of that name was created after the inventory |
+| C | PROGRESS header counters: 13 keys present; QUESTIONS_ASKED_TO_USER 0; TURNS_ENDED_WAITING 0; RUN_STATUS valid; UPDATED with seconds and offset | gate.py C: parse docs/PROGRESS.md header | PASS | docs/PROGRESS.md header |
+
+## Failures (file:line:RULE: message)
+docs/TOOL_CAPABILITY_AUDIT.md:56:G0.2: [item 2] Explore (SECONDARY): no harmless-call [EV:] (discovery listing does not count)
+docs/TOOL_CAPABILITY_AUDIT.md:66:G0.2: [item 2] claude-code-guide (SECONDARY): no harmless-call [EV:] (discovery listing does not count)
+docs/TOOL_CAPABILITY_AUDIT.md:156:G0.2: [item 2] Plan (REVIEW): no harmless-call [EV:] (discovery listing does not count)
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Inspect Figma' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:715
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Extract design system' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:716
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Audit interactions' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:717
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Research Apple API feasibility' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:718
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Define architecture' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:719
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Write Swift' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:720
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Build engine tests' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:721
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Run Xcode builds' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:722
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Runtime verification on Simulator/device' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:723
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Git operations' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:724
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Review diffs' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:725
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Security audit' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:726
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Privacy/legal research' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:727
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'Accessibility review' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:728
+docs/TOOL_STRATEGY.md:1:G0.3: [item 3] stage 'TestFlight preparation' has no capability row in TOOL_STRATEGY.md; the stage table row is in docs/TOOL_CAPABILITY_AUDIT.md:730
+prompts/05_SETTINGS_AND_HOOKS.md:0:G0.4: [item 4] figma_post.sh: no test line in any docs/evidence/p00/hooks-*.log
+docs/PROGRESS.md:74:EV: [item 5] verification verb without [EV: docs/evidence/...]
+docs/DECISION_LOG.md:127:EV: [item 5] verification verb without [EV: docs/evidence/...]
+docs/DECISION_LOG.md:146:EV: [item 5] verification verb without [EV: docs/evidence/...]
+docs/DECISION_LOG.md:148:EV: [item 5] verification verb without [EV: docs/evidence/...]
+docs/DECISION_LOG.md:156:PHRASE: [item 5] … [HARD-FAIL]
+.git:0:G0.6: [item 6] no commit whose subject starts 'Phase 0' (expected 'Phase 0: bootstrap, preflight, tool audit, enforcement tooling')
+docs/DECISION_LOG.md:0:G0.6: [item 6] uncommitted change (M)
+docs/PROGRESS.md:0:G0.6: [item 6] uncommitted change (M)
+docs/WORK_QUEUE.md:0:G0.6: [item 6] uncommitted change (M)
+docs/figma/TOOL_COVERAGE.md:0:G0.6: [item 6] uncommitted change (M)
+docs/agents/:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-fail-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-fail-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-fail-strict-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-fail-strict-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-help-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-pass-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/au-spelling-pass-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-layers-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-layers-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-repl-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-repl-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-strings-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-fail-strings-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-help-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-pass-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-pass-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-repl-pass-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/copy-scan-repl-pass-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-fail-strict-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-fail-strict-P00-scripts-copy-20261001T142325.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-help-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-missing-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-missing-P00-scripts-copy-20261001T142325.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-pass-P00-scripts-copy-20261001T142318.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-pass-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-substitute-P00-scripts-copy-20261001T142319.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/design-doc-xref-substitute-P00-scripts-copy-20261001T142325.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/fixtures/P00-scripts-copy/:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/fixtures/P00-scripts-figma/:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/fixtures/P00-scripts-gate/:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/gate-G0-dryrun-P00-scripts-gate-20261001T142710.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/gate-G0-dryrun-P00-scripts-gate-20261001T142714.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/gate-G3-redline-fixture-P00-scripts-gate-20261001T142710.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/gate-help-P00-scripts-gate-20261001T142710.log:0:G0.6: [item 6] uncommitted change (??)
+docs/evidence/p00/p02-inputs-brief-P02-brief-20261001T142126.log:0:G0.6: [item 6] uncommitted change (??)
+.:0:G0.6: [item 6] 36 further uncommitted paths
+docs/PREFLIGHT.md:46:G0.7: [item 7] MISSING row 'REST route (FIGMA_TOKEN)' has no B-nnn
+docs/PREFLIGHT.md:70:G0.7: [item 7] MISSING row 'Physical iPhone and Apple Watch visible to xcrun devicectl' has no B-nnn
+docs/PREFLIGHT.md:82:G0.7: [item 7] MISSING row 'xcodegen, swiftlint, swiftformat not installed (build-phase tasks; not' has no B-nnn
+docs/PREFLIGHT.md:96:G0.7: [item 7] MISSING row 'Claude in Chrome / built-in browser: not connected in this session (no' has no B-nnn
+docs/PREFLIGHT.md:103:G0.7: [item 7] MISSING row 'GitHub MCP (plugin:engineering:github) failed to connect; gh CLI is th' has no B-nnn
+docs/PREFLIGHT.md:104:G0.7: [item 7] MISSING row 'iOS runtime verification tool ansight: CLI not on PATH' has no B-nnn
+docs/PREFLIGHT.md:112:G0.7: [item 7] MISSING row 'iPhone and Watch paired, trusted, Developer Mode on' has no B-nnn
+
+gate.py G0: 3 PASS, 6 FAIL, 73 failure lines; hard-fail classes in items: 5
+# exit: 1
+# end: 2026-10-01T14:27:14+1000

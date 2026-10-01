@@ -1,0 +1,6 @@
+{
+  "categories": {
+    "C3": {"rule": "RL-1", "patterns": ["\\btime to take\\b", "\\bnext dose\\b", "\\bbooster now\\b"], "glanceable_only": false},
+    "C8": {"rule": "RL-3", "patterns": ["\\bstimulant\\b", "\\bschedule 8\\b"], "glanceable_only": true}
+  }
+}

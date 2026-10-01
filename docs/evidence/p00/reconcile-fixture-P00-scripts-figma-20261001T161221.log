@@ -1,0 +1,16 @@
+# cmd: python3 scripts/figma_reconcile.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma --strict
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:21+1000
+figma_reconcile: rows from docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/analysis/today-and-tasks.md, docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/analysis/watch.md
+== page "Today & Tasks" (today-and-tasks, node 10:1) ==
+  frames/sections/components needing rows: 7 · rows present: 7 · missing rows: 0 · rows without Figma node: 0
+  interaction candidates: 4 · INT rows: 3 · NON-INTERACTIVE lines: 1 · candidates missing: 0
+  components: 2 · component sets: 1 · platform violations: 0
+== page "Watch" (watch, node 20:1) ==
+  frames/sections/components needing rows: 2 · rows present: 2 · missing rows: 0 · rows without Figma node: 0
+  interaction candidates: 1 · INT rows: 1 · NON-INTERACTIVE lines: 0 · candidates missing: 0
+  components: 0 · component sets: 0 · platform violations: 0
+figma_reconcile: 2 pages, 0 problems
+# exit: 0
+# end: 2026-10-01T16:12:21+1000

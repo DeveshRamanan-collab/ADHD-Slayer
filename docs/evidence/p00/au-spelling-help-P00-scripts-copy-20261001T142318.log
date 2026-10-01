@@ -1,0 +1,46 @@
+# cmd: python3 scripts/au_spelling.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+usage: au_spelling.py [-h] [--strict] [--root ROOT] paths [paths ...]
+
+au_spelling.py [--root DIR] [--strict] <paths...>
+
+Australian-English spelling check (spec: prompts/06_SCRIPT_SPECS.md "au_spelling.py"; register F29 / RL-5).
+Scans prose outside code identifiers, inline backticks and fenced code (every fence is skipped here; the
+masking mirrors scripts/validate_docs.py exempt_mask, which only exempts figma-copy/quote/output fences)
+for the US-spelling list:
+
+  color  behavior  organize  organization  center  license (as a noun)  favorite  gray  analyze
+  customize  optimize  catalog  canceled  program (for a schedule)  jewelry  liter  meter (unit)  mom  math
+
+with inflections (colors, colored, behaviors, organized, centered, favorites, analyzed, customizing,
+optimizes, catalogs, canceling ...).  Code identifiers (camelCase, snake_case, dotted.names, words with
+digits, URLs, file paths) are removed before matching.  Heuristics for the context-dependent words:
+  license  flagged when used as a noun: after a/an/the/your/my/our/their/this/that/driver's/software/
+           open-source, or before agreement/key/terms/fee/holder/number/plate/text
+  program  flagged when used for a schedule: within three words of schedule/daily/weekly/exercise/
+           training/fitness/event/tv/study/course/routine/day/week/session/plan
+  meter    flagged when a unit: after a number, or after square/cubic/per/a/one, and kilometer/
+           centimeter/millimeter always
+Paths may be files or directories (recursive: .md .txt .strings .stringsdict .xcstrings .json .csv).
+A UI string file is .strings/.stringsdict/.xcstrings/.csv/.json, or any file whose name contains
+"copy", "strings" or "localizable"; every other file is a document.
+
+Rules (file:line:RULE: message)
+  AUSPELL       US spelling in a UI string file, or in a document with --strict      (failure)
+  AUSPELL-WARN  US spelling in a document without --strict                           (warning only)
+  DISCREET      "Discrete mode" / "Discrete variant" anywhere, code and backticks included (always a
+                failure: the product word is "Discreet")
+Exit 1 on any failure; 2 when a path does not exist; 0 otherwise (warnings do not fail).
+--root DIR resolves relative paths against DIR (default: the current directory).
+
+positional arguments:
+  paths        files or directories to scan
+
+optional arguments:
+  -h, --help   show this help message and exit
+  --strict     US spellings in documents are failures too
+  --root ROOT  base directory for relative paths (default: .)
+# exit: 0
+# end: 2026-10-01T14:23:18+1000

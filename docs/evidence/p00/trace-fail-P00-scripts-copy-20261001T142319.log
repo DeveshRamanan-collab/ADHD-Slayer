@@ -1,0 +1,14 @@
+# cmd: python3 scripts/trace.py --root docs/evidence/p00/fixtures/P00-scripts-copy/trace-bad
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:19+1000
+docs/TRACEABILITY_MATRIX.md:6:MATRIX-CELL: empty cell in column 'TEST'
+docs/TRACEABILITY_MATRIX.md:6:MATRIX-CELL: empty cell in column 'FVC'
+docs/ENGINE_TEST_PLAN.md:6:ORPHAN-TEST: TEST-0009 maps to no requirement (no matrix FEAT- row, no requirement id in its definition)
+docs/PRODUCT_SPEC.md:7:FEAT-NOTASK: FEAT-0003 has no TASK-
+docs/TASKS.md:6:TASK-NOTEST: TASK-0002 has no TEST- and no reasoned N/A
+docs/TASKS.md:7:TEST-UNDEF: TASK-0004 cites TEST-0042, which is not defined
+docs/FIGMA_AUDIT.md:7:SCR-NOUI: SCR-0003 has no UI- row (node ids 83:140)
+trace: 3 FEAT, 3 TASK, 3 TEST, 3 SCR, 2 UI, 2 matrix rows; 7 failures
+# exit: 1
+# end: 2026-10-01T14:23:19+1000

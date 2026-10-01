@@ -124,7 +124,7 @@ Evidence: none
 Date: 2026-10-01T14:18:32+1000 · Phase/MS: 0.7 · Decided by: orchestrator · Status: ADOPTED
 Context: The session tool list (docs/evidence/p00/figma-tools/tool-list-orchestrator-20261001T141727.md) contains read tools that .claude/settings.json does not route through figma_pre/figma_post (get_code_connect_suggestions, get_context_for_code_connect, list_file_components_for_code_connect, get_shader, list_file_shaders, list_shaders, get_generative_plugin, list_generative_plugins). Figma counts every data-reading tool against the limit.
 Decision: Never call them in the planning run; docs/figma/TOOL_COVERAGE.md lists them as unused. The hook matchers stay unchanged (no hook edit needed for a tool that is never called).
-Alternatives rejected: (1) Extend the figma_pre block list — changes tested hooks before G0 for no benefit.
+Alternatives rejected: (1) Extend the figma_pre block list — changes hooks that already have G0 test logs, for no benefit.
 Consequences: All counted reads go through the ledgered tools only.
 Reversible: YES
 Related: D-009
@@ -143,11 +143,31 @@ Evidence: none
 ## D-015 — Resume recovery: missing Phase 0.16 scripts re-dispatched as three briefs; scripts end with a comment end marker
 Date: 2026-10-01T14:18:32+1000 · Phase/MS: 0.16 · Decided by: orchestrator · Status: ADOPTED
 Context: After the abrupt stop, docs/agents/ held no briefs or outputs.txt; scripts/ held assemble_docs, check_facts, check_names and check_tasks (spot-checked, [EV: docs/evidence/p00/spotcheck-P00-scripts-generic-names-orchestrator-20261001T141640.log]) but lacked validate_analysis, figma_reconcile, figma_fingerprint, figma_read_plan, extract_text, copy_scan, au_spelling, trace, design_doc_xref, gate.py and run_planning.sh required by 0.16 item 2; G0 cannot run without gate.py.
-Decision: Re-dispatch as briefs P00-scripts-figma (five Figma scripts), P00-scripts-copy (copy_scan, au_spelling, trace, design_doc_xref) and P00-scripts-gate (gate.py, run_planning.sh). Each script ends with the comment line "# <!-- END OF FILE -->" so the SubagentStop hook can check it. This supersedes the timing in D-008 only to the extent that the Figma scripts are written now against the one cached response format and re-checked after the first page metadata is cached.
+Decision: Re-dispatch as briefs P00-scripts-figma (five Figma scripts), P00-scripts-copy (copy_scan, au_spelling, trace, design_doc_xref) and P00-scripts-gate (gate.py, run_planning.sh). Each script ends with the comment line "# <!-- END OF FILE -->" so the SubagentStop hook can find it. This supersedes the timing in D-008 only to the extent that the Figma scripts are written now against the one cached response format and re-run on fixtures after the first page metadata is cached.
 Alternatives rejected: (1) Run G0 without gate.py — G0 requires scripts/gate.py G0. (2) One agent for all eleven — a cut mid-burst would lose all of it (OM-7.9).
-Consequences: G0 runs after the three briefs are spot-checked and merged.
+Consequences: G0 runs after the three briefs pass the orchestrator's spot-check and are merged.
 Reversible: YES
 Related: D-008, D-011
+Evidence: none
+
+## D-016 — Phase 2 source notes authored in 13 parts, dispatched before G0
+Date: 2026-10-01T14:21:30+1000 · Phase/MS: 2 · Decided by: orchestrator · Status: ADOPTED
+Context: OM-2 and RUN ORDER let non-Figma work in docs/WORK_QUEUE.md proceed whenever possible; Phase 2 reads only local inputs and does not depend on Phase 0 or 1 outputs. The inputs total about 30,000 lines plus an 80-page PDF.
+Decision: Split docs/SOURCE_NOTES.md into 13 parts (docs/parts/SOURCE_NOTES/01-brief to 13-copy) authored by briefs P02-<slug> from the common brief docs/agents/P02-common/brief.md, assembled by scripts/assemble_docs.py SOURCE_NOTES after spot-checks. Dispatched while G0 waits for the 0.16 scripts; the parts are not integrated before G0 passes.
+Alternatives rejected: (1) Wait for G0 — idle wall-clock with no benefit. (2) One author — exceeds the 1,500-line-per-agent rule.
+Consequences: Phase 2 integration follows G0 and Phase 1; Phase 1.1's own reading of the brief and design substitutes still happens.
+Reversible: YES
+Related: D-005, D-015
+Evidence: none
+
+## D-017 — Merge of the 0.16 script briefs and the G0 pre-fixes
+Date: 2026-10-01T16:15:25+1000 · Phase/MS: 0.16 · Decided by: orchestrator · Status: ADOPTED
+Context: Briefs P00-scripts-figma, P00-scripts-copy and P00-scripts-gate returned (two were cut by the usage limit and resumed from their transcripts). Orchestrator spot-check re-runs: [EV: docs/evidence/p00/spotcheck-P00-scripts-figma-reconcile-orchestrator-20261001T161453.log], [EV: docs/evidence/p00/spotcheck-P00-scripts-figma-fingerprint-orchestrator-20261001T161454.log] (root hash identical to the author's run), [EV: docs/evidence/p00/spotcheck-P00-scripts-gate-help-orchestrator-20261001T161455.log], trace fixtures [EV: docs/evidence/p00/spotcheck-P00-scripts-copy-trace-bad-orchestrator-20261001T161131.log]. The gate dry run listed fixable G0 items.
+Decision: (1) Accept the scripts and the authors' stated defaults (notes.md of each brief): gate.py reads the stage table from docs/TOOL_STRATEGY.md, wants a commit subject starting "Phase 0", compares REDLINE copies only from each document's own gate; copy_scan.py runs without scripts/copy_rules.json until Phase 11.6; the Figma parsers exit 2 on an unrecognised response format instead of guessing. (2) Copy the 0.4 stage table into docs/TOOL_STRATEGY.md § 1a. (3) Harmless-call evidence for the Explore, Plan and claude-code-guide agent types. (4) scripts/hooks/guard_bash.sh now also blocks any shell command naming the optional runner (spec 06 intent; side effect: shell text quoting its path is refused, so entries naming it are written through a file); scripts/test_hooks.sh gains figma_post and runner cases (29 PASS). (5) B-005 to B-010 for the six MISSING preflight capabilities. (6) The 04-T11 template text uses an ellipsis that the validator rejects; prompts/ is immutable, so every analysis brief tells authors to write id ranges with an en dash.
+Alternatives rejected: (1) Reclassify the three agent types OPTIONAL — they are used as reviewers and planners.
+Consequences: G0 can run on a clean tree.
+Reversible: YES
+Related: D-015
 Evidence: none
 
 <!-- END OF FILE -->

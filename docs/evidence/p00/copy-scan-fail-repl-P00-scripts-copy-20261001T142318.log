@@ -1,0 +1,17 @@
+# cmd: python3 scripts/copy_scan.py --root docs/evidence/p00/fixtures/P00-scripts-copy --replacements docs/COPY_REVIEW-bad.md --output docs/figma/copy-scan-repl-bad.md
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:18+1000
+NOTE: 14 Don't-say phrases from prompts/figma_design_prompt.md (project root)
+NOTE: scripts/copy_rules.json absent; scanning with RL2, DONTSAY, DRUG and SHAME rules only (C1-C20 not applied)
+NOTE: 4 drug names from docs/figma/drug-names.md
+docs/COPY_REVIEW-bad.md:5:EXCLAIM: exclamation mark in a replacement [node COPY-0001 83:201]
+docs/COPY_REVIEW-bad.md:5:PRAISE: praise word 'Great' [node COPY-0001 83:201]
+docs/COPY_REVIEW-bad.md:5:AUSPELL: US spelling 'favorite' -> 'favourite' [node COPY-0001 83:201]
+docs/COPY_REVIEW-bad.md:5:LENGTH: replacement 45 chars > original 21 + 20% [node COPY-0001 83:201]
+docs/COPY_REVIEW-bad.md:6:CLINICAL: clinical register 'adherence' [node COPY-0002 83:205]
+docs/COPY_REVIEW-bad.md:6:LENGTH: replacement 21 chars > original 17 + 20% [node COPY-0002 83:205]
+docs/COPY_REVIEW-bad.md:7:DRUG: drug name 'Vyvanse' on a Discreet/glanceable surface (RL-3) [node COPY-0003 Lock Screen widget 83:203]
+copy_scan: 3 rows scanned, 3 frames, 0 frames not extracted, 7 hits; report docs/figma/copy-scan-repl-bad.md
+# exit: 1
+# end: 2026-10-01T14:23:18+1000

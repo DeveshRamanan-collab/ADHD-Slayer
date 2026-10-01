@@ -1,0 +1,47 @@
+{
+ "page": "Watch",
+ "pageId": "20:1",
+ "fingerprint": "af2d828c1fef61dc4b385a35d5fedda3152222d5622cc67ed873ff8c4c1812e8",
+ "pageType": "CANVAS",
+ "source": "docs/figma/raw/FIXTUREFILEKEY/get_metadata/20_1.txt",
+ "nodes": [
+  {
+   "id": "20:2",
+   "name": "Watch face",
+   "type": "FRAME",
+   "parentId": "20:1",
+   "depth": 1,
+   "width": 198,
+   "height": 242
+  },
+  {
+   "id": "20:3",
+   "name": "Time",
+   "type": "TEXT",
+   "parentId": "20:2",
+   "depth": 2,
+   "width": 100,
+   "height": 20
+  },
+  {
+   "id": "20:4",
+   "name": "Log button",
+   "type": "INSTANCE",
+   "parentId": "20:2",
+   "depth": 2,
+   "width": 178,
+   "height": 44,
+   "reactions": 1,
+   "mainComponentName": "Button / Primary"
+  },
+  {
+   "id": "20:5",
+   "name": "Complication ring",
+   "type": "FRAME",
+   "parentId": "20:1",
+   "depth": 1,
+   "width": 100,
+   "height": 100
+  }
+ ]
+}

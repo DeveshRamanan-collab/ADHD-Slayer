@@ -1,0 +1,67 @@
+# cmd: python3 scripts/figma_read_plan.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+usage: figma_read_plan.py [-h] [--figjam BOARDKEY:NODEID] [--include-variants]
+                          [--reserve RESERVE] [--root ROOT]
+                          fileKey
+
+Generate docs/figma/read-plan.md.
+
+positional arguments:
+  fileKey
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --figjam BOARDKEY:NODEID
+                        plan the T3 get_figjam read of the flows board
+  --include-variants    plan T10 variants instead of skipped-variant
+  --reserve RESERVE     reads per epoch kept in reserve (default 30)
+  --root ROOT           project root (default: current directory)
+
+figma_read_plan.py <fileKey> [--figjam <boardKey>:<nodeId>] [--include-variants] [--reserve N] [--root DIR]
+
+Generates docs/figma/read-plan.md (Phase 1.4) from the nodes.json set, docs/figma/TOOL_COVERAGE.md
+and docs/figma/read-ledger.md. Re-run after every batch: it is the only place a read is scheduled.
+
+One line per planned read: tier T1-T12, tool, node id, page, frame name, Kind (heuristic from type,
+size and name; the analyst assigns the final Kind), variant axis, base-variant flag, planned epoch,
+status (planned / done / failed / skipped-variant). Totals per tier, per epoch and per status and
+the cap are at the top.
+
+Tiers:
+ T1  get_metadata root + one per page
+ T2  get_variable_defs on the Foundations and Components pages (when neither page exists: on the
+     page(s) holding the most COMPONENT/COMPONENT_SET nodes, at most two)
+ T3  get_figjam on the flows board (only with --figjam; the board is not in nodes.json)
+ T4  get_libraries once
+ T5  get_design_context, base variant of every top-level frame on Prototype-flow pages in MVP order
+     Onboarding > Today & Tasks > Medication & Focus window > Recovery & Support > Glanceables >
+     Watch > Settings & Privacy, then pages matching no known page name (Cover, Prototype, Handoff
+     and unmatched names) in page order
+ T6  get_motion_context on the Prototype page and on every top-level frame whose name matches
+     (?i)anim|transition|motion|haptic|ring
+ T7  get_design_context per component set and per other top-level frame on Components/Foundations
+ T8  get_design_context, base variants on Lifestyles (v1) and v1 features
+ T9  get_design_context, one frame per variant axis per page (dark, Spark, DynType-XXXL, Discreet,
+     375pt, ProMax)
+ T10 the remaining mode variants: status skipped-variant (metadata-only-variant) unless
+     --include-variants is given (budget remains after T11)
+ T11 Future: metadata only, except device-sized frames whose name matches an MVP page name
+ T12 get_screenshot, one per SECTION (or page without sections) containing a frame an analysis
+     file lists under "layout ambiguous", at most 40 in total
+A get_design_context frame with > 400 descendants is expanded to its direct children (recursively);
+a frame whose ledger row is `truncated` is marked failed and re-planned as its children.
+
+Status: done when the ledger has an `ok` row for that node and tool; failed when its latest row is
+`truncated` or `error`; skipped-variant for T10 lines; planned otherwise. Planned epoch: done lines
+carry the epoch of their ledger row; planned/failed lines fill the current epoch's planned capacity
+(cap - reserve - reads already in the epoch) and then later epochs of (cap - reserve) each.
+TOOL_COVERAGE.md: a table row whose first cell names a tool and whose Available/Status column reads
+no/unavailable/absent/blocked/denied removes that tool's lines (listed in the header). Absent file:
+every tool is assumed available and the header says so.
+
+Rules: TIME (ledger timestamp without seconds or offset), LEDGER (malformed ledger row),
+NODES (index problems; exit 2). Exit 0 ok; 1 ledger problems (the plan is still written); 2 no index.
+# exit: 0
+# end: 2026-10-01T16:12:35+1000

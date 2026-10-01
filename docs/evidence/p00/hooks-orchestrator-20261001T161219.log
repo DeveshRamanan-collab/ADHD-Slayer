@@ -1,0 +1,45 @@
+# cmd: bash scripts/test_hooks.sh
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T16:12:19+1000
+AskUserQuestion entries in .claude/settings.json permissions.deny: 1
+[PASS] guard_bash blocks 'sudo -n true' — expected exit 2, got 2 — output: BLOCKED by guard_bash (NEVER list / interactive command): sudo -n true — record a B-nnn or UA-nnn and continue with other work. 
+[PASS] guard_bash passes 'echo sudo-test' — expected exit 0, got 0 — output:  
+[PASS] guard_bash passes 'git status' — expected exit 0, got 0 — output:  
+[PASS] guard_bash blocks push with --force after the branch — expected exit 2, got 2 — output: BLOCKED by guard_bash (NEVER list / interactive command): git push origin main --force — record a B-nnn or UA-nnn and continue with other work. 
+[PASS] guard_bash blocks reset --hard — expected exit 2, got 2 — output: BLOCKED by guard_bash (NEVER list / interactive command): git reset --hard HEAD — record a B-nnn or UA-nnn and continue with other work. 
+[PASS] guard_write blocks docs/design/probe.md — expected exit 2, got 2 — output: BLOCKED by guard_write: docs/design/probe.md is an immutable input (K.3). Write your output elsewhere. 
+[PASS] guard_write blocks research/x.md — expected exit 2, got 2 — output: BLOCKED by guard_write: research/x.md is an immutable input (K.3). Write your output elsewhere. 
+[PASS] guard_write blocks docs/build-spec/x.md (D-010) — expected exit 2, got 2 — output: BLOCKED by guard_write: docs/build-spec/x.md is an immutable input (K.3). Write your output elsewhere. 
+[PASS] guard_write blocks app/ prototype edits (D-010) — expected exit 2, got 2 — output: BLOCKED by guard_write: app/FocusApp/FocusApp/Copy.json is an immutable input (K.3). Write your output elsewhere. 
+[PASS] guard_write blocks placeholder marker in docs/X.md — expected exit 2, got 2 — output: BLOCKED by guard_write: placeholder marker in a deliverable (docs/X.md). Use [UNVERIFIED], [ASSUMPTION-nnn] or N/A (<reason>) instead (F5). 
+[PASS] guard_write passes clean docs/X.md — expected exit 0, got 0 — output:  
+[PASS] guard_write blocks a hand-written cache file — expected exit 2, got 2 — output: BLOCKED by guard_write: the cache and ledger are written only by the Figma hooks (C-9). 
+[PASS] stop_guard blocks with RUN_STATUS RUNNING — expected exit 2, got 2 — output: Run is not complete (RUN_STATUS: RUNNING). Do not end the turn. Re-read docs/PROGRESS.md and continue from NEXT_ACTION: Spot-check and merge briefs P00-scripts-figma, P00-scripts-copy and P00-scripts-gate (scripts/), commit Phase 0, then run scripts/gate.py G0 with a fresh reviewer into docs/gates/G
+[PASS] stop_guard passes with RUN_STATUS COMPLETE — expected exit 0, got 0 — output:  
+[PASS] stop_guard stall detector allows the 5th unchanged stop — expected exit 0, got 0 — output:  
+  stall side effect on fixture: RUN_STATUS: STALLED
+[PASS] session_start prints the state header — expected exit 0, got 0 — output: === RUN STATE (from docs/PROGRESS.md) === RUN_STATUS: COMPLETE CURRENT_PHASE: 0.16 
+[PASS] pre_compact snapshots and logs — expected exit 0, got 0 — output:  
+  pre_compact side effect: 2 COMPACTION line(s) in fixture
+[PASS] stop_failure logs API_ERROR — expected exit 0, got 0 — output:  
+  stop_failure side effect: 66 API_ERROR line(s) in fixture
+[PASS] decline_elicitation blocks and records — expected exit 2, got 2 — output: Elicitation declined: unattended run (OM-1). Recorded in docs/agents/hooks/elicitations.md; the orchestrator merges it into docs/BLOCKERS.md as a B-nnn entry. Continue with other work. 
+  elicitation side effect: 5 record(s) in fixture
+[PASS] guard_bash blocks the optional runner — expected exit 2, got 2 — output: BLOCKED by guard_bash (NEVER list / interactive command): bash scripts/run_planning.sh — record a B-nnn or UA-nnn and continue with other work. 
+[PASS] guard_bash blocks run_planning.sh even for syntax checks (run those as bash -n via a copy) — expected exit 2, got 2 — output: BLOCKED by guard_bash (NEVER list / interactive command): bash -n scripts/run_planning.sh — record a B-nnn or UA-nnn and continue with other work. 
+[PASS] progress_nag never blocks — expected exit 0, got 0 — output:  
+[PASS] subagent_stop blocks a missing output — expected exit 2, got 2 — output: Subagent output incomplete — these outputs listed in your outputs.txt are missing or lack <!-- END OF FILE --> (finish them, or rename to <name>.PARTIAL.md with a final line 'PARTIAL: resume at <heading>' and update outputs.txt): docs/evidence/p00/fixtures/agent/missing.md (missing)  
+[PASS] subagent_stop passes a complete output — expected exit 0, got 0 — output:  
+[PASS] figma_pre blocks use_figma — expected exit 2, got 2 — output: BLOCKED by figma_pre: use_figma modifies Figma (C-3 NEVER list). 
+[PASS] figma_pre ledgers a fixture read (pending row) — expected exit 0, got 0 — output:  
+[PASS] figma_post caches a fixture response and completes the row — expected exit 0, got 0 — output: figma_post: cached /Users/deveshramanan/ADHD Slayer/docs/figma/raw/FIXTUREKEY/get_metadata/9_9.txt (32 bytes, ok) 
+  figma_post side effect: 2 ok row(s) in fixture ledger; cache files: docs/figma/raw/FIXTUREKEY/get_metadata/9_9.txt 
+[PASS] figma_fail classifies a 429 as rate-limit — expected exit 0, got 0 — output: figma_fail: row 2 error class rate-limit — classify per Phase 1.4 (rate-limit → stop reads, work the queue; auth → UA re-authenticate, hourly probe; transport → one retry after 60 s tagged retry). 
+  figma_fail side effect: 1 error row(s), 1 LIMIT-HIT line(s) in fixture ledger
+fixture ledger tail:
+| 2 | 2026-10-01T16:12:21+1000 | orchestrator | get_metadata | FIXTUREKEY | 9:9 | plan | /Users/deveshramanan/ADHD Slayer/docs/figma/raw/FIXTUREKEY/get_metadata/9_9.txt | error rate-limit: 429 too many requests | 32 | 2 | 1 |
+LIMIT-HIT 2026-10-01T16:12:21+1000 rate-limit
+TOTAL FAILS: 0
+# exit: 0
+# end: 2026-10-01T16:12:21+1000

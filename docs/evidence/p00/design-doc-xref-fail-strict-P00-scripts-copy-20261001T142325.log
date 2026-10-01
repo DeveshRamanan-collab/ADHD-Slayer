@@ -1,0 +1,25 @@
+# cmd: python3 scripts/design_doc_xref.py --root docs/evidence/p00/fixtures/P00-scripts-copy/xref --strict
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-copy
+# start: 2026-10-01T14:23:25+1000
+docs/design/handoff.md:8:XREF-UNFOUND: token 'color.accent.calm' not found in nodes.json names, the variables cache or text-layers.csv
+docs/design/handoff.md:14:XREF-UNFOUND: component 'DoseLogButton' not found in nodes.json names, the variables cache or text-layers.csv
+docs/design/handoff.md:19:XREF-UNFOUND: state 'Offline' not found in nodes.json names, the variables cache or text-layers.csv
+SOURCES (docs/design): docs/design/handoff.md
+LOOK-UP: docs/figma/raw/FIXTUREKEY/iphone-v4/nodes.json, docs/figma/raw/FIXTUREKEY/get_variable_defs/83-2.json, docs/figma/text-layers.csv
+
+| # | Name | Kind | Defined at | Found | Where | Match |
+|---|---|---|---|---|---|---|
+| 1 | color.bg.primary | token | docs/design/handoff.md:7 | yes | variables | normalised |
+| 2 | color.accent.calm | token | docs/design/handoff.md:8 | no | not found | none |
+| 3 | spacing/4 | token | docs/design/handoff.md:9 | yes | variables | exact |
+| 4 | TaskCard | component | docs/design/handoff.md:13 | yes | nodes.json | exact |
+| 5 | FocusRing | component | docs/design/handoff.md:14 | yes | nodes.json | case-insensitive |
+| 6 | DoseLogButton | component | docs/design/handoff.md:14 | no | not found | none |
+| 7 | empty | state | docs/design/handoff.md:17 | yes | nodes.json | case-insensitive |
+| 8 | loading | state | docs/design/handoff.md:18 | yes | text-layers.csv | case-insensitive |
+| 9 | Offline | state | docs/design/handoff.md:19 | no | not found | none |
+
+UNFOUND: 3 of 9 (component 1, state 1, token 1)
+# exit: 1
+# end: 2026-10-01T14:23:25+1000

@@ -1,0 +1,1 @@
+Fixture tree for scripts/gate.py REDLINE (P00-scripts-gate). docs/ENGINE_SPEC.md changes RL-4 'daily streaks' to 'weekly streaks'; gate.py G3 --items REDLINE must report it as file:line:REDLINE and exit 1. docs/PRODUCT_SPEC.md is byte-identical to docs/AGENT_RULES.md and must pass.

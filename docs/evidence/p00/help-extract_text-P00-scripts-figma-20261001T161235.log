@@ -1,0 +1,44 @@
+# cmd: python3 scripts/extract_text.py --help
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:35+1000
+usage: extract_text.py [-h] [--root ROOT] fileKey
+
+Extract TEXT layers from cached design context.
+
+positional arguments:
+  fileKey
+
+optional arguments:
+  -h, --help   show this help message and exit
+  --root ROOT  project root (default: current directory)
+
+extract_text.py <fileKey> [--root DIR]
+
+Walks every cached get_design_context response in docs/figma/raw/<fileKey>/get_design_context/
+and extracts the TEXT nodes into docs/figma/text-layers.csv (Phase 3):
+  node_id, page, frame_id, frame_name, text, style_token, is_placeholder_guess
+- Response formats: the MCP content wrapper [{"type":"text","text":...}] around generated markup
+  (JSX/HTML elements carrying data-node-id; the text of an element is attributed to the innermost
+  enclosing element with a data-node-id; paragraphs become line breaks; JSX string expressions
+  such as {`Due 3:00 pm`} are unwrapped; other {expressions} are dropped), or a JSON node tree
+  (type TEXT with characters).
+- page/frame: the requested node of the cache file (file name = node id with ':' as '_') is
+  looked up in nodes.json; the frame is its top-level frame ancestor (or itself).
+- style_token: the design variables named in the text element's classes (var(--name, ...)), or
+  for JSON its text style/bound variables; `none` when the response names none.
+- is_placeholder_guess: text matches Loading|Lorem|Placeholder|\.\.\.|… (case-insensitive) or a
+  mode-sample pattern: {token}, [token], the words sample/example, XX.., 00:00, John/Jane Doe.
+Frames (every top-level frame of every nodes.json) whose text was not extracted are listed in
+docs/figma/text-layers.NOT-EXTRACTED.md with the reason:
+  TRUNCATED              only a *.TRUNCATED.* response (or a metadata-only response) is cached
+  metadata-only-variant  read-plan.md marks the frame skipped-variant (without a read plan: the
+                         name carries a variant axis and a base frame exists)
+  [NOT YET READ]         no response cached (or only some of its children when it was split)
+A frame read as its children counts as extracted when every child (recursively) is extracted.
+
+Rules: FORMAT (response holds neither data-node-id markup nor a JSON node tree), ORPHAN (cached
+node id is in no nodes.json), NODES (index problems; exit 2).
+Exit 0 ok; 1 FORMAT/ORPHAN problems (outputs still written); 2 no usable index.
+# exit: 0
+# end: 2026-10-01T16:12:35+1000

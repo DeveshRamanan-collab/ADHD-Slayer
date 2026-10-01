@@ -43,7 +43,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | Transport: claude.ai connector, remote `https://mcp.figma.com/mcp` (no desktop app needed) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | Provisional design file key `gLuoHFbiiUGajAUpluWXOW` (prompts/figma_urls.md); one root `get_metadata` read tagged lock-check, ledgered (row 1) and cached by the hooks | OK | [EV: docs/evidence/p00/figma-tools/get_metadata-root-orchestrator-20261001T135045.md] | N/A (nothing to fix) |
 | Rate limits page: Education plans 200 tool calls per day, 10 per minute; exempt `add_code_connect_map`, `create_new_file`, `whoami`, verified 2026-10-01 | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] | N/A (nothing to fix) |
-| REST route (`FIGMA_TOKEN`) | MISSING | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | Optional — UA-007 |
+| REST route (`FIGMA_TOKEN`) | MISSING | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | Optional — UA-007; B-005 |
 | FigJam flows board | MISSING | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | None needed (B-004) |
 
 ## 5. Git and GitHub
@@ -67,7 +67,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | Simulator runtimes Ready: iOS 26.5, iOS 27.0, watchOS 27.0 | OK | [EV: docs/evidence/p00/preflight-sims-orchestrator-20261001T135104.log] | N/A (nothing to fix) |
 | iPhone Pro-class simulator (iPhone 17 Pro) and paired Watch simulators (Series 12 46 mm, Series 12 42 mm, Ultra 4) | OK | [EV: docs/evidence/p00/preflight-sims-orchestrator-20261001T135104.log] | N/A (nothing to fix) |
 | Code-signing identity "Apple Development" with team W8V95U7AXJ (paid or Personal Team not readable) | UNVERIFIABLE | [EV: docs/evidence/p00/preflight-apple-orchestrator-20261001T135002.log] | UA-002 |
-| Physical iPhone and Apple Watch visible to `xcrun devicectl` | MISSING | [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log] | UA-003 |
+| Physical iPhone and Apple Watch visible to `xcrun devicectl` | MISSING | [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log] | UA-003; B-006 |
 
 ## 7. Xcode MCP server
 | Capability | Status | Evidence | Fix in plain English |
@@ -79,7 +79,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | Capability | Status | Evidence | Fix in plain English |
 |---|---|---|---|
 | Homebrew 7.0.7, npm 11.13.0, node v24.16.0, Python 3.9.6, `jq-1.7.1-apple` | OK | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
-| `xcodegen`, `swiftlint`, `swiftformat` not installed (build-phase tasks; not installed now) | MISSING | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | None now: installed in MS-00 by TASK rows |
+| `xcodegen`, `swiftlint`, `swiftformat` not installed (build-phase tasks; not installed now) | MISSING | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | None now: installed in MS-00 by TASK rows; B-007 |
 
 ## 9. Web research routes (one fetch each, saved with scripts/fetch_excerpt.py)
 | Route | Status | Evidence | Fix in plain English |
@@ -93,15 +93,15 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | accc.gov.au (HTTP 403) | UNVERIFIABLE | [EV: docs/evidence/sources/FACT-route-accc.md] | None (B-003) |
 | code.claude.com docs (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-route-claude-docs.md] | N/A (nothing to fix) |
 | developers.figma.com (HTTP 200) | OK | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] | N/A (nothing to fix) |
-| Claude in Chrome / built-in browser: not connected in this session (no browser tools in the tool list) | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed |
+| Claude in Chrome / built-in browser: not connected in this session (no browser tools in the tool list) | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed; B-008 |
 
 ## 10. Subagents, connectors and one-time prompts
 | Capability | Status | Evidence | Fix in plain English |
 |---|---|---|---|
 | One trivial subagent spawned and returned `SUBAGENT-OK` | OK | [EV: docs/evidence/p00/subagent-probe-orchestrator-20261001T135318.md] | N/A (nothing to fix) |
 | Claude Docs connector "claude.ai Claude Docs" connected (main design document read attempted in Phase 2) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
-| GitHub MCP (`plugin:engineering:github`) failed to connect; `gh` CLI is the GitHub route | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed |
-| iOS runtime verification tool `ansight`: CLI not on PATH | MISSING | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | None needed (Xcode MCP and XCUITest are primary) |
+| GitHub MCP (`plugin:engineering:github`) failed to connect; `gh` CLI is the GitHub route | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed; B-009 |
+| iOS runtime verification tool `ansight`: CLI not on PATH | MISSING | [EV: docs/evidence/p00/preflight-pkg-orchestrator-20261001T135005.log] | None needed (Xcode MCP and XCUITest are primary); B-010 |
 | One-time prompts deliberately triggered (read of `~/.claude/settings.json` keys, WebFetch of new domains, subagent spawn, Figma `whoami`, `git push --dry-run`): no dialog appeared | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 
 ## 11. Things only Devesh can do (status as observed)
@@ -109,7 +109,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 |---|---|---|---|
 | Apple Account signed into Xcode with a development identity | OK | [EV: docs/evidence/p00/preflight-apple-orchestrator-20261001T135002.log] | N/A (nothing to fix) |
 | Apple Developer Program membership type | UNVERIFIABLE | [EV: docs/evidence/p00/preflight-apple-orchestrator-20261001T135002.log] | UA-002 (needed by MS-11) |
-| iPhone and Watch paired, trusted, Developer Mode on | MISSING | [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log] | UA-003 (needed by MS-05) |
+| iPhone and Watch paired, trusted, Developer Mode on | MISSING | [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log] | UA-003 (needed by MS-05); B-006 |
 | One prior signed Run to the device (keychain "Always Allow") | UNVERIFIABLE | [EV: docs/evidence/p00/preflight-devices-orchestrator-20261001T135104.log] | Covered by UA-003 |
 | App Store Connect agreements accepted | UNVERIFIABLE | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] | UA-004 (needed by MS-11) |
 | Usage-credits decision (`hasExtraUsageEnabled` key exists; value not recorded) | UNVERIFIABLE | [EV: docs/evidence/p00/login-type-orchestrator-20261001T135518.log] | Devesh decides billing; nothing to do for this run |

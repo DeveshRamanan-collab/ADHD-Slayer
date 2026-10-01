@@ -1,0 +1,7 @@
+# cmd: python3 scripts/figma_read_plan.py FIXTUREFILEKEY --root docs/evidence/p00/fixtures/P00-scripts-figma
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: P00-scripts-figma
+# start: 2026-10-01T16:12:27+1000
+figma_read_plan: wrote docs/evidence/p00/fixtures/P00-scripts-figma/docs/figma/read-plan.md: 18 lines · planned 11 · done 5 · failed 1 · skipped-variant 1 · ledger problems 0
+# exit: 0
+# end: 2026-10-01T16:12:27+1000
