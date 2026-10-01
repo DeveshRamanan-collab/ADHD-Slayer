@@ -1,0 +1,15 @@
+# cmd: python3 scripts/claims.py docs/PREFLIGHT.md --sample
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: R-G0-2
+# start: 2026-10-01T16:24:14+1000
+# claims=16 step=2
+2	4	node	SAMPLE	Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · Statuses: OK / MISSING / UNVERIFIABLE. Anything MISSING is also a `B-` entry and, w
+4	21	version	SAMPLE	| Claude Code version `2.1.286 (Claude Code)` | OK | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
+6	43	url	SAMPLE	| Transport: claude.ai connector, remote `https://mcp.figma.com/mcp` (no desktop app needed) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-2026100
+8	52	version	SAMPLE	| `git version 2.54.0 (Apple Git-157)`; `user.name` and `user.email` already set | OK | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] |
+10	60	version	SAMPLE	| `Xcode 27.0` build `27A266a` (≥ 26.5; preferred major); `XCODE_MAJOR` = 27 → Device Hub vocabulary | OK | [EV: docs/evidence/p00/preflight-apple-orchestrator-
+12	63	version	SAMPLE	| `Apple Swift version 6.4`; macOS 27.2 (build 26B5091g) | OK | [EV: docs/evidence/p00/preflight-apple-orchestrator-20261001T135002.log] | N/A (nothing to fix) 
+14	67	version	SAMPLE	| Simulator runtimes Ready: iOS 26.5, iOS 27.0, watchOS 27.0 | OK | [EV: docs/evidence/p00/preflight-sims-orchestrator-20261001T135104.log] | N/A (nothing to fi
+16	88	version	SAMPLE	| App Store Review Guidelines (text contains `1.4.2`) | OK | [EV: docs/evidence/sources/FACT-route-asrg.md] (FACT-016) | N/A (nothing to fix) |
+# exit: 0
+# end: 2026-10-01T16:24:14+1000

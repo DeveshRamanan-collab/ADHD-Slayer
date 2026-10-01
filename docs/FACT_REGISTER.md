@@ -6,7 +6,7 @@ Read `docs/AGENT_RULES.md` before any work; its rules bind you. Started in Phase
 | **FACT-001** | Figma daily read limit | 200 | docs/figma/TOOL_COVERAGE.md | Education read limit per day | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] |
 | **FACT-002** | Figma per-minute read limit | 10 | docs/figma/TOOL_COVERAGE.md | Education read limit per minute | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] |
 | **FACT-003** | Figma rate-limit exempt tools | add_code_connect_map, create_new_file, whoami | docs/figma/TOOL_COVERAGE.md | exempt tools | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] |
-| **FACT-004** | run read cap | 150 | docs/figma/TOOL_COVERAGE.md | read cap per rolling 24 h | [EV: docs/evidence/sources/FACT-figma-rate-limits.md] |
+| **FACT-004** | run read cap | 150 | docs/figma/TOOL_COVERAGE.md | read cap per rolling 24 h | docs/AGENT_RULES.md C-9 (run rule, not a Figma figure) |
 | **FACT-005** | Figma design file key | gLuoHFbiiUGajAUpluWXOW | docs/figma/TOOL_COVERAGE.md | design file key | [EV: docs/evidence/p00/figma-key-discovery-orchestrator-20261001T141201.log] |
 | **FACT-006** | Figma tool index | developers.figma.com tools-and-prompts page lists the read tools used | docs/figma/TOOL_COVERAGE.md | Figma tool list | [EV: docs/evidence/sources/FACT-figma-tools.md] |
 | **FACT-007** | Claude Code installed version | 2.1.286 | docs/PREFLIGHT.md | claude --version | [EV: docs/evidence/p00/preflight-env-orchestrator-20261001T135000.log] |

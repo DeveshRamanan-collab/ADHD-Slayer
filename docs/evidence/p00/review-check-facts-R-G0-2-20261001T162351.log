@@ -1,0 +1,7 @@
+# cmd: python3 scripts/check_facts.py
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: R-G0-2
+# start: 2026-10-01T16:23:51+1000
+check_facts: 20 facts, 15 files scanned, 0 mismatches
+# exit: 0
+# end: 2026-10-01T16:23:52+1000

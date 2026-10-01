@@ -51,7 +51,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 |---|---|---|---|
 | `git version 2.54.0 (Apple Git-157)`; `user.name` and `user.email` already set | OK | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
 | `gh version 2.102.0`; logged in as `DeveshRamanan-collab`; token scopes include `repo` (token masked) | OK | [EV: docs/evidence/p00/preflight-git-orchestrator-20261001T135000.log] | N/A (nothing to fix) |
-| `git push --dry-run` after the Phase 0 commit | OK | [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T141127.log] | N/A (nothing to fix) |
+| `git push --dry-run` after the Phase 0 commit (558feb3) | OK | [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T161534.log] | N/A (nothing to fix) |
 
 ## 6. Apple toolchain
 | Capability | Status | Evidence | Fix in plain English |
@@ -102,7 +102,7 @@ Written: 2026-10-01T13:56:00+1000 · Orchestrator: main Claude Code session · S
 | Claude Docs connector "claude.ai Claude Docs" connected (main design document read attempted in Phase 2) | OK | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | N/A (nothing to fix) |
 | GitHub MCP (`plugin:engineering:github`) failed to connect; `gh` CLI is the GitHub route | MISSING | [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log] | None needed; B-009 |
 | iOS runtime verification tool `ansight`: CLI not on PATH | MISSING | [EV: docs/evidence/p00/ansight-presence-orchestrator-20261001T162100.log] | None needed (Xcode MCP and XCUITest are primary); B-010 |
-| One-time prompts deliberately triggered (read of `~/.claude/settings.json` keys, WebFetch of new domains, subagent spawn, Figma `whoami`, `git push --dry-run`): no dialog appeared (each call returned its result in bypassPermissions mode) | OK | settings keys [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log]; WebSearch/WebFetch [EV: docs/evidence/p00/websearch-probe-orchestrator-20261001T140000.md]; subagent [EV: docs/evidence/p00/subagent-probe-orchestrator-20261001T135318.md]; whoami [EV: docs/evidence/p00/figma-tools/whoami-orchestrator-20261001T135040.md]; push dry run [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T161534.log]; mode [EV: docs/evidence/p00/permission-mode-orchestrator-20261001T135513.log] | N/A (nothing to fix) |
+| One-time prompts deliberately triggered (read of `~/.claude/settings.json` keys, WebFetch of new domains, subagent spawn, Figma `whoami`, `git push --dry-run`): no dialog appeared (each call returned its result in bypassPermissions mode) | OK | settings keys [EV: docs/evidence/p00/preflight-config-orchestrator-20261001T135005.log]; WebSearch [EV: docs/evidence/p00/websearch-probe-orchestrator-20261001T140000.md]; WebFetch [EV: docs/evidence/p00/webfetch-probe-orchestrator-20261001T162600.md]; subagent [EV: docs/evidence/p00/subagent-probe-orchestrator-20261001T135318.md]; whoami [EV: docs/evidence/p00/figma-tools/whoami-orchestrator-20261001T135040.md]; push dry run [EV: docs/evidence/p00/push-dry-run-orchestrator-20261001T161534.log]; mode [EV: docs/evidence/p00/permission-mode-orchestrator-20261001T135513.log] | N/A (nothing to fix) |
 
 ## 11. Things only Devesh can do (status as observed)
 | Item | Status | Evidence | Fix in plain English |

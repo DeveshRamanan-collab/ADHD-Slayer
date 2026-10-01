@@ -170,4 +170,14 @@ Reversible: YES
 Related: D-015
 Evidence: none
 
+## D-018 — G0 loop fixes: hand-edited inventory rows, register source for the run cap, gate logs committed before each gate run
+Date: 2026-10-01T16:26:09+1000 · Phase/MS: G0 · Decided by: orchestrator · Status: ADOPTED
+Context: Reviewers R-G0-1 and R-G0-2 (docs/agents/R-G0-1/notes.md, docs/agents/R-G0-2/notes.md) found the inventory missing the K.2 bullet-4 row, an untracked gate log making the tree dirty, and evidence gaps in docs/PREFLIGHT.md.
+Decision: (1) The two inventory rows are maintained by hand (noted on docs/SOURCE_INVENTORY.md line 2); scripts/source_inventory.py is not re-run on that file. (2) FACT-004 cites rule C-9. (3) scripts/gate.py ignores only the in-flight run_logged log of its own run; every earlier gate and review log is committed before the next gate run. (4) One WebFetch harmless call set is recorded for the one-time-prompt row.
+Alternatives rejected: (1) Teach gate.py to ignore every gate or review log — hides real dirt.
+Consequences: G0 loop 3 runs on a clean tree.
+Reversible: YES
+Related: D-017
+Evidence: none
+
 <!-- END OF FILE -->

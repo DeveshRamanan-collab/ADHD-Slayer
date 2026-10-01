@@ -1,5 +1,5 @@
 # SOURCE INVENTORY — every input document (Phase 0.1 item 2)
-Generated: 2026-10-01T13:53:39+1000 by scripts/source_inventory.py · Inputs are immutable (K.3).
+Generated: 2026-10-01T13:53:39+1000 by scripts/source_inventory.py · Inputs are immutable (K.3). Rows `SPEC_CHECKLIST.md` and the Claude Docs artefact in the expected-inputs table were edited by the orchestrator at G0 loop 2 (D-018); re-running the script would drop them, so the script is not re-run on this file.
 
 ## Expected inputs (K.2) — present or missing
 | Expected path | Status | SHA-256 (first 16) | Substitute per prompts/SOURCE_MAP.md |
