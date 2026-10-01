@@ -120,4 +120,34 @@ Reversible: YES (Devesh edits .claude/settings.local.json)
 Related: D-006
 Evidence: none
 
+## D-013 — Figma read tools outside the hook matchers are never called
+Date: 2026-10-01T14:18:32+1000 · Phase/MS: 0.7 · Decided by: orchestrator · Status: ADOPTED
+Context: The session tool list (docs/evidence/p00/figma-tools/tool-list-orchestrator-20261001T141727.md) contains read tools that .claude/settings.json does not route through figma_pre/figma_post (get_code_connect_suggestions, get_context_for_code_connect, list_file_components_for_code_connect, get_shader, list_file_shaders, list_shaders, get_generative_plugin, list_generative_plugins). Figma counts every data-reading tool against the limit.
+Decision: Never call them in the planning run; docs/figma/TOOL_COVERAGE.md lists them as unused. The hook matchers stay unchanged (no hook edit needed for a tool that is never called).
+Alternatives rejected: (1) Extend the figma_pre block list — changes tested hooks before G0 for no benefit.
+Consequences: All counted reads go through the ledgered tools only.
+Reversible: YES
+Related: D-009
+Evidence: none
+
+## D-014 — Session 1 ended on purpose by Devesh; resumed with Variant B; D-012 stands
+Date: 2026-10-01T14:18:32+1000 · Phase/MS: 0.16 · Decided by: Devesh (recorded by orchestrator) · Status: ADOPTED
+Context: Devesh closed session 1 on 1 Oct 2026 because the user-level plugin Agentic SDLC (id agentic-sdlc@synced), which is not part of this project, has a PreToolUse hook asking for a human "Yes" before every git commit, git tag and git push even in bypassPermissions mode, which would stall the run while he is away. It is turned off for this folder only in .claude/settings.local.json ("enabledPlugins": {"agentic-sdlc@synced": false}); the file is git-ignored and left exactly as it is. Session 2 resumed with prompts/03_RESUME_PROMPT.md Variant B.
+Decision: Keep D-012; leave .claude/settings.local.json untouched; record the session end reason as "Devesh closed" in docs/PROGRESS.md Sessions.
+Alternatives rejected: (1) Edit or commit settings.local.json — Devesh asked for it to be left as it is; reconfiguring plugins is on the NEVER list.
+Consequences: Git commits, tags and pushes in this run proceed without a confirmation prompt.
+Reversible: YES (Devesh edits .claude/settings.local.json)
+Related: D-012, D-006
+Evidence: none
+
+## D-015 — Resume recovery: missing Phase 0.16 scripts re-dispatched as three briefs; scripts end with a comment end marker
+Date: 2026-10-01T14:18:32+1000 · Phase/MS: 0.16 · Decided by: orchestrator · Status: ADOPTED
+Context: After the abrupt stop, docs/agents/ held no briefs or outputs.txt; scripts/ held assemble_docs, check_facts, check_names and check_tasks (spot-checked, [EV: docs/evidence/p00/spotcheck-P00-scripts-generic-names-orchestrator-20261001T141640.log]) but lacked validate_analysis, figma_reconcile, figma_fingerprint, figma_read_plan, extract_text, copy_scan, au_spelling, trace, design_doc_xref, gate.py and run_planning.sh required by 0.16 item 2; G0 cannot run without gate.py.
+Decision: Re-dispatch as briefs P00-scripts-figma (five Figma scripts), P00-scripts-copy (copy_scan, au_spelling, trace, design_doc_xref) and P00-scripts-gate (gate.py, run_planning.sh). Each script ends with the comment line "# <!-- END OF FILE -->" so the SubagentStop hook can check it. This supersedes the timing in D-008 only to the extent that the Figma scripts are written now against the one cached response format and re-checked after the first page metadata is cached.
+Alternatives rejected: (1) Run G0 without gate.py — G0 requires scripts/gate.py G0. (2) One agent for all eleven — a cut mid-burst would lose all of it (OM-7.9).
+Consequences: G0 runs after the three briefs are spot-checked and merged.
+Reversible: YES
+Related: D-008, D-011
+Evidence: none
+
 <!-- END OF FILE -->

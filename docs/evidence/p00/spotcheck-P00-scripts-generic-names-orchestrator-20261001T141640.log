@@ -1,0 +1,8 @@
+# cmd: python3 scripts/check_names.py --root docs/evidence/p00/fixtures/spotcheck-P00-scripts-generic
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:16:40+1000
+docs/ARCHITECTURE.md:3:NAME: ARCH-0001 name 'Calendar' collides with reserved 'Calendar' -> use 'PlannerCalendar'
+check_names: 2 definitions, 1 reserved names, 1 collisions
+# exit: 1
+# end: 2026-10-01T14:16:41+1000

@@ -1,0 +1,8 @@
+# cmd: python3 scripts/check_facts.py --root docs/evidence/p00/fixtures/spotcheck-P00-scripts-generic
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:16:31+1000
+docs/ARCHITECTURE.md:2:FACT: FACT-001 'minimum iOS' states '25.0' but canonical is '26.0' (owner docs/ARCHITECTURE.md)
+check_facts: 1 facts, 1 files scanned, 1 mismatches
+# exit: 1
+# end: 2026-10-01T14:16:31+1000

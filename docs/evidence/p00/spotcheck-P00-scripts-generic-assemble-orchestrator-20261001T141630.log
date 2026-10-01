@@ -1,0 +1,8 @@
+# cmd: python3 scripts/assemble_docs.py DEMO --root docs/evidence/p00/fixtures/spotcheck-P00-scripts-generic
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:16:30+1000
+order: 01-a.md, 02-b.md
+assemble_docs: wrote /Users/deveshramanan/ADHD Slayer/docs/evidence/p00/fixtures/spotcheck-P00-scripts-generic/docs/DEMO.md (2 parts, 7 lines)
+# exit: 0
+# end: 2026-10-01T14:16:30+1000

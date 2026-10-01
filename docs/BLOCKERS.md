@@ -38,7 +38,7 @@ Error class (Figma): n/a
 Why it blocks: Phase 11 needs TGA guidance text as a primary source.
 Work continued without it: legislation.gov.au and oaic.gov.au return HTTP 200 (docs/evidence/sources/FACT-route-legislation.md, FACT-route-oaic.md); Phase 11 retries TGA through WebFetch/WebSearch on specific guidance and PDF URLs, and cites the Act and the Excluded Goods Determination on legislation.gov.au as the primary source.
 Fix in plain English (for Devesh if applicable): none — success looks like: N/A (orchestrator retries in Phase 11).
-Retry log: none yet
+Retry log: 2026-10-01T14:18:37+1000 resume retry (curl): tga 404, accc 403, austlii 403 — still OPEN [EV: docs/evidence/p00/b003-retry-orchestrator-20261001T141837.log]
 Effect on downstream work if never resolved: TGA guidance claims are tagged [UNVERIFIED] and listed for lawyer review.
 
 ## B-004 — No FigJam flows board exists for this project

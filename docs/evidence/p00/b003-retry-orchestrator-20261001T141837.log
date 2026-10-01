@@ -1,0 +1,9 @@
+# cmd: bash -c for u in https://www.tga.gov.au/resources/guidance/excluded-software https://www.accc.gov.au/ https://www.austlii.edu.au/; do printf "%s " "$u"; curl -s -o /dev/null -m 30 -A "Mozilla/5.0" -w "%{http_code}\n" "$u"; done
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:18:37+1000
+https://www.tga.gov.au/resources/guidance/excluded-software 404
+https://www.accc.gov.au/ 403
+https://www.austlii.edu.au/ 403
+# exit: 0
+# end: 2026-10-01T14:18:38+1000

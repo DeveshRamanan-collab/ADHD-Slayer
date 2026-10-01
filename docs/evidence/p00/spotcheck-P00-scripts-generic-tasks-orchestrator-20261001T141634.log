@@ -1,0 +1,12 @@
+# cmd: python3 scripts/check_tasks.py --root docs/evidence/p00/fixtures/spotcheck-P00-scripts-generic
+# cwd: /Users/deveshramanan/ADHD Slayer
+# agent: orchestrator
+# start: 2026-10-01T14:16:34+1000
+docs/TASKS.md:3:CRIT: TASK-0001 completion criterion is not quoted
+docs/TASKS.md:3:CYCLE: dependency cycle: TASK-0001 -> TASK-0002 -> TASK-0001
+docs/TASKS.md:4:EST: estimate '3 days' (F30; write platform durations in backticks)
+docs/TASKS.md:4:SIZE: TASK-0002 size '3 days' not S/M/L
+docs/TASKS.md:4:CRIT: TASK-0002 completion criterion is not quoted
+check_tasks: 2 tasks, 1 milestones defined, 5 failures
+# exit: 1
+# end: 2026-10-01T14:16:34+1000
